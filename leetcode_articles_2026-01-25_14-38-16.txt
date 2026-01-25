@@ -1,0 +1,368 @@
+LeetCode Discuss - Latest 10 Articles
+Fetched on: 2026-01-25 20:08:16 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+ID: 7523859
+Title: Interview Experience: Oracle Cloud Infrastructure (OCI) | IC3 Role
+Posted: 2026-01-25 20:00:44 IST
+URL: https://leetcode.com/discuss/general-discussion/7523859
+View Count: 0
+Comment Count: 0
+Top Level Comments: 0
+
+--- Post Details ---
+Post ID: 10845202
+Creation Date: 2026-01-25 20:00:44 IST
+Vote Count: 0
+Vote Status: 0
+Status: Open
+Is Hidden: false
+Author Is Moderator: false
+Is Own Post: false
+
+--- Full Content ---
+Recently I got chance to interview with OCI Networking Team.
+**Round 1: Screening**
+      Coding:
+        Reverse a linked list (Write end-to-end code).
+        Find the intersection point of two linked lists.
+    Networking & Debugging:
+        Basic networking and debugging questions.
+        Scenario Based : Packet drop debugging. Given a three-router topology (R1→R2→R3), 
+        if a packet is not received at destination R3, how would you debug this scenario and identify where the packet is being dropped?
+
+**Loop Round 1**
+    Coding:
+        A warehouse manager needs to create a shipment to fill a truck.    All products are in identical-sized boxes, but each product has a different number of units per box.
+Given the number of boxes the truck can hold, determine the maximum number of units of any mix of products that can be shipped.
+Example 1
+boxes = [1, 2, 3] (boxes available for each product)
+unitsPerBox = [3, 2, 1] (units per box for each product)
+truckSize = 3 (maximum number of boxes the truck can hold)
+Output: 7
+        Linked List: Given a linked list where each node contains either 0 or 1, return the equivalent decimal value.
+    **Loop Round 2:** Systems Design & Networking
+         LLD/HLD: Design a Logging File System.
+                  Design an LRU Cache and explain the choice of data structures used.
+    Networking:
+        Explain how Ping works in detail.
+        Basic networking and scenario-based questions.
+        Project: Detailed discussion regarding previous project work.
+
+**Loop Round 3:** Architecture & System Design
+       Project Discussion: Explanation of previous project architecture.
+       System Design: Questions focused on latency and scalability.
+       Coding: Find the intersection point of two linked lists without using any extra space.
+
+**Round 4: Managerial**
+       Project & Networking: Discussion on current projects and basic networking concepts.
+       System Design: Design a Cache System.
+       Documentation: Provide an Estimation of Effort (EoE) and a rough Specification Document for the designed system.
+
+
+Waiting for Update for result .
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+ID: 7523837
+Title: Interesting Coding questions for Online assessments
+Posted: 2026-01-25 19:54:37 IST
+URL: https://leetcode.com/discuss/general-discussion/7523837
+View Count: 0
+Comment Count: 0
+Top Level Comments: 0
+
+--- Post Details ---
+Post ID: 10845173
+Creation Date: 2026-01-25 19:54:37 IST
+Vote Count: 0
+Vote Status: 0
+Status: Open
+Is Hidden: false
+Author Is Moderator: false
+Is Own Post: false
+
+--- Full Content ---
+New Questions from Greedy, Number Theory and DP on Trees
+
+![Screenshot 2025-10-12 184701.png](https://assets.leetcode.com/users/images/96ca7e47-6914-4f38-906d-96f03c4e0e50_1760275042.666173.png)
+![meesho dp on trees.png](https://assets.leetcode.com/users/images/78cbe8e2-e1c2-41fc-a2e6-500dccacfd6a_1758248751.1402304.png)
+![Screenshot 2025-12-24 164447.png](https://assets.leetcode.com/users/images/598051a0-9d30-4bae-b483-e6fd314606ed_1766812653.302619.png)
+![Screenshot 2025-12-27 104830.png](https://assets.leetcode.com/users/images/f5afe926-8d75-4d90-8b53-bd4aca8fb36c_1766812717.5060403.png)
+![snowflake greedy.jpg](https://assets.leetcode.com/users/images/83c24fa7-0599-4167-beed-8ca03ee60634_1758248772.554372.jpeg)
+![amazon greedy.jpg](https://assets.leetcode.com/users/images/658b0ab8-dbf8-424c-af6a-6dfa70392b2b_1758248737.2027826.jpeg)
+![Screenshot 2025-09-06 180810.png](https://assets.leetcode.com/users/images/b4b44f71-dc2f-42db-8666-8e6924dab1f5_1757162308.7311661.png)
+![Screenshot 2025-09-06 180127.png](https://assets.leetcode.com/users/images/4b197e63-64f0-4464-98ca-a28461b29fe5_1757162021.1666522.png)
+
+Solutions
+[https://youtu.be/0uTJ1OSVPEU](-12)
+[https://youtu.be/ZjDXCLKJ1kw](-11)
+[https://youtu.be/FP55IkXhOJQ](-2)
+[https://youtu.be/KcHOeea7giw](-1.11010)
+[https://youtu.be/IT-qlOU4kZA](-1929)
+[https://youtu.be/Xne41X_QUyk](0)
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+ID: 7523785
+Title: Slice work culture review ?
+Posted: 2026-01-25 19:38:34 IST
+URL: https://leetcode.com/discuss/general-discussion/7523785
+View Count: 0
+Comment Count: 0
+Top Level Comments: 0
+
+--- Post Details ---
+Post ID: 10845097
+Creation Date: 2026-01-25 19:38:34 IST
+Vote Count: 0
+Vote Status: 0
+Status: Open
+Is Hidden: false
+Author Is Moderator: false
+Is Own Post: false
+
+--- Full Content ---
+Hi,
+I just got an offer from Slice for SDE - 2 role, I wanted know about the work culture, 
+    1. How is the WLB ?
+2. How are appraisals ?
+3. Does the company value employees ?
+4. Do they do layoffs and is the company stable ?
+    5. Do they give work from home ?
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+ID: 7523777
+Title: LeetCode Weekly Contest 486 Discussion and Solution - Hey Saintty
+Posted: 2026-01-25 19:37:04 IST
+URL: https://leetcode.com/discuss/general-discussion/7523777
+View Count: 0
+Comment Count: 0
+Top Level Comments: 0
+
+--- Post Details ---
+Post ID: 10845088
+Creation Date: 2026-01-25 19:37:04 IST
+Vote Count: 0
+Vote Status: 0
+Status: Open
+Is Hidden: false
+Author Is Moderator: false
+Is Own Post: false
+
+--- Full Content ---
+LeetCode Weekly Contest 486 started on a calm winter Sunday with good energy and focus. I managed to solve **3 out of 4 problems** in **42 minutes**, without any wrong submissions, and initially felt quite satisfied with my performance.
+
+In this blog, I’ve broken down each problem I attempted, explained my thought process, and shared the approaches and solutions I used. One of the problems required careful observation, while another needed a shift in thinking to avoid unnecessary complexity. I’ve also talked about where I struggled and why the hard problem remained unsolved.
+
+What made this contest interesting — and a bit confusing — was the final ranking. Even after solving three problems, the rank didn’t reflect what I expected. I’ve shared my honest thoughts about competition levels, contest fairness, and how it feels when effort doesn’t translate into results.
+
+If you regularly participate in LeetCode contests or are preparing for interviews, this experience might feel very relatable. I’ve kept the blog real, reflective, and focused on learning.
+
+👉 **Read the full blog here:**  
+[https://www.heysainty.com/blog/leetcode-weekly-contest-486](https://www.heysainty.com/blog/leetcode-weekly-contest-486)
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+ID: 7523715
+Title: Looking for Senior Engineer Who Can Guide me ( 3 YOE )
+Posted: 2026-01-25 19:11:42 IST
+URL: https://leetcode.com/discuss/general-discussion/7523715
+View Count: 0
+Comment Count: 0
+Top Level Comments: 0
+
+--- Post Details ---
+Post ID: 10844997
+Creation Date: 2026-01-25 19:11:42 IST
+Vote Count: 0
+Vote Status: 0
+Status: Open
+Is Hidden: false
+Author Is Moderator: false
+Is Own Post: false
+
+--- Full Content ---
+I am decent in DSA/CP but feeling like not getting the kind of work I was expecting from the corporate. Feeling low and Dull but I know if I keep working I would be successful one day.
+
+I have seen many of my friends who have similar skillset in big MNC , I am not getting even the decent work to be proud of myself. Hence looking for a mentor who knows how corporate work, can guide me what I am doing wrong. 
+
+How can I create opportunities outside my work. be updated with latest thing going in dev work ( stay employable even if my jobs go away). Till Placement it was a clear way we knew in which direction I need to put effort what I am supposed to do , finding path a bit unclear and hence need mentorship / community who have right mindset and will to work hard and smart as well.
+
+About me :
+3 YOE ( Experience in a Fintech Domain )
+Development in C++ , Java 
+good rated on cp platforms , can make algorithms 
+Lack the starup skills or making something of my own 
+Bit Interest in Finance 
+Not Street Smart 
+
+I am inspired by friends whom I had in jaipur , during my jee preparation time and looking for such crowd around me , want to become a sucessful developer who feels meaning in his work and can sleep peacefully ( currently not getting such opportunity , hence need guidance/ acoountiblity partner ).
+
+Making decent money , but not feeling the growth , dont have skillset that I would be employed the very next day
+
+Thinking to discuss :
+Leetcode Contest 
+System Design / Good Github Issues which we can solve each month 
+Daily Job Apply 
+A good friend who listens to me , guides to me , and is excited about this domain.
+
+
+Form : 
+
+https://docs.google.com/forms/d/e/1FAIpQLSfvdGJ64Fi18rg8RE_WAM3iIX7vTYc_hWdBPxTFqxVsEHAydw/viewform
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+ID: 7523677
+Title: Got into Google L4 after solving close to 10k problems.
+Posted: 2026-01-25 18:59:57 IST
+URL: https://leetcode.com/discuss/general-discussion/7523677
+View Count: 0
+Comment Count: 10
+Top Level Comments: 6
+
+--- Post Details ---
+Post ID: 10844942
+Creation Date: 2026-01-25 18:59:57 IST
+Vote Count: 0
+Vote Status: 0
+Status: Open
+Is Hidden: false
+Author Is Moderator: false
+Is Own Post: false
+
+--- Full Content ---
+Hi guys, I solved like 2600 problems on leetcode, over 3000 on codeforces and after solving close to 10k problems in like 8 years, I got into Google L4. I was top 200-250 in India on CC, CF, LC, and many other places at peak rating. I was solving problems since 2nd semester so this took very long time for me. I am feeling very happy that my dream came true. There are lot of things to achieve in life, but this is a very very very good starting point. Last time I put a sad type status here, and it showed up on Linkedin since many influencers took screenshot before I deleted it. I was seriously unhappy with life to be very honest. This actually makes me happier, and keep trying, maybe life has way better plans for you, that you cant see for now. Maybe a lot good things are about to happen soon, you just can't see it yet. Don't lose hope, maybe something big, very very good will happen very soon. 
+I got lots of words of appreciation from others on leetcode that day since I did not put my account anonymously and the wording of the post seemed like I felt like a failure and nothing was going on in my life that was worth it, and I am grateful for your kindness and everything.
+
+Thanks, good days are coming. Don't give up and keep working.
+
+Bye!
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+ID: 7523624
+Title: Microsoft Careers Resume Manager
+Posted: 2026-01-25 18:37:29 IST
+URL: https://leetcode.com/discuss/general-discussion/7523624
+View Count: 0
+Comment Count: 0
+Top Level Comments: 0
+
+--- Post Details ---
+Post ID: 10844870
+Creation Date: 2026-01-25 18:37:29 IST
+Vote Count: 0
+Vote Status: 0
+Status: Open
+Is Hidden: false
+Author Is Moderator: false
+Is Own Post: false
+
+--- Full Content ---
+Guys, can I add my updated resume after application to a position in microsoft in the resume manager??
+Can we keep more than one resume there or should i remove the previous ones? 
+And also if i add an updated one, will they check the previous one which i submitted on application or the updated one?
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+ID: 7523566
+Title: DSA Instructor Role
+Posted: 2026-01-25 18:15:53 IST
+URL: https://leetcode.com/discuss/general-discussion/7523566
+View Count: 0
+Comment Count: 1
+Top Level Comments: 1
+
+--- Post Details ---
+Post ID: 10844792
+Creation Date: 2026-01-25 18:15:53 IST
+Vote Count: 0
+Vote Status: 0
+Status: Open
+Is Hidden: false
+Author Is Moderator: false
+Is Own Post: false
+
+--- Full Content ---
+Hi Coders,
+We have an opening for a DSA Instructor role.
+Immediate joiners are preferred.
+Interested candidates, please let me know.
+Location:Punjab
+onsite role 
+4-5 working hours
+5 days in a week
+cont:8218058817
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+ID: 7523460
+Title: APPLE 🍎 SDE-2 : SELECTED 
+Posted: 2026-01-25 17:29:54 IST
+URL: https://leetcode.com/discuss/general-discussion/7523460
+View Count: 0
+Comment Count: 6
+Top Level Comments: 5
+
+--- Post Details ---
+Post ID: 10844640
+Creation Date: 2026-01-25 17:29:54 IST
+Vote Count: 0
+Vote Status: 0
+Status: Open
+Is Hidden: false
+Author Is Moderator: false
+Is Own Post: false
+
+--- Full Content ---
+I got an Apple SDE-2 offer with ~₹90 LPA total compensation, and the structure is simple. Base salary is around ₹35–45 LPA and is the fixed monthly income. RSUs (Apple stock) form the largest chunk, roughly ₹40–50 LPA when averaged yearly, vesting over four years. This is where most of the long-term value comes from. Annual bonus is performance-based and usually ₹5–8 LPA. Apart from this, benefits like insurance, PF, and employee stock purchase plan exist but don’t change the headline number much. Apple pays for impact and consistency, not hype.
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+ID: 7523389
+Title: 3300 done, 500 more to go
+Posted: 2026-01-25 17:02:27 IST
+URL: https://leetcode.com/discuss/general-discussion/7523389
+View Count: 0
+Comment Count: 22
+Top Level Comments: 11
+
+--- Post Details ---
+Post ID: 10844540
+Creation Date: 2026-01-25 17:02:27 IST
+Vote Count: 0
+Vote Status: 0
+Status: Open
+Is Hidden: false
+Author Is Moderator: false
+Is Own Post: false
+
+--- Full Content ---
+![Screenshot_20260125-170106_Chrome.jpg](https://assets.leetcode.com/users/images/253ee22b-140f-4003-b082-b35bbdccfd56_1769340742.216885.jpeg)
+
+

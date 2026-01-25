@@ -1,0 +1,363 @@
+LeetCode Discuss - Latest 10 Articles
+Fetched on: 2026-01-24 15:12:31 UTC
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+ID: 7520674
+Title: Salesforce MTS Interview Experience
+URL: https://leetcode.com/discuss/general-discussion/7520674
+View Count: 0
+Is Own Post: false
+
+--- Author Details ---
+Username: 8PSQIMs6ne
+Is Active: true
+Is Discuss Admin: false
+Is Discuss Staff: false
+
+--- Author Profile ---
+User Avatar: https://assets.leetcode.com/users/8PSQIMs6ne/avatar_1769266151.png
+User Slug: 8PSQIMs6ne
+Real Name: 8PSQIMs6ne
+Reputation: 1
+
+--- Content Preview ---
+I gave two solutions, but the interview wanted o(log n) solution only for the get_rank(). i was not able do it in time. All the best for anyone giving interview....
+
+--- Full Content ---
+I gave two solutions, but the interview wanted o(log n) solution only for the get_rank(). i was not able do it in time. All the best for anyone giving interview.
+
+![IMG_80AF7F05-8C4F-42E6-8732-AD32C210D954.JPEG](https://assets.leetcode.com/users/images/b4e57591-981f-4ab3-af13-e74ad80ed728_1769266277.7339199.jpeg)
+![IMG_EF5FF00A-20C6-4EC1-8785-7675E1B0EC26.JPEG](https://assets.leetcode.com/users/images/4f257da6-9161-4f38-974d-25587b534c42_1769266277.789375.jpeg)
+
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+ID: 7520635
+Title: problems?
+URL: https://leetcode.com/discuss/general-discussion/7520635
+View Count: 0
+Is Own Post: false
+
+--- Author Details ---
+Username: parth-ranjan-pandey
+Is Active: true
+Is Discuss Admin: false
+Is Discuss Staff: false
+
+--- Author Profile ---
+User Avatar: https://assets.leetcode.com/users/parth-ranjan-pandey/avatar_1766137390.png
+User Slug: parth-ranjan-pandey
+Real Name: codeX4r
+Reputation: 0
+
+--- Content Preview ---
+hi , just started arrays in  java which  problems to solve for better foundation?
+
+
+--- Full Content ---
+hi , just started arrays in  java which  problems to solve for better foundation?
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+ID: 7520616
+Title: Will 4 years in a Support role be considered a gap when applying for SDE roles at MAANG?
+URL: https://leetcode.com/discuss/general-discussion/7520616
+View Count: 0
+Is Own Post: false
+
+--- Author Details ---
+Username: Sachin_G2026
+Is Active: true
+Is Discuss Admin: false
+Is Discuss Staff: false
+
+--- Author Profile ---
+User Avatar: https://assets.leetcode.com/users/default_avatar.jpg
+User Slug: Sachin_G2026
+Real Name: Sachin_G2026
+Reputation: 2
+
+--- Content Preview ---
+Hi everyone, I have around 4 years of experience working in a Support / Production Support role (L2/L3). During this time, I’ve been actively involved in: Debugging production issues Root...
+
+--- Full Content ---
+Hi everyone,
+
+I have around 4 years of experience working in a Support / Production Support role (L2/L3). During this time, I’ve been actively involved in:
+
+1. Debugging production issues
+
+2. Root cause analysis
+
+3. Writing SQL queries / scripts for data fixes and automation
+
+4. Working closely with development teams
+
+I am now preparing seriously for SDE roles and practicing DSA on LeetCode with the goal of applying to MAANG / top product companies.
+
+My question is:
+
+1. Will my 4 years in a support role be viewed as a “gap” or a disadvantage when applying for SDE roles?
+
+2. Is it common for people from support backgrounds to transition into SDE roles at these companies?
+
+3. Any advice on how to best position this experience while applying?
+
+I’d really appreciate insights from people who have made a similar transition or have experience with MAANG hiring.
+
+Thanks in advance!
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+ID: 7520577
+Title: SDE II Hiring @ Flipkart
+URL: https://leetcode.com/discuss/general-discussion/7520577
+View Count: 0
+Is Own Post: false
+
+--- Author Details ---
+Username: 
+Is Active: false
+Is Discuss Admin: false
+Is Discuss Staff: false
+
+--- Content Preview ---
+Hi LeetCoders,
+Have you guys recently appeared for Flipkart hiring drive? How was your interview experience? Mine is scheduled for next week.
+
+
+--- Full Content ---
+Hi LeetCoders,
+
+Have you guys recently appeared for Flipkart hiring drive? How was your interview experience? Mine is scheduled for next week.
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+ID: 7520414
+Title: Need help with oracle IC3 interview
+URL: https://leetcode.com/discuss/general-discussion/7520414
+View Count: 0
+Is Own Post: false
+
+--- Author Details ---
+Username: AkhilN
+Is Active: true
+Is Discuss Admin: false
+Is Discuss Staff: false
+
+--- Author Profile ---
+User Avatar: https://assets.leetcode.com/users/akhiln/avatar_1529929616.png
+User Slug: AkhilN
+Real Name: NAMPELLI AKHIL
+Reputation: 2
+
+--- Content Preview ---
+I have 4 rounds of interviews (3 tech and 1 manageral) with oracle on 27th and 28th Jan, Can someone help me with prev experiences and questions to expect in...
+
+--- Full Content ---
+I have 4 rounds of interviews (3 tech and 1 manageral) with oracle on 27th and 28th Jan, Can someone help me with prev experiences and questions to expect in the interview. recruiter mentioned they can be mix of coding + LLD + HLD.
+I have cleared the initial screening round which was scheduled after my friend referred me.
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+ID: 7520412
+Title: Looking for front-end preparation buddy
+URL: https://leetcode.com/discuss/general-discussion/7520412
+View Count: 0
+Is Own Post: false
+
+--- Author Details ---
+Username: 
+Is Active: false
+Is Discuss Admin: false
+Is Discuss Staff: false
+
+--- Content Preview ---
+Hi Looking for Front-end Interview Preparation Buddy Experience: 1-2 years Current Package: Around 8-9 LPA Technologies: React.js, Next.js, GraphQL, Typescript, Tailwind, ShadCN I am looking to partner with someone who...
+
+--- Full Content ---
+### Hi Looking for Front-end Interview Preparation Buddy
+
+- **Experience**: 1-2 years
+- **Current Package**: Around 8-9 LPA
+- **Technologies**: React.js, Next.js, GraphQL, Typescript, Tailwind, ShadCN
+
+*I am looking to partner with someone who is currently working and looking to switch for a higher role with higher package*
+
+Please fill this form if you are interested - [Link](https://docs.google.com/forms/d/e/1FAIpQLSff2KWU_M14BF796qH1zv0lrm-68NRaiDTguPC0rwE2KfkbYQ/viewform?usp=publish-editor)
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+ID: 7520158
+Title: Amazon OA Interview
+URL: https://leetcode.com/discuss/general-discussion/7520158
+View Count: 0
+Is Own Post: false
+
+--- Author Details ---
+Username: 
+Is Active: false
+Is Discuss Admin: false
+Is Discuss Staff: false
+
+--- Content Preview ---
+Hi everyone, i had an amazon OA today, received two questions for coding test. You are given a binary string S consisting only of '0' and '1'. You build a...
+
+--- Full Content ---
+Hi everyone, i had an amazon OA today, received two questions for coding test.
+You are given a binary string S consisting only of '0' and '1'.
+
+You build a new string finalS using the following operation:
+
+Start with an empty string finalS= ""
+
+For each character c in shipmentData (from left to right):
+
+push c in finalS, reverse finalS.
+
+
+Your task is to rearrange the characters of shipmentData (you may reorder it arbitrarily) such that the resulting finalSequence is lexicographically maximum.
+
+Return the rearranged shipmentData that produces this maximum finalSequence. 
+
+Can anyone come up with the solution as i was not able to pass all the test cases. Would be great if someone gives me tips to prepare for OA rounds man, i have solved a lot of leetcode questions but never came across such question before
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+ID: 7520088
+Title: Google | L3 | Interview Experience
+URL: https://leetcode.com/discuss/general-discussion/7520088
+View Count: 0
+Is Own Post: false
+
+--- Author Details ---
+Username: 
+Is Active: false
+Is Discuss Admin: false
+Is Discuss Staff: false
+
+--- Content Preview ---
+Hi Community, I recently gone through 2 rounds for google. Googlyness and Virtual Coding round, if I got a positive feedback I will get chance for 2 more onsite rounds....
+
+--- Full Content ---
+Hi Community,
+I recently gone through 2 rounds for google.
+Googlyness and Virtual Coding round, if I got a positive feedback I will get chance for 2 more onsite rounds.
+
+I would like your opinions on my performance.
+
+Googlyness - It went smooth, I answered everything and interviewer also seemed okay with that, he asked only 5 questions to me and round got over in 25 mins.
+If I ignore the early end of the interview I would rate (Lean Hire / Hire).
+
+Coding round - I was asked a question for which I was able to comeup with the approach within 5 mins and interviewer was ok with it, then she came up with a follow up I answered that also. After that I asked should I code it up, but then I was asked 2 more follow ups.
+And discussing the Questions + 3 follow ups + pseudo code the time was over. I asked her I was not able to code the solution she said - No problem we look more for the approach and thought process in candidates.
+If I ignore the part that I was not able to code, I'd rate my self (Strong Hire/ Hire).
+
+I would love your opinions on my performance and would I get the onsite opportunity ?
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+ID: 7520006
+Title: Google | L4 | SWE 3 | India | 3.5 YOE
+URL: https://leetcode.com/discuss/general-discussion/7520006
+View Count: 0
+Is Own Post: false
+
+--- Author Details ---
+Username: 
+Is Active: false
+Is Discuss Admin: false
+Is Discuss Staff: false
+
+--- Content Preview ---
+Google Offer – Compensation Details (Anonymous) Item Details Education Computer Science Engineering (Tier-3 college) Company Google Role / Level Software Engineer (L4) Offer Date Nov 2025 Joining Date Jan 2026...
+
+--- Full Content ---
+## Google Offer – Compensation Details (Anonymous)
+
+| Item | Details |
+|-----|--------|
+| Education | Computer Science Engineering (Tier-3 college) |
+| Company | **Google** |
+| Role / Level | Software Engineer (L4) |
+| Offer Date | Nov 2025 |
+| Joining Date | Jan 2026 |
+| Location | Bangalore |
+| Experience | **~3.5** YOE |
+| Base Salary | ₹39.1 LPA |
+| Performance Bonus (15% of base) | ₹5.86 LPA |
+| Stocks Grant | $80,000 (vested over 4 years) |
+| Benefits | ₹3.14 LPA (standard benefits) |
+| **Total Compensation (Year 1)** | **~₹75 LPA** |
+| Previous Company | Large MNC |
+| Previous CTC | ~₹20–22 LPA |
+| Previous Role | Senior Software Engineer |
+
+### Additional Information
+- No sign-on bonus due to company-wide compensation revision (June 2025)
+- No relocation bonus as both previous office and Google office are in Bangalore
+- Stock vesting: **38% in Year 1**
+
+I’ll share my interview experience and preparation strategy in a follow-up post.  
+If anyone wants the detailed stock vesting breakdown for all 4 years, I can check and update.
+
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+ID: 7520005
+Title: 💗💯When DFS works perfectly and when BFS is the better choice💯💗
+URL: https://leetcode.com/discuss/general-discussion/7520005
+View Count: 0
+Is Own Post: false
+
+--- Author Details ---
+Username: w2MsuZh0n3
+Is Active: true
+Is Discuss Admin: false
+Is Discuss Staff: false
+
+--- Active Badge ---
+Display Name: Dec LeetCoding Challenge
+Icon: /static/images/badges/dcc-2025-12.png
+Creation Date: 2025-12-31
+
+--- Author Profile ---
+User Avatar: https://assets.leetcode.com/users/w2MsuZh0n3/avatar_1759567011.png
+User Slug: w2MsuZh0n3
+Real Name: Uday Dandekar
+Reputation: 318
+
+--- Content Preview ---
+While practicing graph problems, I realized that many times I was choosing DFS or BFS randomly, without thinking about why that approach. What helped me was focusing on what the...
+
+--- Full Content ---
+###### While practicing graph problems, I realized that many times I was choosing DFS or BFS randomly, without thinking about why that approach.
+###### What helped me was focusing on what the problem was actually asking.
+###### I found that if I only needed to check whether a path exists, a DFS Approach was usually enough. But was the problem asked for the shortest path or minimum steps, BFS was the better choice because it explores level by level traversals.
+
+###### This conclusion helped me stop forcefully using DFS in problems where BFS was more appropriate and made my solutions less complicated.
+
+Hope this would help someone ⚡✨ and would save lots of time in deciding DFS/BFS.
+

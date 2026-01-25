@@ -1,0 +1,333 @@
+LeetCode Discuss - Latest 10 Articles
+Fetched on: 2026-01-25 20:38:42 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: BCCIBsbv
+Title: Interview Experience: Microsoft | SDE 2
+Posted: 2026-01-25 20:38:26 IST
+Updated: 2026-01-25 20:38:26 IST
+URL: https://leetcode.com/discuss/DISCUSSION/interview-experience-microsoft-sde-2-by-0562r
+Article Type: DISCUSSION
+Status: OPEN
+Hit Count: 1
+
+--- Author ---
+Username: arham_asim
+User Slug: arham_asim
+Real Name: arham_asim
+Avatar: https://assets.leetcode.com/users/default_avatar.jpg
+Certification Level: NORMAL
+Active Badge: Feb LeetCoding Challenge (/static/images/badges/dcc-2024-2.png)
+
+--- Discussion ---
+Topic ID: 7523946
+Top Level Comments: 0
+
+--- Summary ---
+I recently attained the Microsoft hiring drive.
+Online Assessment (HackerRank)
+Two coding questions focused on data structures and algorithmic efficiency.
+Result: Received feedback after week.
+All subsequent rounds are in a single day.Received the in
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2gdCAfqC
+Title: New to coding journey. 
+Posted: 2026-01-25 20:27:43 IST
+Updated: 2026-01-25 20:27:43 IST
+URL: https://leetcode.com/discuss/DISCUSSION/new-to-coding-journey-by-john_silas_murm-93ax
+Article Type: DISCUSSION
+Status: OPEN
+Hit Count: 1
+
+--- Author ---
+Username: john_silas_murmu
+User Slug: john_silas_murmu
+Real Name: john_silas_murmu
+Avatar: https://assets.leetcode.com/users/john_silas_murmu/avatar_1769352457.png
+Certification Level: NORMAL
+
+--- Discussion ---
+Topic ID: 7523925
+Top Level Comments: 0
+
+--- Summary ---
+I have a common doubt which everyone had before starting to code, in which language I should code. I'm a student of CSE(AI-ML), I'm also very much interested at AI and ML so I want to know which language I should choose so that it can benefit me for
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: a7C2nuPk
+Title: 1984. Minimum Difference Between Highest and Lowest of K Scores
+Posted: 2026-01-25 20:18:17 IST
+Updated: 2026-01-25 20:18:17 IST
+URL: https://leetcode.com/discuss/DISCUSSION/1984-minimum-difference-between-highest-prl1g
+Article Type: DISCUSSION
+Status: OPEN
+Hit Count: 5
+
+--- Author ---
+Username: chandrasaichimirala207
+User Slug: chandrasaichimirala207
+Real Name: Chandra Sai
+Avatar: https://assets.leetcode.com/users/chandrasaichimirala207/avatar_1768053662.png
+Certification Level: NORMAL
+
+--- Discussion ---
+Topic ID: 7523904
+Top Level Comments: 0
+
+--- Summary ---
+class Solution:
+def minimumDifference(self, nums: List[int], k: int) -> int:
+if k == 1:
+return 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: oCanBON7
+Title: Interview Experience: Oracle Cloud Infrastructure (OCI) | IC3 Role
+Posted: 2026-01-25 20:00:44 IST
+Updated: 2026-01-25 20:00:44 IST
+URL: https://leetcode.com/discuss/DISCUSSION/interview-experience-oracle-cloud-infras-w6mw
+Article Type: DISCUSSION
+Status: OPEN
+Hit Count: 69
+
+--- Author ---
+Username: arham_asim
+User Slug: arham_asim
+Real Name: arham_asim
+Avatar: https://assets.leetcode.com/users/default_avatar.jpg
+Certification Level: NORMAL
+Active Badge: Feb LeetCoding Challenge (/static/images/badges/dcc-2024-2.png)
+
+--- Tags ---
+  - Oracle (oraclesql) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+--- Discussion ---
+Topic ID: 7523859
+Top Level Comments: 1
+
+--- Summary ---
+Recently I got chance to interview with OCI Networking Team.
+Round 1: Screening
+Coding:
+Reverse a linked list (Write end-to-end code).
+Find the intersection point of two linked lists.
+Networking & Debugging:
+Basic networking and debugging questions.
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: CMYMbot9
+Title: Interesting Coding questions for Online assessments
+Posted: 2026-01-25 19:54:37 IST
+Updated: 2026-01-25 19:54:37 IST
+URL: https://leetcode.com/discuss/DISCUSSION/interesting-coding-questions-for-online-tqtph
+Article Type: DISCUSSION
+Status: OPEN
+Hit Count: 26
+
+--- Author ---
+Username: 
+User Slug: 
+Real Name: Anonymous User
+Avatar: https://assets.leetcode.com/users/default_avatar.jpg
+Certification Level: NORMAL
+
+--- Discussion ---
+Topic ID: 7523837
+Top Level Comments: 0
+
+--- Summary ---
+New Questions from Greedy, Number Theory and DP on Trees
+
+
+
+
+
+
+Solutions
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: PJvH0aRK
+Title: Slice work culture review ?
+Posted: 2026-01-25 19:38:34 IST
+Updated: 2026-01-25 19:38:34 IST
+URL: https://leetcode.com/discuss/DISCUSSION/slice-work-culture-review-by-anonymous_u-st8s
+Article Type: DISCUSSION
+Status: OPEN
+Hit Count: 43
+
+--- Author ---
+Username: 
+User Slug: 
+Real Name: Anonymous User
+Avatar: https://assets.leetcode.com/users/default_avatar.jpg
+Certification Level: NORMAL
+
+--- Reactions ---
+  UPVOTE: 1
+
+--- Discussion ---
+Topic ID: 7523785
+Top Level Comments: 1
+
+--- Summary ---
+Hi,
+I just got an offer from Slice for SDE - 2 role, I wanted know about the work culture,
+1. How is the WLB ?
+2. How are appraisals ?
+3. Does the company value employees ?
+4. Do they do layoffs and is the company stable ?
+5. Do they give work from h
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: bFI48aoA
+Title: LeetCode Weekly Contest 486 Discussion and Solution - Hey Saintty
+Posted: 2026-01-25 19:37:04 IST
+Updated: 2026-01-25 19:37:04 IST
+URL: https://leetcode.com/discuss/DISCUSSION/leetcode-weekly-contest-486-discussion-a-ro80
+Article Type: DISCUSSION
+Status: OPEN
+Hit Count: 41
+
+--- Author ---
+Username: iamsainty
+User Slug: iamsainty
+Real Name: Priyanshu Chaurasiya
+Avatar: https://assets.leetcode.com/users/avatars/avatar_1681447097.png
+Certification Level: NORMAL
+Active Badge: 500 Days Badge (https://assets.leetcode.com/static_assets/marketing/lg500.png)
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+--- Discussion ---
+Topic ID: 7523777
+Top Level Comments: 0
+
+--- Summary ---
+LeetCode Weekly Contest 486 started on a calm winter Sunday with good energy and focus. I managed to solve 3 out of 4 problems in 42 minutes, without any wrong submissions, and initially felt quite satisfied with my performance.In this blog, I’ve bro
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 3aFVJ9if
+Title: machine coding round Flipkart SDE 2
+Posted: 2026-01-25 19:34:51 IST
+Updated: 2026-01-25 19:34:51 IST
+URL: https://leetcode.com/discuss/DISCUSSION/machine-coding-round-flipkart-sde-2-by-o-m6ag
+Article Type: DISCUSSION
+Status: OPEN
+Hit Count: 19
+
+--- Author ---
+Username: o4FxolMpPo
+User Slug: o4FxolMpPo
+Real Name: o4FxolMpPo
+Avatar: https://assets.leetcode.com/users/o4FxolMpPo/avatar_1769349702.png
+Certification Level: NORMAL
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Discussion ---
+Topic ID: 7523774
+Top Level Comments: 0
+
+--- Summary ---
+I have given the machine coding round for the Flipkart SDE-2 role.
+During the evaluation round, what kind of questions can I expect from the interviewer?
+Will they only ask questions related to my submitted solution, or can they ask me to implement n
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nTWaJM0D
+Title: Weekly Contest 486 – Balanced but Q4 was tough
+Posted: 2026-01-25 19:25:23 IST
+Updated: 2026-01-25 19:25:23 IST
+URL: https://leetcode.com/discuss/DISCUSSION/weekly-contest-486-balanced-but-q4-was-t-h37f
+Article Type: DISCUSSION
+Status: OPEN
+Hit Count: 7
+
+--- Author ---
+Username: adarshzolekar
+User Slug: adarshzolekar
+Real Name: Adarsh Zolekar
+Avatar: https://assets.leetcode.com/users/adarshzolekar/avatar_1767090913.png
+Certification Level: NORMAL
+Active Badge: Introduction to Pandas (https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas_Badge.png)
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 1
+
+--- Discussion ---
+Topic ID: 7523751
+Top Level Comments: 0
+
+--- Summary ---
+Nice contest overall.First two problems were straightforward and mostly about careful implementation.
+The tree problem was interesting and required a clean DFS approach.The last problem was definitely the hardest — bit manipulation + combinatorics ma
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6IkQCxOi
+Title: Looking for Senior Engineer Who Can Guide me ( 3 YOE )
+Posted: 2026-01-25 19:11:42 IST
+Updated: 2026-01-25 19:11:42 IST
+URL: https://leetcode.com/discuss/DISCUSSION/looking-for-senior-engineer-who-can-guid-rowm
+Article Type: DISCUSSION
+Status: OPEN
+Hit Count: 60
+
+--- Author ---
+Username: 
+User Slug: 
+Real Name: Anonymous User
+Avatar: https://assets.leetcode.com/users/default_avatar.jpg
+Certification Level: NORMAL
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Discussion ---
+Topic ID: 7523715
+Top Level Comments: 0
+
+--- Summary ---
+I am decent in DSA/CP but feeling like not getting the kind of work I was expecting from the corporate. Feeling low and Dull but I know if I keep working I would be successful one day.I have seen many of my friends who have similar skillset in big MN
+

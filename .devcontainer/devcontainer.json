@@ -1,0 +1,13 @@
+{
+  "name": "daily-articles-leetcode",
+  "image": "golang:alpine",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "golang.go"
+      ]
+    }
+  },
+  // Installs git automatically so 'go get' works for dependencies
+  "postCreateCommand": "apk update && apk add git"
+}
