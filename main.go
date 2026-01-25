@@ -95,16 +95,70 @@ const (
 	`
 )
 
-func main() {
-	fmt.Println("Fetching Latest 10 Articles from LeetCode Discuss...")
+// fetchArticlesAfterTime fetches all articles published after the given cutoff time using pagination
+func fetchArticlesAfterTime(cutoffTime time.Time) ([]Article, error) {
+	var allArticles []Article
+	batchSize := 100
+	skip := 0
 
-	articles, err := fetchDiscussArticles(10)
+	for {
+		fmt.Printf("Fetching batch starting at offset %d...\n", skip)
+
+		// Fetch batch
+		batch, err := fetchDiscussArticlesWithSkip(batchSize, skip)
+		if err != nil {
+			return nil, err
+		}
+
+		if len(batch) == 0 {
+			break // No more articles
+		}
+
+		foundOlderArticle := false
+		for _, article := range batch {
+			articleTime, err := time.Parse(time.RFC3339, article.CreatedAt)
+			if err != nil {
+				continue // Skip if we can't parse the time
+			}
+
+			if articleTime.After(cutoffTime) {
+				allArticles = append(allArticles, article)
+			} else {
+				foundOlderArticle = true
+			}
+		}
+
+		// If we found articles older than cutoff, we can stop
+		if foundOlderArticle {
+			break
+		}
+
+		// If we got less than batchSize, no more articles available
+		if len(batch) < batchSize {
+			break
+		}
+
+		skip += batchSize
+	}
+
+	return allArticles, nil
+}
+
+func main() {
+	// Define cutoff time: January 25, 2026 4:00 PM IST
+	ist := time.FixedZone("IST", 5*3600+30*60)
+	cutoffTime := time.Date(2026, 1, 25, 16, 0, 0, 0, ist)
+
+	fmt.Printf("Fetching articles published after %s...\n", cutoffTime.Format("2006-01-02 03:04 PM MST"))
+
+	// Fetch all articles after cutoff time using pagination
+	articles, err := fetchArticlesAfterTime(cutoffTime)
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "Error fetching discuss articles: %v\n", err)
 		os.Exit(1)
 	}
 
-	fmt.Printf("Found %d articles:\n", len(articles))
+	fmt.Printf("Found %d articles published after cutoff time:\n", len(articles))
 
 	for i, article := range articles {
 		creationTime := formatStringTimestamp(article.CreatedAt)
@@ -113,7 +167,7 @@ func main() {
 		fmt.Printf("   URL: https://leetcode.com/discuss/%s/%s\n", article.ArticleType, article.Slug)
 	}
 
-	filename := fmt.Sprintf("leetcode_articles_%s.txt", time.Now().Format("2006-01-02_15-04-05"))
+	filename := fmt.Sprintf("leetcode_articles_%s.txt", time.Now().In(ist).Format("2006-01-02_15-04-05"))
 	err = writeArticlesToFile(articles, filename)
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "Error writing articles to file: %v\n", err)
@@ -123,15 +177,15 @@ func main() {
 	fmt.Printf("\n✓ Successfully saved %d articles to %s\n", len(articles), filename)
 }
 
-// fetchDiscussArticles fetches the most recent articles from LeetCode discuss section
-func fetchDiscussArticles(count int) ([]Article, error) {
+// fetchDiscussArticlesWithSkip fetches articles with pagination support
+func fetchDiscussArticlesWithSkip(count int, skip int) ([]Article, error) {
 	reqBody := map[string]interface{}{
 		"query": discussTopicsQuery,
 		"variables": map[string]interface{}{
 			"orderBy":  "MOST_RECENT",
 			"keywords": []string{},
 			"tagSlugs": []string{},
-			"skip":     0,
+			"skip":     skip,
 			"first":    count,
 		},
 	}
@@ -236,17 +290,6 @@ func writeArticlesToFile(articles []Article, filename string) error {
 	}
 
 	return nil
-}
-
-// formatTimestamp converts Unix timestamp to readable date in IST
-func formatTimestamp(ts int64) string {
-	if ts == 0 {
-		return "N/A"
-	}
-	// IST is UTC+5:30
-	ist := time.FixedZone("IST", 5*3600+30*60)
-	t := time.Unix(ts, 0).In(ist)
-	return t.Format("2006-01-02 15:04:05 MST")
 }
 
 // formatStringTimestamp converts ISO string timestamp to readable date in IST
