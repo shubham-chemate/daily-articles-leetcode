@@ -57,6 +57,7 @@ type ArticlesResponse struct {
 
 const (
 	leetcodeGraphQLURL = "https://leetcode.com/graphql"
+	lastTimestampFile  = "last_processed_timestamp.txt"
 	discussTopicsQuery = `
 		query discussPostItems($orderBy: ArticleOrderByEnum, $keywords: [String]!, $tagSlugs: [String!], $skip: Int, $first: Int) {
 			ugcArticleDiscussionArticles(
@@ -94,6 +95,35 @@ const (
 		}
 	`
 )
+
+// readLastProcessedTimestamp reads the last processed timestamp from file
+func readLastProcessedTimestamp() (time.Time, error) {
+	data, err := os.ReadFile(lastTimestampFile)
+	if err != nil {
+		if os.IsNotExist(err) {
+			// File doesn't exist, return zero time
+			return time.Time{}, nil
+		}
+		return time.Time{}, fmt.Errorf("failed to read timestamp file: %w", err)
+	}
+
+	timestampStr := strings.TrimSpace(string(data))
+	if timestampStr == "" {
+		return time.Time{}, nil
+	}
+
+	t, err := time.Parse(time.RFC3339, timestampStr)
+	if err != nil {
+		return time.Time{}, fmt.Errorf("failed to parse timestamp: %w", err)
+	}
+
+	return t, nil
+}
+
+// writeLastProcessedTimestamp writes the last processed timestamp to file
+func writeLastProcessedTimestamp(t time.Time) error {
+	return os.WriteFile(lastTimestampFile, []byte(t.Format(time.RFC3339)), 0644)
+}
 
 // fetchArticlesAfterTime fetches all articles published after the given cutoff time using pagination
 func fetchArticlesAfterTime(cutoffTime time.Time) ([]Article, error) {
@@ -145,11 +175,26 @@ func fetchArticlesAfterTime(cutoffTime time.Time) ([]Article, error) {
 }
 
 func main() {
-	// Define cutoff time: January 25, 2026 4:00 PM IST
 	ist := time.FixedZone("IST", 5*3600+30*60)
-	cutoffTime := time.Date(2026, 1, 25, 16, 0, 0, 0, ist)
 
-	fmt.Printf("Fetching articles published after %s...\n", cutoffTime.Format("2006-01-02 03:04 PM MST"))
+	// Read last processed timestamp from file
+	lastProcessed, err := readLastProcessedTimestamp()
+	if err != nil {
+		fmt.Fprintf(os.Stderr, "Error reading last processed timestamp: %v\n", err)
+		os.Exit(1)
+	}
+
+	var cutoffTime time.Time
+	if lastProcessed.IsZero() {
+		// First run - fetch articles from last 24 hours
+		cutoffTime = time.Now().Add(-24 * time.Hour)
+		fmt.Println("First run - fetching articles from last 24 hours...")
+	} else {
+		cutoffTime = lastProcessed
+		fmt.Printf("Last processed: %s\n", lastProcessed.In(ist).Format("2006-01-02 03:04 PM MST"))
+	}
+
+	fmt.Printf("Fetching articles published after %s...\n", cutoffTime.In(ist).Format("2006-01-02 03:04 PM MST"))
 
 	// Fetch all articles after cutoff time using pagination
 	articles, err := fetchArticlesAfterTime(cutoffTime)
@@ -158,7 +203,7 @@ func main() {
 		os.Exit(1)
 	}
 
-	fmt.Printf("Found %d articles published after cutoff time:\n", len(articles))
+	fmt.Printf("Found %d articles published after cutoff time.\n", len(articles))
 
 	for i, article := range articles {
 		creationTime := formatStringTimestamp(article.CreatedAt)
@@ -167,7 +212,13 @@ func main() {
 		fmt.Printf("   URL: https://leetcode.com/discuss/%s/%s\n", article.ArticleType, article.Slug)
 	}
 
-	filename := fmt.Sprintf("leetcode_articles_%s.txt", time.Now().In(ist).Format("2006-01-02_15-04-05"))
+	// Ensure fetched_articles directory exists
+	if err := os.MkdirAll("fetched_articles", 0755); err != nil {
+		fmt.Fprintf(os.Stderr, "Error creating fetched_articles directory: %v\n", err)
+		os.Exit(1)
+	}
+
+	filename := fmt.Sprintf("fetched_articles/leetcode_articles_%s.txt", time.Now().In(ist).Format("2006-01-02_15-04-05"))
 	err = writeArticlesToFile(articles, filename)
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "Error writing articles to file: %v\n", err)
@@ -175,6 +226,19 @@ func main() {
 	}
 
 	fmt.Printf("\n✓ Successfully saved %d articles to %s\n", len(articles), filename)
+
+	// Update last processed timestamp with the most recent article
+	if len(articles) > 0 {
+		// Articles are sorted newest first, so the first one is the most recent
+		newestTime, err := time.Parse(time.RFC3339, articles[0].CreatedAt)
+		if err == nil {
+			if err := writeLastProcessedTimestamp(newestTime); err != nil {
+				fmt.Fprintf(os.Stderr, "Warning: Failed to update last processed timestamp: %v\n", err)
+			} else {
+				fmt.Printf("Updated last processed timestamp to: %s\n", newestTime.In(ist).Format("2006-01-02 03:04 PM MST"))
+			}
+		}
+	}
 }
 
 // fetchDiscussArticlesWithSkip fetches articles with pagination support
