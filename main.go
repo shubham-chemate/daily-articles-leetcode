@@ -20,37 +20,14 @@ type Article struct {
 	Author      Author     `json:"author"`
 	CreatedAt   string     `json:"createdAt"`
 	UpdatedAt   string     `json:"updatedAt"`
-	HitCount    int        `json:"hitCount"`
-	Thumbnail   string     `json:"thumbnail"`
-	Tags        []Tag      `json:"tags"`
-	Topic       *Topic     `json:"topic"`
-	Reactions   []Reaction `json:"reactions"`
 	ArticleType string     `json:"articleType"`
-	Status      string     `json:"status"`
-	TopicID     int        `json:"topicId"`
+	Tags        []Tag      `json:"tags"`
+	Reactions   []Reaction `json:"reactions"`
 }
 
-// Author represents the article author
+// Author represents the article author (only userName needed)
 type Author struct {
-	UserName           string  `json:"userName"`
-	UserSlug           string  `json:"userSlug"`
-	RealName           string  `json:"realName"`
-	UserAvatar         string  `json:"userAvatar"`
-	NameColor          *string `json:"nameColor"`
-	CertificationLevel string  `json:"certificationLevel"`
-	ActiveBadge        *Badge  `json:"activeBadge"`
-}
-
-// Badge represents user badges
-type Badge struct {
-	DisplayName string `json:"displayName"`
-	Icon        string `json:"icon"`
-}
-
-// Topic represents discussion topic info
-type Topic struct {
-	ID                   int `json:"id"`
-	TopLevelCommentCount int `json:"topLevelCommentCount"`
+	UserName string `json:"userName"`
 }
 
 // Reaction represents user reactions to article
@@ -97,37 +74,19 @@ const (
 						slug
 						summary
 						author {
-							realName
-							userAvatar
-							userSlug
 							userName
-							nameColor
-							certificationLevel
-							activeBadge {
-								icon
-								displayName
-							}
 						}
-						articleType
-						thumbnail
-						summary
 						createdAt
 						updatedAt
-						status
-						topicId
-						hitCount
-						reactions {
-							count
-							reactionType
-						}
+						articleType
 						tags {
 							name
 							slug
 							tagType
 						}
-						topic {
-							id
-							topLevelCommentCount
+						reactions {
+							count
+							reactionType
 						}
 					}
 				}
@@ -244,27 +203,17 @@ func writeArticlesToFile(articles []Article, filename string) error {
 		// Basic article info
 		fmt.Fprintf(file, "UUID: %s\n", article.UUID)
 		fmt.Fprintf(file, "Title: %s\n", article.Title)
+		fmt.Fprintf(file, "Slug: %s\n", article.Slug)
+		fmt.Fprintf(file, "Article Type: %s\n", article.ArticleType)
 		fmt.Fprintf(file, "Posted: %s\n", formatStringTimestamp(article.CreatedAt))
 		fmt.Fprintf(file, "Updated: %s\n", formatStringTimestamp(article.UpdatedAt))
 		fmt.Fprintf(file, "URL: https://leetcode.com/discuss/%s/%s\n", article.ArticleType, article.Slug)
-		fmt.Fprintf(file, "Article Type: %s\n", article.ArticleType)
-		fmt.Fprintf(file, "Status: %s\n", article.Status)
-		fmt.Fprintf(file, "Hit Count: %d\n", article.HitCount)
+		fmt.Fprintf(file, "Author: %s\n", article.Author.UserName)
 
-		// Author info
-		fmt.Fprintf(file, "\n--- Author ---\n")
-		fmt.Fprintf(file, "Username: %s\n", article.Author.UserName)
-		fmt.Fprintf(file, "User Slug: %s\n", article.Author.UserSlug)
-		if article.Author.RealName != "" {
-			fmt.Fprintf(file, "Real Name: %s\n", article.Author.RealName)
-		}
-		fmt.Fprintf(file, "Avatar: %s\n", article.Author.UserAvatar)
-		if article.Author.NameColor != nil {
-			fmt.Fprintf(file, "Name Color: %s\n", *article.Author.NameColor)
-		}
-		fmt.Fprintf(file, "Certification Level: %s\n", article.Author.CertificationLevel)
-		if article.Author.ActiveBadge != nil {
-			fmt.Fprintf(file, "Active Badge: %s (%s)\n", article.Author.ActiveBadge.DisplayName, article.Author.ActiveBadge.Icon)
+		// Summary
+		if article.Summary != "" {
+			fmt.Fprintf(file, "\n--- Summary ---\n")
+			fmt.Fprintf(file, "%s\n", article.Summary)
 		}
 
 		// Tags
@@ -281,19 +230,6 @@ func writeArticlesToFile(articles []Article, filename string) error {
 			for _, reaction := range article.Reactions {
 				fmt.Fprintf(file, "  %s: %d\n", reaction.ReactionType, reaction.Count)
 			}
-		}
-
-		// Topic info
-		if article.Topic != nil {
-			fmt.Fprintf(file, "\n--- Discussion ---\n")
-			fmt.Fprintf(file, "Topic ID: %d\n", article.Topic.ID)
-			fmt.Fprintf(file, "Top Level Comments: %d\n", article.Topic.TopLevelCommentCount)
-		}
-
-		// Summary
-		if article.Summary != "" {
-			fmt.Fprintf(file, "\n--- Summary ---\n")
-			fmt.Fprintf(file, "%s\n", article.Summary)
 		}
 
 		fmt.Fprintf(file, "\n")
