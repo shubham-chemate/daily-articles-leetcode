@@ -1,0 +1,42 @@
+name: LeetCode Article Aggregator - File Output
+
+on:
+  schedule:
+    # Runs at 02:30 UTC daily (08:00 AM IST)
+    - cron: '30 2 * * *'
+  workflow_dispatch: # Allows manual trigger for testing
+
+jobs:
+  run-aggregator:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write 
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'  # More recent stable version
+
+      - name: Run Aggregator
+        run: go run main.go
+
+      - name: Commit and Push Results
+        run: |
+          git config --global user.name "LeetCode-Bot"
+          git config --global user.email "bot@noreply.github.com"
+          
+          # Add both the timestamp file and generated articles
+          git add last_processed_timestamp.txt fetched_articles/*.txt
+          
+          # Commit only if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Daily LeetCode articles update - $(date -u +%Y-%m-%d)"
+            git push
+          fi
