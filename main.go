@@ -11,9 +11,9 @@ func main() {
 	ist := time.FixedZone("IST", 5*3600+30*60)
 
 	// Read configuration from environment variables
-	sendGridAPIKey := os.Getenv("SENDGRID_API_KEY")
-	fromEmail := os.Getenv("FROM_EMAIL")
-	fromName := os.Getenv("FROM_NAME")
+	sendGridAPIKey := strings.TrimSpace(os.Getenv("SENDGRID_API_KEY"))
+	fromEmail := strings.TrimSpace(os.Getenv("FROM_EMAIL"))
+	fromName := strings.TrimSpace(os.Getenv("FROM_NAME"))
 	toEmailsStr := os.Getenv("TO_EMAILS")                          // Comma-separated list
 	enableFileOutput := os.Getenv("ENABLE_FILE_OUTPUT") != "false" // Default to true
 
