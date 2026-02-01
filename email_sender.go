@@ -100,80 +100,62 @@ func generateHTMLEmail(articles []Article, ist *time.Location) string {
 <html>
 <head>
     <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #f5f5f5; }
-        .container { background-color: white; padding: 30px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-        h1 { color: #FFA116; border-bottom: 3px solid #FFA116; padding-bottom: 10px; margin-bottom: 20px; }
-        .article { border-left: 4px solid #FFA116; padding: 15px; margin-bottom: 20px; background-color: #fafafa; border-radius: 4px; }
-        .article-title { font-size: 18px; font-weight: bold; color: #262626; margin-bottom: 8px; }
-        .article-title a { color: #262626; text-decoration: none; }
-        .article-title a:hover { color: #FFA116; }
-        .article-meta { font-size: 13px; color: #666; margin-bottom: 10px; }
-        .article-summary { font-size: 14px; color: #555; line-height: 1.5; margin-bottom: 10px; }
-        .article-tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
-        .tag { background-color: #e8f4f8; color: #0066cc; padding: 3px 10px; border-radius: 12px; font-size: 12px; }
-        .reactions { font-size: 13px; color: #888; margin-top: 8px; }
-        .footer { text-align: center; margin-top: 30px; padding-top: 20px; border-top: 1px solid #ddd; color: #888; font-size: 12px; }
-        .count { color: #FFA116; font-weight: bold; }
+        body { font-family: Georgia, 'Times New Roman', serif; line-height: 1.8; color: #333; max-width: 680px; margin: 0 auto; padding: 40px 20px; background-color: #fff; }
+        h1 { font-size: 28px; font-weight: normal; color: #222; margin-bottom: 10px; letter-spacing: -0.5px; }
+        .subtitle { color: #666; font-size: 14px; margin-bottom: 40px; }
+        .article { margin-bottom: 40px; padding-bottom: 30px; border-bottom: 1px solid #e5e5e5; }
+        .article:last-child { border-bottom: none; }
+        .article-title { font-size: 20px; font-weight: 600; margin-bottom: 8px; line-height: 1.4; }
+        .article-title a { color: #222; text-decoration: none; }
+        .article-title a:hover { color: #0066cc; }
+        .article-meta { font-size: 13px; color: #888; margin-bottom: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; }
+        .article-summary { font-size: 15px; color: #444; line-height: 1.7; margin-bottom: 12px; }
+        .article-tags { margin-top: 12px; }
+        .tag { display: inline; color: #666; font-size: 13px; margin-right: 12px; }
+        .tag:before { content: "#"; color: #999; }
+        .footer { text-align: center; margin-top: 50px; padding-top: 20px; border-top: 1px solid #e5e5e5; color: #999; font-size: 12px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>📚 LeetCode Daily Articles</h1>
-        <p>Found <span class="count">` + fmt.Sprintf("%d", len(articles)) + `</span> new articles:</p>
+    <h1>LeetCode Daily Digest</h1>
+    <div class="subtitle">` + fmt.Sprintf("%d new articles • %s", len(articles), time.Now().In(ist).Format("January 2, 2006")) + `</div>
 `)
 
-	for i, article := range articles {
+	for _, article := range articles {
 		html.WriteString(fmt.Sprintf(`
-        <div class="article">
-            <div class="article-title">%d. <a href="https://leetcode.com/discuss/post/%d/%s/">%s</a></div>
-            <div class="article-meta">
-                👤 %s | 📅 %s | 📝 %s
-            </div>`,
-			i+1,
+    <div class="article">
+        <div class="article-title"><a href="https://leetcode.com/discuss/post/%d/%s/">%s</a></div>
+        <div class="article-meta">By %s • %s</div>`,
 			article.TopicId,
 			article.Slug,
 			escapeHTML(article.Title),
 			escapeHTML(article.Author.UserName),
 			formatStringTimestamp(article.CreatedAt),
-			article.ArticleType,
 		))
 
 		if article.Summary != "" {
 			html.WriteString(fmt.Sprintf(`
-            <div class="article-summary">%s</div>`,
-				escapeHTML(truncateText(article.Summary, 200)),
+        <div class="article-summary">%s</div>`,
+				escapeHTML(truncateText(article.Summary, 250)),
 			))
 		}
 
 		if len(article.Tags) > 0 {
 			html.WriteString(`
-            <div class="article-tags">`)
+        <div class="article-tags">`)
 			for _, tag := range article.Tags {
 				html.WriteString(fmt.Sprintf(`<span class="tag">%s</span>`, escapeHTML(tag.Name)))
 			}
 			html.WriteString(`</div>`)
 		}
 
-		if len(article.Reactions) > 0 {
-			html.WriteString(`
-            <div class="reactions">`)
-			for j, reaction := range article.Reactions {
-				if j > 0 {
-					html.WriteString(" | ")
-				}
-				html.WriteString(fmt.Sprintf("%s: %d", reaction.ReactionType, reaction.Count))
-			}
-			html.WriteString(`</div>`)
-		}
-
 		html.WriteString(`
-        </div>`)
+    </div>`)
 	}
 
 	html.WriteString(`
-        <div class="footer">
-            <p>Automated LeetCode Articles Digest | Generated on ` + time.Now().In(ist).Format("January 2, 2006 at 3:04 PM MST") + `</p>
-        </div>
+    <div class="footer">
+        <p>Automated digest • LeetCode Articles Fetcher</p>
     </div>
 </body>
 </html>`)
