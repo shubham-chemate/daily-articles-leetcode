@@ -1,6 +1,9 @@
 name: LeetCode Article Aggregator - File Output
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # Runs at 02:30 UTC daily (08:00 AM IST)
     - cron: '15 5 * * *'
