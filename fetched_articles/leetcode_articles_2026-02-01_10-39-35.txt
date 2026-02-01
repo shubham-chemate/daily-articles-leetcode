@@ -1,0 +1,95 @@
+LeetCode Discuss - Latest 4 Articles
+Fetched on: 2026-02-01 10:39:35 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: xuRqZiNm
+Title: Interesting Coding questions for Online assessments
+Slug: interesting-coding-questions-for-online-iextt
+Article Type: DISCUSSION
+Posted: 2026-02-01 10:29:32 IST
+Updated: 2026-02-01 10:29:32 IST
+URL: https://leetcode.com/discuss/DISCUSSION/interesting-coding-questions-for-online-iextt
+Author: 
+
+--- Summary ---
+Hard LC Contest Solutions and
+New Questions from Greedy, Number Theory and DP on Trees
+
+
+
+
+
+
+Solutions
+Divide and Conquer DP
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7lLcZaZH
+Title: websit for clothing brand
+Slug: websit-for-clothing-brand-by-adilgujjar2-mjyi
+Article Type: DISCUSSION
+Posted: 2026-02-01 10:27:16 IST
+Updated: 2026-02-01 10:33:00 IST
+URL: https://leetcode.com/discuss/DISCUSSION/websit-for-clothing-brand-by-adilgujjar2-mjyi
+Author: Adilgujjar234
+
+--- Summary ---
+{
+"name": "clothing-brand-site",
+"version": "1.0.0",
+"main": "server.js",
+"scripts": {
+"start": "node server.js"
+},
+"dependencies": {
+"express": "^4.18.2",
+"body-parser": "^1.20.2",
+"fs": "^0.0.1"
+}
+}
+const express = require('express');
+const bodyPar
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: QWsU37HV
+Title: Something I Learned After Revisiting Old LeetCode Problems
+Slug: something-i-learned-after-revisiting-old-4eum
+Article Type: DISCUSSION
+Posted: 2026-02-01 10:24:21 IST
+Updated: 2026-02-01 10:24:21 IST
+URL: https://leetcode.com/discuss/DISCUSSION/something-i-learned-after-revisiting-old-4eum
+Author: ayush_gupta_2003
+
+--- Summary ---
+I recently went back to problems I solved a few weeks ago.What surprised me wasn’t that I forgot the code —
+it was that I forgot why the solution worked.That made me realize understanding fades if you don’t revisit it.Now I focus more on remembering
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: JXcwbhRn
+Title: Amazon SDE-1 Interview: Moving to the Next Round – What to Expect?
+Slug: amazon-sde-1-interview-moving-to-the-nex-ufm7
+Article Type: DISCUSSION
+Posted: 2026-02-01 10:01:15 IST
+Updated: 2026-02-01 10:01:15 IST
+URL: https://leetcode.com/discuss/DISCUSSION/amazon-sde-1-interview-moving-to-the-nex-ufm7
+Author: 
+
+--- Summary ---
+I recently interviewed for the Amazon SDE-1 position and wanted to share my experience so far, as well as seek guidance from people who have gone through a similar process.My Interview Experience So FarI attended two onsite interview rounds for the A
+
