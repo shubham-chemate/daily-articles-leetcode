@@ -25,10 +25,10 @@ jobs:
       - name: Run Aggregator
         env:
           SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
-          FROM_EMAIL: ${{ secrets.FROM_EMAIL }}
-          FROM_NAME: "LeetCode Daily Digest"
-          TO_EMAILS: ${{ secrets.TO_EMAILS }}
-          ENABLE_FILE_OUTPUT: "true"  # Set to "false" to disable file output
+          FROM_EMAIL: ${{ vars.FROM_EMAIL }}
+          FROM_NAME: ${{ vars.FROM_NAME }}
+          TO_EMAILS: ${{ vars.TO_EMAILS }}
+          ENABLE_FILE_OUTPUT: ${{ vars.ENABLE_FILE_OUTPUT || 'true' }}
         run: go run main.go
 
       - name: Commit and Push Results
