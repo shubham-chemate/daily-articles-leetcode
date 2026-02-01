@@ -9,17 +9,12 @@
 
 The workflow runs automatically every day at 03:45 UTC (09:15 AM IST) via GitHub Actions.
 
-### Important Note About Scheduled Workflows
-
-GitHub automatically disables scheduled workflows if a repository has no activity for 60 days. To prevent this:
-
-1. **Keep-Alive Workflow**: A monthly keep-alive workflow runs on the 1st of each month to keep all workflows active.
-2. **Manual Trigger**: You can manually trigger the workflow anytime from the Actions tab using the "Run workflow" button.
-3. **Re-enabling**: If workflows get disabled, visit the Actions tab and re-enable them manually.
+Since the workflow runs daily, it naturally prevents GitHub's 60-day inactivity timeout that would otherwise disable scheduled workflows.
 
 ### Troubleshooting
 
 If the workflow didn't run today:
-- Check if the workflow is enabled in the Actions tab
+- Check if the workflow is enabled in the Actions tab (it may have been disabled due to previous inactivity)
 - Manually trigger the workflow using the "Run workflow" button
-- Verify that Actions are enabled in repository settings 
+- Verify that Actions are enabled in repository settings
+- Once running, the daily schedule will keep the workflow active 
