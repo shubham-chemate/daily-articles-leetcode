@@ -3,7 +3,7 @@ name: LeetCode Article Aggregator - File Output
 on:
   schedule:
     # Runs at 02:30 UTC daily (08:00 AM IST)
-    - cron: '58 3 * * *'
+    - cron: '15 4 * * *'
   workflow_dispatch: # Allows manual trigger for testing
 
 jobs:
