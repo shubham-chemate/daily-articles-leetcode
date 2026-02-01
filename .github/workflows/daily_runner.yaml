@@ -2,9 +2,15 @@ name: LeetCode Article Aggregator - File Output
 
 on:
   schedule:
-    # Runs at 02:30 UTC daily (08:00 AM IST)
+    # Runs at 03:45 UTC daily (09:15 AM IST)
     - cron: '45 3 * * *'
   workflow_dispatch: # Allows manual trigger for testing
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/daily_runner.yaml'
+      - 'main.go'
 
 jobs:
   run-aggregator:
