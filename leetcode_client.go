@@ -23,6 +23,7 @@ const (
 				edges {
 					node {
 						uuid
+						topicId
 						title
 						slug
 						summary

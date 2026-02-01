@@ -33,7 +33,7 @@ func writeArticlesToFile(articles []Article, filename string) error {
 		fmt.Fprintf(file, "Article Type: %s\n", article.ArticleType)
 		fmt.Fprintf(file, "Posted: %s\n", formatStringTimestamp(article.CreatedAt))
 		fmt.Fprintf(file, "Updated: %s\n", formatStringTimestamp(article.UpdatedAt))
-		fmt.Fprintf(file, "URL: https://leetcode.com/discuss/%s/%s\n", article.ArticleType, article.Slug)
+		fmt.Fprintf(file, "URL: https://leetcode.com/discuss/post/%d/%s/\n", article.TopicId, article.Slug)
 		fmt.Fprintf(file, "Author: %s\n", article.Author.UserName)
 
 		// Summary

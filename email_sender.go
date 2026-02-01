@@ -125,11 +125,12 @@ func generateHTMLEmail(articles []Article, ist *time.Location) string {
 	for i, article := range articles {
 		html.WriteString(fmt.Sprintf(`
         <div class="article">
-            <div class="article-title">%d. <a href="https://leetcode.com/discuss/%s">%s</a></div>
+            <div class="article-title">%d. <a href="https://leetcode.com/discuss/post/%d/%s/">%s</a></div>
             <div class="article-meta">
                 👤 %s | 📅 %s | 📝 %s
             </div>`,
 			i+1,
+			article.TopicId,
 			article.Slug,
 			escapeHTML(article.Title),
 			escapeHTML(article.Author.UserName),

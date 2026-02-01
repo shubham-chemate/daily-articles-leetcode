@@ -71,7 +71,7 @@ func main() {
 		creationTime := formatStringTimestamp(article.CreatedAt)
 		fmt.Printf("\n%d. %s\n", i+1, article.Title)
 		fmt.Printf("   Created: %s\n", creationTime)
-		fmt.Printf("   URL: https://leetcode.com/discuss/%s/%s\n", article.ArticleType, article.Slug)
+		fmt.Printf("   URL: https://leetcode.com/discuss/post/%d/%s/\n", article.TopicId, article.Slug)
 	}
 
 	// Send email if configured

@@ -3,6 +3,7 @@ package main
 // Article represents an article from LeetCode discuss section
 type Article struct {
 	UUID        string     `json:"uuid"`
+	TopicId     int        `json:"topicId"`
 	Title       string     `json:"title"`
 	Slug        string     `json:"slug"`
 	Summary     string     `json:"summary"`
