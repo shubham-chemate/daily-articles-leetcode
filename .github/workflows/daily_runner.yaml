@@ -1,4 +1,4 @@
-name: LeetCode Article Aggregator - File Output
+name: LeetCode Article Aggregator
 
 on:
   schedule:
