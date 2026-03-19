@@ -1,0 +1,156 @@
+LeetCode Discuss - Latest 8 Articles
+Fetched on: 2026-03-19 10:04:14 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: fd7oixhQ
+Title: Beginner-Friendly Recursion Explanation (Step-by-Step)
+Slug: beginner-friendly-recursion-explanation-2mcc8
+Article Type: DISCUSSION
+Posted: 2026-03-19 09:55:43 IST
+Updated: 2026-03-19 09:55:43 IST
+URL: https://leetcode.com/discuss/post/7663021/beginner-friendly-recursion-explanation-2mcc8/
+Author: daBIT101
+
+--- Summary ---
+Intuition
+This questions is regarding recursion.What is recursion? Recursion is basicaly calling a method on itself.You can think of a magician pulling out a hat out of a hat and repeating the cycle.Recursion only works when you have a ending solutio
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4poCPiSd
+Title: Google L3 interview Experience | Reject
+Slug: google-l3-interview-experience-reject-by-fzrv
+Article Type: DISCUSSION
+Posted: 2026-03-19 08:48:33 IST
+Updated: 2026-03-19 08:48:33 IST
+URL: https://leetcode.com/discuss/post/7662934/google-l3-interview-experience-reject-by-fzrv/
+Author: 
+
+--- Summary ---
+Hi community,
+I would like to give out some of my experience with google.Had a recruiter reach out to me on Linkedin.
+Scheduled 2 online rounds - 1 technical and 1 googlyness.Round 1 - The question was very simple, just some hashmap question. Follow-
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: wZaQWFgn
+Title:  Tier-3 Student: MNC Job vs M.Tech (IIT) ?
+Slug: tier-3-student-mnc-job-vs-mtech-iit-by-s-te6l
+Article Type: DISCUSSION
+Posted: 2026-03-19 08:36:34 IST
+Updated: 2026-03-19 08:37:02 IST
+URL: https://leetcode.com/discuss/post/7662920/tier-3-student-mnc-job-vs-mtech-iit-by-s-te6l/
+Author: samikshal2404
+
+--- Summary ---
+Hi everyone,I’m a pre-final year CS student from a Tier-3 college in India and I’m trying to decide between:
+Joining an MNC through campus placement
+Preparing for GATE and pursuing M.Tech from an IIT
+I’d really appreciate honest input from people who
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 56OJHRO8
+Title: Study Group 10 PM To 12 AM
+Slug: study-group-10-pm-to-12-am-by-aryanbatra-nebc
+Article Type: DISCUSSION
+Posted: 2026-03-19 08:34:41 IST
+Updated: 2026-03-19 08:34:41 IST
+URL: https://leetcode.com/discuss/post/7662916/study-group-10-pm-to-12-am-by-aryanbatra-nebc/
+Author: aryanbatra
+
+--- Summary ---
+Hi guys.We have a new DSA group with professionals and final pre-final students.We do DSA every day starting from 10 PM and then we explain our solutions.If someone is interested, they can join the group.https://chat.whatsapp.com/EZ8YeDr95iP8GaVNlJvQ
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Si1TuZ6z
+Title: Google Screening Rounds SWE4
+Slug: google-screening-rounds-swe4-by-anonymou-5tzf
+Article Type: DISCUSSION
+Posted: 2026-03-19 08:02:02 IST
+Updated: 2026-03-19 08:02:02 IST
+URL: https://leetcode.com/discuss/post/7662886/google-screening-rounds-swe4-by-anonymou-5tzf/
+Author: Anonymously_Yours
+
+--- Summary ---
+ScreeningRound1: CodingGiven a sorted array arr of size N, and an integer diff, construct an undirected graph where each node represents an index.
+Connect nodes i and j if |arr[i] - arr[j]| <= diff. You are given a list of queries [u, v]. Return a li
+
+--- Tags ---
+  - Interview (interview) []
+  - L4 Google (l4-google) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: K5UCQ98Y
+Title: DSA peer group
+Slug: dsa-peer-group-by-2309120-yn5b
+Article Type: DISCUSSION
+Posted: 2026-03-19 07:27:17 IST
+Updated: 2026-03-19 07:27:17 IST
+URL: https://leetcode.com/discuss/post/7662857/dsa-peer-group-by-2309120-yn5b/
+Author: 2309120
+
+--- Summary ---
+Hi everyone!
+I’m starting a small DSA peer practice group to solve and discuss problems in Arrays, Strings, Graphs, and DP.
+If you’re interested in joining or collaborating. comment below or reply to this post...
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: KCQLIi7a
+Title: Instacart online assessment 
+Slug: instacart-online-assessment-by-anonymous-ak2q
+Article Type: DISCUSSION
+Posted: 2026-03-19 04:54:39 IST
+Updated: 2026-03-19 04:54:39 IST
+URL: https://leetcode.com/discuss/post/7662747/instacart-online-assessment-by-anonymous-ak2q/
+Author: 
+
+--- Summary ---
+Does any one have experience with codesignal assesment by instacart? What can I expect? There aren't too many questions tagged.
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: mxOKqcTW
+Title: How I failed L3 interview at Google
+Slug: how-i-failed-l3-interview-at-google-by-m-dbh2
+Article Type: DISCUSSION
+Posted: 2026-03-19 04:11:02 IST
+Updated: 2026-03-19 04:11:02 IST
+URL: https://leetcode.com/discuss/post/7662694/how-i-failed-l3-interview-at-google-by-m-dbh2/
+Author: Mark2004
+
+--- Summary ---
+Hello! Recently(2 weeks ago) I had an opportunity to participate in interviews at Google - online technical and GooglinessA couple of days ago I got a call with the recruiter and I was notified that I didn't make it... Was told that I almost passed t
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 5
+
