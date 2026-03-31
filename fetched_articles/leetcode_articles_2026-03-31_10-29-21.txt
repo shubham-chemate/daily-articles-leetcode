@@ -1,0 +1,1632 @@
+LeetCode Discuss - Latest 78 Articles
+Fetched on: 2026-03-31 10:29:21 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: sdKJd8OD
+Title: 🧠 Small thing that helped me while practicing LeetCode
+Slug: small-thing-that-helped-me-while-practic-0wml
+Article Type: DISCUSSION
+Posted: 2026-03-31 10:00:47 IST
+Updated: 2026-03-31 10:00:47 IST
+URL: https://leetcode.com/discuss/post/7725371/small-thing-that-helped-me-while-practic-0wml/
+Author: ayush_gupta_2003
+
+--- Summary ---
+Earlier I used to jump straight into coding.
+Now I first try to write the logic in simple words, then convert it into code line by line.It made problem solving much clearer for me.Recently I also started writing some of these explanations in a small
+
+--- Reactions ---
+  UPVOTE: 2
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: NQlVeK80
+Title: 3474. Python3
+Slug: 3474-python3-by-alif3443-hf2b
+Article Type: DISCUSSION
+Posted: 2026-03-31 09:55:41 IST
+Updated: 2026-03-31 09:55:41 IST
+URL: https://leetcode.com/discuss/post/7725361/3474-python3-by-alif3443-hf2b/
+Author: alif3443
+
+--- Summary ---
+A straightforward left-to-right greedy algorithm is highly optimal here: we fix the mandatory characters first, then greedily place the smallest possible alphabet character at each unknown position while dynamically tracking constraints to prevent ac
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: BFvNkTZ6
+Title: PS offer, looking for Gurgaon hybrid product companies 
+Slug: ps-offer-looking-for-gurgaon-hybrid-prod-8va7
+Article Type: DISCUSSION
+Posted: 2026-03-31 09:37:38 IST
+Updated: 2026-03-31 09:37:38 IST
+URL: https://leetcode.com/discuss/post/7725328/ps-offer-looking-for-gurgaon-hybrid-prod-8va7/
+Author: 
+
+--- Summary ---
+Hi, I got offer from Publicis Sapient they are offering me 28 LPA fixed, currently I am working in startup I am feeling exhausted so I want to switch to relatively good WLB company, my current salary is 26 LPA, I want either WFH roles or hybrid roles
+
+--- Tags ---
+  - Career (career) []
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 9AcsODyb
+Title: Why all problems showing need subscription 
+Slug: why-all-problems-showing-need-subscripti-eh2z
+Article Type: DISCUSSION
+Posted: 2026-03-31 09:27:24 IST
+Updated: 2026-03-31 09:27:24 IST
+URL: https://leetcode.com/discuss/post/7725311/why-all-problems-showing-need-subscripti-eh2z/
+Author: Amirtha_varshini_Elavarasu
+
+--- Summary ---
+is this glitch or here after all the problems need subscription
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: HMQQJbFw
+Title: JPMorgan SEP OA + HireVue, What to Expect?
+Slug: jpmorgan-sep-oa-hirevue-what-to-expect-b-hy91
+Article Type: DISCUSSION
+Posted: 2026-03-31 09:09:35 IST
+Updated: 2026-03-31 09:11:30 IST
+URL: https://leetcode.com/discuss/post/7725282/jpmorgan-sep-oa-hirevue-what-to-expect-b-hy91/
+Author: 
+
+--- Summary ---
+Hi everyone,I’m preparing for the JPMorgan Chase Software Engineer Program (SEP) and wanted to understand the latest hiring process.Could anyone who recently attempted the OA share:Difficulty level (Easy/Medium/Hard?)
+Topics asked (arrays, graphs, DP
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: sWaeW8KE
+Title: Ebay SDE-3 Interview Experience - Ebay Live
+Slug: ebay-sde-3-interview-experience-ebay-liv-b5t0
+Article Type: DISCUSSION
+Posted: 2026-03-31 08:42:21 IST
+Updated: 2026-03-31 08:42:21 IST
+URL: https://leetcode.com/discuss/post/7725248/ebay-sde-3-interview-experience-ebay-liv-b5t0/
+Author: 
+
+--- Summary ---
+I have recently interviewed at Ebay for the position of SDE-3 in their Ebay Live team. Sharing my experience here:Round 1: This was a DSA Problem Solving round. There was one question on graph DS similar to https://leetcode.com/problems/number-of-isl
+
+--- Tags ---
+  - eBay (ebay) [COMPANY]
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 8
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Wc4P7wJu
+Title: Amazon AUTA Timeline
+Slug: amazon-auta-timeline-by-anonymous_user-hggo
+Article Type: DISCUSSION
+Posted: 2026-03-31 07:58:51 IST
+Updated: 2026-03-31 07:59:17 IST
+URL: https://leetcode.com/discuss/post/7725198/amazon-auta-timeline-by-anonymous_user-hggo/
+Author: 
+
+--- Summary ---
+What is the average timeline from OA to interviews of Amazon AUTA. Few days ago I applied for SDE on the portal and got an OA after 2-3 days. I had 7 days to complete the OA and I did in on March 24, 2026. It has been seven days. How long does it tak
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - amazon sde1 (amazon-sde1-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: MvlkSLSS
+Title: Common SQL Interview Questions (With Answers) - Asked in FAANG normally
+Slug: common-sql-interview-questions-with-answ-1efs
+Article Type: DISCUSSION
+Posted: 2026-03-31 07:01:24 IST
+Updated: 2026-03-31 07:01:57 IST
+URL: https://leetcode.com/discuss/post/7725121/common-sql-interview-questions-with-answ-1efs/
+Author: ASAN-11
+
+--- Summary ---
+These are the most frequently asked SQL patterns — with clean queries.1. Highest Salary per Department2. Second Highest Salary3. Duplicate Emails4. Customers Who Never Ordered5. Latest Record per User6. Top 3 Salaries per Department7. Employees Earni
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 5
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kO3vlSRb
+Title: How to Start LeetCode the Right Way
+Slug: how-to-start-leetcode-the-right-way-by-a-3c84
+Article Type: DISCUSSION
+Posted: 2026-03-31 06:36:52 IST
+Updated: 2026-03-31 06:36:52 IST
+URL: https://leetcode.com/discuss/post/7725110/how-to-start-leetcode-the-right-way-by-a-3c84/
+Author: ASAN-11
+
+--- Summary ---
+Most beginners overcomplicate the start. The truth is simple:
+You don’t need to know everything to begin — you just need to begin correctly.🧠 Step 1: Build the BaseBefore jumping into problems, be comfortable with:
+Arrays & Strings
+Basic Loops & Cond
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 5
+  THUMBS_DOWN: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: NAodcAYg
+Title: Salesforce SMTS | Bangalore 
+Slug: salesforce-smts-bangalore-by-anonymous_u-aw9a
+Article Type: DISCUSSION
+Posted: 2026-03-31 06:30:10 IST
+Updated: 2026-03-31 06:30:10 IST
+URL: https://leetcode.com/discuss/post/7725105/salesforce-smts-bangalore-by-anonymous_u-aw9a/
+Author: 
+
+--- Summary ---
+Current Comp (Known MNC)
+Experince : 7.5 years
+Position : MTS3
+Fixed : 36
+Annual Bonus: 3
+Stocks : 6Total comp : 45 LPASalesforce SMTS Offer
+Base : 53
+Bonus(15%) : 7.95
+Stocks : $74000 over 4 yearsTotal Comp : 78 LPAI have accepted the offer, Honestl
+
+--- Tags ---
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0NVOSasl
+Title: March 31st Daily Challenge
+Slug: march-31st-daily-challenge-by-ravikumar_-4bfg
+Article Type: DISCUSSION
+Posted: 2026-03-31 06:09:22 IST
+Updated: 2026-03-31 06:09:22 IST
+URL: https://leetcode.com/discuss/post/7725092/march-31st-daily-challenge-by-ravikumar_-4bfg/
+Author: Ravikumar_18
+
+--- Summary ---
+#Please upvote if you like
+
+--- Tags ---
+  - String (string) [TOPIC]
+  - Greedy (greedy) [TOPIC]
+  - Principle (principle) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: uSAvxLpB
+Title: Expedia Data Scientist 2 Position Interview
+Slug: expedia-data-scientist-2-position-interv-qga0
+Article Type: DISCUSSION
+Posted: 2026-03-31 04:00:59 IST
+Updated: 2026-03-31 04:00:59 IST
+URL: https://leetcode.com/discuss/post/7724884/expedia-data-scientist-2-position-interv-qga0/
+Author: 
+
+--- Summary ---
+I have an expedia interview coming for a data scientist 2 position under product and analytics team. any suggestions on how to go about the coding round? any other suggestions are also helpful!
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ST30Odi4
+Title: Thoughtworks Interview Process for Senior Consultant (5 YOE Java) – Need Guidance
+Slug: thoughtworks-interview-process-for-senio-famr
+Article Type: DISCUSSION
+Posted: 2026-03-31 03:46:57 IST
+Updated: 2026-03-31 03:47:13 IST
+URL: https://leetcode.com/discuss/post/7724844/thoughtworks-interview-process-for-senio-famr/
+Author: 
+
+--- Summary ---
+Hey everyone,I have an interview coming up for a Senior Consultant role at Thoughtworks and recently cleared the code pairing round.I have around 5 years of experience as a Java developer, and I’m trying to understand how to best prepare for the upco
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: zw37Gzox
+Title: How did I perform on the  interview? If you're hiring manager/interviewer, would you pass/hire?
+Slug: how-did-i-perform-on-interview-if-youre-0da6e
+Article Type: DISCUSSION
+Posted: 2026-03-31 02:48:21 IST
+Updated: 2026-03-31 08:08:12 IST
+URL: https://leetcode.com/discuss/post/7724756/how-did-i-perform-on-interview-if-youre-0da6e/
+Author: 
+
+--- Summary ---
+DSA round:part 1: I was given a snippet of code in the language I chose before the interview, then I was asked some basic/fundamental questions about the language as well as pointing out what is wrong with the code.I was able to identify major flaws
+
+--- Tags ---
+  - Technical Interview (technical-interview) [COMPANY]
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+  - Behavioral Interview (behavioral-interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0MQT8mNU
+Title: Where do y'all practice concurrency/multithreading?
+Slug: where-do-yall-practice-concurrencymultit-6hlx
+Article Type: DISCUSSION
+Posted: 2026-03-31 02:36:46 IST
+Updated: 2026-03-31 02:36:46 IST
+URL: https://leetcode.com/discuss/post/7724720/where-do-yall-practice-concurrencymultit-6hlx/
+Author: Maslor
+
+--- Summary ---
+Often times an interviewer may ask a question about concurrency as a follow-up to a regular leetcode question:
+"Image that the machine where this runs has multiple cores. How could you make the program faster?", or something along those lines.
+The an
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: IqSKkwdT
+Title: Expedia || SDE-2
+Slug: expedia-sde-2-by-anonymous_user-lxcn
+Article Type: DISCUSSION
+Posted: 2026-03-31 02:24:06 IST
+Updated: 2026-03-31 02:24:06 IST
+URL: https://leetcode.com/discuss/post/7724675/expedia-sde-2-by-anonymous_user-lxcn/
+Author: 
+
+--- Summary ---
+ROUND-1
+Question 1: https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/description/ROUND-2
+Question 1: https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/
+Question 2: https://leetcode.com/proble
+
+--- Tags ---
+  - Expedia (expedia) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: A8eIsgos
+Title: Need Suggestion Amazon SDE 2 vs Startup
+Slug: need-suggestion-amazon-sde-2-vs-startup-ij7kc
+Article Type: DISCUSSION
+Posted: 2026-03-31 01:53:28 IST
+Updated: 2026-03-31 01:54:23 IST
+URL: https://leetcode.com/discuss/post/7724573/need-suggestion-amazon-sde-2-vs-startup-ij7kc/
+Author: 
+
+--- Summary ---
+Currently I have 4.5 YOE, laid off from Microsoft in 2025I have 3 offers.
+Amazon SDE 2 - Prime Video Bangalore
+Mid stage startup (SSE)- Hyderabad- 50L Base + 15L ESOP (No relocation provided)
+Another startup - SSE (Remote) - 55L Base + 8L ESOP
+I curr
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: q3PI6mqg
+Title: gfh
+Slug: gfh-by-fgjhgjhgjhgj-u6qc
+Article Type: DISCUSSION
+Posted: 2026-03-31 01:43:09 IST
+Updated: 2026-03-31 01:43:09 IST
+URL: https://leetcode.com/discuss/post/7724537/gfh-by-fgjhgjhgjhgj-u6qc/
+Author: fgjhgjhgjhgj
+
+--- Summary ---
+hgh
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: dajw7NEK
+Title: Design Cancelled Task Tracker | LLD Java Concurrency
+Slug: design-cancelled-task-tracker-lld-java-c-muso
+Article Type: DISCUSSION
+Posted: 2026-03-31 01:27:54 IST
+Updated: 2026-03-31 01:27:54 IST
+URL: https://leetcode.com/discuss/post/7724498/design-cancelled-task-tracker-lld-java-c-muso/
+Author: shubha2207
+
+--- Summary ---
+QuestionYou have an ExecutorService that runs tasks. When you call shutdownNow(), it returns a list of tasks that were never started. But what about the tasks that were already running and got interrupted mid‑execution? Those are gone – no trace, no
+
+--- Tags ---
+  - Concurrency (concurrency) [TOPIC]
+  - Career (career) []
+  - Low Level Design (low-level-design) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: t4hyofx5
+Title: is it still worth grinding DSA/System Design in 2026?
+Slug: 15-yoe-is-it-still-worth-grinding-dsasys-f0g3
+Article Type: DISCUSSION
+Posted: 2026-03-31 01:22:55 IST
+Updated: 2026-03-31 01:23:55 IST
+URL: https://leetcode.com/discuss/post/7724487/15-yoe-is-it-still-worth-grinding-dsasys-f0g3/
+Author: LeetcodeNerds
+
+--- Summary ---
+I have 5 years of experience in backend development, but I haven’t really focused on DSA style interview prep or formal system design rounds so far.I’m thinking of taking a few months now to seriously work on these and try for stronger tech roles.Wit
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 60vJrtvz
+Title: Delivery Hero SDE II Interview
+Slug: delivery-hero-sde-ii-interview-by-gmgepf-6zfp
+Article Type: DISCUSSION
+Posted: 2026-03-31 01:16:21 IST
+Updated: 2026-03-31 01:17:32 IST
+URL: https://leetcode.com/discuss/post/7724463/delivery-hero-sde-ii-interview-by-gmgepf-6zfp/
+Author: gMgepfenlO
+
+--- Summary ---
+Does anyone know if the Leetcode premium has the most asked/ questions asked in past at Delivery Hero for SDE II role (Java)?
+I need to know if it will be helpful to purchase the premium for my interviews at DH.
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: d2QSM8bu
+Title: Genuine Suggestions needed regarding job applications
+Slug: genuine-suggestions-needed-regarding-job-7roq
+Article Type: DISCUSSION
+Posted: 2026-03-31 00:56:13 IST
+Updated: 2026-03-31 00:56:13 IST
+URL: https://leetcode.com/discuss/post/7724399/genuine-suggestions-needed-regarding-job-7roq/
+Author: 
+
+--- Summary ---
+Is it just me other people facing same issue as me , sending out 100+ application in span of 1-2 month and not getting a single interview callFor context - 2YOE Backend engineer, Tech Stack - NestJS , AWS , PostgresAnyone with the same experience ran
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 9rPv37xM
+Title: The cons of Indian educational system
+Slug: the-cons-of-indian-educational-system-by-17c9
+Article Type: DISCUSSION
+Posted: 2026-03-31 00:46:30 IST
+Updated: 2026-03-31 00:46:30 IST
+URL: https://leetcode.com/discuss/post/7724367/the-cons-of-indian-educational-system-by-17c9/
+Author: 
+
+--- Summary ---
+Every one has to do cp for some reason or another there is like a strict requirement for CP not just for like practice everyone treats it as like a prerequisite, even if you are interested or not it doesn't matter you just need to do it and excel in
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZZTLDFBR
+Title: Why I Stopped Chasing Patterns and Started Thinking
+Slug: why-i-stopped-chasing-patterns-and-start-9cft
+Article Type: DISCUSSION
+Posted: 2026-03-31 00:29:51 IST
+Updated: 2026-03-31 00:29:51 IST
+URL: https://leetcode.com/discuss/post/7724305/why-i-stopped-chasing-patterns-and-start-9cft/
+Author: syedahmershah
+
+--- Summary ---
+Hey everyone, I’m Ahmer Shah. I’ve been grinding LeetCode for a while, and I noticed something: I was spending more time memorizing patterns than actually understanding how to think through problems. That stops here.I’m trying to focus on understandi
+
+--- Reactions ---
+  UPVOTE: 1
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DLxgW8Qs
+Title: Why is leetcode.com/explore down so almost daily for hours on end?
+Slug: why-is-leetcodecomexplore-down-so-almost-ksf0
+Article Type: DISCUSSION
+Posted: 2026-03-31 00:27:40 IST
+Updated: 2026-03-31 00:27:40 IST
+URL: https://leetcode.com/discuss/post/7724299/why-is-leetcodecomexplore-down-so-almost-ksf0/
+Author: jonvw
+
+--- Summary ---
+The LeetCode Explore is down almost every day, often for several hours, yet it doesn't show up as an outage on the status page.   Seems like LeetCode is either not aware of the issue (inadequate metrics) or are hiding it.
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6FPoibzu
+Title: Starting From Scratch, But Not From Zero
+Slug: starting-from-scratch-but-not-from-zero-twas7
+Article Type: DISCUSSION
+Posted: 2026-03-31 00:25:39 IST
+Updated: 2026-03-31 00:25:39 IST
+URL: https://leetcode.com/discuss/post/7724284/starting-from-scratch-but-not-from-zero-twas7/
+Author: syedahmershah
+
+--- Summary ---
+Hi, I’m Ahmer Shah, a software engineering student trying to get serious about problem solving. I’ve been dabbling in LeetCode for a while, but now I want to treat it like a real discipline, not just a side hobby.I’m focusing on building strong funda
+
+--- Tags ---
+  - Career (career) []
+  - General Discussion (general-discussion-2) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Q2BpHjqk
+Title: Feature Updates | ExpInterview.com
+Slug: feature-updates-expinterviewcom-by-patha-s8l4
+Article Type: DISCUSSION
+Posted: 2026-03-31 00:04:36 IST
+Updated: 2026-03-31 00:04:36 IST
+URL: https://leetcode.com/discuss/post/7724211/feature-updates-expinterviewcom-by-patha-s8l4/
+Author: pathakcodes
+
+--- Summary ---
+Hey all! 👋Want to share what can be helpful for all of you, really excited to share new updates on https://expinterview.com
+The Blind 75 list is live! 📋
+You know the list. Everyone swears by it. Now you can work through all 75 problems right inside E
+
+--- Reactions ---
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: xk2bUJcR
+Title: Top Site to Buy Verified Walmart Seller Account - Quick 
+Slug: top-site-to-buy-verified-walmart-seller-to7up
+Article Type: DISCUSSION
+Posted: 2026-03-31 00:00:58 IST
+Updated: 2026-03-31 00:00:58 IST
+URL: https://leetcode.com/discuss/post/7724195/top-site-to-buy-verified-walmart-seller-to7up/
+Author: Hariew3
+
+--- Summary ---
+What Is Walmart Marketplace & How Does It Work?
+Walmart Marketplace is an innovative online platform that enables third-party vendors to sell their products alongside Walmart’s own offerings. If you’ve ever thought about selling on Amazon or eBay, yo
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: EzqGRIDo
+Title: Goldman Sachs CoderPad Interview – how does it actually work?
+Slug: goldman-sachs-coderpad-interview-how-doe-2bcj
+Article Type: DISCUSSION
+Posted: 2026-03-30 23:58:09 IST
+Updated: 2026-03-30 23:58:09 IST
+URL: https://leetcode.com/discuss/post/7724180/goldman-sachs-coderpad-interview-how-doe-2bcj/
+Author: somuanu000
+
+--- Summary ---
+Hey everyone,I have a CoderPad interview coming up with Goldman Sachs and wanted to understand how the format usually works from people who’ve already taken it.Does the interviewer give the problem live during the session, or do we see questions alre
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kQ9w8mdU
+Title: 🔥 Why Most People Get Stuck in DSA (And How to Break Out of It)
+Slug: why-most-people-get-stuck-in-dsa-and-how-dwn4
+Article Type: DISCUSSION
+Posted: 2026-03-30 23:36:56 IST
+Updated: 2026-03-30 23:36:56 IST
+URL: https://leetcode.com/discuss/post/7724085/why-most-people-get-stuck-in-dsa-and-how-dwn4/
+Author: Aman_Patel142
+
+--- Summary ---
+I’ve noticed something very common — and honestly, I’ve been there too.You start solving problems on LeetCode, maybe a few easy ones feel good. Then you move to medium… suddenly things slow down. Hard problems feel impossible. You watch solutions, un
+
+--- Reactions ---
+  UPVOTE: 4
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: aH2BLrhh
+Title: Kid with greatest number of candies
+Slug: kid-with-greatest-number-of-candies-by-p-ob57
+Article Type: DISCUSSION
+Posted: 2026-03-30 23:33:51 IST
+Updated: 2026-03-30 23:33:51 IST
+URL: https://leetcode.com/discuss/post/7724075/kid-with-greatest-number-of-candies-by-p-ob57/
+Author: purvaapednekar
+
+--- Summary ---
+class Solution {
+public List kidsWithCandies(int[] candies, int extraCandies) {}
+
+--- Tags ---
+  - Array (array) [TOPIC]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: upnJjwaT
+Title: Amazon Sde-1 Interview Experience
+Slug: amazon-sde-1-interview-experience-by-ano-t6fz
+Article Type: DISCUSSION
+Posted: 2026-03-30 23:29:10 IST
+Updated: 2026-03-30 23:39:11 IST
+URL: https://leetcode.com/discuss/post/7724048/amazon-sde-1-interview-experience-by-ano-t6fz/
+Author: 
+
+--- Summary ---
+Online Assessment (OA)
+Coding: 1 Easy and 1 Medium DSA question
+Work Style Assessment: Standard Amazon Leadership Principles (LP) questions (Strongly Agree to Strongly Disagree)Round 1: DSA (onsite)Technical:
+Detonate the Maximum Bombs
+Follow-up: Var
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Technical Interview (technical-interview) [COMPANY]
+  - Career (career) []
+  - interview experience (interview-experience) []
+  - interview question (interview-question) []
+  - Interview (interview) []
+  - Behavioral Interview (behavioral-interview) []
+  - amazon sde1 (amazon-sde1-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 23bYnzXw
+Title: 5 Easy Ways to Buy Old Gmail Accounts for Safe Social Media Signups
+Slug: 5-easy-ways-to-buy-old-gmail-accounts-fo-96n1
+Article Type: DISCUSSION
+Posted: 2026-03-30 23:21:23 IST
+Updated: 2026-03-30 23:21:23 IST
+URL: https://leetcode.com/discuss/post/7723999/5-easy-ways-to-buy-old-gmail-accounts-fo-96n1/
+Author: cifig87267
+
+--- Summary ---
+17 Recommended Websites to Buying Old Gmail Accounts This Time
+What Is Gmail and Why It Matters
+Let’s start with the obvious—Gmail isn’t just an email service. It’s a gateway into an entire ecosystem powered by Google, including tools like Drive, You
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: lLY10Wyf
+Title: Best Place to Buy Old Gmail Accounts for Business & Personal Use
+Slug: best-place-to-buy-old-gmail-accounts-for-j4i0
+Article Type: DISCUSSION
+Posted: 2026-03-30 23:20:08 IST
+Updated: 2026-03-30 23:20:08 IST
+URL: https://leetcode.com/discuss/post/7723990/best-place-to-buy-old-gmail-accounts-for-j4i0/
+Author: cifig87267
+
+--- Summary ---
+17 Recommended Websites to Buying Old Gmail Accounts This Time
+What Is Gmail and Why It Matters
+Let’s start with the obvious—Gmail isn’t just an email service. It’s a gateway into an entire ecosystem powered by Google, including tools like Drive, You
+
+════════════════════════════════════════════════════════════════════════════════
+Article #35
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: xrTHGoz3
+Title: Best Popular Sites to Buy Old Gmail for Reliable Account Access
+Slug: best-popular-sites-to-buy-old-gmail-for-gksk7
+Article Type: DISCUSSION
+Posted: 2026-03-30 23:19:02 IST
+Updated: 2026-03-30 23:19:02 IST
+URL: https://leetcode.com/discuss/post/7723985/best-popular-sites-to-buy-old-gmail-for-gksk7/
+Author: cifig87267
+
+--- Summary ---
+17 Recommended Websites to Buying Old Gmail Accounts This Time
+What Is Gmail and Why It Matters
+Let’s start with the obvious—Gmail isn’t just an email service. It’s a gateway into an entire ecosystem powered by Google, including tools like Drive, You
+
+════════════════════════════════════════════════════════════════════════════════
+Article #36
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: X1bnjUzg
+Title: Buy Old Gmail Account for Quick Online Registrations
+Slug: buy-old-gmail-account-for-quick-online-r-v489
+Article Type: DISCUSSION
+Posted: 2026-03-30 23:16:26 IST
+Updated: 2026-03-30 23:16:26 IST
+URL: https://leetcode.com/discuss/post/7723969/buy-old-gmail-account-for-quick-online-r-v489/
+Author: cifig87267
+
+--- Summary ---
+17 Recommended Websites to Buying Old Gmail Accounts This Time
+What Is Gmail and Why It Matters
+Let’s start with the obvious—Gmail isn’t just an email service. It’s a gateway into an entire ecosystem powered by Google, including tools like Drive, You
+
+════════════════════════════════════════════════════════════════════════════════
+Article #37
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: t2ax1NAJ
+Title: How to Buy Verified Wise Accounts : Easy Way in 2026
+Slug: how-to-buy-verified-wise-accounts-easy-w-yrt0
+Article Type: DISCUSSION
+Posted: 2026-03-30 23:12:26 IST
+Updated: 2026-03-30 23:12:26 IST
+URL: https://leetcode.com/discuss/post/7723949/how-to-buy-verified-wise-accounts-easy-w-yrt0/
+Author: micegov169
+
+--- Summary ---
+Fast & Clean & Reliable Place to Buy Verified Wise Accounts With KYC
+What Is Wise and How Does It Work?
+If you’ve ever sent money internationally and felt frustrated by high fees or slow processing times, you’ve probably come across Wise. Wise is a g
+
+════════════════════════════════════════════════════════════════════════════════
+Article #38
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: G8p7DhYf
+Title: Buy Fully Verified Paypal Accounts for International ...
+Slug: buy-fully-verified-paypal-accounts-for-i-4jxy
+Article Type: DISCUSSION
+Posted: 2026-03-30 23:07:11 IST
+Updated: 2026-03-30 23:07:11 IST
+URL: https://leetcode.com/discuss/post/7723917/buy-fully-verified-paypal-accounts-for-i-4jxy/
+Author: kicafo9894
+
+--- Summary ---
+Secure Deal: Understanding Buy Verified PayPal Accounts the Right Way
+What Is PayPal and How Does It Work?
+If you’ve ever bought something online or sent money internationally, chances are you’ve used PayPal—or at least heard of it. PayPal is one of
+
+════════════════════════════════════════════════════════════════════════════════
+Article #39
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kN7TjFhh
+Title: i wonder if we can use java.utils while solving any coding question in MNC interview?
+Slug: i-wonder-if-we-can-use-javautils-while-s-05iw
+Article Type: DISCUSSION
+Posted: 2026-03-30 23:06:52 IST
+Updated: 2026-03-30 23:06:52 IST
+URL: https://leetcode.com/discuss/post/7723914/i-wonder-if-we-can-use-javautils-while-s-05iw/
+Author: 
+
+--- Summary ---
+i wonder if we can use java.utils while solving any coding question in MNC interview?
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #40
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Bwqjyc6Z
+Title: Buy Verified PayPal Accounts: Top 10 Sources
+Slug: buy-verified-paypal-accounts-top-10-sour-e8ds
+Article Type: DISCUSSION
+Posted: 2026-03-30 23:04:38 IST
+Updated: 2026-03-30 23:04:38 IST
+URL: https://leetcode.com/discuss/post/7723900/buy-verified-paypal-accounts-top-10-sour-e8ds/
+Author: kicafo9894
+
+--- Summary ---
+Secure Deal: Understanding Buy Verified PayPal Accounts the Right Way
+What Is PayPal and How Does It Work?
+If you’ve ever bought something online or sent money internationally, chances are you’ve used PayPal—or at least heard of it. PayPal is one of
+
+════════════════════════════════════════════════════════════════════════════════
+Article #41
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: NgcEM1Ze
+Title: 🌐 3 Algorithms That Power the Modern Web
+Slug: 3-algorithms-that-power-the-modern-web-b-423w
+Article Type: DISCUSSION
+Posted: 2026-03-30 22:58:08 IST
+Updated: 2026-03-30 22:58:08 IST
+URL: https://leetcode.com/discuss/post/7723859/3-algorithms-that-power-the-modern-web-b-423w/
+Author: ayushmankaushal028
+
+--- Summary ---
+1. Dijkstra's Algorithm (Shortest Path)
+What it does: Finds the most efficient route between two points in a network.
+Where you see it: Every time you use Google Maps, Waze, or when data packets route themselves across the internet to reach your scre
+
+--- Tags ---
+  - System Design (system-design) []
+  - Algorithm (algorithm) []
+  - operating-system (operating-system) []
+  - Distributed System (distributed-system) []
+
+--- Reactions ---
+  UPVOTE: 2
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #42
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: FS7JNV4a
+Title: How to Buy Verified Wise Accounts for Quick Currency Transactions
+Slug: how-to-buy-verified-wise-accounts-for-qu-faah
+Article Type: DISCUSSION
+Posted: 2026-03-30 22:22:46 IST
+Updated: 2026-03-30 22:22:46 IST
+URL: https://leetcode.com/discuss/post/7723599/how-to-buy-verified-wise-accounts-for-qu-faah/
+Author: gadoc86390
+
+--- Summary ---
+Fast & Clean & Reliable Place to Buy Verified Wise Accounts With KYC
+What Is Wise and How Does It Work?
+If you’ve ever sent money internationally and felt frustrated by high fees or slow processing times, you’ve probably come across Wise. Wise is a g
+
+════════════════════════════════════════════════════════════════════════════════
+Article #43
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: yQP9feEC
+Title: Buy Verified PayPal Accounts: Top 11 Sources
+Slug: buy-verified-paypal-accounts-top-11-sour-q5pu
+Article Type: DISCUSSION
+Posted: 2026-03-30 22:13:16 IST
+Updated: 2026-03-30 22:13:16 IST
+URL: https://leetcode.com/discuss/post/7723521/buy-verified-paypal-accounts-top-11-sour-q5pu/
+Author: cekoji7544
+
+--- Summary ---
+Secure Deal: Understanding Buy Verified PayPal Accounts the Right Way
+What Is PayPal and How Does It Work?
+If you’ve ever bought something online or sent money internationally, chances are you’ve used PayPal—or at least heard of it. PayPal is one of
+
+════════════════════════════════════════════════════════════════════════════════
+Article #44
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: GNYQWeAZ
+Title: JPMC Salary discussion! Need help urgently
+Slug: jpmc-salary-discussion-need-help-urgentl-h9z0
+Article Type: DISCUSSION
+Posted: 2026-03-30 21:54:32 IST
+Updated: 2026-03-30 21:54:32 IST
+URL: https://leetcode.com/discuss/post/7723398/jpmc-salary-discussion-need-help-urgentl-h9z0/
+Author: 
+
+--- Summary ---
+Hi all,
+Hope you are having a great day.
+I have a salary discussion on wednesday (2 days later) wanted to know how much is the band for the role of SEII. My current CTC is 14 LPA.Your help is much appreciated.Thanks and cheers.
+
+--- Tags ---
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #45
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kyjqmuBh
+Title: How to Buy Verified Payoneer Accounts Safely in 2026 (Step-by-Step)
+Slug: how-to-buy-verified-payoneer-accounts-sa-4jcw
+Article Type: DISCUSSION
+Posted: 2026-03-30 21:50:30 IST
+Updated: 2026-03-30 21:50:30 IST
+URL: https://leetcode.com/discuss/post/7723379/how-to-buy-verified-payoneer-accounts-sa-4jcw/
+Author: wiliama
+
+--- Summary ---
+Managing international payments can be difficult due to strict verification and account approval processes. Many freelancers and businesses look for faster ways to access global transactions without delays.Buy Verified Payoneer Accounts is a reliable
+
+════════════════════════════════════════════════════════════════════════════════
+Article #46
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Py7GlwRj
+Title: Top 13 Sites to Buy Verified Stripe Accounts for Safe Online Checkout Solutions
+Slug: top-13-sites-to-buy-verified-stripe-acco-jaf1
+Article Type: DISCUSSION
+Posted: 2026-03-30 21:32:19 IST
+Updated: 2026-03-30 21:32:19 IST
+URL: https://leetcode.com/discuss/post/7723244/top-13-sites-to-buy-verified-stripe-acco-jaf1/
+Author: lodece2983
+
+--- Summary ---
+Easy Wyas to Buy Fully Verified Stripe Accounts and Secure Hassle-Free Transactions!
+A fully verified Stripe account is one that has completed all identity and compliance checks required by Stripe. This includes confirming your personal or business i
+
+════════════════════════════════════════════════════════════════════════════════
+Article #47
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: V6hMXIcd
+Title: Best Place to Buy Verified Stripe Accounts ( New & Old )
+Slug: best-place-to-buy-verified-stripe-accoun-px2o
+Article Type: DISCUSSION
+Posted: 2026-03-30 21:31:09 IST
+Updated: 2026-03-30 21:31:09 IST
+URL: https://leetcode.com/discuss/post/7723230/best-place-to-buy-verified-stripe-accoun-px2o/
+Author: lodece2983
+
+--- Summary ---
+Easy Wyas to Buy Fully Verified Stripe Accounts and Secure Hassle-Free Transactions!
+A fully verified Stripe account is one that has completed all identity and compliance checks required by Stripe. This includes confirming your personal or business i
+
+════════════════════════════════════════════════════════════════════════════════
+Article #48
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Bg6s4FAs
+Title:  A Comprehensive Guide to Buying Verified PayPal Accounts Online
+Slug: a-comprehensive-guide-to-buying-verified-gc81
+Article Type: DISCUSSION
+Posted: 2026-03-30 21:23:01 IST
+Updated: 2026-03-30 21:23:01 IST
+URL: https://leetcode.com/discuss/post/7723160/a-comprehensive-guide-to-buying-verified-gc81/
+Author: rofifog110
+
+--- Summary ---
+A Comprehensive Guide to Buying Verified PayPal Accounts OnlineSecure Deal: Understanding Buy Verified PayPal Accounts the Right Way
+What Is PayPal and How Does It Work?
+If you’ve ever bought something online or sent money internationally, chances ar
+
+════════════════════════════════════════════════════════════════════════════════
+Article #49
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: AYqngbQi
+Title: Amazon OA new format
+Slug: amazon-oa-new-format-by-anonymous_user-88zz
+Article Type: DISCUSSION
+Posted: 2026-03-30 20:55:02 IST
+Updated: 2026-03-30 20:55:02 IST
+URL: https://leetcode.com/discuss/post/7722939/amazon-oa-new-format-by-anonymous_user-88zz/
+Author: 
+
+--- Summary ---
+Hi I got an Amazon OA link but it has a different format -Coding Challenge – this timed section takes 100 minutes; work through two coding problems. One will be a traditional code writing question, and in the other you will have access to an AI codin
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+
+--- Reactions ---
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #50
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ubd7dunv
+Title: Can someone explain me how beats are calculated on Leetcode and why this happened
+Slug: can-someone-explain-me-how-beats-are-cal-ni0b
+Article Type: DISCUSSION
+Posted: 2026-03-30 20:53:52 IST
+Updated: 2026-03-30 20:53:52 IST
+URL: https://leetcode.com/discuss/post/7722921/can-someone-explain-me-how-beats-are-cal-ni0b/
+Author: balopaname
+
+--- Summary ---
+I am unaware about how Beats are calculated on Leetcode and this happened with me which I have mentioned below:
+I submitted one MySQL query and some other also submitted same query but the difference in both are my query is written in 3 lines but his
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #51
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: k82xiPkk
+Title: google L3 onsite in mid april 
+Slug: google-l3-onsite-in-mid-april-by-jayant_-2nq5
+Article Type: DISCUSSION
+Posted: 2026-03-30 20:43:09 IST
+Updated: 2026-03-30 23:13:08 IST
+URL: https://leetcode.com/discuss/post/7722841/google-l3-onsite-in-mid-april-by-jayant_-2nq5/
+Author: 
+
+--- Summary ---
+Hi leetcode community ,
+i have my google l3 oniste interviews scheduled in mid april 2026 .
+has any one appeared in onsite google interviews before .would be happy to connect -
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #52
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 9CjQSWg3
+Title: LLD interview template ?
+Slug: lld-interview-template-by-r01k12-4kdn
+Article Type: DISCUSSION
+Posted: 2026-03-30 20:22:33 IST
+Updated: 2026-03-30 20:22:52 IST
+URL: https://leetcode.com/discuss/post/7722747/lld-interview-template-by-r01k12-4kdn/
+Author: r01k12
+
+--- Summary ---
+Hi,
+I am soon having a LLD interview round, can you all guide me what's a general template for a LLD round?like step-by-step, how do we start and the flow of this round ?
+I will appreciate the help, thanks !
+
+--- Tags ---
+  - Career (career) []
+  - System Design (system-design) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #53
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: i3MLF0t2
+Title: First Time Figuring Out Approach On My Own : Small Win but feels huge
+Slug: first-time-figuring-out-approach-on-my-o-vhoy
+Article Type: DISCUSSION
+Posted: 2026-03-30 19:53:10 IST
+Updated: 2026-03-30 19:53:10 IST
+URL: https://leetcode.com/discuss/post/7722542/first-time-figuring-out-approach-on-my-o-vhoy/
+Author: 
+
+--- Summary ---
+After my last job, been learning DSA from scratch for 3 weeks now. I was a complete begineer with DSA.Today I opened a problem and before looking at any hints or solutions, I actually figured out the approach on my own and coded it with all the test
+
+--- Tags ---
+  - Career (career) []
+  - general-discussion (general-discussion) []
+  - General Discussion (general-discussion-2) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 7
+
+════════════════════════════════════════════════════════════════════════════════
+Article #54
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: qJUw7NQS
+Title: How should I start solving CodeForces problems?
+Slug: how-should-i-start-solving-codeforces-pr-d5js
+Article Type: DISCUSSION
+Posted: 2026-03-30 19:49:56 IST
+Updated: 2026-03-30 19:49:56 IST
+URL: https://leetcode.com/discuss/post/7722505/how-should-i-start-solving-codeforces-pr-d5js/
+Author: aanya15
+
+--- Summary ---
+Hi everyone,I have been practicing problems on LeetCode and now I want to start solving problems on Codeforces, but I’m not sure how to begin.I would really appreciate some guidance:
+What rating range should a beginner start with on Codeforces?
+Shoul
+
+--- Tags ---
+  - Java (java) []
+  - Career (career) []
+  - DSA (dsa) []
+  - DSA Java (dsa-java) []
+  - daily dsa session (daily-dsa-session) []
+  - DSA X LIFE (dsa-x-life) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #55
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: d4dkbVou
+Title: Flipkart Offer letter timeline
+Slug: flipkart-offer-letter-timeline-by-sotiug-fu0n
+Article Type: DISCUSSION
+Posted: 2026-03-30 19:29:38 IST
+Updated: 2026-03-30 19:29:38 IST
+URL: https://leetcode.com/discuss/post/7722336/flipkart-offer-letter-timeline-by-sotiug-fu0n/
+Author: sotiugy9
+
+--- Summary ---
+Hi Everyone!
+I recently got selected for a SDE 2 role at Flipkart. As part of next step I had submitted all the documents and forms but I have not yet received the offer letter. I spoke to the HR and he said that it will be coming soon as  he has alr
+
+════════════════════════════════════════════════════════════════════════════════
+Article #56
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DULi0Dog
+Title: Newbie
+Slug: newbie-by-belike91-gn55
+Article Type: DISCUSSION
+Posted: 2026-03-30 19:26:33 IST
+Updated: 2026-03-30 19:26:33 IST
+URL: https://leetcode.com/discuss/post/7722311/newbie-by-belike91-gn55/
+Author: belike91
+
+--- Summary ---
+I am just startinng today, I want to understand how this platform works, and what should I learn ? I really want to learn a language and get a job in IT field, but I am just so confused how to do so, If there is anyone who can guide me, please help m
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #57
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1fs6iPce
+Title: xzczxczx
+Slug: xzczxczx-by-gretrsfdsdfsdfs-3ohy
+Article Type: DISCUSSION
+Posted: 2026-03-30 18:49:32 IST
+Updated: 2026-03-30 18:49:32 IST
+URL: https://leetcode.com/discuss/post/7721917/xzczxczx-by-gretrsfdsdfsdfs-3ohy/
+Author: gretrsfdsdfsdfs
+
+--- Summary ---
+sir link kaha se uthya
+
+════════════════════════════════════════════════════════════════════════════════
+Article #58
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: jCI3www2
+Title: keyword
+Slug: keyword-by-gretrsfdsdfsdfs-6f2i
+Article Type: DISCUSSION
+Posted: 2026-03-30 18:48:26 IST
+Updated: 2026-03-30 18:48:26 IST
+URL: https://leetcode.com/discuss/post/7721909/keyword-by-gretrsfdsdfsdfs-6f2i/
+Author: gretrsfdsdfsdfs
+
+--- Summary ---
+blog .... 1 page ka likhwa k yaha paste krna hai
+
+════════════════════════════════════════════════════════════════════════════════
+Article #59
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WuhgatRE
+Title: Microsoft SC-200 Exam Questions on Threat Detection, Incident Response & Security Monitoring
+Slug: microsoft-sc-200-exam-questions-on-threa-dkcc
+Article Type: DISCUSSION
+Posted: 2026-03-30 16:21:11 IST
+Updated: 2026-03-30 16:21:11 IST
+URL: https://leetcode.com/discuss/post/7720528/microsoft-sc-200-exam-questions-on-threa-dkcc/
+Author: MKLjcraMQw
+
+--- Summary ---
+Cybersecurity is a top priority for organizations, and security operations professionals play a crucial role in detecting and responding to threats. The SC-200 certification focuses on monitoring, investigating, and responding to security incidents u
+
+════════════════════════════════════════════════════════════════════════════════
+Article #60
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: sipsWPFY
+Title: Flipkart Offer Letter Update (DOJ Change) – Timeline?
+Slug: flipkart-offer-letter-update-doj-change-z1v16
+Article Type: DISCUSSION
+Posted: 2026-03-30 15:37:06 IST
+Updated: 2026-03-30 15:37:06 IST
+URL: https://leetcode.com/discuss/post/7719965/flipkart-offer-letter-update-doj-change-z1v16/
+Author: 
+
+--- Summary ---
+Hi everyone,I wanted to check if anyone here has first-hand experience (or any knowledge) with Flipkart offer letter updates, specifically for DOJ changes or revised offers after initial release.In my case:
+HR agreed verbally on-call for DOJ update.
+
+--- Tags ---
+  - Flipkart (flipkart) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+  - SDE 2 (sde-2-3) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #61
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4xh9Lmc7
+Title: Need Guidance
+Slug: need-guidance-by-anonymous_user-9j4k
+Article Type: DISCUSSION
+Posted: 2026-03-30 15:03:09 IST
+Updated: 2026-03-30 15:03:09 IST
+URL: https://leetcode.com/discuss/post/7719638/need-guidance-by-anonymous_user-9j4k/
+Author: 
+
+--- Summary ---
+Hi,
+I graduated out in 2023 with a degree in IT. Due to Covid, I never focused on DSA as we never got to talk to our senior & when I came back to college in final year, all the placements were asking dsa knowledge.
+I tried to start solving it, opened
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #62
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 5b76QrpG
+Title: March 30 Daily Challenge
+Slug: march-30-daily-challenge-by-ravikumar_18-m0ge
+Article Type: DISCUSSION
+Posted: 2026-03-30 14:31:34 IST
+Updated: 2026-03-30 14:31:34 IST
+URL: https://leetcode.com/discuss/post/7719355/march-30-daily-challenge-by-ravikumar_18-m0ge/
+Author: Ravikumar_18
+
+--- Tags ---
+  - String (string) [TOPIC]
+
+--- Reactions ---
+  UPVOTE: 2
+  THUMBS_DOWN: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #63
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nOkk5dwC
+Title: DSA vs projects vs Open source
+Slug: dsa-vs-projects-vs-open-source-by-anonym-wdyb
+Article Type: DISCUSSION
+Posted: 2026-03-30 13:57:18 IST
+Updated: 2026-03-30 13:57:18 IST
+URL: https://leetcode.com/discuss/post/7719088/dsa-vs-projects-vs-open-source-by-anonym-wdyb/
+Author: 
+
+--- Summary ---
+Hey folks, 3 YoE dev here, working a 9–7, and I’m genuinely confused.Everyone says different things, grind DSA, do open source, build projects. But with ~2–3 hours a day, I can’t do all three properly. Whenever I try, I end up doing everything half-h
+
+--- Tags ---
+  - Career (career) []
+  - career-advice (career-advice-2) []
+
+--- Reactions ---
+  UPVOTE: 8
+
+════════════════════════════════════════════════════════════════════════════════
+Article #64
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: y66I0tfg
+Title: Help me for TCS DIGITAL INTERVIEW Preparation
+Slug: help-me-for-tcs-digital-interview-prepar-yqrl
+Article Type: DISCUSSION
+Posted: 2026-03-30 13:34:52 IST
+Updated: 2026-03-30 13:34:52 IST
+URL: https://leetcode.com/discuss/post/7718982/help-me-for-tcs-digital-interview-prepar-yqrl/
+Author: madhusudhanan008
+
+--- Summary ---
+I need resources for preparing TCS interview if anyone is preparing guide me !!Python, DBMS, DSA, oops, OS, SQL, Cn
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #65
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: AbCtyYoR
+Title: Wells fargo Interview experience
+Slug: wells-fargo-interview-experience-by-anon-ry30
+Article Type: DISCUSSION
+Posted: 2026-03-30 13:15:53 IST
+Updated: 2026-03-30 13:15:53 IST
+URL: https://leetcode.com/discuss/post/7718850/wells-fargo-interview-experience-by-anon-ry30/
+Author: 
+
+--- Summary ---
+Recently i appeared for wells fargo interview ,first was coding assesment round and then two behavioral-managerial rounds for senior software engineer role?
+has anyone given the same?
+
+════════════════════════════════════════════════════════════════════════════════
+Article #66
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Fq6wOmY4
+Title: Microsoft Screening Round | Quantum
+Slug: microsoft-screening-round-quantum-by-umu-x71o
+Article Type: DISCUSSION
+Posted: 2026-03-30 13:10:47 IST
+Updated: 2026-03-30 13:10:47 IST
+URL: https://leetcode.com/discuss/post/7718815/microsoft-screening-round-quantum-by-umu-x71o/
+Author: umUlqA0NzD
+
+--- Summary ---
+Hey guys!!I have a screening round scheduled tomorrow for the quantum software engineer role and was wondering what to expect? It's 30 minutes only. Can't seem to find anything online. Will there be any leetcode involved?
+
+--- Tags ---
+  - Microsoft (microsoft) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #67
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: aOFv436E
+Title: Massive boom in hiring in 5 years
+Slug: massive-boom-in-hiring-in-5-years-by-lee-508t
+Article Type: DISCUSSION
+Posted: 2026-03-30 12:52:07 IST
+Updated: 2026-03-30 12:52:07 IST
+URL: https://leetcode.com/discuss/post/7718649/massive-boom-in-hiring-in-5-years-by-lee-508t/
+Author: LeetCodeHardGrinder
+
+--- Summary ---
+People are obsessing over AGI replacing all jobs but that would be long long term like decades.They are overlooking medium term which is few years from now. I don’t think AI will be able to completely replace swe jobs in say 5-10 years.Companies got
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #68
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: b6JMoeh3
+Title: Uber SDE 2 Experience
+Slug: uber-sde-2-experience-by-doomslayer69-r2cj
+Article Type: DISCUSSION
+Posted: 2026-03-30 12:46:17 IST
+Updated: 2026-03-30 12:46:17 IST
+URL: https://leetcode.com/discuss/post/7718582/uber-sde-2-experience-by-doomslayer69-r2cj/
+Author: doomslayer69
+
+--- Summary ---
+Is it just me, or is this happening to others too? Uber interviewers can be really frustrating.In my DSA round, the interviewer just couldn’t grasp my approach. We wasted around 20 minutes going back and forth on the same thing. I explained both brut
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #69
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: h1AJGhsH
+Title: When do I get the LeetCoins from the 2026 interview challenge?
+Slug: when-do-i-get-the-leetcoins-from-the-202-7da3
+Article Type: DISCUSSION
+Posted: 2026-03-30 12:25:55 IST
+Updated: 2026-03-30 12:25:55 IST
+URL: https://leetcode.com/discuss/post/7718401/when-do-i-get-the-leetcoins-from-the-202-7da3/
+Author: chanchishen
+
+--- Summary ---
+Where can I find the latest updates on this?
+
+--- Reactions ---
+  UPVOTE: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #70
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: PmqEeqSl
+Title: Harsh Truth
+Slug: harsh-truth-by-anonymous_user-fvg9
+Article Type: DISCUSSION
+Posted: 2026-03-30 12:08:22 IST
+Updated: 2026-03-30 12:08:22 IST
+URL: https://leetcode.com/discuss/post/7718189/harsh-truth-by-anonymous_user-fvg9/
+Author: 
+
+--- Summary ---
+Even if you practice every day, it may feel like nothing is changing. You solve problems, watch videos, and still get stuck on easy questions. This can be frustrating and make you want to quit. But this phase is normal. Your brain is learning pattern
+
+--- Reactions ---
+  UPVOTE: 38
+
+════════════════════════════════════════════════════════════════════════════════
+Article #71
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: knoVjDDl
+Title: How To Master DSA. If You Are stuck in it ??
+Slug: how-to-master-dsa-if-you-are-stuck-in-it-3r6k
+Article Type: DISCUSSION
+Posted: 2026-03-30 11:47:29 IST
+Updated: 2026-03-30 11:48:06 IST
+URL: https://leetcode.com/discuss/post/7717962/how-to-master-dsa-if-you-are-stuck-in-it-3r6k/
+Author: VasuAgarwal16
+
+--- Summary ---
+🚀 From Confused to Consistent: My DSA Learning Strategy (That Actually Works)When I first started solving problems on LeetCode, I was stuck.
+Random questions, inconsistent progress, and honestly… zero confidence.Then I changed ONE thing — my approach
+
+--- Reactions ---
+  UPVOTE: 3
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #72
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6HnKF6V6
+Title: How Should I Prepare to Get Into a Good Company as a Recent Graduate?
+Slug: how-should-i-prepare-to-get-into-a-good-9m9hq
+Article Type: DISCUSSION
+Posted: 2026-03-30 11:43:07 IST
+Updated: 2026-03-30 11:43:07 IST
+URL: https://leetcode.com/discuss/post/7717913/how-should-i-prepare-to-get-into-a-good-9m9hq/
+Author: 
+
+--- Summary ---
+I am a recent graduate and aspiring software engineer aiming to secure a position at a reputable company. In today’s rapidly evolving AI/ML-driven industry, I want to understand how I should best prepare myself.I have experience as a MERN stack devel
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #73
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: FVXWcqG9
+Title: Walmart - Senior Software Engineer (Hiring Drive - Rejected)
+Slug: walmart-senior-software-engineer-hiring-q23nz
+Article Type: DISCUSSION
+Posted: 2026-03-30 11:23:41 IST
+Updated: 2026-03-30 11:24:09 IST
+URL: https://leetcode.com/discuss/post/7717718/walmart-senior-software-engineer-hiring-q23nz/
+Author: 
+
+--- Summary ---
+Applied through Referral, Recruiter contacted after 3 weeks to be available for all the interviews on Friday (Hiring Drive)1st Round (DSA - Positive)
+Coin Change
+Longest non repeated substring
+2nd Round (LLD - Positive)
+Design a payment processing sy
+
+--- Tags ---
+  - Walmart Labs (walmart-labs) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #74
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: bTObjUFN
+Title: Comparing offers need suggestion
+Slug: comparing-offers-need-suggestion-by-anon-d3d9
+Article Type: DISCUSSION
+Posted: 2026-03-30 11:12:30 IST
+Updated: 2026-03-30 11:12:30 IST
+URL: https://leetcode.com/discuss/post/7717666/comparing-offers-need-suggestion-by-anon-d3d9/
+Author: 
+
+--- Summary ---
+Offer 1:
+Startup
+Base - 33.5
+Espos - 40 Lakh over 4 yearsOffer 2:
+Zomato
+Base - 33
+Bonus - 10 LPAPlease help me decide which is better. Any suggestions would be helpful
+
+--- Tags ---
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #75
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ATSzc3fH
+Title: Visa - Staff Software Engineer ( Rejected)
+Slug: visa-staff-software-engineer-rejected-by-mnw2
+Article Type: DISCUSSION
+Posted: 2026-03-30 11:11:37 IST
+Updated: 2026-03-30 11:11:37 IST
+URL: https://leetcode.com/discuss/post/7717662/visa-staff-software-engineer-rejected-by-mnw2/
+Author: 
+
+--- Summary ---
+Applied directly on their careers page, Received OA in a few daysOA is easy, there will be 2-3 questions which needs to be solved in 90 mins, they will not take more than 30-45 mins1st Round (Rejected)
+Asked to implement a distributed scheduler, Not
+
+--- Tags ---
+  - Visa (visa) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #76
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: oopFCQ6p
+Title: TOPOSORT
+Slug: toposort-by-aditya9934552435-0nht
+Article Type: DISCUSSION
+Posted: 2026-03-30 10:45:03 IST
+Updated: 2026-03-30 10:45:03 IST
+URL: https://leetcode.com/discuss/post/7717548/toposort-by-aditya9934552435-0nht/
+Author: aditya9934552435
+
+--- Summary ---
+vectortopo(int v,vector<vector>&adj){
+vectorindegree(v,0);for(int i=0;i<v;i++){
+for(int neighbour:adj[i]){
+indegree[neighbour]++;
+}
+}
+queueq;
+for(int i=0;i<v;i++){
+if(indegree[i]==0){
+q.push(i);
+}
+}
+vector result;
+while(!q.empty()){
+int node=q.front(
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #77
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: LaYOSEOA
+Title: HSBC interview Regarding 
+Slug: hsbc-interview-regarding-by-jay_shah21-lkmg
+Article Type: DISCUSSION
+Posted: 2026-03-30 10:44:05 IST
+Updated: 2026-03-30 10:44:05 IST
+URL: https://leetcode.com/discuss/post/7717543/hsbc-interview-regarding-by-jay_shah21-lkmg/
+Author: jay_shah21
+
+--- Summary ---
+Hi everyone,I recently completed the HSBC Value Assessment, and the last date for submission was March 26. It has been about 5 days since the deadline, and I have not yet received any update regarding the result or next steps.I wanted to ask if anyon
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #78
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WzVaJ09n
+Title: Best ONE Book to Improve English for Final Interviews (CS Student)
+Slug: best-one-book-to-improve-english-for-fin-g3et
+Article Type: DISCUSSION
+Posted: 2026-03-30 10:31:02 IST
+Updated: 2026-03-30 10:31:02 IST
+URL: https://leetcode.com/discuss/post/7717503/best-one-book-to-improve-english-for-fin-g3et/
+Author: GyomeiHimejima01
+
+--- Summary ---
+Hi everyone,I’m currently in my final year of Computer Science, and I’ve noticed that I often struggle with English communication in the final interview rounds.The thing is — my English is not very bad. I can understand everything easily, I watch Eng
+
+--- Reactions ---
+  UPVOTE: 1
+
