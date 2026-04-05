@@ -1,0 +1,2063 @@
+LeetCode Discuss - Latest 102 Articles
+Fetched on: 2026-04-05 10:30:31 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: g0HfAojQ
+Title: ✔️ {Fix!@HBOMax#SmartTVOpenError} What to do if HBO Max app won’t open on Smart TV?
+Slug: fixhbomaxsmarttvopenerror-what-to-do-if-k14qo
+Article Type: DISCUSSION
+Posted: 2026-04-05 10:30:30 IST
+Updated: 2026-04-05 10:30:30 IST
+URL: https://leetcode.com/discuss/post/7782874/fixhbomaxsmarttvopenerror-what-to-do-if-k14qo/
+Author: HBOMAXHELP
+
+--- Summary ---
+✔️ Explanation (What is happening) [Phone: +1-888-310-4098]
+HBO Max app +1-888-310-4098 won’t open on +1-888-310-4098 Smart TV may +1-888-310-4098 happen due to +1-888-310-4098 app crash or system glitch +1-888-310-4098 quick help
+Users facing +1-888
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pvbRZ1mX
+Title: count the character
+Slug: count-the-character-by-aditya9934552435-h9qf
+Article Type: DISCUSSION
+Posted: 2026-04-05 10:21:32 IST
+Updated: 2026-04-05 10:21:32 IST
+URL: https://leetcode.com/discuss/post/7782791/count-the-character-by-aditya9934552435-h9qf/
+Author: aditya9934552435
+
+--- Summary ---
+lovebabbar count the charactervoid count (unordered_map<char,int>&mp,string str){
+for(int i=0;i<str.length();i++){
+char ch=str[i];
+mp[ch]++;
+}
+}
+int main(){
+string str="ADITYA";
+unordered_map<char,int >mp;
+count(mp,str);}
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 84R6buUC
+Title: Weekly 3rd Problem || Need help with solution
+Slug: weekly-3rd-problem-need-help-with-soluti-9rio
+Article Type: DISCUSSION
+Posted: 2026-04-05 10:19:55 IST
+Updated: 2026-04-05 10:19:55 IST
+URL: https://leetcode.com/discuss/post/7782781/weekly-3rd-problem-need-help-with-soluti-9rio/
+Author: 2manas1
+
+--- Summary ---
+Can anyone please tell me why is this code not working what am i missing from the problem statement
+Getting 728 / 1027 testcases passedProblem:
+https://leetcode.com/problems/minimum-increase-to-maximize-special-indices/description/
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: YGEUgwOo
+Title: Hashmap
+Slug: hashmap-by-aditya9934552435-dro6
+Article Type: DISCUSSION
+Posted: 2026-04-05 10:13:53 IST
+Updated: 2026-04-05 10:13:53 IST
+URL: https://leetcode.com/discuss/post/7782736/hashmap-by-aditya9934552435-dro6/
+Author: aditya9934552435
+
+--- Summary ---
+int main(){
+unordered_map<string,int>akki;
+pair<string,int> p=make_pair("aditya",23);
+pair<string,int> q("anjali",22);
+pair<string,int> r;
+r.first="anna";
+r.second=22;akki.insert(p);
+akki.insert(q);
+akki.insert(r);
+akki["akki"]=23;cout<< akki.size()
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: wa2IiZTA
+Title: 657. Python3
+Slug: 657-python3-by-alif3443-802x
+Article Type: DISCUSSION
+Posted: 2026-04-05 10:06:39 IST
+Updated: 2026-04-05 10:06:39 IST
+URL: https://leetcode.com/discuss/post/7782683/657-python3-by-alif3443-802x/
+Author: alif3443
+
+--- Summary ---
+👉 The robot returns to origin only if movements cancel out perfectly✔️ Equal Up & Down
+✔️ Equal Left & Right
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: SNT0iv94
+Title: Received OA for Associate Software Engineer role at Zorvyn
+Slug: received-oa-for-associate-software-engin-1jzw
+Article Type: DISCUSSION
+Posted: 2026-04-05 10:05:05 IST
+Updated: 2026-04-05 10:05:05 IST
+URL: https://leetcode.com/discuss/post/7782672/received-oa-for-associate-software-engin-1jzw/
+Author: 
+
+--- Summary ---
+Hi everyone,I recently received a Coding Assessment (OA) invitation for an Associate Software Engineer role at Zorvyn.Before attempting the test, I want to confirm a few important things:👉 Is Zorvyn a legitimate company?
+👉 Has anyone interviewed or w
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Z0PlGYHg
+Title: thank to all who participating in contest.
+Slug: thank-to-all-who-participating-in-contes-x68v
+Article Type: DISCUSSION
+Posted: 2026-04-05 09:57:26 IST
+Updated: 2026-04-05 09:57:26 IST
+URL: https://leetcode.com/discuss/post/7782640/thank-to-all-who-participating-in-contes-x68v/
+Author: Abhishek_singh_999
+
+--- Summary ---
+today was my second contest ,in this contest i solve honestly 1 question and second were not pass all tesstcase.
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: zYV2YWSy
+Title: Snap Inc. Coding Interview
+Slug: snap-inc-coding-interview-by-sri_vaeshna-7z44
+Article Type: DISCUSSION
+Posted: 2026-04-05 09:54:36 IST
+Updated: 2026-04-05 09:54:36 IST
+URL: https://leetcode.com/discuss/post/7782615/snap-inc-coding-interview-by-sri_vaeshna-7z44/
+Author: Sri_vaeshnavi_
+
+--- Summary ---
+The interview started with around 10–15 minutes of background discussion, where the interviewer asked about my experience — especially around backend systems and ML-related work.After that, we moved into a live coding round on HackerRank. The problem
+
+--- Tags ---
+  - Interview (interview) []
+  - Snap Inc. (snap-inc-3) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: qEN6WXFs
+Title: 💡 One habit that changed my LeetCode practice
+Slug: one-habit-that-changed-my-leetcode-pract-5blc
+Article Type: DISCUSSION
+Posted: 2026-04-05 09:44:54 IST
+Updated: 2026-04-05 09:44:54 IST
+URL: https://leetcode.com/discuss/post/7782545/one-habit-that-changed-my-leetcode-pract-5blc/
+Author: ayush_gupta_2003
+
+--- Summary ---
+After solving a problem, I try to explain the solution as if I’m teaching someone else.If I can’t explain it simply, it means I still need to understand the logic better.This small trick helped me remember patterns much faster.I recently started writ
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: gqNtzkOx
+Title: 🏆 Weekly Contest 496
+Slug: weekly-contest-496-by-leetcode-5jrv
+Article Type: DISCUSSION
+Posted: 2026-04-05 09:30:10 IST
+Updated: 2026-04-05 09:30:10 IST
+URL: https://leetcode.com/discuss/post/7782408/weekly-contest-496-by-leetcode-5jrv/
+Author: LeetCode
+
+--- Summary ---
+Welcome to Weekly Contest 496! Feel free to share and post your contest experience here! You can also view the rankings for the contest. {:height=120} Links to 
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: SczQDQNC
+Title: Amazon System Development Engineer Project LEO
+Slug: amazon-system-development-engineer-proje-7c59
+Article Type: DISCUSSION
+Posted: 2026-04-05 08:26:37 IST
+Updated: 2026-04-05 08:26:37 IST
+URL: https://leetcode.com/discuss/post/7782280/amazon-system-development-engineer-proje-7c59/
+Author: RomanV123
+
+--- Summary ---
+Hello everyone,I have an interview for amazon for the System Development Engineer Project LEO position but I have no idea how to prepare for the online technical assessment. It seems to be coding for cybersecurity and system design. I don't think I n
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: bgfM7kQQ
+Title: Please help me with Interview Prep!!
+Slug: please-help-me-with-interview-prep-by-je-yyey
+Article Type: DISCUSSION
+Posted: 2026-04-05 07:49:46 IST
+Updated: 2026-04-05 07:49:46 IST
+URL: https://leetcode.com/discuss/post/7782220/please-help-me-with-interview-prep-by-je-yyey/
+Author: jethalol
+
+--- Summary ---
+Hi Guys
+I am working for Salesforce for past 6 years. I joined straight out from college and then have been here since. While my growth at work has been fairly good, I am bored here and dont see much scope for further promos in next 6 months. I want
+
+--- Tags ---
+  - Concurrency (concurrency) [TOPIC]
+  - DSA (dsa) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: RApeLMMM
+Title: Google Interview Prep
+Slug: google-interview-prep-by-persistentelon-c7db
+Article Type: DISCUSSION
+Posted: 2026-04-05 06:22:22 IST
+Updated: 2026-04-05 06:22:22 IST
+URL: https://leetcode.com/discuss/post/7782119/google-interview-prep-by-persistentelon-c7db/
+Author: persistentelon
+
+--- Summary ---
+Currently at Meta, planning to start the prep for google. Looking for a partner who is willing to prepare with their full time jobs. Hit me up if you are interested.
+
+--- Tags ---
+  - google interview questions (google-interview-questions) []
+
+--- Reactions ---
+  UPVOTE: 3
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: AOVm7QkS
+Title: Tesla Software Engineer, frontend - Angular
+Slug: tesla-software-engineer-frontend-angular-e6lw
+Article Type: DISCUSSION
+Posted: 2026-04-05 03:37:52 IST
+Updated: 2026-04-05 03:37:52 IST
+URL: https://leetcode.com/discuss/post/7781764/tesla-software-engineer-frontend-angular-e6lw/
+Author: Yash_NEU
+
+--- Summary ---
+Hey, I have the loop interview comming up and was wondering if anyone could guide me on what to expect.It is a Angular Frontend role for the Claims team.
+from what i know, there will be a Angular round, then a JS/TS round and a System design round.An
+
+--- Tags ---
+  - Tesla (tesla) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: SkVQYOiS
+Title: ((Expedia-Support-Dispute))How to dispute Expedia payment issue
+Slug: expedia-support-disputehow-to-dispute-ex-op51
+Article Type: DISCUSSION
+Posted: 2026-04-05 03:34:30 IST
+Updated: 2026-04-05 03:34:30 IST
+URL: https://leetcode.com/discuss/post/7781754/expedia-support-disputehow-to-dispute-ex-op51/
+Author: fnxncn
+
+--- Summary ---
+To resolve an Expedia dispute, first contact Expedia Customer Service directly via their virtual agent or by phone at 1-888-829-0881 to log your case. Gather your booking ID, confirmation emails, and payment records before calling. Most disputes are
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: uRz4tkvd
+Title: (Hypothetical) Automatically solving daily problems by already having them solved?
+Slug: hypothetical-automatically-solving-daily-dcz5
+Article Type: DISCUSSION
+Posted: 2026-04-05 03:30:53 IST
+Updated: 2026-04-05 03:30:53 IST
+URL: https://leetcode.com/discuss/post/7781748/hypothetical-automatically-solving-daily-dcz5/
+Author: Mutrax
+
+--- Summary ---
+Because the daily problems are picked from existing problems (I assume they are picked at random), there is a chance that your next daily problem was already solved prior to being chosen. Does this mean that hypothetically, if you solve all problems
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Q39ziWfo
+Title: CHECK IT OUT 
+Slug: check-it-out-by-3duard0-zayt
+Article Type: DISCUSSION
+Posted: 2026-04-05 03:22:05 IST
+Updated: 2026-04-05 03:22:05 IST
+URL: https://leetcode.com/discuss/post/7781729/check-it-out-by-3duard0-zayt/
+Author: 3duard0
+
+--- Summary ---
+In depth write-ups with animations https://codealchemy.click/
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: UKExRHqG
+Title: Expedia Complaint Not Resolved? Best Escalation Strategies
+Slug: expedia-complaint-not-resolved-best-esca-viqc
+Article Type: DISCUSSION
+Posted: 2026-04-05 03:15:20 IST
+Updated: 2026-04-05 03:15:20 IST
+URL: https://leetcode.com/discuss/post/7781717/expedia-complaint-not-resolved-best-esca-viqc/
+Author: fnxncn
+
+--- Summary ---
+To resolve an Expedia dispute, first contact Expedia Customer Service directly via their virtual agent or by phone at 1-888-829-0881 to log your case. Gather your booking ID, confirmation emails, and payment records before calling. Most disputes are
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: c9AhOnlv
+Title: Recent interview questions in a structured manner
+Slug: recent-interview-questions-in-a-structur-6ryh
+Article Type: DISCUSSION
+Posted: 2026-04-05 02:42:05 IST
+Updated: 2026-04-05 02:42:32 IST
+URL: https://leetcode.com/discuss/post/7781639/recent-interview-questions-in-a-structur-6ryh/
+Author: nishantwrp
+
+--- Summary ---
+Recently came across hiredvoices[dot]com/top-interview-questions for actually seeing recent interview questions for a company in a structured manner.The app looks neat & has aggregated from various source (including leetcode). Curious if anyone has t
+
+--- Tags ---
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: tAubZaEZ
+Title: Ebay iOS Dev Interview Rounds
+Slug: ebay-ios-dev-interview-rounds-by-anonymo-kds9
+Article Type: DISCUSSION
+Posted: 2026-04-05 01:37:54 IST
+Updated: 2026-04-05 01:37:54 IST
+URL: https://leetcode.com/discuss/post/7781347/ebay-ios-dev-interview-rounds-by-anonymo-kds9/
+Author: 
+
+--- Summary ---
+I recently completed the first round of an iOS interview (live debugging round). It went well, so I’m hopeful about moving forward.For those who’ve been through similar iOS interview processes:
+What rounds typically come next? (HLD / LLD / DSA?)
+How
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: muwYzgsu
+Title: How To Buy Verified Stripe Account a Step-by- ...
+Slug: how-to-buy-verified-stripe-account-a-ste-0hrv
+Article Type: DISCUSSION
+Posted: 2026-04-05 01:16:46 IST
+Updated: 2026-04-05 01:16:46 IST
+URL: https://leetcode.com/discuss/post/7781200/how-to-buy-verified-stripe-account-a-ste-0hrv/
+Author: fthfht
+
+--- Summary ---
+What Is a Verified Stripe Account?A verified Stripe account is simple.It means Stripe checked you.
+Your ID is clear.
+Your bank is set.
+Your info is real.Now your account is ready.Why It MattersNew accounts are not fully open.They may have limits.
+The
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Y3jgvNTe
+Title: What Security Experts Say About “Buy Verified PayPal Accounts” For Saill To 380% Searches 
+Slug: what-security-experts-say-about-buy-veri-rh48
+Article Type: DISCUSSION
+Posted: 2026-04-05 01:14:38 IST
+Updated: 2026-04-05 01:14:38 IST
+URL: https://leetcode.com/discuss/post/7781170/what-security-experts-say-about-buy-veri-rh48/
+Author: UQXTI9SRO2
+
+--- Summary ---
+What Security Experts Say About “Buy Verified PayPal Accounts” SearchesSearches for phrases like “buy verified PayPal accounts” are increasingly common on search engines. However, cybersecurity researchers and payment‑security experts consistently wa
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vaikLbkc
+Title: Warning Signs Before You Buy Verified PayPal Accounts Online 350%
+Slug: warning-signs-before-you-buy-verified-pa-uky3
+Article Type: DISCUSSION
+Posted: 2026-04-05 01:09:23 IST
+Updated: 2026-04-05 01:09:23 IST
+URL: https://leetcode.com/discuss/post/7781121/warning-signs-before-you-buy-verified-pa-uky3/
+Author: Abusmm954524
+
+--- Summary ---
+Warning Signs Before You Buy Verified PayPal Accounts Online⚠️ Safety Notice
+⚠️ 🚫 This educational article does not promote or assist with buying or selling accounts, and it explains the risks people face when they search online for services related
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: mxAjokUF
+Title: Weighted DSU Explanation
+Slug: weighted-dsu-explanation-by-charli_78-loln
+Article Type: DISCUSSION
+Posted: 2026-04-05 00:43:18 IST
+Updated: 2026-04-05 00:43:18 IST
+URL: https://leetcode.com/discuss/post/7780897/weighted-dsu-explanation-by-charli_78-loln/
+Author: charli_78
+
+--- Summary ---
+Weighted DSU / Parity DSUWhy Normal DSU Is Not EnoughNormal DSU can only answer:
+Are two nodes connected?
+Merge components
+Detect cycle
+Number of components
+But many problems require storing relationship between nodes, like:
+Distance between nodes
+Ev
+
+--- Tags ---
+  - Graph Theory (graph) [TOPIC]
+  - DSA (dsa) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 10
+  THUMBS_DOWN: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: OJlypY2N
+Title: Transforming Ideas into Intelligent Solutions
+Slug: transforming-ideas-into-intelligent-solu-9nqf
+Article Type: DISCUSSION
+Posted: 2026-04-05 00:40:06 IST
+Updated: 2026-04-05 00:40:06 IST
+URL: https://leetcode.com/discuss/post/7780875/transforming-ideas-into-intelligent-solu-9nqf/
+Author: n5rJCRgkez
+
+--- Summary ---
+In the modern digital era, Artificial Intelligence is no longer just a concept—it’s a powerful force driving innovation and creativity. At the center of this transformation is https://aiinfluencer.cc/
+, a platform designed to bring you closer to the
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vOoRkgVp
+Title: Top 8 Beginner Explanations for 90 4k$ Buy Verified AIRBNB Accounts
+Slug: top-8-beginner-explanations-for-90-4k-bu-ucl1
+Article Type: DISCUSSION
+Posted: 2026-04-05 00:38:48 IST
+Updated: 2026-04-05 00:38:48 IST
+URL: https://leetcode.com/discuss/post/7780865/top-8-beginner-explanations-for-90-4k-bu-ucl1/
+Author: Abusmm452
+
+--- Summary ---
+Top 8 Beginner Explanations for Buy Verified AIRBNB Accounts💬 Contact & Support for Account Safety Questions📩 🔎 This educational article discusses the risks behind searches like buy verified payoneer accounts and similar account‑trading topics.
+📩 🛡️
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: CJYFGY3W
+Title: Best 10 Reader Insights for Buy Verified AIRBNB Accounts and the Hidden Risks of
+Slug: best-10-reader-insights-for-buy-verified-zk3w
+Article Type: DISCUSSION
+Posted: 2026-04-05 00:34:08 IST
+Updated: 2026-04-05 00:34:08 IST
+URL: https://leetcode.com/discuss/post/7780808/best-10-reader-insights-for-buy-verified-zk3w/
+Author: Abusmm541245
+
+--- Summary ---
+❗️ I can’t include or promote contact details that appear to offer or facilitate the buying or selling of accounts. That activity can violate platform terms and enable fraud.
+✅ Below is a safe, educational version of the article that follows your str
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pleZK7Yj
+Title: Marcus GS for a data science role
+Slug: marcus-gs-for-a-data-science-role-by-4hb-dt2w
+Article Type: DISCUSSION
+Posted: 2026-04-05 00:29:00 IST
+Updated: 2026-04-05 00:29:00 IST
+URL: https://leetcode.com/discuss/post/7780745/marcus-gs-for-a-data-science-role-by-4hb-dt2w/
+Author: 4hbBCjAuBP
+
+--- Summary ---
+Hey everyone,
+Got an upcoming 45-min CoderPad session for a fraud strategy data scientist position at Marcus by Goldman Sachs and honestly feeling a bit nervous about it.
+Has anyone here gone through something similar? Curious about a few things:Is i
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: SonVEYa8
+Title: Study Partner for CP Course
+Slug: study-partner-for-cp-course-by-goldenpiz-z6ao
+Article Type: DISCUSSION
+Posted: 2026-04-05 00:25:04 IST
+Updated: 2026-04-05 00:25:48 IST
+URL: https://leetcode.com/discuss/post/7780710/study-partner-for-cp-course-by-goldenpiz-z6ao/
+Author: goldenpizza
+
+--- Summary ---
+HeyThis is the original post but it is not visible for some reason -https://leetcode.com/discuss/post/7780692/accountability-partner-for-cp-course-by-5efiu/Do check and let's connect if you're seriously in for it.
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: jWPoC66e
+Title: Best for beginners having slight knowledge of arrays
+Slug: best-for-beginners-having-slight-knowled-gm4h
+Article Type: DISCUSSION
+Posted: 2026-04-05 00:08:51 IST
+Updated: 2026-04-05 00:08:51 IST
+URL: https://leetcode.com/discuss/post/7780597/best-for-beginners-having-slight-knowled-gm4h/
+Author: parasag07
+
+--- Summary ---
+This card was fun which taught me some new algorithms/topics like two pointer and counting sort. Loved the way the questions were laid down.Will absolutely recommend this to beginners (not absolute beginners though).10/10 card!
+
+--- Tags ---
+  - Array (array) [TOPIC]
+  - Fun With Arrays! (fun-with-arrays) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vqyqFW7g
+Title: Uber SSE (L5A) Phone Screen
+Slug: uber-sse-l5a-phone-screen-by-anonymous_u-37am
+Article Type: DISCUSSION
+Posted: 2026-04-04 23:47:08 IST
+Updated: 2026-04-05 00:35:47 IST
+URL: https://leetcode.com/discuss/post/7780436/uber-sse-l5a-phone-screen-by-anonymous_u-37am/
+Author: 
+
+--- Summary ---
+ProblemYou are given a stream of customer visits. Each customer is identified by an integer customerId.A customer is called a one-time visitor if they have visited exactly once.Implement the following methods:Example :Constraints
+Up to 100,000 operat
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 10
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZlHeoNj1
+Title: eBay April Drive
+Slug: ebay-april-drive-by-anonymous_user-upzp
+Article Type: DISCUSSION
+Posted: 2026-04-04 23:14:51 IST
+Updated: 2026-04-04 23:16:57 IST
+URL: https://leetcode.com/discuss/post/7780270/ebay-april-drive-by-anonymous_user-upzp/
+Author: 
+
+--- Summary ---
+Hey folks,Recently appeared for the eBay interview process, sharing my experience here in case it helps others.
+YOE: 3.9 yrs
+Position: SWE3Round 1: CodeSignal — 560 score
+Round 2 (Virtual, April 2):
+1 LeetCode medium DSA question
+Kafka questions
+Wrot
+
+--- Tags ---
+  - eBay (ebay) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Fko7WjC7
+Title: Best 6 Search‑Based Ideas on Airbnb Accounts — A Safety‑Focused Guide 🔍🏠
+Slug: best-6-search-based-ideas-on-airbnb-acco-po8y
+Article Type: DISCUSSION
+Posted: 2026-04-04 23:01:33 IST
+Updated: 2026-04-04 23:01:33 IST
+URL: https://leetcode.com/discuss/post/7780148/best-6-search-based-ideas-on-airbnb-acco-po8y/
+Author: Abusmm65451
+
+--- Summary ---
+Best 6 Search‑Based Ideas on Airbnb Accounts — A Safety‑Focused Guide 🔍🏠Many people search online about “verified accounts” related to major platforms like Airbnb. These searches often come from beginners trying to understand how accounts work, how v
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: hG5MJLnQ
+Title: 🔥 Top 7 Beginner Tips to Understand Buy Verified AIRBNB Accounts
+Slug: top-7-beginner-tips-to-understand-buy-ve-fyok
+Article Type: DISCUSSION
+Posted: 2026-04-04 22:55:42 IST
+Updated: 2026-04-04 22:55:42 IST
+URL: https://leetcode.com/discuss/post/7780059/top-7-beginner-tips-to-understand-buy-ve-fyok/
+Author: Abusmm545469
+
+--- Summary ---
+❗️I can’t include or promote contact details that appear to sell or provide accounts. That could facilitate account trading or platform rule violations. Below is a safe, educational version of the article that focuses only on scam awareness and risks
+
+════════════════════════════════════════════════════════════════════════════════
+Article #35
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: wJc3BmHT
+Title: Rocket India Mr Cooper Group Internship Interview Experience
+Slug: rocket-india-mr-cooper-group-internship-i04zi
+Article Type: DISCUSSION
+Posted: 2026-04-04 22:45:44 IST
+Updated: 2026-04-04 22:45:44 IST
+URL: https://leetcode.com/discuss/post/7779921/rocket-india-mr-cooper-group-internship-i04zi/
+Author: 
+
+--- Summary ---
+Recently, Rocket India came to our campus to hire interns for their Mr Cooper subdivision.It consisted of three rounds:Online TestThe online test was held on hackerearth and had 27 questions of which 3 were coding and 1 was SQL, rest were aptitude.Fi
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #36
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: bAqoufgd
+Title: Let's Connect
+Slug: lets-connect-by-vipul_25-df40
+Article Type: DISCUSSION
+Posted: 2026-04-04 22:44:58 IST
+Updated: 2026-04-04 22:44:58 IST
+URL: https://leetcode.com/discuss/post/7779908/lets-connect-by-vipul_25-df40/
+Author: vipul_25
+
+--- Summary ---
+Hi everyone,I’m a B.Tech Computer Science graduate currently preparing for SDE/Frontend roles and actively solving DSA problems on LeetCode.Recently, I’ve been focusing on:DSA (arrays, binary search, recursion)
+Frontend development using React
+I’ve a
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #37
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 5LHe4Cg2
+Title: Clari - Senior Software Engineer Interview Experience
+Slug: clari-senior-software-engineer-interview-31p1
+Article Type: DISCUSSION
+Posted: 2026-04-04 22:37:16 IST
+Updated: 2026-04-05 08:24:47 IST
+URL: https://leetcode.com/discuss/post/7779822/clari-senior-software-engineer-interview-31p1/
+Author: 
+
+--- Summary ---
+Has anyone here gone through the Clari Software Engineer (SSE) interview process? I’d really appreciate it if you could share your experience, especially details about the High-Level Design (HLD) round — what kind of questions were asked and how to p
+
+════════════════════════════════════════════════════════════════════════════════
+Article #38
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 9uyKeYqx
+Title: Zorvyn OA ? Is this company legit? Or a redflag?
+Slug: zorvyn-oa-is-this-company-legit-or-a-red-oq0x
+Article Type: DISCUSSION
+Posted: 2026-04-04 22:26:07 IST
+Updated: 2026-04-04 22:26:07 IST
+URL: https://leetcode.com/discuss/post/7779678/zorvyn-oa-is-this-company-legit-or-a-red-oq0x/
+Author: 
+
+--- Summary ---
+Role: SDE Intern
+Company: Zorvyn
+Experience: FresherHi everyone,I recently received the OA link for the Zorvyn SDE Intern role. I wanted to clarify a few things:Hi everyone,I recently received the OA link for the Zorvyn SDE Intern role and wanted to
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #39
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 3wzgKubu
+Title: Top 11 Common Searches for Buy Verified AIRBNB Accounts
+Slug: top-11-common-searches-for-buy-verified-d042p
+Article Type: DISCUSSION
+Posted: 2026-04-04 22:19:28 IST
+Updated: 2026-04-04 22:19:28 IST
+URL: https://leetcode.com/discuss/post/7779612/top-11-common-searches-for-buy-verified-d042p/
+Author: Abusmm421252453424215411515245
+
+--- Summary ---
+Top 11 Common Searches for Buy Verified AIRBNB Accounts💬 Contact Us🙂 This educational guide does not offer services related to buying or selling accounts.
+⚠️ This article exists only to explain the risks behind searches like buy verified payoneer acc
+
+════════════════════════════════════════════════════════════════════════════════
+Article #40
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2yc8ms7W
+Title: Goldman Sachs Super day 
+Slug: goldman-sachs-super-day-by-anonymous_use-kue3
+Article Type: DISCUSSION
+Posted: 2026-04-04 22:16:22 IST
+Updated: 2026-04-04 22:16:22 IST
+URL: https://leetcode.com/discuss/post/7779582/goldman-sachs-super-day-by-anonymous_use-kue3/
+Author: 
+
+--- Summary ---
+Hi, Did anyone had Super day for Gs on 27th March or 1st April.
+I have a super day scheduled in 1 week. Those appeared for super day can you please share your interview experience.
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #41
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: XprzI0Te
+Title:  Top 8 Search Insights on Buy Verified AIRBNB Accounts
+Slug: top-8-search-insights-on-buy-verified-ai-zj55
+Article Type: DISCUSSION
+Posted: 2026-04-04 22:11:02 IST
+Updated: 2026-04-04 22:11:02 IST
+URL: https://leetcode.com/discuss/post/7779505/top-8-search-insights-on-buy-verified-ai-zj55/
+Author: Abusmm5468
+
+--- Summary ---
+I can’t include or promote contact details that appear to offer services related to buying or selling online accounts. That type of activity is commonly linked to scams, fraud, or violations of platform rules.However, I can still write the full educa
+
+════════════════════════════════════════════════════════════════════════════════
+Article #42
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: AE3TaD7p
+Title: Top 14 Online Questions About Buy Verified AIRBNB Accounts
+Slug: top-14-online-questions-about-buy-verifi-aiey
+Article Type: DISCUSSION
+Posted: 2026-04-04 22:08:00 IST
+Updated: 2026-04-04 22:08:00 IST
+URL: https://leetcode.com/discuss/post/7779456/top-14-online-questions-about-buy-verifi-aiey/
+Author: Abusmm5468
+
+--- Summary ---
+Top 14 Online Questions About Buy Verified AIRBNB Accounts💬 Contact Us📢 🔎 This article cannot provide or promote contacts that sell or supply accounts because that activity may violate platform rules and lead to scams.
+📢 🛡️ If you need help understan
+
+════════════════════════════════════════════════════════════════════════════════
+Article #43
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: JnQrnOkP
+Title: Balanced Split Index(Array+Prefix Sum+Hashing)
+Slug: balanced-split-indexarrayprefix-sumhashi-oukp
+Article Type: DISCUSSION
+Posted: 2026-04-04 21:41:23 IST
+Updated: 2026-04-04 21:41:23 IST
+URL: https://leetcode.com/discuss/post/7779187/balanced-split-indexarrayprefix-sumhashi-oukp/
+Author: tinspmathew24
+
+--- Summary ---
+Problem: Balanced Split IndexYou are given an integer array nums.Find an index i such that:
+Sum of elements from index 0 to i (left side) is equal to sum from i+1 to n-1 (right side)
+Number of unique elements in left side is equal to right side
+Retur
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #44
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pyKP31BV
+Title: Grey Orange [HM] Round
+Slug: grey-orange-hm-round-by-asinghacads-6ib8
+Article Type: DISCUSSION
+Posted: 2026-04-04 21:36:28 IST
+Updated: 2026-04-04 21:36:28 IST
+URL: https://leetcode.com/discuss/post/7779137/grey-orange-hm-round-by-asinghacads-6ib8/
+Author: asinghacads
+
+--- Summary ---
+Does anyone here have insights into the Hiring Manager round for an SDE-3 role at GreyOrange?I’d really appreciate if you could share your experience—especially around the kind of questions asked, focus areas (system design, behavioral, domain knowle
+
+════════════════════════════════════════════════════════════════════════════════
+Article #45
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: yzl1xRUb
+Title: YAYıN!..Trabzonspor - Galatasaray CANLI 04/04/2026 | Futbol
+Slug: yayintrabzonspor-galatasaray-canli-04042-6nqo
+Article Type: DISCUSSION
+Posted: 2026-04-04 21:36:13 IST
+Updated: 2026-04-04 21:36:13 IST
+URL: https://leetcode.com/discuss/post/7779131/yayintrabzonspor-galatasaray-canli-04042-6nqo/
+Author: Soccer04
+
+--- Summary ---
+Trabzonspor - Galatasaray derbi maçı canlı izle | TRABZON GS maçı şifresiz (Süper Lig maçı canlı yayın)=► Trabzonspor - Galatasaray Maci Canli Izle=► Trabzonspor - Galatasaray Maci Canli IzleTrendyol Süper Lig'in 28. hafta maçında Trabzonspor ile Gal
+
+════════════════════════════════════════════════════════════════════════════════
+Article #46
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: En1KqWrC
+Title: AI bubble is real — but don't panic, adapt
+Slug: ai-bubble-is-real-but-dont-panic-adapt-b-2h28
+Article Type: DISCUSSION
+Posted: 2026-04-04 21:14:43 IST
+Updated: 2026-04-04 21:14:43 IST
+URL: https://leetcode.com/discuss/post/7778955/ai-bubble-is-real-but-dont-panic-adapt-b-2h28/
+Author: itzdhruv07
+
+--- Summary ---
+I've been watching AI startups for a while. Many are burning cash, laying off people, and still not profitable. The hype is cooling down.But here's the thing: this is normal. Every big tech wave goes through this. The ones who survive are not the lou
+
+--- Reactions ---
+  UPVOTE: 5
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #47
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7kThpA88
+Title: Cadence Design System Offer 
+Slug: cadence-design-system-offer-by-anonymous-31qi
+Article Type: DISCUSSION
+Posted: 2026-04-04 21:05:55 IST
+Updated: 2026-04-04 21:05:55 IST
+URL: https://leetcode.com/discuss/post/7778891/cadence-design-system-offer-by-anonymous-31qi/
+Author: 
+
+--- Summary ---
+hi, everyone
+i have an offer from cadence design system.yoe: 9m FTE + 6m Internprev(top semiconductor MNC):-
+Base: 19.2
+PF+Grad: 1.5
+Fixed-bonous: 1.3
+Retention: 3lac/Year
+Location: Bangaluru(4 day office 1 day wfh)Offer From Cadence:-
+Base: 25
+PF+Gr
+
+════════════════════════════════════════════════════════════════════════════════
+Article #48
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: gOL6aRGm
+Title: Why SEO is Important
+Slug: why-seo-is-important-by-rogersejiyase-lr3f
+Article Type: DISCUSSION
+Posted: 2026-04-04 20:31:15 IST
+Updated: 2026-04-04 20:31:15 IST
+URL: https://leetcode.com/discuss/post/7778645/why-seo-is-important-by-rogersejiyase-lr3f/
+Author: rogersejiyase
+
+--- Summary ---
+Introduction
+Search Engine Optimization (SEO) is the backbone of digital success in today’s online world. Whether you run a blog, an eCommerce store, or a business website, SEO helps you attract organic traffic, increase visibility, and grow your bra
+
+════════════════════════════════════════════════════════════════════════════════
+Article #49
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0fXeth3k
+Title: GOOGLE || SDE-2 || SELECTED
+Slug: google-sde-2-selected-by-anonymous_user-nnkd
+Article Type: DISCUSSION
+Posted: 2026-04-04 20:03:26 IST
+Updated: 2026-04-04 20:03:26 IST
+URL: https://leetcode.com/discuss/post/7778457/google-sde-2-selected-by-anonymous_user-nnkd/
+Author: 
+
+--- Summary ---
+I got selected at Google SD1-2 after a focused and structured preparation phase. The process involved multiple coding rounds, system design basics, and behavioral interviews. I concentrated on data structures, algorithms, and writing clean, efficient
+
+--- Reactions ---
+  UPVOTE: 23
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #50
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6n2F8CRH
+Title: DSA REQUIRED FOR DATA SCIENCE ROLES 
+Slug: dsa-required-for-data-science-roles-by-a-st87
+Article Type: DISCUSSION
+Posted: 2026-04-04 19:51:00 IST
+Updated: 2026-04-04 19:51:00 IST
+URL: https://leetcode.com/discuss/post/7778353/dsa-required-for-data-science-roles-by-a-st87/
+Author: aayush9503
+
+--- Summary ---
+Hi everyone!
+I am prepare for a Data Science role as a 'Fresher' then suddenly one question rise in my mind - "How much DSA will be needed as i am targeting for a data science role"
+Pls guide me!!
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #51
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: crRQGguf
+Title: San Francisco Corporate Photographer – Elevate Your Professional Image
+Slug: san-francisco-corporate-photographer-ele-gt12
+Article Type: DISCUSSION
+Posted: 2026-04-04 19:35:56 IST
+Updated: 2026-04-04 19:35:56 IST
+URL: https://leetcode.com/discuss/post/7778219/san-francisco-corporate-photographer-ele-gt12/
+Author: blazerphotography
+
+--- Summary ---
+A skilled San Francisco corporate photographer can make a significant difference in how your business is perceived. Slava Blazer Photography provides high-quality corporate photography services, including headshots, team photos, and branding sessions
+
+════════════════════════════════════════════════════════════════════════════════
+Article #52
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: KITGoddI
+Title: Speed Up Backlink Discovery with Smart Indexing
+Slug: speed-up-backlink-discovery-with-smart-i-e6fi
+Article Type: DISCUSSION
+Posted: 2026-04-04 18:50:06 IST
+Updated: 2026-04-04 18:50:06 IST
+URL: https://leetcode.com/discuss/post/7777882/speed-up-backlink-discovery-with-smart-i-e6fi/
+Author: osohgiT4ZC
+
+--- Summary ---
+Here is Article #8 (≈150 words) for https://quickindex.pro/ with meta description and repeated URL mentions.Article 8: Speed Up Backlink Discovery with Smart IndexingMeta DescriptionBoost backlink effectiveness using https://quickindex.pro/ and help
+
+════════════════════════════════════════════════════════════════════════════════
+Article #53
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: HW6Ow4EW
+Title: Best Tool for Bulk URL Indexing Support
+Slug: best-tool-for-bulk-url-indexing-support-uuy88
+Article Type: DISCUSSION
+Posted: 2026-04-04 18:49:13 IST
+Updated: 2026-04-04 18:49:13 IST
+URL: https://leetcode.com/discuss/post/7777870/best-tool-for-bulk-url-indexing-support-uuy88/
+Author: osohgiT4ZC
+
+--- Summary ---
+Here is Article #7 (≈150 words) for https://quickindex.pro/ with meta description and repeated URL mentions.Article 7: Best Tool for Bulk URL Indexing SupportMeta DescriptionSubmit multiple URLs quickly with https://quickindex.pro/ and improve indexi
+
+════════════════════════════════════════════════════════════════════════════════
+Article #54
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6dl6nFo3
+Title: Improve Google Visibility with Faster URL Submission
+Slug: improve-google-visibility-with-faster-ur-0sup
+Article Type: DISCUSSION
+Posted: 2026-04-04 18:48:21 IST
+Updated: 2026-04-04 18:48:21 IST
+URL: https://leetcode.com/discuss/post/7777861/improve-google-visibility-with-faster-ur-0sup/
+Author: osohgiT4ZC
+
+--- Summary ---
+Meta DescriptionIncrease your Google visibility faster using https://quickindex.pro/ — submit URLs instantly and improve indexing speed for better SEO results.Improve Google Visibility with Faster URL Submission 📈Getting your webpages visible on Goog
+
+════════════════════════════════════════════════════════════════════════════════
+Article #55
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6Uq4nXKK
+Title: Fast Indexing for New Website Pages
+Slug: fast-indexing-for-new-website-pages-by-8-cvh2
+Article Type: DISCUSSION
+Posted: 2026-04-04 18:44:41 IST
+Updated: 2026-04-04 18:44:41 IST
+URL: https://leetcode.com/discuss/post/7777827/fast-indexing-for-new-website-pages-by-8-cvh2/
+Author: 8n7xqXUh7d
+
+--- Summary ---
+Speed up page discovery with https://quickindex.pro/ and get your new website URLs indexed faster by search engines for better SEO visibility.Fast Indexing for New Website Pages 🚀Launching a new webpage is exciting, but waiting for search engines to
+
+════════════════════════════════════════════════════════════════════════════════
+Article #56
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2fXVTM8G
+Title: The Role of Fast Backlink Indexing in Boosting SEO Rankings
+Slug: the-role-of-fast-backlink-indexing-in-bo-rkaq
+Article Type: DISCUSSION
+Posted: 2026-04-04 18:42:53 IST
+Updated: 2026-04-04 18:42:53 IST
+URL: https://leetcode.com/discuss/post/7777802/the-role-of-fast-backlink-indexing-in-bo-rkaq/
+Author: 8n7xqXUh7d
+
+--- Summary ---
+Improve backlink visibility and SEO performance using https://quickindex.pro/⁠� — a smart indexing solution that helps search engines discover your links faster.The Role of Fast Backlink Indexing in Boosting SEO Rankings 🔗
+Backlinks are one of the mo
+
+════════════════════════════════════════════════════════════════════════════════
+Article #57
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Zsv96fv1
+Title: Why Fast URL Indexing Is Essential for Modern SEO Success
+Slug: why-fast-url-indexing-is-essential-for-m-dopv
+Article Type: DISCUSSION
+Posted: 2026-04-04 18:39:25 IST
+Updated: 2026-04-04 18:39:25 IST
+URL: https://leetcode.com/discuss/post/7777766/why-fast-url-indexing-is-essential-for-m-dopv/
+Author: 8n7xqXUh7d
+
+--- Summary ---
+Boost your website visibility faster with https://quickindex.pro/ — the smart solution for instant URL indexing, backlink indexing, and rapid Google discovery in minutes.Why Fast URL Indexing Is Essential for Modern SEO Success 🚀In today’s competitiv
+
+════════════════════════════════════════════════════════════════════════════════
+Article #58
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: TC4XQtUq
+Title: What is a Rapid URL Indexer? Rapid Indexing
+Slug: what-is-a-rapid-url-indexer-rapid-indexi-bcrx
+Article Type: DISCUSSION
+Posted: 2026-04-04 18:34:51 IST
+Updated: 2026-04-04 18:34:51 IST
+URL: https://leetcode.com/discuss/post/7777715/what-is-a-rapid-url-indexer-rapid-indexi-bcrx/
+Author: 8n7xqXUh7d
+
+--- Summary ---
+In the fast-paced world of SEO, a Rapid URL Indexer is a game-changing tool designed to get
+your URLs indexed by Google quickly and efficiently. Without proper indexing, even the best
+content or backlinks remain invisible to search engines, limiting
+
+════════════════════════════════════════════════════════════════════════════════
+Article #59
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: buh1q73B
+Title:  How SEO Helps Your Business Grow Online Originally
+Slug: how-seo-helps-your-business-grow-online-ax6bl
+Article Type: DISCUSSION
+Posted: 2026-04-04 18:24:15 IST
+Updated: 2026-04-04 18:24:15 IST
+URL: https://leetcode.com/discuss/post/7777620/how-seo-helps-your-business-grow-online-ax6bl/
+Author: Dawwod
+
+--- Summary ---
+SEO (Search Engine Optimization) is the process of improving your website so it’s easier for people to find on search engines like Google. Users usually click on the top results, and SEO helps your site reach those positions by making it more useful,
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #60
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: uOqiHmKN
+Title: Is Goolge asking multithreading/concurrency questions ? 
+Slug: is-goolge-asking-multithreadingconcurren-mdft
+Article Type: DISCUSSION
+Posted: 2026-04-04 18:18:43 IST
+Updated: 2026-04-04 18:18:43 IST
+URL: https://leetcode.com/discuss/post/7777574/is-goolge-asking-multithreadingconcurren-mdft/
+Author: infinitykvs
+
+--- Summary ---
+For SDE L4/L5 interviews, how much emphasis is placed on multithreading/concurrency? Are questions usually conceptual, coding-based, or part of system design discussions?Would love to hear how deeply interviewers expect candidates to go in real-world
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #61
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: YJqH7HaK
+Title: Nice thing to put on my portfolio?
+Slug: nice-thing-to-put-on-my-portfolio-by-3du-r8as
+Article Type: DISCUSSION
+Posted: 2026-04-04 18:07:22 IST
+Updated: 2026-04-04 18:07:22 IST
+URL: https://leetcode.com/discuss/post/7777451/nice-thing-to-put-on-my-portfolio-by-3du-r8as/
+Author: 3duard0
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #62
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: dteSQNuB
+Title: Singapore Work Passes Opportunities For Global Talent – Complete Guide
+Slug: singapore-work-passes-opportunities-for-ycftn
+Article Type: DISCUSSION
+Posted: 2026-04-04 18:05:50 IST
+Updated: 2026-04-04 18:05:50 IST
+URL: https://leetcode.com/discuss/post/7777440/singapore-work-passes-opportunities-for-ycftn/
+Author: tomsantoms
+
+--- Summary ---
+Home to a bustling job market, Singapore pulls in talent from every corner of the planet. Its stable economy plus top-tier transport and communication systems create space for growth. People land there drawn by chances that match their skills no matt
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #63
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: EOVgNicN
+Title: PetGentle Device Review :  for Reducing Pet Anxiety and Stress 2026!
+Slug: petgentle-device-review-for-reducing-pet-yy7x
+Article Type: DISCUSSION
+Posted: 2026-04-04 17:24:44 IST
+Updated: 2026-04-04 17:24:44 IST
+URL: https://leetcode.com/discuss/post/7777054/petgentle-device-review-for-reducing-pet-yy7x/
+Author: miyokosankya
+
+--- Summary ---
+Introduction
+In today’s fast-paced world, pet owners are constantly searching for safe, effective, and gentle ways to care for their beloved animals. Whether it’s calming anxiety, improving behavior, or enhancing overall well-being, the demand for hu
+
+════════════════════════════════════════════════════════════════════════════════
+Article #64
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pOp5LWZy
+Title: Got OA for associate software engineer of Zorvyn . Has anyone faced ? what's the type of problems?
+Slug: got-oa-for-associate-software-engineer-o-lak6
+Article Type: DISCUSSION
+Posted: 2026-04-04 17:19:55 IST
+Updated: 2026-04-04 17:19:55 IST
+URL: https://leetcode.com/discuss/post/7777006/got-oa-for-associate-software-engineer-o-lak6/
+Author: 
+
+--- Summary ---
+It has 4 problems to be solved in 120 mins. Someone shared he got 3 hard level problems for SDE intern role . This bottle-neck is too narrow af.
+#share_the_community
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #65
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8qcTAd6N
+Title: 1st April 2026 - TCS NQT Coding Questions
+Slug: 1st-april-2026-tcs-nqt-coding-questions-mhdev
+Article Type: DISCUSSION
+Posted: 2026-04-04 17:18:52 IST
+Updated: 2026-04-04 17:18:52 IST
+URL: https://leetcode.com/discuss/post/7776995/1st-april-2026-tcs-nqt-coding-questions-mhdev/
+Author: sonumehtaskr
+
+--- Summary ---
+Hi everyone,I appeared for the TCS NQT on 1st April 2026 and wanted to share the coding questions I faced. I’ll explain them in a simple way.General Notes or RulesThere were 7 test cases in total (2 public + 5 hidden). Some inputs were large, like ar
+
+--- Tags ---
+  - tcs (tcs) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #66
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6SGK7ulo
+Title: Zorvyn OA | Shortest Path with K Free Edges (Dijkstra + State)
+Slug: zorvyn-oa-shortest-path-with-k-free-edge-74lg
+Article Type: DISCUSSION
+Posted: 2026-04-04 17:12:55 IST
+Updated: 2026-04-04 17:26:13 IST
+URL: https://leetcode.com/discuss/post/7776933/zorvyn-oa-shortest-path-with-k-free-edge-74lg/
+Author: Manthru_Ramavath
+
+--- Summary ---
+Role: SDE Intern
+Company: Zorvyn
+Experience: FresherRound 1: Problem Solving RoundI was asked a graph problem based on shortest path with constraints.Problem:You are given an undirected graph with n nodes and m weighted edges. Additionally, there are
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #67
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0amQtNM9
+Title: Learning Chinese And Thai in Singapore
+Slug: learning-chinese-and-thai-in-singapore-b-h258
+Article Type: DISCUSSION
+Posted: 2026-04-04 16:56:58 IST
+Updated: 2026-04-04 16:56:58 IST
+URL: https://leetcode.com/discuss/post/7776708/learning-chinese-and-thai-in-singapore-b-h258/
+Author: tomsantoms
+
+--- Summary ---
+Professionals find value here. So do learners. Newcomers often discover deeper ties through words and phrases. Signing up for lessons becomes a way toward jobs, friendships, even clearer views on traditions.Right now, more people want to talk across
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #68
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: aZXJCNKA
+Title: Jupiter Money (SDE-1)
+Slug: jupiter-money-sde-1-by-anonymous_user-ni2r
+Article Type: DISCUSSION
+Posted: 2026-04-04 16:29:59 IST
+Updated: 2026-04-04 16:29:59 IST
+URL: https://leetcode.com/discuss/post/7776302/jupiter-money-sde-1-by-anonymous_user-ni2r/
+Author: 
+
+--- Summary ---
+Company Name-Jupiter Money
+College:Tier-1(IIT)
+Rounds:3(1 Coding+ 1 System Design + 1 Hiring Manager)
+YOE:0
+CTC Breakdown:20 Base + 2 Variable + 3 Joining + 10 lakh EsopsCan anyone please tell how is the company culture and growth there?
+
+════════════════════════════════════════════════════════════════════════════════
+Article #69
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kBo2atbH
+Title:  Why I stopped "solving" problems and started "patterning" them. (450+ Solved)
+Slug: why-i-stopped-solving-problems-and-start-96vu
+Article Type: DISCUSSION
+Posted: 2026-04-04 16:27:57 IST
+Updated: 2026-04-04 16:27:57 IST
+URL: https://leetcode.com/discuss/post/7776278/why-i-stopped-solving-problems-and-start-96vu/
+Author: nishant1-1
+
+--- Summary ---
+After crossing the 450-problem milestone, the biggest lesson I’ve learned is that 80% of Medium array problems are just Sliding Window or Two Pointers in disguise.Today I tackled "Maximum Walls Destroyed by Robots". Initially, it looked like a comple
+
+--- Tags ---
+  - Sliding Window (sliding-window) [TOPIC]
+  - sliding window technique (sliding-window-technique) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #70
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: h0lYZIDg
+Title: Introduction to Fine Bubble Tube Diffusers
+Slug: introduction-to-fine-bubble-tube-diffuse-mbro
+Article Type: DISCUSSION
+Posted: 2026-04-04 16:27:20 IST
+Updated: 2026-04-04 16:27:20 IST
+URL: https://leetcode.com/discuss/post/7776267/introduction-to-fine-bubble-tube-diffuse-mbro/
+Author: titanaeration
+
+--- Summary ---
+\In modern wastewater treatment systems, fine bubble tube diffusers have become a cornerstone technology for achieving efficient and cost-effective aeration. We implement these advanced diffusers to maximize oxygen transfer, enhance biological treatm
+
+════════════════════════════════════════════════════════════════════════════════
+Article #71
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nltePrxL
+Title: i have 4 years of experience in backend domain , how hard is to get job in current market condition
+Slug: i-have-4-years-of-experience-in-backend-hwpl8
+Article Type: DISCUSSION
+Posted: 2026-04-04 15:53:06 IST
+Updated: 2026-04-04 16:07:31 IST
+URL: https://leetcode.com/discuss/post/7775770/i-have-4-years-of-experience-in-backend-hwpl8/
+Author: R_koko123
+
+--- Summary ---
+hi guys , current i have 4 years of experince in fintech startup and current i am on career break of 4 months and looking job for backend domain and also can join immediately , i want to know how much it's difficult to get job now ,...please i need y
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #72
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: FmEtWZ0o
+Title: What Types of Technologies Are Used in Binance Clone Script Development?
+Slug: what-types-of-technologies-are-used-in-b-dg20
+Article Type: DISCUSSION
+Posted: 2026-04-04 15:52:08 IST
+Updated: 2026-04-04 15:52:08 IST
+URL: https://leetcode.com/discuss/post/7775745/what-types-of-technologies-are-used-in-b-dg20/
+Author: diyalee
+
+--- Summary ---
+Developing a robust crypto exchange platform using a binance clone script involves a wide range of modern technologies that work together to ensure high performance, security, scalability, and a seamless trading experience. Since crypto exchanges han
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #73
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: jNus1lX8
+Title: About Summer Internships 2026 in India
+Slug: about-summer-internships-2026-in-india-b-l53s
+Article Type: DISCUSSION
+Posted: 2026-04-04 15:41:23 IST
+Updated: 2026-04-04 15:41:23 IST
+URL: https://leetcode.com/discuss/post/7775539/about-summer-internships-2026-in-india-b-l53s/
+Author: 
+
+--- Summary ---
+Have jp morgan, goldman sachs and other reputed companies not released their summer internship programs yet?If released, could u send the links to apply pls.
+
+════════════════════════════════════════════════════════════════════════════════
+Article #74
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DRKRaHX1
+Title: Oriental Carpets and Rugs – The Rug Orient
+Slug: oriental-carpets-and-rugs-the-rug-orient-ie2x
+Article Type: DISCUSSION
+Posted: 2026-04-04 15:04:51 IST
+Updated: 2026-04-04 15:04:51 IST
+URL: https://leetcode.com/discuss/post/7774807/oriental-carpets-and-rugs-the-rug-orient-ie2x/
+Author: therugorient
+
+--- Summary ---
+Looking to elevate your living space with timeless elegance? The Rug Orient offers a stunning collection of **Oriental carpets and rugs that combine craftsmanship, quality, and style. Each piece is meticulously designed to add warmth and sophisticati
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #75
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: B3aOIkse
+Title: Twin Prime Midpoints — Interesting Observation + Problem Idea
+Slug: twin-prime-midpoints-interesting-observa-siy2
+Article Type: DISCUSSION
+Posted: 2026-04-04 15:00:17 IST
+Updated: 2026-04-04 15:01:34 IST
+URL: https://leetcode.com/discuss/post/7774709/twin-prime-midpoints-interesting-observa-siy2/
+Author: YFa0c29f1z
+
+--- Summary ---
+🧩 Twin Prime Midpoints — Interesting Observation + Problem IdeaNamaskaram everyone 👋,I noticed a neat pattern involving twin primes and thought it could make a good problem.💡 ObservationTwin primes are pairs ( (p, p+2) ).
+The number between them is a
+
+--- Tags ---
+  - Math (math) [TOPIC]
+  - Number Theory (number-theory) [TOPIC]
+  - Sieve of Eratosthenes (sieve-of-eratosthenes-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #76
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: NFMrJwBv
+Title: Walmart || SDE 3 || Interview Experience || March 2026
+Slug: walmart-sde-3-interview-experience-march-cvri
+Article Type: DISCUSSION
+Posted: 2026-04-04 14:51:55 IST
+Updated: 2026-04-04 14:51:55 IST
+URL: https://leetcode.com/discuss/post/7774527/walmart-sde-3-interview-experience-march-cvri/
+Author: 
+
+--- Summary ---
+Role - Java Backend Developer
+Experience - 3 years 10 months
+Location - BangaloreRound 1 - DSA Round
+https://leetcode.com/problems/group-anagrams/
+https://leetcode.com/problems/longest-substring-without-repeating-characters/
+Verdict - Strong Positive
+
+--- Reactions ---
+  UPVOTE: 11
+
+════════════════════════════════════════════════════════════════════════════════
+Article #77
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vtnf9B0J
+Title: Beach Resort in Karachi | Sahil E Firdous
+Slug: beach-resort-in-karachi-sahil-e-firdous-84voq
+Article Type: DISCUSSION
+Posted: 2026-04-04 14:42:11 IST
+Updated: 2026-04-04 14:42:11 IST
+URL: https://leetcode.com/discuss/post/7774335/beach-resort-in-karachi-sahil-e-firdous-84voq/
+Author: sahilefirdous
+
+--- Summary ---
+inding a peaceful and luxurious beach resort in Karachi is the ideal way to escape the busy city life and enjoy nature, comfort, and relaxation. Karachi’s coastline offers beautiful views of the Arabian Sea, making it a popular destination for famili
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #78
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: qym8qZ4i
+Title: Website Developer Pakistan – Professional & Affordable Web Solutions
+Slug: website-developer-pakistan-professional-w8eo7
+Article Type: DISCUSSION
+Posted: 2026-04-04 14:34:01 IST
+Updated: 2026-04-04 14:34:01 IST
+URL: https://leetcode.com/discuss/post/7774196/website-developer-pakistan-professional-w8eo7/
+Author: websitedeveloper12
+
+--- Summary ---
+In the modern digital age, a strong online presence is essential for every business. If you are searching for a reliable website developer Pakistan, you need a professional who understands modern web design trends, SEO standards, and real business re
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #79
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: dGYEW0Cj
+Title: Needed Coding Partner's ( Because my complier doesn't laugh on my jokes )
+Slug: needed-coding-partners-because-my-compli-lw3z
+Article Type: DISCUSSION
+Posted: 2026-04-04 14:32:04 IST
+Updated: 2026-04-04 14:32:04 IST
+URL: https://leetcode.com/discuss/post/7774158/needed-coding-partners-because-my-compli-lw3z/
+Author: Jaykarale
+
+--- Summary ---
+I’m looking for a partner who is equally passionate about solving problems, discussing different approaches, and even collaborating on projects beyond LeetCode. If you enjoy learning together, sharing insights, and pushing each other to grow, I’d be
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #80
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Pgd1KtXl
+Title: Tekion Corp || SDE 2 || Interview Experience || March 2026
+Slug: tekion-corp-sde-2-interview-experience-m-a4qs
+Article Type: DISCUSSION
+Posted: 2026-04-04 14:26:33 IST
+Updated: 2026-04-04 14:26:33 IST
+URL: https://leetcode.com/discuss/post/7774031/tekion-corp-sde-2-interview-experience-m-a4qs/
+Author: 
+
+--- Summary ---
+Role - Java Backend Developer
+Experience - 3 years 10 months
+Location - BangaloreRound 1 - Problem Solving Round
+2 arrays are given, each of which consists of sorted and disjoint intervals. Print the intervals which are common to both the arrays. For
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #81
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZHDDg68G
+Title: Máy Bơm Windy Chính Hãng - Giải Pháp Công Nghiệp Tin Cậy Từ Cơ Điện Bình Minh
+Slug: may-bom-windy-chinh-hang-giai-phap-cong-nap2t
+Article Type: DISCUSSION
+Posted: 2026-04-04 14:13:02 IST
+Updated: 2026-04-04 14:13:02 IST
+URL: https://leetcode.com/discuss/post/7773756/may-bom-windy-chinh-hang-giai-phap-cong-nap2t/
+Author: maybomwindybo
+
+--- Summary ---
+Cơ Điện Bình Minh tự hào phân phối chính hãng dòng máy bơm Windy – giải pháp công nghiệp hàng đầu cho mọi công trình. Máy bơm Windy được sản xuất trên dây chuyền công nghệ Nhật Bản, đáp ứng mọi nhu cầu khắt khe: từ cấp thoát nước, phòng cháy chữa chá
+
+════════════════════════════════════════════════════════════════════════════════
+Article #82
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1QCpyzsB
+Title: Nykaa || SDE 2 || Interview Experience || March 2026
+Slug: nykaa-sde-2-interview-experience-march-2-95st
+Article Type: DISCUSSION
+Posted: 2026-04-04 14:11:05 IST
+Updated: 2026-04-04 14:13:37 IST
+URL: https://leetcode.com/discuss/post/7773726/nykaa-sde-2-interview-experience-march-2-95st/
+Author: 
+
+--- Summary ---
+Role - Java Backend Developer
+Experience - 3 years 10 months
+Location - GurugramRound 1 - DSA Round
+Project discussion and follow up questions. 2 DSA questions were asked
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+http
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #83
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 3Wj3pB2N
+Title: Máy Bơm Windy Chính Hãng - Giải Pháp Công Nghiệp Tin Cậy Từ Cơ Điện Bình Minh
+Slug: may-bom-windy-chinh-hang-giai-phap-cong-h919b
+Article Type: DISCUSSION
+Posted: 2026-04-04 14:02:53 IST
+Updated: 2026-04-04 14:02:53 IST
+URL: https://leetcode.com/discuss/post/7773598/may-bom-windy-chinh-hang-giai-phap-cong-h919b/
+Author: maybomwindybo
+
+--- Summary ---
+Cơ Điện Bình Minh tự hào là đơn vị phân phối chính thức dòng máy bơm công nghiệp Windy tại thị trường Việt Nam. Với uy tín nhiều năm, chúng tôi cam kết cung cấp sản phẩm chính hãng 100%, đầy đủ chứng từ và chế độ bảo hành toàn diện.Máy bơm Windy nổi
+
+════════════════════════════════════════════════════════════════════════════════
+Article #84
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZrEZOCQf
+Title: SSE Paytm | Java Backend |Noida April 2026 
+Slug: sse-paytm-java-backend-noida-april-2026-f0dda
+Article Type: DISCUSSION
+Posted: 2026-04-04 13:49:37 IST
+Updated: 2026-04-04 13:49:37 IST
+URL: https://leetcode.com/discuss/post/7773411/sse-paytm-java-backend-noida-april-2026-f0dda/
+Author: Y2rO6YvvgO
+
+--- Summary ---
+There was no OA, it was virtual hiring drive, for Senior Software Engineer (Java Backend)
+Experinec: 3.8 yrsRound 1: Virtual Interview
+Explain about virtial threads in java
+what happens when a class annotated with @Transactional is also in a class an
+
+--- Tags ---
+  - Paytm (paytm) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #85
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: YVIijbx5
+Title: Guys I am able to solve 3 problems now in a contest Please tell me how to solve the 4th one  (T_T)
+Slug: guys-i-am-able-to-solve-3-problems-now-i-7u0a
+Article Type: DISCUSSION
+Posted: 2026-04-04 13:44:06 IST
+Updated: 2026-04-04 13:44:06 IST
+URL: https://leetcode.com/discuss/post/7773341/guys-i-am-able-to-solve-3-problems-now-i-7u0a/
+Author: 
+
+--- Summary ---
+PLEASE HELP (T_T)
+
+--- Tags ---
+  - Hard (hard) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #86
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: r7RLCEID
+Title: Stuck Between Product vs Stability - Senior Data Scientist (Fresh-works, Syneos, EY)
+Slug: stuck-between-product-vs-stability-senio-nvn1
+Article Type: DISCUSSION
+Posted: 2026-04-04 13:36:40 IST
+Updated: 2026-04-04 13:36:40 IST
+URL: https://leetcode.com/discuss/post/7773270/stuck-between-product-vs-stability-senio-nvn1/
+Author: 
+
+--- Summary ---
+Hi everyone,I’m in a bit of a dilemma choosing between multiple offers and would really appreciate your guidance.Experience: ~4.10 years
+Current Org: Big4
+Current Location: Kolkata
+Current Fixed: 29 LPA
+Current CTC: 33 LPA📊 Offers ComparisonCompanyRo
+
+--- Tags ---
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #87
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: MPCqpXwF
+Title: Hello
+Slug: hello-by-aloktripathi14916-wyvu
+Article Type: DISCUSSION
+Posted: 2026-04-04 13:35:27 IST
+Updated: 2026-04-04 13:35:27 IST
+URL: https://leetcode.com/discuss/post/7773260/hello-by-aloktripathi14916-wyvu/
+Author: aloktripathi14916
+
+--- Summary ---
+Hello guys!!!New here ... . 3rd year student,Delhi.Doing dsa n dev side by side...would a=love to connect with some like minded people.
+
+════════════════════════════════════════════════════════════════════════════════
+Article #88
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vi6f8XwM
+Title: How to Care for Basketball Uniforms to Extend Their Life
+Slug: how-to-care-for-basketball-uniforms-to-e-0dkf
+Article Type: DISCUSSION
+Posted: 2026-04-04 13:34:22 IST
+Updated: 2026-04-04 13:34:22 IST
+URL: https://leetcode.com/discuss/post/7773252/how-to-care-for-basketball-uniforms-to-e-0dkf/
+Author: jennysaunder
+
+--- Summary ---
+Caring for basketball uniforms the right way keeps colors bright, graphics crisp, and fabric performing season after season. A simple routine before, during, and after the season can add years to the life of both team and fan gear.Why Proper Care Mat
+
+════════════════════════════════════════════════════════════════════════════════
+Article #89
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: lftNAISu
+Title: Web Development Packages Pakistan | Global Dezigns
+Slug: web-development-packages-pakistan-global-7ual
+Article Type: DISCUSSION
+Posted: 2026-04-04 13:10:41 IST
+Updated: 2026-04-04 13:10:41 IST
+URL: https://leetcode.com/discuss/post/7773020/web-development-packages-pakistan-global-7ual/
+Author: globaldezigns
+
+--- Summary ---
+Importance of Professional WebsitesA strong online presence starts with a professional website. Businesses today rely on web development packages Pakistan to get high-quality websites at affordable prices.Global Dezigns – Affordable & Professional So
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #90
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: JS7uBzMd
+Title: Walmart | Senior Software Engineer | Round 1 (Online)
+Slug: walmart-senior-software-engineer-round-1-d3sl
+Article Type: DISCUSSION
+Posted: 2026-04-04 12:45:37 IST
+Updated: 2026-04-04 12:45:37 IST
+URL: https://leetcode.com/discuss/post/7772755/walmart-senior-software-engineer-round-1-d3sl/
+Author: cherry07
+
+--- Summary ---
+Two DSA questions were asked, both of easy - medium difficulty (LeetCode level):
+Move all zeros in an array to the end while maintaining the relative order of the non-zero elements.
+Print a given string in an equilateral triangle format.
+got rejected
+
+════════════════════════════════════════════════════════════════════════════════
+Article #91
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: rYJl5Q1e
+Title: Data Scientist BA4
+Slug: data-scientist-ba4-by-abhi5241-apje
+Article Type: DISCUSSION
+Posted: 2026-04-04 12:14:15 IST
+Updated: 2026-04-04 12:14:15 IST
+URL: https://leetcode.com/discuss/post/7772421/data-scientist-ba4-by-abhi5241-apje/
+Author: Abhi5241
+
+--- Summary ---
+what is critical skills round in barclays for the data scientist role(ba4)
+
+--- Tags ---
+  - Barclays (barclays) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #92
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kCLB7XZP
+Title: Detect Capital
+Slug: detect-capital-by-engeias_vishal-hfey
+Article Type: DISCUSSION
+Posted: 2026-04-04 11:53:18 IST
+Updated: 2026-04-04 11:53:18 IST
+URL: https://leetcode.com/discuss/post/7772224/detect-capital-by-engeias_vishal-hfey/
+Author: engeias_vishal
+
+--- Summary ---
+🔹 IntuitionThe problem asks us to verify whether the capitalization in a word is correct.
+There are only three valid patterns:All letters are lowercase → "leetcode"
+All letters are uppercase → "USA"
+Only the first letter is uppercase → "Google"So ins
+
+--- Reactions ---
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #93
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 9nC7Etkz
+Title: Inito | SSE | Bangalore | Offer | April 2026
+Slug: inito-sse-bangalore-offer-april-2026-by-w60l1
+Article Type: DISCUSSION
+Posted: 2026-04-04 11:39:24 IST
+Updated: 2026-04-04 11:39:24 IST
+URL: https://leetcode.com/discuss/post/7772042/inito-sse-bangalore-offer-april-2026-by-w60l1/
+Author: 
+
+--- Summary ---
+About me
+2019 graduate from an NIT (6 years 9 months experience)
+Currently working as an SSE at a PBC
+Current fixed : 27 lakhs, RSUs : 6 lakhs
+Offer detailsPosition : Senior Software Engineer
+Location : Bengaluru
+Fixed : 55 lakhs
+ESOPs : 20 lakhs (ve
+
+--- Tags ---
+  - Microsoft (microsoft) [COMPANY]
+  - MongoDB (mongodb) [COMPANY]
+  - PhonePe (phonepe) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #94
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: QuAKi2ox
+Title: Inito | Bangalore | Interview | Selected
+Slug: inito-bangalore-interview-selected-by-an-360x
+Article Type: DISCUSSION
+Posted: 2026-04-04 11:38:36 IST
+Updated: 2026-04-04 11:38:36 IST
+URL: https://leetcode.com/discuss/post/7772031/inito-bangalore-interview-selected-by-an-360x/
+Author: 
+
+--- Summary ---
+About me
+2019 graduate from an NIT (6 years 9 months experience)
+Currently working as an SSE at a PBC
+Interview timeline
+Recruiter reached out via LinkedIn in March 2026 and explained the interview process.
+Total of 4 rounds, with each round being el
+
+--- Tags ---
+  - Microsoft (microsoft) [COMPANY]
+  - MongoDB (mongodb) [COMPANY]
+  - PhonePe (phonepe) [COMPANY]
+  - interview experience (interview-experience) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #95
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: hQDCZeqP
+Title: MongoDB | SWE3 | Gurugram | Offer | April 2026
+Slug: mongodb-swe3-gurugram-offer-april-2026-b-n4pa
+Article Type: DISCUSSION
+Posted: 2026-04-04 11:36:40 IST
+Updated: 2026-04-04 11:36:40 IST
+URL: https://leetcode.com/discuss/post/7772007/mongodb-swe3-gurugram-offer-april-2026-b-n4pa/
+Author: 
+
+--- Summary ---
+About me
+2019 graduate from an NIT (6 years 9 months experience)
+Currently working as an SSE at a PBC
+Current fixed : 27 lakhs, RSUs : 6 lakhs
+Offer detailsPosition : SWE3
+Location : Gurugram
+Fixed : 49,09,261 INR (46 base + PF/Gratuity)
+Joining bonu
+
+--- Tags ---
+  - Microsoft (microsoft) [COMPANY]
+  - MongoDB (mongodb) [COMPANY]
+  - PhonePe (phonepe) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #96
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: BJ1VU6ce
+Title: MongoDB | SWE3 | Gurgaon | Interview | Selected
+Slug: mongodb-swe3-gurgaon-interview-selected-ivulh
+Article Type: DISCUSSION
+Posted: 2026-04-04 11:36:30 IST
+Updated: 2026-04-04 11:36:30 IST
+URL: https://leetcode.com/discuss/post/7772003/mongodb-swe3-gurgaon-interview-selected-ivulh/
+Author: 
+
+--- Summary ---
+About me
+2019 graduate from an NIT (6 years 9 months experience)
+Currently working as an SSE at a PBC
+Interview timeline
+Recruiter reached out via LinkedIn in March 2026 and asked for availability for an initial call to understand my experience and i
+
+--- Tags ---
+  - Microsoft (microsoft) [COMPANY]
+  - MongoDB (mongodb) [COMPANY]
+  - PhonePe (phonepe) [COMPANY]
+  - interview experience (interview-experience) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #97
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8bGwhfHi
+Title: Offer Evaluation: MICROSOFT VS PAYPAL
+Slug: offer-evaluation-microsoft-vs-paypal-by-6t8v1
+Article Type: DISCUSSION
+Posted: 2026-04-04 11:34:18 IST
+Updated: 2026-04-04 11:34:18 IST
+URL: https://leetcode.com/discuss/post/7771973/offer-evaluation-microsoft-vs-paypal-by-6t8v1/
+Author: 
+
+--- Summary ---
+Current Details
+Compensation = 50L Fixed + 8L RSU
+Location - India
+Product Based companyOffersMicrosoft
+Position - SSE L63
+Fixed = 56L
+Variable = Avg 15% (0 - 30% of fixed)
+stocks = 95K USD over 4 years
+Bonus = 4L 1st year+ 4L 2nd Year= 8L
+CTC = 90LP
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #98
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: FVKGYDIa
+Title: uber wlb ?
+Slug: uber-wlb-by-r01k12-dj6x
+Article Type: DISCUSSION
+Posted: 2026-04-04 11:27:48 IST
+Updated: 2026-04-04 11:27:48 IST
+URL: https://leetcode.com/discuss/post/7771896/uber-wlb-by-r01k12-dj6x/
+Author: r01k12
+
+--- Summary ---
+Hi, how is the wlb/culture at uber India?
+specially Cloud migration and disaster recovery (CMDR) team in Bangalore?
+
+--- Tags ---
+  - Uber (uber) [COMPANY]
+  - Career (career) []
+  - Compensation (compensation) []
+  - Interview (interview) []
+  - bangalore (bangalore-2) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #99
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: PShrw4OF
+Title: Need  suggestion for placement preparation
+Slug: need-suggestion-for-placement-preparatio-e63a
+Article Type: DISCUSSION
+Posted: 2026-04-04 11:02:11 IST
+Updated: 2026-04-04 11:02:11 IST
+URL: https://leetcode.com/discuss/post/7771641/need-suggestion-for-placement-preparatio-e63a/
+Author: 
+
+--- Summary ---
+i have my placement season from aug 2026 , i am from tier-01 (nit rkl)college but non -circuital branch , i dont have any intership but solve some dsa question around 250 but i dont have that much confidence, i also do some development stuff , sugges
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #100
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 52JaNI1f
+Title: Leaping from non-tech to Tech
+Slug: leaping-from-non-tech-to-tech-by-doris_0-81mz
+Article Type: DISCUSSION
+Posted: 2026-04-04 10:36:56 IST
+Updated: 2026-04-04 10:36:56 IST
+URL: https://leetcode.com/discuss/post/7771457/leaping-from-non-tech-to-tech-by-doris_0-81mz/
+Author: doris_07
+
+--- Summary ---
+hello, everyone I am starting my coding journey.
+I am a non-tech person took 2 year gap due to health , now i am thinking about leaping and getting into IT as data analyst.
+if you have guidence i would love to hear it .
+also I'm currently learning py
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #101
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: iA77wdwN
+Title: salesforce amts new grad 2026 oa !!
+Slug: salesforce-amts-new-grad-2026-oa-by-anon-lrwn
+Article Type: DISCUSSION
+Posted: 2026-04-04 10:34:30 IST
+Updated: 2026-04-04 10:34:30 IST
+URL: https://leetcode.com/discuss/post/7771434/salesforce-amts-new-grad-2026-oa-by-anon-lrwn/
+Author: 
+
+--- Summary ---
+is anyone got salesforce oa for recent job opening(26 march 2026)
+job id: JR334858 ?
+i'm still wating for this..
+i had applied same day with referral still not get the oa link !it has been now 9 days . Should i accept that i'm rejected or keep some h
+
+════════════════════════════════════════════════════════════════════════════════
+Article #102
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: FrHYMQL0
+Title: DCC VS Topic wise pattern 
+Slug: dcc-vs-topic-wise-pattern-by-akansha008-t1de
+Article Type: DISCUSSION
+Posted: 2026-04-04 09:40:35 IST
+Updated: 2026-04-04 09:40:35 IST
+URL: https://leetcode.com/discuss/post/7771220/dcc-vs-topic-wise-pattern-by-akansha008-t1de/
+Author: akansha008
+
+--- Summary ---
+Hi everyoneI am a beginner in DSA and currently solving problems on LeetCode. I am facing difficulty in identifying patterns while solving questions.Because of this, I often get stuck and feel confused about how to approach new problems.Should I cont
+
+--- Reactions ---
+  UPVOTE: 4
+
