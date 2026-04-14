@@ -1,0 +1,667 @@
+LeetCode Discuss - Latest 30 Articles
+Fetched on: 2026-04-14 09:12:08 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Q1LpZTYI
+Title: Comment Anonymously
+Slug: comment-anonymously-by-anonymous_user-dfss
+Article Type: DISCUSSION
+Posted: 2026-04-14 08:57:04 IST
+Updated: 2026-04-14 08:57:04 IST
+URL: https://leetcode.com/discuss/post/7898513/comment-anonymously-by-anonymous_user-dfss/
+Author: 
+
+--- Summary ---
+How can we comment anonymously like we can post anonymously here?
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: YrOU7Iru
+Title: Dynamic Problem
+Slug: dynamic-problem-by-anonymous_user-5t3t
+Article Type: DISCUSSION
+Posted: 2026-04-14 07:24:16 IST
+Updated: 2026-04-14 07:24:16 IST
+URL: https://leetcode.com/discuss/post/7898389/dynamic-problem-by-anonymous_user-5t3t/
+Author: 
+
+--- Summary ---
+Patterns:
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6feaDd6K
+Title: Convex hull
+Slug: convex-hull-by-anonymous_user-4skt
+Article Type: DISCUSSION
+Posted: 2026-04-14 07:05:41 IST
+Updated: 2026-04-14 07:05:41 IST
+URL: https://leetcode.com/discuss/post/7898376/convex-hull-by-anonymous_user-4skt/
+Author: 
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: zqlrO0Mm
+Title: gsoc
+Slug: gsoc-by-8bfdwdzugw-073g
+Article Type: DISCUSSION
+Posted: 2026-04-14 06:02:42 IST
+Updated: 2026-04-14 06:02:42 IST
+URL: https://leetcode.com/discuss/post/7898341/gsoc-by-8bfdwdzugw-073g/
+Author: 8bFDWdzuGw
+
+--- Summary ---
+I am im class 11, I am not doing gsoc now, but I wanted to ask how much should I know for gsoc(like what and how much to learn) so that by college I can improve and build slowly in me.
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: J6iYb7w2
+Title: Vector and 3d geometry
+Slug: vector-and-3d-geometry-by-8bfdwdzugw-0szv
+Article Type: DISCUSSION
+Posted: 2026-04-14 06:00:12 IST
+Updated: 2026-04-14 06:00:12 IST
+URL: https://leetcode.com/discuss/post/7898340/vector-and-3d-geometry-by-8bfdwdzugw-0szv/
+Author: 8bFDWdzuGw
+
+--- Summary ---
+I am preparing for jee.
+There is a portion of mathematics called vector and 3 geometry.
+Should I leave it or do basics, tell is it useful for further cs(any cs field), and is it same as the one we taught earlier(find angle in triangle), what is the d
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7tuqUOPA
+Title: DFS + Memoization giving wrong answer | Need help understanding why
+Slug: dfs-memoization-giving-wrong-answer-need-2nyt
+Article Type: DISCUSSION
+Posted: 2026-04-14 00:50:52 IST
+Updated: 2026-04-14 00:50:52 IST
+URL: https://leetcode.com/discuss/post/7896923/dfs-memoization-giving-wrong-answer-need-2nyt/
+Author: SatyaprakashLeetCode
+
+--- Summary ---
+I am trying to solve 1293. Shortest Path in a Grid with Obstacles Elimination using DFS + memoization.My Approach:
+Use recursion with state (i, j, k)
+Use a 3D DP array for memoization
+Use a visited array to avoid cycles
+However, my solution is giving
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: F5lNWkqx
+Title: Uber SDE - 2 Interview Experience
+Slug: uber-sde-2-interview-experience-by-anony-w3va
+Article Type: DISCUSSION
+Posted: 2026-04-14 00:31:11 IST
+Updated: 2026-04-14 00:31:11 IST
+URL: https://leetcode.com/discuss/post/7896720/uber-sde-2-interview-experience-by-anony-w3va/
+Author: 
+
+--- Summary ---
+🧩 Interview Rounds
+🔹 1. BPS (Business Problem Solving Round)
+Duration: ~45–60 mins
+Structure:
+~15 mins System Design discussion
+1 Coding QuestionSystem Design (Discussion):
+Focused on high-level thinking around scalability and trade-offs. Questions w
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: lvTgtkfU
+Title: Google Application need help !!!
+Slug: google-application-need-help-by-anand004-pe44
+Article Type: DISCUSSION
+Posted: 2026-04-13 23:19:05 IST
+Updated: 2026-04-13 23:19:27 IST
+URL: https://leetcode.com/discuss/post/7895971/google-application-need-help-by-anand004-pe44/
+Author: 
+
+--- Summary ---
+I applied for the Google WSE role and SWE I (University Hiring) off- campus role, along with many other relevant positions, all with referrals. However, I haven’t received any response.I’m from a tier-3 but well-known university in Chennai, and I’m a
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: uXAdAPnX
+Title: LLD Interviews: Spring Boot or Plain Java?
+Slug: lld-interviews-spring-boot-or-plain-java-pc0k
+Article Type: DISCUSSION
+Posted: 2026-04-13 22:28:11 IST
+Updated: 2026-04-13 22:28:11 IST
+URL: https://leetcode.com/discuss/post/7895217/lld-interviews-spring-boot-or-plain-java-pc0k/
+Author: 
+
+--- Summary ---
+Can we use Spring Boot for LLD design, or should we stick to plain Java? Also, in LLD interviews, are we expected to draw class diagrams, or is it enough to verbally explain the flow and write some code? I’d really appreciate some clarity on the corr
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: PQBEjWqM
+Title: Morgan Stanley OA Experience – 2027 Batch
+Slug: morgan-stanley-oa-experience-2027-batch-7y7nr
+Article Type: DISCUSSION
+Posted: 2026-04-13 22:12:47 IST
+Updated: 2026-04-13 22:24:30 IST
+URL: https://leetcode.com/discuss/post/7894986/morgan-stanley-oa-experience-2027-batch-7y7nr/
+Author: fearless_guy
+
+--- Summary ---
+Morgan Stanley OA Experience – 2027 BatchRole: Technology Apprenticeship Program or in short SDE intern
+Platform: AMCAT SHL
+Total Time: ~2 hours or 111 minsSections:
+
+Debugging (15 mins, 7 questions)
+Fix 1-2 bugs in small code snippets (C++/Java/Pyth
+
+--- Tags ---
+  - Morgan Stanley (morgan-stanley) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - internship advice (internship-advice) []
+  - #internship (internship-2) []
+
+--- Reactions ---
+  UPVOTE: 8
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 3B3r6W2V
+Title: Bloomberg Graduate Software Engineer (Dublin) - Round 1
+Slug: bloomberg-graduate-software-engineer-dub-5cvu
+Article Type: DISCUSSION
+Posted: 2026-04-13 22:06:44 IST
+Updated: 2026-04-13 22:06:44 IST
+URL: https://leetcode.com/discuss/post/7894916/bloomberg-graduate-software-engineer-dub-5cvu/
+Author: 
+
+--- Summary ---
+Hey everyone, I just got a technical interview invitation from Bloomberg Dublin for Software Engineer role. I would like to ask if anyone that has went through the process:
+How was the experience like and any tips for me?
+What are the types of DSA qu
+
+--- Tags ---
+  - Bloomberg (bloomberg) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 5PiaTTYe
+Title: Amazon SDE I – OA cleared but no interview update after recruiter call
+Slug: amazon-sde-i-oa-cleared-but-no-interview-vs2j
+Article Type: DISCUSSION
+Posted: 2026-04-13 21:44:02 IST
+Updated: 2026-04-13 21:44:02 IST
+URL: https://leetcode.com/discuss/post/7894697/amazon-sde-i-oa-cleared-but-no-interview-vs2j/
+Author: 
+
+--- Summary ---
+Hi everyone, I wanted to check if anyone has faced a similar situation.I cleared the OA for an Amazon SDE I role in February. After that, I received a call from a recruiter regarding interview scheduling. She asked about my availability for an onsite
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+  - amazon sde1 (amazon-sde1-2) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: fm5L9PAE
+Title: Arrays 101
+Slug: arrays-101-by-basavarajmutnal-n86s
+Article Type: DISCUSSION
+Posted: 2026-04-13 21:03:27 IST
+Updated: 2026-04-13 21:03:27 IST
+URL: https://leetcode.com/discuss/post/7894163/arrays-101-by-basavarajmutnal-n86s/
+Author: basavarajmutnal
+
+--- Summary ---
+I’ve recently completed Arrays 101, and it’s been a really interesting journey so far.One thing I’ve noticed about myself is that whenever I try to solve a problem, my approach often becomes more complex than it needs to be. I sometimes struggle to i
+
+--- Tags ---
+  - Fun With Arrays! (fun-with-arrays) []
+
+--- Reactions ---
+  UPVOTE: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: uIVQtkB1
+Title: How long does Capital One take to dispute a transaction?#Easy Contact Guide
+Slug: how-long-does-capital-one-take-to-disput-aav2
+Article Type: DISCUSSION
+Posted: 2026-04-13 20:36:24 IST
+Updated: 2026-04-13 20:36:24 IST
+URL: https://leetcode.com/discuss/post/7893872/how-long-does-capital-one-take-to-disput-aav2/
+Author: HELLO9784655454
+
+--- Summary ---
+To dispute a charge with Capital One, you can use their mobile app, website, or call +𝟭-844-449-𝟰6.03 (credit) or 1-866-56-9023 (debit). It is best to first attempt to resolve issues directly with the merchant. +𝟭-844-449-𝟰6.03 Disputes must usually
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: XQyEqOIE
+Title: DocuSign SDE Interview Experience | 4 Rounds | Selected ✅
+Slug: docusign-sde-interview-experience-4-roun-1z0n
+Article Type: DISCUSSION
+Posted: 2026-04-13 19:06:38 IST
+Updated: 2026-04-13 20:46:18 IST
+URL: https://leetcode.com/discuss/post/7892954/docusign-sde-interview-experience-4-roun-1z0n/
+Author: 
+
+--- Summary ---
+🧑‍💻 Background
+Experience: ~1.6 years (10 months intern + 10 months FTE)
+Current Role: Software Engineer - 1
+Domain: Edtech (Early Age Startup)
+Location: Bangalore
+Previous Comp: 13 LPA [7 (Base) + 3 (Remuneration Bonus) + 3 (ESOP)]
+📋 Interview Overv
+
+--- Reactions ---
+  UPVOTE: 14
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: evytJ14i
+Title: 1 Year of Grinding, Still No Internship — What Am I Missing?
+Slug: 1-year-of-grinding-still-no-internship-w-d20r
+Article Type: DISCUSSION
+Posted: 2026-04-13 18:24:49 IST
+Updated: 2026-04-13 18:24:49 IST
+URL: https://leetcode.com/discuss/post/7892449/1-year-of-grinding-still-no-internship-w-d20r/
+Author: saishmungase
+
+--- Summary ---
+Hey everyone,
+I’ve spent the last 1 year grinding for a software engineering internship — DSA, projects, applications — everything.Still no results.At this point, I’m seriously starting to question:
+-> Is getting an internship actually about skill an
+
+--- Tags ---
+  - Placement (placement) [COMPANY]
+  - Career (career) []
+  - Resume Screening (resume-screening) []
+  - Interview (interview) []
+  - career-advice (career-advice-2) []
+  - internship advice (internship-advice) []
+  - #internship (internship-2) []
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ucrXMcMz
+Title: TCS NQT 2026 | Am I Rejected
+Slug: tcs-nqt-2026-am-i-rejected-by-manasa1811-gb7f
+Article Type: DISCUSSION
+Posted: 2026-04-13 18:24:19 IST
+Updated: 2026-04-13 18:24:19 IST
+URL: https://leetcode.com/discuss/post/7892441/tcs-nqt-2026-am-i-rejected-by-manasa1811-gb7f/
+Author: Manasa1811
+
+--- Summary ---
+Need Help for TCS NQT Prime/Digital PreparationHi Everyone,I appered for tcs nqt exam on March 20, solved 1 question, still didn't get any response from tcs team.
+can i expect that i didn't qualify for examThanks in advance!
+
+--- Tags ---
+  - tcs (tcs) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZReetd0U
+Title: New Achievement Unlocked! 1.1K problems solved
+Slug: new-achievement-unlocked-11k-problems-so-pwi2
+Article Type: DISCUSSION
+Posted: 2026-04-13 17:34:04 IST
+Updated: 2026-04-13 17:37:56 IST
+URL: https://leetcode.com/discuss/post/7891736/new-achievement-unlocked-11k-problems-so-pwi2/
+Author: potatoArmy
+
+--- Summary ---
+Today, I have solved 1.1K (1100) problems on LeetCode!
+My CF account
+Took me about 2 months of consistent grinding in both LC and CF (but I still don't know why I'm getting cooked in the recent contests tho) :)
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: l45bezKo
+Title: Recently Appeared for Nagarro Interview sharing my experience
+Slug: recently-appeared-for-nagarro-interview-k1zd4
+Article Type: DISCUSSION
+Posted: 2026-04-13 17:30:20 IST
+Updated: 2026-04-13 17:30:20 IST
+URL: https://leetcode.com/discuss/post/7891670/recently-appeared-for-nagarro-interview-k1zd4/
+Author: 143amit
+
+--- Summary ---
+I recently attended an interview at Nagarro for a Java Backend role.Core Java
+Difference between abstract class and interface
+what are default methods in interfaces?
+What happens if two interfaces have same default methods?
+Difference between Compara
+
+--- Tags ---
+  - Java (java) []
+  - Backend (backend) []
+  - Interview (interview) []
+  - devlopment (devlopment) []
+  - DSA Java (dsa-java) []
+
+--- Reactions ---
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0KjDOAvV
+Title: 6 Microsoft Azure Certifications Topics That Confuse 90% of Students on Exam Day
+Slug: 6-microsoft-azure-certifications-topics-me9sg
+Article Type: DISCUSSION
+Posted: 2026-04-13 16:52:25 IST
+Updated: 2026-04-13 16:52:25 IST
+URL: https://leetcode.com/discuss/post/7890757/6-microsoft-azure-certifications-topics-me9sg/
+Author: malrickstone
+
+--- Summary ---
+You've been studying for weeks.Practice tests? Done. Video courses? Finished. Notes? Covered in highlights.But here's what nobody warned you about. Passing a Microsoft Azure certification exam isn't just about how much you studied. It's about what yo
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: JYA8qAGU
+Title: TCS NQT 2026 | Am I Rejected
+Slug: tcs-nqt-2026-am-i-rejected-by-aryan-lokh-9dpz
+Article Type: DISCUSSION
+Posted: 2026-04-13 16:24:29 IST
+Updated: 2026-04-13 16:24:29 IST
+URL: https://leetcode.com/discuss/post/7890279/tcs-nqt-2026-am-i-rejected-by-aryan-lokh-9dpz/
+Author: Aryan-Lokhande
+
+--- Summary ---
+Recently I went through TCS NQT pipeline.
+NQT test was on 26 march. My aptitude section went well, and I was able to solve both coding questions.
+Rumors say if you solve both coding question you are eligible toPrimerole, is it right?
+My interview was
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 5oDxhDaG
+Title: On the Hunt for Opportunities – Suggestions Welcome!
+Slug: on-the-hunt-for-opportunities-suggestion-8bmd
+Article Type: DISCUSSION
+Posted: 2026-04-13 16:03:25 IST
+Updated: 2026-04-13 16:03:25 IST
+URL: https://leetcode.com/discuss/post/7889987/on-the-hunt-for-opportunities-suggestion-8bmd/
+Author: revxd
+
+--- Summary ---
+On the Hunt for Opportunities – Suggestions Welcome! 🚀Hey everyone! 😊I’m currently exploring job opportunities and would really appreciate your suggestions. I’m a Computer Engineering student with a strong interest in tech, especially in areas like A
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4CoGHCCN
+Title: Adobe CS-1 interview 
+Slug: adobe-cs-1-interview-by-somuanu000-3puq
+Article Type: DISCUSSION
+Posted: 2026-04-13 12:48:36 IST
+Updated: 2026-04-13 12:48:36 IST
+URL: https://leetcode.com/discuss/post/7887559/adobe-cs-1-interview-by-somuanu000-3puq/
+Author: somuanu000
+
+--- Summary ---
+Hey folks,
+I have upcoming Adobe CS-1 interviews, focussing on DSA and java concurrency respectively. If anyone has gone through the rounds recently, can you please share your interview experience?
+For java concurrency round, do they ask an LLD quest
+
+--- Tags ---
+  - Adobe (adobe) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 9TLy4PwH
+Title: Technical Architects (Java) Wanted in Bangalore!
+Slug: technical-architects-java-wanted-in-bang-d12e
+Article Type: DISCUSSION
+Posted: 2026-04-13 12:35:36 IST
+Updated: 2026-04-13 12:36:27 IST
+URL: https://leetcode.com/discuss/post/7887390/technical-architects-java-wanted-in-bang-d12e/
+Author: HQrRDtHWHo
+
+--- Summary ---
+We're looking for a Technical Architect (Java) to be a part of our engineering team.A little bit about our company:
+We are a product company based in Bangalore (BTM Layout) and the US. One of the many products we are proud of that we have created fro
+
+--- Tags ---
+  - Career (career) []
+  - India (india) []
+  - Bengaluru (bengaluru) []
+  - bangalore (bangalore-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DvM0I3RW
+Title: 🧠 Little rule I started following on LeetCode
+Slug: little-rule-i-started-following-on-leetc-qmdh
+Article Type: DISCUSSION
+Posted: 2026-04-13 11:45:35 IST
+Updated: 2026-04-13 11:45:35 IST
+URL: https://leetcode.com/discuss/post/7886572/little-rule-i-started-following-on-leetc-qmdh/
+Author: ayush_gupta_2003
+
+--- Summary ---
+If a problem takes me too long, I don’t just look at the solution.First I ask myself:
+"What part of the problem did I misunderstand?"Most of the time, the issue isn’t coding — it’s understanding the question properly.I’ve also started writing some of
+
+--- Reactions ---
+  THUMBS_DOWN: 7
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: uhvO79MY
+Title: TCS Digital interview experience.
+Slug: tcs-digital-interview-experience-by-rohi-uwng
+Article Type: DISCUSSION
+Posted: 2026-04-13 10:49:56 IST
+Updated: 2026-04-13 10:49:56 IST
+URL: https://leetcode.com/discuss/post/7885700/tcs-digital-interview-experience-by-rohi-uwng/
+Author: RohitBose
+
+--- Summary ---
+My nqt exam was on 26th March, 2nd shift...However got shortlisted for Digital interview on 8th April...There was 3 interviewer in the panel.
+Asked for introduction.
+Asked my fluency in python and sql.
+Told me to write a code in python.
+Asked differe
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: JoNjBm1g
+Title: Java Concurrency Question | Build BLOCKED Saturation Policy in Thread-Pool (Natural Backpressure)
+Slug: build-blocked-saturation-policy-in-threa-8sdr
+Article Type: DISCUSSION
+Posted: 2026-04-13 10:01:43 IST
+Updated: 2026-04-13 10:02:46 IST
+URL: https://leetcode.com/discuss/post/7885244/build-blocked-saturation-policy-in-threa-8sdr/
+Author: shubha2207
+
+--- Summary ---
+QuestionHow can you implement a custom saturation policy in Java's ThreadPoolExecutor that blocks the submitter thread instead of throwing RejectedExecutionException, discarding tasks, or running the task in the caller's thread? The goal is to create
+
+--- Tags ---
+  - Concurrency (concurrency) [TOPIC]
+  - Career (career) []
+  - Low Level Design (low-level-design) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: hQhwW0wi
+Title: Confused About TCS NQT Result (March 26 Afternoon Batch)
+Slug: confused-about-tcs-nqt-result-march-26-a-qxff
+Article Type: DISCUSSION
+Posted: 2026-04-13 09:56:27 IST
+Updated: 2026-04-13 09:56:27 IST
+URL: https://leetcode.com/discuss/post/7885200/confused-about-tcs-nqt-result-march-26-a-qxff/
+Author: 
+
+--- Summary ---
+Hi everyone,I attended the TCS NQT exam on March 26 (afternoon batch), but I haven’t received any email yet. I noticed that some students have already received updates, so I’m a bit concerned about my status.In the coding section, I was able to solve
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: j3yCzuuo
+Title: “DSA alone won’t get you placed ”
+Slug: dsa-alone-wont-get-you-placed-by-anmolso-lwth
+Article Type: DISCUSSION
+Posted: 2026-04-13 09:40:36 IST
+Updated: 2026-04-13 09:40:36 IST
+URL: https://leetcode.com/discuss/post/7885124/dsa-alone-wont-get-you-placed-by-anmolso-lwth/
+Author: Anmolsoni945
+
+--- Summary ---
+❌ Projects → I had nothing to talk about beyond problems
+❌ CS Fundamentals (OS, DBMS, OOP) → Couldn’t answer basic interview questions
+❌ Resume quality → Weak resume = no shortlist
+❌ Communication → Could solve… but couldn’t explain properly🧠 What ac
+
+--- Reactions ---
+  UPVOTE: 11
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZWc6PBS0
+Title: Industrial training query?
+Slug: industrial-training-query-by-kashish_0_0-ljgy
+Article Type: DISCUSSION
+Posted: 2026-04-13 09:10:50 IST
+Updated: 2026-04-13 09:10:50 IST
+URL: https://leetcode.com/discuss/post/7884999/industrial-training-query-by-kashish_0_0-ljgy/
+Author: kashish_0_0
+
+--- Summary ---
+do y'all think that industrial training important for placements? in AI sector . what are some specific points to look on before doing industrial training at some particular place
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
