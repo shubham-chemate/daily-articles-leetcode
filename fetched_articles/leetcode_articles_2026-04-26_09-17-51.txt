@@ -1,0 +1,774 @@
+LeetCode Discuss - Latest 36 Articles
+Fetched on: 2026-04-26 09:17:51 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Hh8KGWK4
+Title: Most People Miss This Overflow Trick in Reverse Integer (LeetCode 7)
+Slug: most-people-miss-this-overflow-trick-in-8ehve
+Article Type: DISCUSSION
+Posted: 2026-04-26 09:06:44 IST
+Updated: 2026-04-26 09:06:44 IST
+URL: https://leetcode.com/discuss/post/8098125/most-people-miss-this-overflow-trick-in-8ehve/
+Author: codewithsumit2004
+
+--- Summary ---
+While solving the Reverse Integer problem, the main challenge is handling overflow safely.Here’s a clean and interview-friendly C++ solution:💡 Key IdeaBefore doing:we must ensure multiplying by 10 is still safe.Why?Because C++ int range is:
+INT_MAX =
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Av7egALU
+Title: 🚀 1559. Detect Cycles in 2D Grid — DFS + Parent Tracking
+Slug: 1559-detect-cycles-in-2d-grid-dfs-parent-c82e
+Article Type: DISCUSSION
+Posted: 2026-04-26 09:05:40 IST
+Updated: 2026-04-26 09:05:40 IST
+URL: https://leetcode.com/discuss/post/8098124/1559-detect-cycles-in-2d-grid-dfs-parent-c82e/
+Author: abhi2006
+
+--- Summary ---
+🧩 PROBLEM SUMMMARY:Given a 2D grid of characters, determine if there exists a cycle such that:< All cells in the cycle contain the same character
+< You can move in 4 directions (up, down, left, right)
+< The cycle must have length ≥ 4
+< You cannot go
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: TiWH9Aoz
+Title: Greedy vs DP – Which One Wins?
+Slug: greedy-vs-dp-which-one-wins-by-aquariusm-wnyk
+Article Type: DISCUSSION
+Posted: 2026-04-26 09:03:12 IST
+Updated: 2026-04-26 09:03:12 IST
+URL: https://leetcode.com/discuss/post/8098120/greedy-vs-dp-which-one-wins-by-aquariusm-wnyk/
+Author: aquariusmayankraj
+
+--- Summary ---
+Today’s discussion focuses on a common interview challenge: choosing between a Greedy approach and Dynamic Programming.In many problems, both approaches may seem applicable, but only one leads to the correct and optimal solution.Discussion Points:How
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: yWwvm2JY
+Title: Failed my Amazon SDE-2 interview. Here's what happened. | 3.8 years | India
+Slug: failed-my-amazon-sde-2-interview-heres-w-e9ee
+Article Type: DISCUSSION
+Posted: 2026-04-26 08:24:17 IST
+Updated: 2026-04-26 08:24:17 IST
+URL: https://leetcode.com/discuss/post/8098078/failed-my-amazon-sde-2-interview-heres-w-e9ee/
+Author: kaliprasad4035
+
+--- Summary ---
+Got through the OA and landed two interview rounds. Didn't make it through.OA: Two questions — minimum operations to make all stocks NULL (binary search + greedy scheduling) and count valid ways to restore inventory levels with missing values (DP wit
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: CvYNEiqi
+Title: Infosys DSE vs TCS Digital (System Engineer) – Which is better?
+Slug: infosys-dse-vs-tcs-digital-system-engine-85wz
+Article Type: DISCUSSION
+Posted: 2026-04-26 06:45:22 IST
+Updated: 2026-04-26 06:45:22 IST
+URL: https://leetcode.com/discuss/post/8098018/infosys-dse-vs-tcs-digital-system-engine-85wz/
+Author: 
+
+--- Summary ---
+Hi everyone, I am Btech Grad 2026. Currently doing an internship in a small IT company. I have received two offers and I’m confused about which one to choose,
+Infosys DSE (6.25 LPA) role via Hackwithinfy.
+TCS Systems Engineer (7 LPA) role via TCS NQT
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: n4sSUF4b
+Title: Career Advice Needed
+Slug: career-advice-needed-by-anonymous_user-8wet
+Article Type: DISCUSSION
+Posted: 2026-04-26 05:09:13 IST
+Updated: 2026-04-26 05:09:13 IST
+URL: https://leetcode.com/discuss/post/8097976/career-advice-needed-by-anonymous_user-8wet/
+Author: 
+
+--- Summary ---
+Hey Folks,I’ve been working at a pharmaceutical consulting firm for ~2.5 years (including a 6-month internship). The role involves long hours (12–14 hours/day), but the work itself isn’t very challenging—mostly data warehousing, profiling, and report
+
+--- Tags ---
+  - Career (career) []
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kqRjVcBl
+Title: Infosys Hackwithinfy campus Technical + HR Interview round 
+Slug: infosys-hackwithinfy-campus-technical-hr-986n
+Article Type: DISCUSSION
+Posted: 2026-04-26 02:07:05 IST
+Updated: 2026-04-26 02:07:05 IST
+URL: https://leetcode.com/discuss/post/8097893/infosys-hackwithinfy-campus-technical-hr-986n/
+Author: Rahuln77
+
+--- Summary ---
+like i am selected for the competency L2 ,can anyone suggest me what they will ask questions in technical and hr interview , it's my 1st time so i am very nervous!!
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: tPt5dHWQ
+Title: how can i start solving question from basic manner . i want to start dsa in java
+Slug: how-can-i-start-solving-question-from-ba-vphp
+Article Type: DISCUSSION
+Posted: 2026-04-26 01:55:20 IST
+Updated: 2026-04-26 01:55:20 IST
+URL: https://leetcode.com/discuss/post/8097879/how-can-i-start-solving-question-from-ba-vphp/
+Author: aman_xdev
+
+--- Summary ---
+i want to do dsa in java i have started many time but i cant continue i knew its fault of inconsistency i cant solve a single question without chatgpt so if anyone seein it please give me path to go forward
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: P3DysteS
+Title: Java | Binary Search + Greedy | Explained
+Slug: java-binary-search-greedy-explained-by-g-jpkp
+Article Type: DISCUSSION
+Posted: 2026-04-25 23:41:15 IST
+Updated: 2026-04-25 23:41:15 IST
+URL: https://leetcode.com/discuss/post/8097700/java-binary-search-greedy-explained-by-g-jpkp/
+Author: Gouravv_007
+
+--- Summary ---
+Java | Binary Search + Greedy | ExplainedApproachWe need to choose k boundary points of the square such that the minimum Manhattan distance between any selected pair is maximized.Key ObservationAll given points lie on the boundary of the square.
+So w
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: yZax9dqM
+Title: Analysis of Biweekly Contest 181
+Slug: analysis-of-biweekly-contest-181-by-mohd-ahxa
+Article Type: DISCUSSION
+Posted: 2026-04-25 23:34:57 IST
+Updated: 2026-04-25 23:34:57 IST
+URL: https://leetcode.com/discuss/post/8097686/analysis-of-biweekly-contest-181-by-mohd-ahxa/
+Author: MOHD_SHAMOON_04
+
+--- Summary ---
+Biweekly Contest 181 Analysis:Number of users who solved Question-X:
+12,172 users solved Question 1
+10,802 users solved Question 2
+3,278 users solved Question 3
+1,293 users solved Question 4
+Number of users who solved 'X' amount of Question:
+8,902 us
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: LxS2b4Zp
+Title: From Consistency to Results 💪 | Biweekly Contest 181 Performance (Rank 1779)
+Slug: from-consistency-to-results-biweekly-con-g34e
+Article Type: DISCUSSION
+Posted: 2026-04-25 23:13:43 IST
+Updated: 2026-04-25 23:13:43 IST
+URL: https://leetcode.com/discuss/post/8097642/from-consistency-to-results-biweekly-con-g34e/
+Author: Sanket9326
+
+--- Summary ---
+Just wrapped up Biweekly Contest 181 and here’s my performance:
+🏆 Global Rank: 1779
+⚡ Score: 13
+✅ Solved 3/4 problems
+🧠 Tackled a Hard (Q3) successfullyConsistency is starting to show results 📈
+Still a long way to go, but enjoying the grind.Would lov
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+  - Java (java) []
+  - DSA Java (dsa-java) []
+  - consistency (consistency-2) []
+  - biweekly contest 181 (biweekly-contest-181) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: BUDK2ZRh
+Title: MTS-2, Nutanix F2F drive on 22nd April
+Slug: mts-2-nutanix-f2f-drive-on-22nd-april-by-6b9j
+Article Type: DISCUSSION
+Posted: 2026-04-25 22:28:31 IST
+Updated: 2026-04-25 22:28:31 IST
+URL: https://leetcode.com/discuss/post/8097538/mts-2-nutanix-f2f-drive-on-22nd-april-by-6b9j/
+Author: abhay_cd
+
+--- Summary ---
+Hi can someone share the interview experience for 22nd f2f interview for MTS-2 or is anyone selected.
+
+--- Tags ---
+  - Nutanix (nutanix) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: XlX4Ur4k
+Title: Piramal onsite drive
+Slug: piramal-onsite-drive-by-anonymous_user-sql3
+Article Type: DISCUSSION
+Posted: 2026-04-25 22:09:46 IST
+Updated: 2026-04-25 22:09:46 IST
+URL: https://leetcode.com/discuss/post/8097491/piramal-onsite-drive-by-anonymous_user-sql3/
+Author: 
+
+--- Summary ---
+Hi for those who attended piramal onsite drive for sde1, have you guys got feedback or results ?
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: T3eGockJ
+Title: MTS-2, Nutanix
+Slug: mts-2-nutanix-by-anonymous_user-xwom
+Article Type: DISCUSSION
+Posted: 2026-04-25 21:57:15 IST
+Updated: 2026-04-25 21:57:15 IST
+URL: https://leetcode.com/discuss/post/8097444/mts-2-nutanix-by-anonymous_user-xwom/
+Author: 
+
+--- Summary ---
+I have interview scheduled for MTS-2(NDB) role at Nutanix, this is F2F round and have 3 rounds, if someone recently appeared in these round of interviews please help me with their experience.
+
+--- Tags ---
+  - Nutanix (nutanix) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8na47ZgC
+Title: JpMorgan Chase || Goldman Sachs || SSE
+Slug: jpmorgan-chase-goldmna-sachs-sse-by-anon-td0c
+Article Type: DISCUSSION
+Posted: 2026-04-25 21:39:58 IST
+Updated: 2026-04-25 21:40:09 IST
+URL: https://leetcode.com/discuss/post/8097381/jpmorgan-chase-goldmna-sachs-sse-by-anon-td0c/
+Author: 
+
+--- Summary ---
+HiI have interview for Java position.For LLD rounds do they want us to code complete code? I'm a bit nervous, as i am new for LLD rounds!Would appreciate any clarification on this.Thank you :)
+
+--- Tags ---
+  - Goldman Sachs (goldman-sachs) [COMPANY]
+  - JPMorgan Chase (jpmorgan) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2af27T7Z
+Title: 🏆 Biweekly Contest 181
+Slug: biweekly-contest-181-by-leetcode-aewv
+Article Type: DISCUSSION
+Posted: 2026-04-25 21:30:12 IST
+Updated: 2026-04-25 21:30:12 IST
+URL: https://leetcode.com/discuss/post/8097321/biweekly-contest-181-by-leetcode-aewv/
+Author: LeetCode
+
+--- Summary ---
+Welcome to Biweekly Contest 181! Feel free to share and post your contest experience here! You can also view the rankings for the contest. {:height=120} Links t
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 3
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: SnPXMJps
+Title: Salesforce hiring drive 24 April 
+Slug: salesforce-hiring-drive-24-april-by-anon-i365
+Article Type: DISCUSSION
+Posted: 2026-04-25 20:51:23 IST
+Updated: 2026-04-25 20:54:11 IST
+URL: https://leetcode.com/discuss/post/8097248/salesforce-hiring-drive-24-april-by-anon-i365/
+Author: 
+
+--- Summary ---
+Anyone interviewed for Salesforce SMTS position on Friday? how many rounds did you have? I had only one DSA round.Question asked:Best Time to Buy and Sell Stock
+
+--- Tags ---
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8YFx0NXE
+Title: 🚀 HackWithInfy 2026 (23 April) – L3 Role Experience
+Slug: hackwithinfy-2026-23-april-l3-role-exper-6bo9
+Article Type: DISCUSSION
+Posted: 2026-04-25 19:26:11 IST
+Updated: 2026-04-25 19:26:11 IST
+URL: https://leetcode.com/discuss/post/8097136/hackwithinfy-2026-23-april-l3-role-exper-6bo9/
+Author: Jagruti15
+
+--- Summary ---
+Hi everyone,
+I recently appeared for HackWithInfy (23 April 2026) for the L3 role, and wanted to share my experience.🧠 Round 1: Coding Test (Duration: ~1+ hour)There were 2 coding questions:Spiral Matrix
+🔗 https://leetcode.com/problems/spiral-matrix/
+
+--- Tags ---
+  - Infosys (infosys) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7i8A16T7
+Title: 🚀 3464. Maximize the Distance Between Points on a Square
+Slug: 3464-maximize-the-distance-between-point-vvf6
+Article Type: DISCUSSION
+Posted: 2026-04-25 18:42:58 IST
+Updated: 2026-04-25 18:44:07 IST
+URL: https://leetcode.com/discuss/post/8097085/3464-maximize-the-distance-between-point-vvf6/
+Author: abhi2006
+
+--- Summary ---
+🧠 PROBLEM INTUITION:
+We are given:< A square of side side
+< Points lying only on the boundary
+< An integer k👉 GOAL:
+Select k points such that the minimum distance between consecutive selected points (along the boundary) is maximized🔥 KEY OBSERVATION:
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: eBnqKzVo
+Title: How I automated my technical blog SEO using Python and AI
+Slug: how-i-automated-my-technical-blog-seo-us-a3c7
+Article Type: DISCUSSION
+Posted: 2026-04-25 16:08:49 IST
+Updated: 2026-04-25 16:08:49 IST
+URL: https://leetcode.com/discuss/post/8096705/how-i-automated-my-technical-blog-seo-us-a3c7/
+Author: RP3dnM4eND
+
+--- Summary ---
+Hi LeetCoders,As I was grinding problems here, I realized that many of us are also building side projects or technical blogs to showcase our portfolio. One challenge I faced recently was maintaining a consistent SEO strategy for my niche site without
+
+--- Tags ---
+  - coding (coding) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZotLnWHb
+Title: The "Productivity Hack" Vibe
+Slug: the-productivity-hack-vibe-by-doanhnocod-oy1c
+Article Type: DISCUSSION
+Posted: 2026-04-25 15:57:15 IST
+Updated: 2026-04-25 15:57:15 IST
+URL: https://leetcode.com/discuss/post/8096674/the-productivity-hack-vibe-by-doanhnocod-oy1c/
+Author: Doanhnocode
+
+--- Summary ---
+Focus: How AI acts as a "Senior Partner" for a Backend Developer.Headline: Why I’m treating AI as my "Senior Backend Architect" 🚀"Lately, while building my Blog project with Node.js and Sequelize, I’ve realized that AI isn’t here to replace us—it’s h
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pjSYi8gI
+Title: Walmart SSE Interviews April 2026
+Slug: walmart-sse-interviews-april-2026-by-ano-mkrx
+Article Type: DISCUSSION
+Posted: 2026-04-25 15:46:02 IST
+Updated: 2026-04-25 16:03:15 IST
+URL: https://leetcode.com/discuss/post/8096637/walmart-sse-interviews-april-2026-by-ano-mkrx/
+Author: 
+
+--- Summary ---
+Got a call from recruiter and initial rounds were scheduled within a week. The on-site rounds were scheduled in the following week.Round-0: Position Fitness
+Asked about role in the current company
+Asked about tradeoffs made while designing projects
+S
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ft07BGJw
+Title: System design round at Amazon SDE-2
+Slug: system-design-round-at-amazon-sde-2-by-a-c1np
+Article Type: DISCUSSION
+Posted: 2026-04-25 15:45:58 IST
+Updated: 2026-04-25 15:45:58 IST
+URL: https://leetcode.com/discuss/post/8096634/system-design-round-at-amazon-sde-2-by-a-c1np/
+Author: 
+
+--- Summary ---
+Hi everyone,
+I’ve completed two rounds of interviews with Amazon. The next round is with the Hiring Manager, and the recruiter mentioned it will be a system design round.Could anyone share what to expect in this round? Specifically, will it focus mor
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kCGz83YM
+Title: 5+ YOE | Please Help | Transition from Node.js to Java Spring boot 
+Slug: shifting-to-java-spring-boot-from-nodejs-twj5
+Article Type: DISCUSSION
+Posted: 2026-04-25 15:02:34 IST
+Updated: 2026-04-25 15:11:22 IST
+URL: https://leetcode.com/discuss/post/8096497/shifting-to-java-spring-boot-from-nodejs-twj5/
+Author: akshayjoshi977
+
+--- Summary ---
+Hi Guys,I have 5.2 years of overall work experience having worked in 2 startups. My tech stack is React, Node.js, MySQL, AWS S3 and Redis. I want to shift to java backend but I have currently no knowledge in spring boot and java except few data struc
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: YEpZad7C
+Title: Arcesium interview
+Slug: arcesium-interview-by-sreya-bcu3
+Article Type: DISCUSSION
+Posted: 2026-04-25 14:23:19 IST
+Updated: 2026-04-25 14:23:19 IST
+URL: https://leetcode.com/discuss/post/8096405/arcesium-interview-by-sreya-bcu3/
+Author: Sreya
+
+--- Summary ---
+can anyone please  help with recently asked dsa questions in arcesium interview for sse poostion
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: XqWGnVCZ
+Title: Struggling to Choose the Right DP State — How Do You Decide?
+Slug: struggling-to-choose-the-right-dp-state-opf65
+Article Type: DISCUSSION
+Posted: 2026-04-25 13:38:32 IST
+Updated: 2026-04-25 13:38:32 IST
+URL: https://leetcode.com/discuss/post/8096360/struggling-to-choose-the-right-dp-state-opf65/
+Author: Ayush11Kumar9693
+
+--- Summary ---
+I’ve been practicing Dynamic Programming for a while, but I keep getting stuck on one fundamental thing — choosing the right state variables.Sometimes I pick variables that are changing (like index, sum, etc.), but later I realize my state is either
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 5z3JDCUO
+Title: Cheapest Flights Within K Stops | BFS Approach Explained Clearly | Java 🚀
+Slug: cheapest-flights-within-k-stops-bfs-appr-curt
+Article Type: DISCUSSION
+Posted: 2026-04-25 13:16:01 IST
+Updated: 2026-04-25 13:16:01 IST
+URL: https://leetcode.com/discuss/post/8096317/cheapest-flights-within-k-stops-bfs-appr-curt/
+Author: priyanshu_verma0008
+
+--- Summary ---
+✈️ Cheapest Flights Within K Stops — BFS (Striver Style) | Java | Easy Intuition 🔥🧠 Problem SummaryYou are given:
+n cities (0 to n-1)
+flights[i] = [u, v, price]
+src, dst, and k
+👉 Find the minimum cost from src → dst with at most k stops❗ Key Observat
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: jqG2Pten
+Title: Amazon SDE II Interview Experience + Need Honest Feedback
+Slug: amazon-sde-ii-interview-experience-need-qrubb
+Article Type: DISCUSSION
+Posted: 2026-04-25 11:22:50 IST
+Updated: 2026-04-25 11:24:48 IST
+URL: https://leetcode.com/discuss/post/8096139/amazon-sde-ii-interview-experience-need-qrubb/
+Author: 
+
+--- Summary ---
+Hi everyone,I wanted to share my recent Amazon interview experience and get some honest feedback from the community on my chances moving forward.How it startedI initially took referrals for 5–6 roles, but all of them got canceled. But surprisingly, I
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: V2aDc3m1
+Title: Amazon OA
+Slug: amazon-oa-by-anonymous_user-xpyv
+Article Type: DISCUSSION
+Posted: 2026-04-25 11:22:45 IST
+Updated: 2026-04-25 11:23:13 IST
+URL: https://leetcode.com/discuss/post/8096138/amazon-oa-by-anonymous_user-xpyv/
+Author: 
+
+--- Summary ---
+Hello everyone,I recently gave the Amazon OA and wanted to share my experience.OA Structure:DSA Question (Graph-based)
+Difficulty: Medium–Hard
+I was able to pass 8/15 test cases
+Problem was not a direct LeetCode pattern, required some custom logic/mo
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: s4OMKpfY
+Title: Paytm SSE Noida Interview experience
+Slug: paytm-sse-noida-interview-experience-by-tevsn
+Article Type: DISCUSSION
+Posted: 2026-04-25 11:18:35 IST
+Updated: 2026-04-25 11:21:09 IST
+URL: https://leetcode.com/discuss/post/8096130/paytm-sse-noida-interview-experience-by-tevsn/
+Author: 
+
+--- Summary ---
+HeyI got interviewed for SSE role in Paytm Noida.Round 1 -> OATest comprising of MCQ's and DSA problems currently i don't remember problems exactly but easy to solve.Round 2 -> Virtual InterviewThe interviewer was a senior engineer in paytm bangalore
+
+--- Tags ---
+  - Paytm (paytm) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: R9qknRnl
+Title: Amazon SDE2 L5 Interview Experience
+Slug: amazon-sde2-l5-interview-experience-by-a-665g
+Article Type: DISCUSSION
+Posted: 2026-04-25 11:00:15 IST
+Updated: 2026-04-25 11:00:15 IST
+URL: https://leetcode.com/discuss/post/8096099/amazon-sde2-l5-interview-experience-by-a-665g/
+Author: 
+
+--- Summary ---
+The process started with an online assessment, after which I was contacted by a recruiter. There was also a prep discussion before scheduling the interviews. The loop consisted of four rounds, each around an hour long, with a mix of technical and lea
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: XaKYdDIX
+Title: Google SDEIII L4 Interview Experience
+Slug: google-sdeiii-interview-experience-by-an-67tm
+Article Type: DISCUSSION
+Posted: 2026-04-25 10:28:28 IST
+Updated: 2026-04-25 11:00:45 IST
+URL: https://leetcode.com/discuss/post/8096071/google-sdeiii-interview-experience-by-an-67tm/
+Author: 
+
+--- Summary ---
+I recently went through the interview process for an SDE3 L4 role at Google.There were four rounds in total — two virtual rounds followed by two back-to-back onsite rounds.Round 1 (Phone Screening):
+This was a DSA round. The problem was based on arra
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - DSA (dsa) []
+  - L4 Google (l4-google) []
+  - G&L (g-l) []
+
+--- Reactions ---
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: NSYPYRl4
+Title: MMT - Backend Engineer Interview Experience
+Slug: mmt-backend-engineer-interview-experienc-7k78
+Article Type: DISCUSSION
+Posted: 2026-04-25 10:14:49 IST
+Updated: 2026-04-25 10:15:44 IST
+URL: https://leetcode.com/discuss/post/8096062/mmt-backend-engineer-interview-experienc-7k78/
+Author: 
+
+--- Summary ---
+I recently interviewed for a backend engineering role SSE1 at MMT.
+I reached out to the recruiter directly via email and got a quick response, after which the interview process was scheduled. Whole process took 1 week.There were three rounds in total
+
+--- Tags ---
+  - MakeMyTrip (makemytrip) [COMPANY]
+  - DSA (dsa) []
+  - Interview (interview) []
+  - SSE1 (sse1) []
+  - Senior Software Engineer 1 (senior-software-engineer-1) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: n5WmfAM1
+Title: Amazon SDE Intern Prep – Need Guidance & Honest Advice
+Slug: amazon-sde-intern-prep-need-guidance-hon-gd6j
+Article Type: DISCUSSION
+Posted: 2026-04-25 10:11:42 IST
+Updated: 2026-04-25 10:12:17 IST
+URL: https://leetcode.com/discuss/post/8096059/amazon-sde-intern-prep-need-guidance-hon-gd6j/
+Author: A-Jayaprakash
+
+--- Summary ---
+Hi everyone,I’m currently preparing for Amazon SDE Intern roles and would really appreciate some structured guidance from those who’ve been through the process.A bit about my current state:
+Comfortable with core DSA topics (arrays, strings, recursion
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #35
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: VnDmUXd7
+Title: Wanted advice for intern role at HRT 
+Slug: wanted-advice-for-intern-role-at-hrt-by-3p0f1
+Article Type: DISCUSSION
+Posted: 2026-04-25 09:10:23 IST
+Updated: 2026-04-25 09:10:23 IST
+URL: https://leetcode.com/discuss/post/8096017/wanted-advice-for-intern-role-at-hrt-by-3p0f1/
+Author: 
+
+--- Summary ---
+Hey friends,
+I just came to an intern role at Hudson River Trading. but I am too confused to apply.
+currently I am in my 3rd year of engineering and I have good taste towards C, C++ programming. and I just read the requirements for HRT and there is a
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #36
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: IFQNzkDR
+Title: Two Sum Explained in Very Simple Language + Easy C++ Code
+Slug: two-sum-explained-in-very-simple-languag-x8e6
+Article Type: DISCUSSION
+Posted: 2026-04-25 08:51:09 IST
+Updated: 2026-04-25 08:51:09 IST
+URL: https://leetcode.com/discuss/post/8096004/two-sum-explained-in-very-simple-languag-x8e6/
+Author: codewithsumit2004
+
+--- Summary ---
+Two Sum Explained in Very Simple Language + Easy C++ CodeProblem StatementGiven an array and a target value, find two numbers whose sum equals the target and return their indices.Approach (Two Pointer Method)We use two pointers:
+One pointer starts fr
+
