@@ -1,0 +1,806 @@
+LeetCode Discuss - Latest 40 Articles
+Fetched on: 2026-05-06 09:18:19 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: dUMlonSH
+Title: Affirm Apprenticeship 
+Slug: affirm-apprenticeship-by-anonymous_user-ykv8
+Article Type: DISCUSSION
+Posted: 2026-05-06 09:17:53 IST
+Updated: 2026-05-06 09:17:53 IST
+URL: https://leetcode.com/discuss/post/8149234/affirm-apprenticeship-by-anonymous_user-ykv8/
+Author: 
+
+--- Summary ---
+We need return the p-th smallest factor of n.
+Given task sizes, pick some tasks so their total is as large as possible without going over processingCapacity.
+length 3 subsequence like this: chosen[0] < chosen[1] > chosen[2]
+*Live interview:
+Q: retur
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8i10MTMd
+Title: QA → SWE/AI Transition: Already grinding DSA, what am I missing to land interviews?
+Slug: qa-sweai-transition-already-grinding-dsa-2p65
+Article Type: DISCUSSION
+Posted: 2026-05-06 08:09:13 IST
+Updated: 2026-05-06 08:10:07 IST
+URL: https://leetcode.com/discuss/post/8149150/qa-sweai-transition-already-grinding-dsa-2p65/
+Author: 
+
+--- Summary ---
+Hi, I'm a 2025 graduate with 1 YOE as a Software QA Engineer at a product-based company (networking domain). I'm making the switch to SWE or AI roles and want to accelerate the process.i am consistent in DSA practice (working through LeetCode)
+Strong
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nNTC7Ws1
+Title: Visa OA Hackerrank Questions - Sr SWE
+Slug: visa-oa-hackerrank-questions-sr-swe-by-a-pff8
+Article Type: DISCUSSION
+Posted: 2026-05-06 05:09:35 IST
+Updated: 2026-05-06 05:09:35 IST
+URL: https://leetcode.com/discuss/post/8148971/visa-oa-hackerrank-questions-sr-swe-by-a-pff8/
+Author: 
+
+--- Summary ---
+I have the OA HackerRank assessment for Visa dayafter. Has anyone taken it recently and remembers the kinds of questions/topics that were asked?Would really appreciate any insights on the difficulty level, patterns, or prep tips as well. Trying to pr
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WAm6ziCF
+Title: Is DSA alone enough for tier-3 students to get interviews?
+Slug: is-dsa-alone-enough-for-tier-3-students-2vpyl
+Article Type: DISCUSSION
+Posted: 2026-05-06 04:59:28 IST
+Updated: 2026-05-06 04:59:28 IST
+URL: https://leetcode.com/discuss/post/8148955/is-dsa-alone-enough-for-tier-3-students-2vpyl/
+Author: 
+
+--- Summary ---
+i’m currently in a t-3 college with mostly mass recruiters and sales.i’ve been consistently solving problems on LC, but i’m unsure whether DSA alone is enough to land interviews off-campus.for those who cracked product-based companies:did DSA alone h
+
+--- Tags ---
+  - DSA (dsa) []
+  - Job Search (job-search-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WrDpCfi7
+Title: Arcesium interview 
+Slug: arcesium-interview-by-anonymous_user-oyd9
+Article Type: DISCUSSION
+Posted: 2026-05-06 00:38:09 IST
+Updated: 2026-05-06 00:38:09 IST
+URL: https://leetcode.com/discuss/post/8148099/arcesium-interview-by-anonymous_user-oyd9/
+Author: 
+
+--- Summary ---
+can anyone tell what can be asked in 2nd round of interview in arcesium
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: edJDWtRm
+Title: LC 716 – Max Stack | Why popMax is tricky (O(log N) solution)
+Slug: lc-716-max-stack-why-popmax-is-tricky-ol-p1i2
+Article Type: DISCUSSION
+Posted: 2026-05-06 00:18:11 IST
+Updated: 2026-05-06 00:18:11 IST
+URL: https://leetcode.com/discuss/post/8148036/lc-716-max-stack-why-popmax-is-tricky-ol-p1i2/
+Author: coder__18
+
+--- Summary ---
+The main challenge in this problem isn’t implementing a stack, it’s handling two conflicting requirements efficiently:
+Maintain stack order (LIFO)
+Support fast access and removal of the maximum element
+A brute force approach makes popMax() O(N), sinc
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Q9cnWi2c
+Title: Paytm SSE Offer Letter Pending After Verbal Confirmation - Need Advice
+Slug: paytm-sse-offer-letter-pending-after-ver-qtt5
+Article Type: DISCUSSION
+Posted: 2026-05-05 23:22:59 IST
+Updated: 2026-05-05 23:22:59 IST
+URL: https://leetcode.com/discuss/post/8147790/paytm-sse-offer-letter-pending-after-ver-qtt5/
+Author: 
+
+--- Summary ---
+Hi everyone,I recently cleared all rounds for Senior Software Engineer role at Paytm for the Recharge and Utilities team and received a congratulations mail. The salary negotiation was also completed, and HR verbally agreed on around 24 LPA.However,
+
+--- Tags ---
+  - Paytm (paytm) [COMPANY]
+  - Career (career) []
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: K9FnqNm9
+Title: Beyond the API Response: What Autodesk & Razorpay Interviewers are Guarding in May 2026
+Slug: beyond-the-api-response-what-autodesk-ra-h3px
+Article Type: DISCUSSION
+Posted: 2026-05-05 23:21:04 IST
+Updated: 2026-05-05 23:21:04 IST
+URL: https://leetcode.com/discuss/post/8147782/beyond-the-api-response-what-autodesk-ra-h3px/
+Author: Aman_Patel142
+
+--- Summary ---
+Hey everyone,I was analyzing the core criteria for the Autodesk SDE Intern and Razorpay AI/Platform Engineer tracks that opened up over the last couple of days. If you're walking into these rounds expecting a standard "reverse a linked list" or a cop
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: NKtJUk4y
+Title: Airtel Digital SDE-2 DSA Questions
+Slug: airtel-digital-sde-2-dsa-questions-by-f6-8ax7
+Article Type: DISCUSSION
+Posted: 2026-05-05 22:31:47 IST
+Updated: 2026-05-05 22:31:47 IST
+URL: https://leetcode.com/discuss/post/8147482/airtel-digital-sde-2-dsa-questions-by-f6-8ax7/
+Author: F6sQUEvA0I
+
+--- Summary ---
+Hello,Is there anyone who has appeared for the DSA round of Airtel Digital SDE-2? If so, could you please tell what type of questions are asked in it. I would be really grateful, as I have a coding round in 2 days.Thanks
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: an0zply2
+Title: 2026 grad, ~1yr exp (big food delivery + Fortune 40 + startup) — zero callbacks, what am I missing?
+Slug: 2026-grad-1yr-exp-big-food-delivery-fort-a1af
+Article Type: DISCUSSION
+Posted: 2026-05-05 22:03:23 IST
+Updated: 2026-05-05 22:03:23 IST
+URL: https://leetcode.com/discuss/post/8147282/2026-grad-1yr-exp-big-food-delivery-fort-a1af/
+Author: 
+
+--- Summary ---
+I’m a 2026 grad with ~1 year of internship experience.Worked at:
+India’s largest food & grocery delivery company (7 months and going on) — backend + DevOps, building AI gateways, dealing with latency vs accuracy trade-offs
+Fortune 40 company — worked
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WlxDDvZJ
+Title: guidance needed for automations
+Slug: guidance-needed-for-automations-by-thaks-pux0
+Article Type: DISCUSSION
+Posted: 2026-05-05 21:46:31 IST
+Updated: 2026-05-05 21:46:31 IST
+URL: https://leetcode.com/discuss/post/8147197/guidance-needed-for-automations-by-thaks-pux0/
+Author: Thakshil
+
+--- Summary ---
+hey guys i want to learn about automations starting from now, I need some guidance like what to learn and where to learn from, It would be grateful if someone experienced in automations let me know.
+
+--- Tags ---
+  - Career (career) []
+  - automations (automations) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: CinuUzfS
+Title: [guidance needed] Transitioning to L6+ Roles at MAANG after 20 Years of work exp in Mobile/Telecom
+Slug: guidance-needed-transitioning-to-l6-role-26xu
+Article Type: DISCUSSION
+Posted: 2026-05-05 21:41:55 IST
+Updated: 2026-05-05 21:41:55 IST
+URL: https://leetcode.com/discuss/post/8147167/guidance-needed-transitioning-to-l6-role-26xu/
+Author: user1061e
+
+--- Summary ---
+Title: Transitioning to L6+/Staff roles at MAANG after 20 years in telecom/backend systems – strategy guidanceHi everyone,I’m looking for practical advice from experienced engineers and hiring managers on transitioning into senior/staff-level roles (
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 78PPDFtd
+Title: Walmart IN3 Android F2F
+Slug: walmart-in3-android-f2f-by-anonymous_use-b8g1
+Article Type: DISCUSSION
+Posted: 2026-05-05 20:55:59 IST
+Updated: 2026-05-05 21:04:04 IST
+URL: https://leetcode.com/discuss/post/8146898/walmart-in3-android-f2f-by-anonymous_use-b8g1/
+Author: 
+
+--- Summary ---
+Hi all,Looking for recent Walmart IN3 Android F2F interview experiences.
+Would appreciate if any insights.Thanks!
+
+--- Tags ---
+  - Walmart Labs (walmart-labs) [COMPANY]
+  - interview experience (interview-experience) []
+  - Onsite (onsite) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: AQF70s22
+Title: [Top Essential] AVAYA 7495X Dumps (2026-Updated )
+Slug: top-essential-avaya-7495x-dumps-2026-upd-akwg
+Article Type: DISCUSSION
+Posted: 2026-05-05 20:53:07 IST
+Updated: 2026-05-05 20:53:07 IST
+URL: https://leetcode.com/discuss/post/8146880/top-essential-avaya-7495x-dumps-2026-upd-akwg/
+Author: williambrock506
+
+--- Summary ---
+Authentic AVAYA 7495X Dumps 2026 That Boost Your ConfidenceFeeling stressed about the 7495X exam? Don’t worry Cert Empire is here to help you succeed. Our 7495X Dumps are designed with real exam-style questions to give you the confidence you need bef
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: t6wqBr7a
+Title: Oracle MTS (Fresher) Interview Pattern – What to Expect?
+Slug: oracle-mts-fresher-interview-pattern-wha-ih2w
+Article Type: DISCUSSION
+Posted: 2026-05-05 19:58:58 IST
+Updated: 2026-05-05 19:58:58 IST
+URL: https://leetcode.com/discuss/post/8146629/oracle-mts-fresher-interview-pattern-wha-ih2w/
+Author: Nikhil_kumar_Mishra
+
+--- Summary ---
+Hi everyone,I recently got a referral for Oracle MTS (fresher role) and may have an interview soon. Can anyone share the interview process and pattern?What rounds are usually conducted, and which topics should I focus on (DSA, Java, system design, et
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: qxNpMHJq
+Title: Nykaa MLS2 / Data Scientist 2 Interview Experience
+Slug: nykaa-mls2-data-scientist-2-interview-ex-3g5b
+Article Type: DISCUSSION
+Posted: 2026-05-05 19:54:34 IST
+Updated: 2026-05-05 19:56:06 IST
+URL: https://leetcode.com/discuss/post/8146616/nykaa-mls2-data-scientist-2-interview-ex-3g5b/
+Author: 
+
+--- Summary ---
+Background: Leading Global B2C Company, Gurgaon
+Experience: 5 Years
+Location: Bangalore, India
+Current: 31 LPA
+Inital Ask: 40 LPAHow I AppliedI was contacted by a third party recruiter through Instahyre. After a brief discussion, I was shortlisted fo
+
+--- Tags ---
+  - Nykaa (nykaa) [COMPANY]
+  - Interview (interview) []
+  - Data Scientist / Data Engineer (data-scientist-data-engineer) []
+  - MachineLearning (machinelearning-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: aI7BdJcv
+Title: Infosys 2025/2026 Hiring (SP/DSE/SDE) – Experiences & Preparation Guidance Needed
+Slug: infosys-20252026-hiring-spdsesde-experie-erl7
+Article Type: DISCUSSION
+Posted: 2026-05-05 19:44:33 IST
+Updated: 2026-05-05 19:44:33 IST
+URL: https://leetcode.com/discuss/post/8146579/infosys-20252026-hiring-spdsesde-experie-erl7/
+Author: Priyanka_Hiremath
+
+--- Summary ---
+Hi everyone,
+I wanted to ask about recent Infosys hiring (especially 2025 batch) for SP/DSE/SDE roles.From what I’ve seen, the process includes:
+3 coding questions (easy + medium + hard) in ~3 hours
+Topics like DP, graphs, greedy, sliding window, tre
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4oFS1W8x
+Title: Fivetran- People giving interviews at Fivetran ..ASSEMBLE
+Slug: fivetran-people-giving-interviews-at-fiv-54m2
+Article Type: DISCUSSION
+Posted: 2026-05-05 19:43:35 IST
+Updated: 2026-05-05 19:43:35 IST
+URL: https://leetcode.com/discuss/post/8146574/fivetran-people-giving-interviews-at-fiv-54m2/
+Author: 
+
+--- Summary ---
+Hi ev1,
+Are you giving interview in fivetran?
+Could u please provide your experience here.
+and what range of compensation do they offer for 3-4 yrs exp peeps.
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DNW2uLuo
+Title: Letz goo, My first chrome extension is getting user from all over the world
+Slug: letz-goo-my-first-chrome-extension-is-ge-pcad
+Article Type: DISCUSSION
+Posted: 2026-05-05 19:33:50 IST
+Updated: 2026-05-05 19:34:10 IST
+URL: https://leetcode.com/discuss/post/8146530/letz-goo-my-first-chrome-extension-is-ge-pcad/
+Author: RummanShuja
+
+--- Summary ---
+So I have build this chrome extension for Leetcoders.This extension shows the company tag for free without leetcode perimum.Company data is very recent so it's super helpful for preparing for interviews or oa. Try it out it's 100% free to use.Just se
+
+--- Tags ---
+  - Interview (interview) []
+  - General Discussion (general-discussion-2) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: sddKfuj0
+Title: Oracle Project Internship
+Slug: oracle-project-internship-by-anonymous_u-5mer
+Article Type: DISCUSSION
+Posted: 2026-05-05 19:08:19 IST
+Updated: 2026-05-05 19:08:19 IST
+URL: https://leetcode.com/discuss/post/8146399/oracle-project-internship-by-anonymous_u-5mer/
+Author: 
+
+--- Summary ---
+I was recently selected for the Oracle Project Internship (2026) at the Bangalore office. The internship start date is approaching, but I haven’t received any offer letter or official confirmation yet.I’m a bit concerned about this situation has anyo
+
+--- Tags ---
+  - Oracle (oraclesql) []
+  - #internship (internship-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: QYWYEayQ
+Title: JaneStreet Quant SWE DSA Interview Question | 4CR CTC
+Slug: janestreet-quant-swe-dsa-interview-quest-o0xo
+Article Type: DISCUSSION
+Posted: 2026-05-05 19:01:09 IST
+Updated: 2026-05-05 19:01:09 IST
+URL: https://leetcode.com/discuss/post/8146380/janestreet-quant-swe-dsa-interview-quest-o0xo/
+Author: 
+
+--- Summary ---
+(Duplicate signal in a network)You are given a connected network of N nodes labeled 1 through N forming a tree. Each edge has a non-negative integer weight.For any two nodes u and v, define the signal between them as the bitwise XOR of all edge weigh
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: MN9rThB1
+Title: List of Product based companies using Java
+Slug: list-of-product-based-companies-using-ja-ay3d
+Article Type: DISCUSSION
+Posted: 2026-05-05 18:50:53 IST
+Updated: 2026-05-05 18:50:53 IST
+URL: https://leetcode.com/discuss/post/8146324/list-of-product-based-companies-using-ja-ay3d/
+Author: sam0009
+
+--- Summary ---
+Can someone help me with list of product based companies using Java tech stack across india or remote offering good pay? #productbasedcompanies #java #FAANG
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: b36BiWh0
+Title: List of Product based companies using Java
+Slug: list-of-product-based-companies-using-ja-2nyl
+Article Type: DISCUSSION
+Posted: 2026-05-05 18:50:48 IST
+Updated: 2026-05-05 18:50:48 IST
+URL: https://leetcode.com/discuss/post/8146322/list-of-product-based-companies-using-ja-2nyl/
+Author: sam0009
+
+--- Summary ---
+Can someone help me with list of product based companies using Java tech stack across india or remote offering good pay? #productbasedcompanies #java #FAANG
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4uhlK0u7
+Title: DSA Partner in hyderabad 
+Slug: dsa-partner-in-hyderabad-by-aakankshamou-t7i6
+Article Type: DISCUSSION
+Posted: 2026-05-05 18:49:56 IST
+Updated: 2026-05-05 18:49:56 IST
+URL: https://leetcode.com/discuss/post/8146316/dsa-partner-in-hyderabad-by-aakankshamou-t7i6/
+Author: aakankshamourya2734
+
+--- Summary ---
+I want to prepare for dsa and looking a solid dsa partner in hyderabad .Can anyone join this preperation journey with me?
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: gb0UM5sf
+Title: Arcesium || SSE || Hyderabad
+Slug: arcesium-sse-hyderabad-by-abhishek_omar-9nuu
+Article Type: DISCUSSION
+Posted: 2026-05-05 18:34:34 IST
+Updated: 2026-05-05 18:34:34 IST
+URL: https://leetcode.com/discuss/post/8146207/arcesium-sse-hyderabad-by-abhishek_omar-9nuu/
+Author: abhishek_omar
+
+--- Summary ---
+Arcesium offer:
+Role: Senior Software Engineer - Backend
+Team name : FDSE
+Base: 28LPA
+Bonus: 3LPA (2.5LPA to 3.5LPA)
+Total: 31LPAYOE : Approx 4 year
+Current CTC - 23In my current organization, the work-life balance is good and everything is stable an
+
+--- Tags ---
+  - Arcesium (arcesium) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: gwNZ6B8y
+Title: Struggling After 100+ Job Applications – Need Guidance 🙏
+Slug: struggling-after-100-job-applications-ne-1cw2
+Article Type: DISCUSSION
+Posted: 2026-05-05 18:09:06 IST
+Updated: 2026-05-05 18:09:06 IST
+URL: https://leetcode.com/discuss/post/8146027/struggling-after-100-job-applications-ne-1cw2/
+Author: 
+
+--- Summary ---
+I have applied to more than 100 jobs and internships through LinkedIn, but unfortunately, I haven’t received any offers yet. Most of the responses I get are rejection emails, especially from top companies.I’m currently working on improving my DSA ski
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: tT2unZLD
+Title: Is Hard Work Alone Enough in DSA?
+Slug: is-hard-work-alone-enough-in-dsa-by-gyom-v085
+Article Type: DISCUSSION
+Posted: 2026-05-05 17:24:10 IST
+Updated: 2026-05-05 17:24:10 IST
+URL: https://leetcode.com/discuss/post/8145670/is-hard-work-alone-enough-in-dsa-by-gyom-v085/
+Author: GyomeiHimejima01
+
+--- Summary ---
+Putting in the hours,
+but progress feels slow and invisible.
+How do you guys deal with this phase?
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: dXubZi4x
+Title: SE-2 Android || EBay || Lowerband
+Slug: se-2-android-ebay-lowerband-by-ojhasahil-7ih4
+Article Type: DISCUSSION
+Posted: 2026-05-05 17:23:05 IST
+Updated: 2026-05-05 17:23:24 IST
+URL: https://leetcode.com/discuss/post/8145649/se-2-android-ebay-lowerband-by-ojhasahil-7ih4/
+Author: 
+
+--- Summary ---
+**Current Composition: **
+8.6 LPA Base + 1.02LPA (Performace) = 9.62 LPA**EBay Offer goes as follow: **
+Base : 22LPA
+Incentive: 10% of base
+Stocks: 24LPA invested over 4 yearsI tried negotiating based on my skills and performance under current organi
+
+--- Tags ---
+  - Career (career) []
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vxxkbucO
+Title: AMAZON OA
+Slug: amazon-oa-by-anonymous_user-2kei
+Article Type: DISCUSSION
+Posted: 2026-05-05 17:01:17 IST
+Updated: 2026-05-05 17:01:17 IST
+URL: https://leetcode.com/discuss/post/8145433/amazon-oa-by-anonymous_user-2kei/
+Author: 
+
+--- Summary ---
+Hey Guys, Need genuine thoughts on this.....Today, I gave OA for Amazon SDE 2M Intern rolefor Q1 -> passed all test cases 15/15
+for Q2 -> passed 7/15 test casesthe overall coding round difficulty was Medium to Hardwhat would be the probability to get
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: U3Ry9pTr
+Title: Use the Real [2026] Databricks-Certified-Associate-Developer-for-Apache-Spark-3.5 Questions 2026
+Slug: use-the-real-2026-databricks-certified-a-xipg
+Article Type: DISCUSSION
+Posted: 2026-05-05 16:57:47 IST
+Updated: 2026-05-05 16:57:47 IST
+URL: https://leetcode.com/discuss/post/8145387/use-the-real-2026-databricks-certified-a-xipg/
+Author: PUIhJ13Ja8
+
+--- Summary ---
+How to Pass the Databricks Certified Associate Developer for Apache Spark 3.5 Exam on First TryThe Apache Spark Associate Developer Databricks Certified Associate Developer for Apache Spark 3.5 certification exam is specifically designed to test a ca
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: fzK2jQpb
+Title: How to fix email not syncing on Android? { Complete Guide to Fix Android Email Sync Problems}
+Slug: how-to-fix-email-not-syncing-on-android-4hawm
+Article Type: DISCUSSION
+Posted: 2026-05-05 16:37:00 IST
+Updated: 2026-05-05 16:37:00 IST
+URL: https://leetcode.com/discuss/post/8145169/how-to-fix-email-not-syncing-on-android-4hawm/
+Author: sirivi7146
+
+--- Summary ---
+To fix email sync issues ☎️✨"[＋1-833-666-5220]" on Android, ensure you are connected to the internet, enable auto-sync in settings, check ☎️✨"[＋1-833-666-5220]" storage space, and update the app. Key solutions include checking Gmail sync ☎️✨"[＋1-833-
+
+--- Reactions ---
+  THUMBS_DOWN: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 3h8KnaV7
+Title: TCS NQT 2026 | Am I REJECTED
+Slug: tcs-nqt-2026-am-i-rejected-by-aryan-lokh-sjj2
+Article Type: DISCUSSION
+Posted: 2026-05-05 16:32:49 IST
+Updated: 2026-05-05 16:32:49 IST
+URL: https://leetcode.com/discuss/post/8145124/tcs-nqt-2026-am-i-rejected-by-aryan-lokh-sjj2/
+Author: Aryan-Lokhande
+
+--- Summary ---
+Hi all, I recently went through the TCS NQT Pipeline and I just want to share my story, maybe someone senior can help me understand what's happening.26 March - Written ExamMy written test was on 26th March 2026. It went pretty well — Aptitude was a b
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: g2hUY9CK
+Title: VMware 3V0-25.25 PDF Dumps - Get Certified in 2026
+Slug: vmware-3v0-2525-pdf-dumps-get-certified-hu6hv
+Article Type: DISCUSSION
+Posted: 2026-05-05 16:20:37 IST
+Updated: 2026-05-05 16:20:37 IST
+URL: https://leetcode.com/discuss/post/8144959/vmware-3v0-2525-pdf-dumps-get-certified-hu6hv/
+Author: Examssolutions
+
+--- Summary ---
+Realistic VMware 3V0-25.25 PDF Dumps 2026 for Guaranteed SuccessPreparing for the VMware 3V0-25.25 exam can feel overwhelming, especially when the syllabus is broad and many available VMware resources are outdated. Candidates often find it difficult
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: wUtCUtXB
+Title: 🌟 AOL Help Made Easy: Your Go-To Guide for Quick Fixes & Smooth Access
+Slug: aol-help-made-easy-your-go-to-guide-for-fevuu
+Article Type: DISCUSSION
+Posted: 2026-05-05 15:43:07 IST
+Updated: 2026-05-05 15:43:07 IST
+URL: https://leetcode.com/discuss/post/8144446/aol-help-made-easy-your-go-to-guide-for-fevuu/
+Author: natechconsultingllc
+
+--- Summary ---
+AOL Help Made Easy: Your Go-To Guide for Quick Fixes & Smooth Access 1-888-812-8678In today’s fast-paced digital world, email is 1-888-812-8678 more than just communication—it’s your connection 1-888-812-8678 to work, friends, and important updates.
+
+════════════════════════════════════════════════════════════════════════════════
+Article #35
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: KfiYh8bx
+Title: Amazon Logical and Maintainable Code round
+Slug: amazon-logical-and-maintainable-code-rou-0rg9
+Article Type: DISCUSSION
+Posted: 2026-05-05 15:16:46 IST
+Updated: 2026-05-05 15:16:46 IST
+URL: https://leetcode.com/discuss/post/8144201/amazon-logical-and-maintainable-code-rou-0rg9/
+Author: 
+
+--- Summary ---
+Hey everyone,I've my Amazon SDE2 interviews scheduled where there'll be 1 DSA round and 1 Logical and Maintanable Code Round.Does anyone have any idea what this second round means ?
+Is it an LLD round..? Any past problem statements anyone knows?Getti
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #36
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: huwSRZuO
+Title: Suggestions for Switching from Service-Based to Product-Based Companies
+Slug: suggestions-for-switching-from-service-b-e1a9
+Article Type: DISCUSSION
+Posted: 2026-05-05 13:40:42 IST
+Updated: 2026-05-05 13:41:04 IST
+URL: https://leetcode.com/discuss/post/8143476/suggestions-for-switching-from-service-b-e1a9/
+Author: 
+
+--- Summary ---
+Hi LeetCode Community,I’m a Full-Stack Developer with 6 months of experience, currently working at TCS (Digital, 7 LPA). My goal is to transition within 1–2 years to a high-growth product-based company or a late-stage startup, targeting a 20 LPA base
+
+--- Tags ---
+  - Career (career) []
+  - #switch (switch-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #37
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: VeAEukTR
+Title: Walmart Senior Software Engineer OA
+Slug: walmart-senior-software-engineer-oa-by-p-cnkb
+Article Type: DISCUSSION
+Posted: 2026-05-05 13:01:02 IST
+Updated: 2026-05-05 13:01:02 IST
+URL: https://leetcode.com/discuss/post/8143233/walmart-senior-software-engineer-oa-by-p-cnkb/
+Author: piyush-yadav162
+
+--- Summary ---
+i just taken walmart OA ,two questions were asked i completed both, all the test cases passed for both question , it has been 10 days, i haven't got the call for my next round,how long does it take?
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #38
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: RXZu0KB2
+Title: Nvidia Salary negotiation 
+Slug: nvidia-salary-negotiation-by-anonymous_u-6h6b
+Article Type: DISCUSSION
+Posted: 2026-05-05 10:05:24 IST
+Updated: 2026-05-05 10:05:24 IST
+URL: https://leetcode.com/discuss/post/8141832/nvidia-salary-negotiation-by-anonymous_u-6h6b/
+Author: 
+
+--- Summary ---
+Hi
+Currently in discussion with Nvidia for salary negotiation , how much should i ask them, offering System Software Engineer rolecurrent org - Qualcomm
+experience - 2 years 5 months
+current salary - 21 fixed salary + some stocks and bonus
+
+--- Tags ---
+  - Nvidia (nvidia) [COMPANY]
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #39
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: U4bnBy8w
+Title: Google SDE-2 Interview Experience and Important questions 
+Slug: google-sde-2-interview-experience-and-im-8fc9
+Article Type: DISCUSSION
+Posted: 2026-05-05 09:39:38 IST
+Updated: 2026-05-05 09:39:38 IST
+URL: https://leetcode.com/discuss/post/8141757/google-sde-2-interview-experience-and-im-8fc9/
+Author: 
+
+--- Summary ---
+I interviewed for an SDE-2 role at Google after a year of experience in backend development. The process had multiple rounds focusing on data structures, algorithms, and system design. Coding interviews emphasized writing clean, efficient solutions w
+
+--- Reactions ---
+  UPVOTE: 2
+  THUMBS_DOWN: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #40
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WJzIDdeF
+Title: NatWest Internship (SWE, Bangalore) – PPO Breakdown & Decision Advice Needed
+Slug: natwest-internship-swe-bangalore-ppo-bre-je5k
+Article Type: DISCUSSION
+Posted: 2026-05-05 08:00:55 IST
+Updated: 2026-05-05 08:00:55 IST
+URL: https://leetcode.com/discuss/post/8141642/natwest-internship-swe-bangalore-ppo-bre-je5k/
+Author: DreamAchiever9971
+
+--- Summary ---
+Hi everyone,I recently got selected for a Software Engineer Intern role at NatWest Group (Bangalore). I’m currently a 3rd year B.Tech student from a top NIT and will be entering my final year soon.I wanted some clarity regarding the PPO scenario at N
+
+--- Reactions ---
+  UPVOTE: 1
+
