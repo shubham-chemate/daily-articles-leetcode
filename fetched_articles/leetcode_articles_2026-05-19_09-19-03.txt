@@ -1,0 +1,665 @@
+LeetCode Discuss - Latest 33 Articles
+Fetched on: 2026-05-19 09:19:03 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: NeNcucmy
+Title: Salesforce SMTS/LMTS
+Slug: salesforce-smtslmts-by-anonymous_user-k4ou
+Article Type: DISCUSSION
+Posted: 2026-05-19 07:52:24 IST
+Updated: 2026-05-19 07:52:24 IST
+URL: https://leetcode.com/discuss/post/8272181/salesforce-smtslmts-by-anonymous_user-k4ou/
+Author: 
+
+--- Summary ---
+Round 1: Recruiter
+Round 2: Hiring manager
+Round 3: Hackerrank
+Round 4: Two techbical rounds for domain expertise and public cloud knowledge.Anyone who has cleared Round 4? can someone provide some insights what to expect there?
+
+--- Tags ---
+  - Salesforce (salesforce) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: hBFDvv4I
+Title: Algorithmic Patterns Beyond Interviews
+Slug: algorithmic-patterns-beyond-interviews-b-x9of
+Article Type: DISCUSSION
+Posted: 2026-05-19 06:08:01 IST
+Updated: 2026-05-19 06:08:01 IST
+URL: https://leetcode.com/discuss/post/8272106/algorithmic-patterns-beyond-interviews-b-x9of/
+Author: martinhill2200
+
+--- Summary ---
+Many developers gradually discover that solving timed problems changes the way they approach system design and debugging.
+Discussions around optimization often move beyond interview preparation into broader conversations about scalability and efficie
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DkDjbL9c
+Title: Pass the Exam with Latest Oracle 1D0-1078-26-D Questions
+Slug: pass-the-exam-with-latest-oracle-1d0-107-40lu
+Article Type: DISCUSSION
+Posted: 2026-05-19 05:58:57 IST
+Updated: 2026-05-19 05:58:57 IST
+URL: https://leetcode.com/discuss/post/8272094/pass-the-exam-with-latest-oracle-1d0-107-40lu/
+Author: HattieKittle
+
+--- Summary ---
+Prepare Smarter for the Oracle 1D0-1078-26-D Certification Exam 2026Get ready for the Oracle 1D0-1078-26-D certification exam with updated 2026 study materials designed to support effective learning and exam preparation. Whether you are starting your
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: oQhAmKOq
+Title: Microsoft SDE-2 full loop - 4 rounds + 3 weeks of recruiter ghosting
+Slug: microsoft-sde-2-full-loop-4-rounds-3-wee-vrj6
+Article Type: DISCUSSION
+Posted: 2026-05-19 04:59:45 IST
+Updated: 2026-05-19 05:00:18 IST
+URL: https://leetcode.com/discuss/post/8272032/microsoft-sde-2-full-loop-4-rounds-3-wee-vrj6/
+Author: MickeyFamily
+
+--- Summary ---
+Hi all, gave the final loop at Microsoft for SDE-2 and wanted to share. Short version: rejected, no feedback, recruiter ghosted me for 3 weeks. But the rounds themselves are worth talking about if anyone's prepping.Background / TimelineReached out to
+
+--- Tags ---
+  - Microsoft (microsoft) [COMPANY]
+  - interview experience (interview-experience) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: GQhipsOo
+Title: Stop Using Reentrant-Read-Write Lock for High-Throughput Java Systems
+Slug: stop-using-reentrant-read-write-lock-for-iwow
+Article Type: DISCUSSION
+Posted: 2026-05-19 02:07:43 IST
+Updated: 2026-05-19 02:07:43 IST
+URL: https://leetcode.com/discuss/post/8271607/stop-using-reentrant-read-write-lock-for-iwow/
+Author: shubha2207
+
+--- Summary ---
+The ProblemDesign a high-speed, in-memory cache with highly asymmetric traffic:
+Read Volume: 1,000,000 reads/min
+Write Volume: ~1,000 writes/min
+Which Java lock minimizes latency and maximizes throughput?The Trap: ReentrantReadWriteLockMost engineers
+
+--- Tags ---
+  - Concurrency (concurrency) [TOPIC]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7NekLFPs
+Title: Coinmama Wallet Login Issue – Fix Sign-In Problems & Access Your Account Fast
+Slug: coinmama-wallet-login-issue-fix-sign-in-w08fm
+Article Type: DISCUSSION
+Posted: 2026-05-19 00:32:41 IST
+Updated: 2026-05-19 00:32:41 IST
+URL: https://leetcode.com/discuss/post/8271072/coinmama-wallet-login-issue-fix-sign-in-w08fm/
+Author: livelynette
+
+--- Summary ---
+If you’re unable to log in to your +1-804-237-9358 Coinmama Wallet account, it can prevent you from accessing +1-804-237-9358 your transactions, payment methods, and crypto services. This issue can happen on both mobile and desktop and is +1-804-237-
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 76U8odm4
+Title: How do I talk to a live person at Intuit Customer Support?
+Slug: how-do-i-talk-to-a-live-person-at-intuit-dy74
+Article Type: DISCUSSION
+Posted: 2026-05-19 00:00:20 IST
+Updated: 2026-05-19 00:00:20 IST
+URL: https://leetcode.com/discuss/post/8270888/how-do-i-talk-to-a-live-person-at-intuit-dy74/
+Author: ni11cksm11ith
+
+--- Summary ---
+Intuit Customer SupportWhat is Intuit Customer Support? 💡
+Intuit Customer Support helps businesses 1-(800) 446-8848 or (+1-888- (394)-9046) manage Customer processing, employee payments, tax calculations, direct deposits, Customer updates, and other
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: okc3ePiE
+Title: Help Required
+Slug: help-required-by-anoshjustin-0izt
+Article Type: DISCUSSION
+Posted: 2026-05-18 21:57:26 IST
+Updated: 2026-05-18 21:57:26 IST
+URL: https://leetcode.com/discuss/post/8269614/help-required-by-anoshjustin-0izt/
+Author: AnoshJustin
+
+--- Summary ---
+Hi All,Will Leetcode help me to get jobs for AI, Python, ML ?
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: CULatun4
+Title: SSE (Backend) @ Sprinklr interview experience
+Slug: sse-backend-sprinklr-interview-experienc-ezwo
+Article Type: DISCUSSION
+Posted: 2026-05-18 21:51:37 IST
+Updated: 2026-05-18 21:51:55 IST
+URL: https://leetcode.com/discuss/post/8269557/sse-backend-sprinklr-interview-experienc-ezwo/
+Author: _BlackDev
+
+--- Summary ---
+I recently gave interview at Sprinklr for SSE role backend. The process consists of 3 rounds total (All three techincal)Round 1: DSA -> 1hrProblem:Was able to solve this after a little hint. You can try doing some math around the above equation and c
+
+--- Tags ---
+  - Career (career) []
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7lZcyoZ8
+Title: Recommendations for Performance Testing Tools (Locust vs Alternatives)
+Slug: ecommendations-for-performance-testing-t-eyig
+Article Type: DISCUSSION
+Posted: 2026-05-18 21:30:02 IST
+Updated: 2026-05-19 08:40:26 IST
+URL: https://leetcode.com/discuss/post/8269262/ecommendations-for-performance-testing-t-eyig/
+Author: joelchacon
+
+--- Summary ---
+Hi everyone,I know there are a lot of experienced engineers here, so I wanted to ask for some recommendations regarding performance testing tools.Context: my team is working on a project that implements agentic features using GCP (CX Agent Studio), i
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6yH8LOTm
+Title: How to redeem a reward on DoorDash? [Priority Assistance]
+Slug: how-to-redeem-a-reward-on-doordash-prior-z62g
+Article Type: DISCUSSION
+Posted: 2026-05-18 21:21:24 IST
+Updated: 2026-05-18 21:21:24 IST
+URL: https://leetcode.com/discuss/post/8269185/how-to-redeem-a-reward-on-doordash-prior-z62g/
+Author: cccuhhuh
+
+--- Summary ---
+Collecting consumer loyalty +1»(877)»370»5932 points makes your weekly take-out orders much more affordable over time. Once you accumulate +1»(877)»370»5932 enough promotional platform credits, applying them to your lunch order takes only a few quick
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: dyUjacQ3
+Title: Looking for Teammates for HackOn With Amazon 6.0
+Slug: looking-for-teammates-for-hackon-with-am-obev
+Article Type: DISCUSSION
+Posted: 2026-05-18 20:58:51 IST
+Updated: 2026-05-18 20:58:51 IST
+URL: https://leetcode.com/discuss/post/8268889/looking-for-teammates-for-hackon-with-am-obev/
+Author: 
+
+--- Summary ---
+Hey LeetCoders,
+I am looking to form a powerhouse 2–3 member team for the upcoming HackOn With Amazon 6.0. Since Amazon allows cross-college teams this year, I want to connect with highly driven, competent individuals from top eligible institutes who
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: T4reYhu7
+Title: Google L3 || Bangalore, India || Interview Experience
+Slug: google-l3-bangalore-india-interview-expe-dt1h
+Article Type: DISCUSSION
+Posted: 2026-05-18 20:51:04 IST
+Updated: 2026-05-18 20:51:04 IST
+URL: https://leetcode.com/discuss/post/8268786/google-l3-bangalore-india-interview-expe-dt1h/
+Author: 
+
+--- Summary ---
+Hi community,I recently completed 4 interview rounds with [Google] — 2 online rounds followed by 2 onsite rounds. I’m still waiting for the final result, so I wanted to share my experience and get your thoughts on my chances.Round 1The questions were
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: S1atG602
+Title: What questions are asked in IBM?
+Slug: what-questions-are-asked-in-ibm-by-navee-7zd4
+Article Type: DISCUSSION
+Posted: 2026-05-18 20:04:04 IST
+Updated: 2026-05-18 20:04:04 IST
+URL: https://leetcode.com/discuss/post/8268213/what-questions-are-asked-in-ibm-by-navee-7zd4/
+Author: NAVEEN_PATHAK
+
+--- Summary ---
+Question :- Can any one guide me , during the Interview process of IBM like what quesions are asked ?if anyone attempted the interview process of IBM, please help me so that i can prepare for that , cause this is my first time in a MNC company.Thank
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: cqcd93gh
+Title: Can I Cancel Sling and Get a Refund? [Report$Error]
+Slug: can-i-cancel-sling-and-get-a-refund-repo-oj48
+Article Type: DISCUSSION
+Posted: 2026-05-18 20:02:37 IST
+Updated: 2026-05-18 20:02:37 IST
+URL: https://leetcode.com/discuss/post/8268190/can-i-cancel-sling-and-get-a-refund-repo-oj48/
+Author: instahub-7
+
+--- Summary ---
+If you’re wondering can I cancel Sling and get a refund 1-866-381-4783 {USA} , the answer hinges on understanding how Sling TV handles its billing cycle, cancellation process, and refund policies, because Sling operates on a prepaid model where 1-866
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ohA3Wwor
+Title: [Premium Success Pack] Salesforce Plat-Arch-201  Exam Questions 2026 | Winning Tactics
+Slug: premium-success-pack-salesforce-plat-arc-xy7s
+Article Type: DISCUSSION
+Posted: 2026-05-18 19:58:41 IST
+Updated: 2026-05-18 19:58:41 IST
+URL: https://leetcode.com/discuss/post/8268154/premium-success-pack-salesforce-plat-arc-xy7s/
+Author: taishaaa
+
+--- Summary ---
+Reliable Dumps for Fast Preparation – Plat-Arch-201 Exam QuestionsPreparing for the Plat-Arch-201 certification exam becomes much easier when you study with updated and reliable practice material. QA4Exam  provides authentic Plat-Arch-201 exam questi
+
+--- Tags ---
+  - IT exam (it-exam) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 3zV9MnMF
+Title: How do i Log into my Avast account: Step-by-Step Quick Guide 
+Slug: how-do-i-log-into-my-avast-account-step-iun1j
+Article Type: DISCUSSION
+Posted: 2026-05-18 19:55:53 IST
+Updated: 2026-05-18 19:55:53 IST
+URL: https://leetcode.com/discuss/post/8268111/how-do-i-log-into-my-avast-account-step-iun1j/
+Author: m88mt3r5gv
+
+--- Summary ---
+Avast account gives you 1-800-928-2780(US/UK) access to the Avast Account portal, where you can manage your 1-800-928-2780(US/UK) subscriptions, download purchased products, view activation codes, 1-800-928-2780(US/UK) update billing information, and
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: B1JvUbkC
+Title: Most Candidates Don’t Fail DSA — They Fail Interviews [MUST READ]
+Slug: most-candidates-dont-fail-dsa-they-fail-ofygu
+Article Type: DISCUSSION
+Posted: 2026-05-18 19:37:34 IST
+Updated: 2026-05-18 19:40:19 IST
+URL: https://leetcode.com/discuss/post/8267870/most-candidates-dont-fail-dsa-they-fail-ofygu/
+Author: 
+
+--- Summary ---
+Hi Leetcode Community,I’m currently working as a Software Engineer-2 (Having 2.9 years of experience) at a large MNC and planning to switch companies in the coming months.After spending considerable time preparing for interviews, I realized something
+
+--- Tags ---
+  - Mid Level (mid-level) []
+  - Interview (interview) []
+  - Behavioral Interview (behavioral-interview) []
+
+--- Reactions ---
+  UPVOTE: 8
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2LpPUd5a
+Title: EXPEDIA SDE 2 
+Slug: expedia-sde-2-by-anonymous_user-bbn4
+Article Type: DISCUSSION
+Posted: 2026-05-18 19:18:30 IST
+Updated: 2026-05-18 19:18:30 IST
+URL: https://leetcode.com/discuss/post/8267587/expedia-sde-2-by-anonymous_user-bbn4/
+Author: 
+
+--- Summary ---
+Hi everyone,Does anyone here have experience with the Affiliates team at Expedia Group?I’d love to know more about:
+The kind of work/projects the team handles
+Team culture and work environment
+Growth opportunities and learning
+Whether the work involv
+
+--- Tags ---
+  - Expedia (expedia) [COMPANY]
+  - Career (career) []
+  - Professional Growth (professional-growth) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: xbOm7GRY
+Title: Adyen Interview Experience
+Slug: adyen-interview-experience-by-anonymous_-qrsn
+Article Type: DISCUSSION
+Posted: 2026-05-18 19:10:30 IST
+Updated: 2026-05-18 19:10:30 IST
+URL: https://leetcode.com/discuss/post/8267494/adyen-interview-experience-by-anonymous_-qrsn/
+Author: 
+
+--- Summary ---
+Has anyone recently given Adyen interview? Can you guys please share your experience?Location: India
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: jIqEer85
+Title: Google L4 Interview || Reject
+Slug: google-l4-interview-reject-by-anonymous_-xsc3
+Article Type: DISCUSSION
+Posted: 2026-05-18 17:15:34 IST
+Updated: 2026-05-18 17:20:37 IST
+URL: https://leetcode.com/discuss/post/8265899/google-l4-interview-reject-by-anonymous_-xsc3/
+Author: 
+
+--- Summary ---
+Google L4 InterviewLocation : Bengaluru
+Role : L4Round 1 :Standard Topo Sort Question very similar to the below problems.Question 1 : https://leetcode.com/problems/course-schedule/description/
+Question 2 : https://leetcode.com/problems/course-schedul
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Bengaluru (bengaluru) []
+  - Interview (interview) []
+  - L4 Google (l4-google) []
+
+--- Reactions ---
+  UPVOTE: 9
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4NSzZG72
+Title: Arcesium Interviews
+Slug: arcesium-interviews-by-anonymous_user-21w6
+Article Type: DISCUSSION
+Posted: 2026-05-18 16:16:42 IST
+Updated: 2026-05-18 16:16:42 IST
+URL: https://leetcode.com/discuss/post/8264746/arcesium-interviews-by-anonymous_user-21w6/
+Author: 
+
+--- Summary ---
+what can be asked in Arcesium hm interviews
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: UTjQ4DNk
+Title: FAANG Interview Preparation.
+Slug: faang-interview-preparation-by-2020b0101-4g70
+Article Type: DISCUSSION
+Posted: 2026-05-18 16:13:12 IST
+Updated: 2026-05-18 16:13:12 IST
+URL: https://leetcode.com/discuss/post/8264679/faang-interview-preparation-by-2020b0101-4g70/
+Author: 2020B0101088
+
+--- Summary ---
+Hi everyone,I’ve recently started preparing for FAANG-level interviews and will be following a structured roadmap with daily DSA/problem-solving practice and consistent interview preparation.I have 2 years of experience as a Java Backend Developer, a
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: B76ovwjs
+Title: Onsite Feedback delay
+Slug: onsite-feedback-delay-by-anonymous_user-co18
+Article Type: DISCUSSION
+Posted: 2026-05-18 14:57:24 IST
+Updated: 2026-05-18 14:57:24 IST
+URL: https://leetcode.com/discuss/post/8263531/onsite-feedback-delay-by-anonymous_user-co18/
+Author: 
+
+--- Summary ---
+Gave Google L4 onsite in the first week of May and haven’t heard back yet. Followed up twice with the recruiter so far, but no update yet.Just wanted to check if anyone else is in a similar situation — is this kind of delay/no response after follow-u
+
+--- Tags ---
+  - Google (google) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: cV31Ns1H
+Title: Best platform to learn
+Slug: best-platform-to-learn-by-irfanhasansk-to0e
+Article Type: DISCUSSION
+Posted: 2026-05-18 14:11:31 IST
+Updated: 2026-05-18 14:11:31 IST
+URL: https://leetcode.com/discuss/post/8262627/best-platform-to-learn-by-irfanhasansk-to0e/
+Author: irfanhasansk
+
+--- Summary ---
+Hiii guys, currently I'm doing as a tester. I want to learn python but i need a good platform for coding practice like quiz from beginning concepts to advanced. can you suggest me a platform to get practice.
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: YfkJqObG
+Title: Amazon Bangalore SDE II (AFT Flow) Interview Prep Help | Bangalore
+Slug: amazon-bangalore-sde-ii-aft-flow-intervi-6xvl
+Article Type: DISCUSSION
+Posted: 2026-05-18 14:04:42 IST
+Updated: 2026-05-18 14:04:42 IST
+URL: https://leetcode.com/discuss/post/8262492/amazon-bangalore-sde-ii-aft-flow-intervi-6xvl/
+Author: deepakupkumar9
+
+--- Summary ---
+Hi guys, I have an upcoming SDE 2 interview loop with the Amazon Fulfillment Technologies (AFT Flow) team in Bangalore.Does anyone have recent experience interviewing with this specific team? I want to know what exact algorithmic patterns they ask in
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: mAJ3LVVv
+Title: Kotak SDE 2 Compensation - May 2026
+Slug: kotak-sde-2-compensation-may-2026-by-ano-vyee
+Article Type: DISCUSSION
+Posted: 2026-05-18 13:35:40 IST
+Updated: 2026-05-18 13:35:40 IST
+URL: https://leetcode.com/discuss/post/8261995/kotak-sde-2-compensation-may-2026-by-ano-vyee/
+Author: 
+
+--- Summary ---
+Kotak is now well aware of market trends and they realised they are paying too much it seems. Hence they have decreased the overall compensation lately. They will only offer you good if you are from TIER-1 companies like amazon.. Rest all other compa
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Od1HEZ9h
+Title: Anthropic Claude SWE Interview | CTC $350K | Please Help 
+Slug: anthropic-claude-swe-interview-ctc-350k-pw0qe
+Article Type: DISCUSSION
+Posted: 2026-05-18 13:26:40 IST
+Updated: 2026-05-18 13:26:40 IST
+URL: https://leetcode.com/discuss/post/8261885/anthropic-claude-swe-interview-ctc-350k-pw0qe/
+Author: 
+
+--- Summary ---
+You are working as a Software Engineer at Anthropic on an internal analytics system for Claude.The Claude product team runs N feature launches across M engineering teams.
+For every feature launch i, team j receives A[i][j] impact points based on how
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: OIS4L189
+Title: Intern role guidance needed
+Slug: intern-role-guidance-needed-by-prashu30-5pso
+Article Type: DISCUSSION
+Posted: 2026-05-18 12:17:28 IST
+Updated: 2026-05-18 12:17:28 IST
+URL: https://leetcode.com/discuss/post/8260876/intern-role-guidance-needed-by-prashu30-5pso/
+Author: Prashu30
+
+--- Summary ---
+Hello everyone,I am currently in my 4th semester and soon in july my third year going to start,now I am trying to apply for intern roles but never heard back and I want to know how to get an Internship at big tech companies(off campus) and good progr
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: YYLjFvxO
+Title: Got Amazon SDE-1 (2026 cycle) - 4 round breakdown + what changed this year
+Slug: got-amazon-sde-1-2026-cycle-4-round-brea-dcz3
+Article Type: DISCUSSION
+Posted: 2026-05-18 12:16:27 IST
+Updated: 2026-05-18 12:16:27 IST
+URL: https://leetcode.com/discuss/post/8260855/got-amazon-sde-1-2026-cycle-4-round-brea-dcz3/
+Author: MickeyFamily
+
+--- Summary ---
+Cleared Amazon SDE-1 last week. Posting because when I was prepping I couldn't find many recent 2026-cycle posts and the rounds have shifted a bit (more GenAI focus, slightly less pure DSA grinding).OA2 DSA questions, easy–mediumWork Style Assessment
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 6
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ecmty3qc
+Title: what should i do to get a job as a fresher and 2026 passout?
+Slug: what-should-i-do-to-get-a-job-as-a-fresh-skh1
+Article Type: DISCUSSION
+Posted: 2026-05-18 11:39:29 IST
+Updated: 2026-05-18 11:39:29 IST
+URL: https://leetcode.com/discuss/post/8260025/what-should-i-do-to-get-a-job-as-a-fresh-skh1/
+Author: anurag8630338928
+
+--- Summary ---
+what should i do to get a job as a fresher and 2026 passout?
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DLwLB08b
+Title: 12 DP Patterns | Resource For Everyone | Contest | OA | Interview
+Slug: 12-dp-patterns-resource-for-everyone-con-96ts
+Article Type: DISCUSSION
+Posted: 2026-05-18 10:48:04 IST
+Updated: 2026-05-18 10:48:04 IST
+URL: https://leetcode.com/discuss/post/8259194/12-dp-patterns-resource-for-everyone-con-96ts/
+Author: hirenjoshi
+
+--- Summary ---
+⚠️ Note: Video Lectures Are Available, Link In Comment Section!This series is designed to help you improve Dynamic Programming. From beginner to advanced level, this series covers 12 DP Patterns In which we'll be focusing on recursion, memoization, t
+
+--- Tags ---
+  - Dynamic Programming (dynamic-programming) [TOPIC]
+  - interview question (interview-question) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: CLwYqIW9
+Title: How Do You Actually Get Off-Campus Placements and Interviews?
+Slug: how-do-you-actually-get-off-campus-place-ajf1
+Article Type: DISCUSSION
+Posted: 2026-05-18 09:00:20 IST
+Updated: 2026-05-18 09:00:20 IST
+URL: https://leetcode.com/discuss/post/8258681/how-do-you-actually-get-off-campus-place-ajf1/
+Author: papan2004
+
+--- Summary ---
+I’m currently in my 6th semester and trying to understand how off-campus placements really work.If you’re already working in tech or recently got placed off-campus, can you share:How you got your interview calls
+Whether off-campus placements are wort
+
+--- Reactions ---
+  UPVOTE: 10
+  THUMBS_DOWN: 1
+
