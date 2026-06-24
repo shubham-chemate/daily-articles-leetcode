@@ -1,0 +1,2003 @@
+LeetCode Discuss - Latest 101 Articles
+Fetched on: 2026-06-24 09:18:40 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 3wko9fqN
+Title: Infosys- Appeared candidates for SP
+Slug: infosys-appeared-candidates-for-sp-by-sw-nk4t
+Article Type: DISCUSSION
+Posted: 2026-06-24 09:14:21 IST
+Updated: 2026-06-24 09:14:21 IST
+URL: https://leetcode.com/discuss/post/8354919/infosys-appeared-candidates-for-sp-by-sw-nk4t/
+Author: swati_borle05
+
+--- Summary ---
+Hi everyone,I am currently preparing for the Infosys Specialist Programmer (SP) onsite assessment round. I want to gather recent questions, patterns, and resource repositories to streamline my preparation.If you have recently appeared for the Infosys
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8nP8wSRb
+Title: How To Solve ANY Trie Problem - Step By Step Guide Along With Problem Examples
+Slug: how-to-solve-any-trie-problem-step-by-st-cbvu
+Article Type: DISCUSSION
+Posted: 2026-06-24 09:13:31 IST
+Updated: 2026-06-24 09:13:31 IST
+URL: https://leetcode.com/discuss/post/8354916/how-to-solve-any-trie-problem-step-by-st-cbvu/
+Author: rochak1704
+
+--- Summary ---
+A Trie is a tree where each path from root to a node spells a prefix.It is the fastest data structure for prefix-based queries.
+HashSet gives O(L) lookup, but cannot answer "give me all words
+starting with 'ap'" without scanning everything.
+A Trie ca
+
+--- Tags ---
+  - Trie (trie) [TOPIC]
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: c6R1thos
+Title: The Great Student Filter
+Slug: the-great-student-filter-by-varun_kumar_-de5b
+Article Type: DISCUSSION
+Posted: 2026-06-24 09:09:14 IST
+Updated: 2026-06-24 09:09:14 IST
+URL: https://leetcode.com/discuss/post/8354913/the-great-student-filter-by-varun_kumar_-de5b/
+Author: varun_kumar_s
+
+--- Summary ---
+After a historic paper leak, the National Examination Authority decided to restore public trust by introducing its most advanced anti-cheating mechanism ever:A gate clockAny student arriving even 1 minute after the reporting time is immediately disqu
+
+--- Tags ---
+  - Array (array) [TOPIC]
+  - Heap (Priority Queue) (heap-priority-queue) [TOPIC]
+  - Placement (placement) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ANCxwqHj
+Title: TCS NQT 2027 - Appeared Candidates
+Slug: tcs-nqt-2027-appeared-candidates-by-swat-khb3
+Article Type: DISCUSSION
+Posted: 2026-06-24 08:58:23 IST
+Updated: 2026-06-24 08:58:23 IST
+URL: https://leetcode.com/discuss/post/8354903/tcs-nqt-2027-appeared-candidates-by-swat-khb3/
+Author: swati_borle05
+
+--- Summary ---
+I'm preparing for TCS NQT 2027 and would love to hear from candidates who have recently appeared for the exam.Could you please share:-
+Your overall exam experience
+Difficulty level of Aptitude, Reasoning, Verbal, and Coding sections
+Types of coding q
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: AU9Yg7TO
+Title: Senior Software Engineer | 5YOE | Wells Fargo | Offer Evaluation
+Slug: senior-software-engineer-5yoe-wells-farg-atx9
+Article Type: DISCUSSION
+Posted: 2026-06-24 08:40:24 IST
+Updated: 2026-06-24 08:40:24 IST
+URL: https://leetcode.com/discuss/post/8354884/senior-software-engineer-5yoe-wells-farg-atx9/
+Author: 
+
+--- Summary ---
+Wells Fargo India SSE Offer (JAVA FULL STACK) – Is This Competitive for 5 YOE?Hi everyone,I recently received an offer from Wells Fargo India for a Senior Software Engineer (SSE) role and wanted to get some market feedback from people who have recent
+
+--- Tags ---
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: RLsCov1n
+Title: TCS NQT 2026 - Recently Appeared Candidates
+Slug: tcs-nqt-2026-recently-appeared-candidate-ms9w
+Article Type: DISCUSSION
+Posted: 2026-06-24 08:32:58 IST
+Updated: 2026-06-24 08:32:58 IST
+URL: https://leetcode.com/discuss/post/8354868/tcs-nqt-2026-recently-appeared-candidate-ms9w/
+Author: rk-rohit
+
+--- Summary ---
+I'm preparing for TCS NQT 2026 and would love to hear from candidates who have recently appeared for the exam.Could you please share:
+Your overall exam experience
+Difficulty level of Aptitude, Reasoning, Verbal, and Coding sections
+Types of coding qu
+
+--- Tags ---
+  - tcs (tcs) [COMPANY]
+  - Placement (placement) [COMPANY]
+  - Career (career) []
+  - Leetcode Team (leetcode-team-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8SPwkbU9
+Title: SnowFlake Interview Experience - Backend engineer Interview
+Slug: snowflake-interview-experience-backend-e-32sz
+Article Type: DISCUSSION
+Posted: 2026-06-24 08:03:58 IST
+Updated: 2026-06-24 08:06:47 IST
+URL: https://leetcode.com/discuss/post/8354847/snowflake-interview-experience-backend-e-32sz/
+Author: 
+
+--- Summary ---
+Question 1
+A forest is represented as a list of integers, where each element stores the index of its parent node.Rules:1.⁠ ⁠Each node stores its parent’s index in the list.
+2.⁠ ⁠For a root node, the parent index is the node’s own index.
+3.⁠ ⁠For any
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: mlIBecyF
+Title: Apple interview experience - Full Stack Software engineer 
+Slug: apple-interview-experience-full-stack-so-2w6t
+Article Type: DISCUSSION
+Posted: 2026-06-24 07:56:53 IST
+Updated: 2026-06-24 08:06:38 IST
+URL: https://leetcode.com/discuss/post/8354843/apple-interview-experience-full-stack-so-2w6t/
+Author: 
+
+--- Summary ---
+I applied through the Apple Careers website and actually got a callback from a recruiter pretty quickly after that.Hiring Manager (HM) Round:
+This was more of a conversational interview. I met with the hiring manager and most of the questions were ar
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: UYeBWQzg
+Title: LeetCode Medium Solutions | Java Code
+Slug: leetcode-medium-solutions-java-code-by-c-fjr7
+Article Type: DISCUSSION
+Posted: 2026-06-24 07:14:57 IST
+Updated: 2026-06-24 07:14:57 IST
+URL: https://leetcode.com/discuss/post/8354819/leetcode-medium-solutions-java-code-by-c-fjr7/
+Author: curiousToLearn
+
+--- Summary ---
+https://www.youtube.com/playlist?list=PLUg9hRlm7gxT3YImwAljFjvNi7WC7hbAU
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: eTvXIC6t
+Title: AI Coding Round Experience at Rippling - Senior Engineer
+Slug: ai-coding-round-experience-at-rippling-s-iqs0
+Article Type: DISCUSSION
+Posted: 2026-06-24 03:44:08 IST
+Updated: 2026-06-24 03:44:08 IST
+URL: https://leetcode.com/discuss/post/8354744/ai-coding-round-experience-at-rippling-s-iqs0/
+Author: 
+
+--- Summary ---
+It was my first time actually going through one of these AI assisted coding interviews and I felt like it went well so I thought I'd share how I approached the use of AI during the interview.Rippling doesn't seem to care what or how much you use AI.
+
+--- Tags ---
+  - Rippling (rippling) [COMPANY]
+  - Technical Interview (technical-interview) [COMPANY]
+  - interview experience (interview-experience) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kRJQWYCi
+Title: 2027 grad here from tier-2 NIT
+Slug: 2027-grad-here-from-tier-2-nit-by-anonym-ghkr
+Article Type: DISCUSSION
+Posted: 2026-06-24 01:19:06 IST
+Updated: 2026-06-24 01:19:06 IST
+URL: https://leetcode.com/discuss/post/8354661/2027-grad-here-from-tier-2-nit-by-anonym-ghkr/
+Author: 
+
+--- Summary ---
+I have been applying to off-campus SDE roles but rarely get shortlisted despite having decent CP/DSA credentials and relevant projects/internship experience.For those who successfully landed off-campus interviews, what worked best for you?
+Referrals?
+
+--- Tags ---
+  - Java (java) []
+  - Career (career) []
+  - System Design (system-design) []
+  - Backend (backend) []
+  - Interview (interview) []
+  - preparation (preparation-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2OqNjUY4
+Title: Dynamic Programming - Interview Revision 
+Slug: dynamic-programming-interview-revision-b-5rg9
+Article Type: DISCUSSION
+Posted: 2026-06-24 01:10:29 IST
+Updated: 2026-06-24 01:10:29 IST
+URL: https://leetcode.com/discuss/post/8354645/dynamic-programming-interview-revision-b-5rg9/
+Author: Himsg0
+
+--- Summary ---
+Dynamic Programming - Interview Revision NotesDP Golden RuleFor every DP problem ask:
+What does dp[i] or dp[r][c] represent?
+How can I reach the current state?
+Write the recurrence.
+Find base cases.
+Build the table.
+Pattern 1: Counting WaysQuestion C
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8Rvo27yB
+Title: Software Engineer | 4+ YOE | Adyen Bangalore | Offer
+Slug: software-engineer-4-yoe-adyen-offer-deta-zvj4
+Article Type: DISCUSSION
+Posted: 2026-06-24 00:57:21 IST
+Updated: 2026-06-24 03:03:22 IST
+URL: https://leetcode.com/discuss/post/8354626/software-engineer-4-yoe-adyen-offer-deta-zvj4/
+Author: 
+
+--- Summary ---
+YOE: 4 Years
+Current Company: Product based fintech
+Current CTC: 38 LPA (Including ESOPs)
+Position: Software Engineer IIOffer Details:
+Position: Software Engineer
+Fixed Pay: 44,50,000 (Base + PF)
+RSUs: 9,50,000 per year1st year CTC: 54,00,000Intervie
+
+--- Tags ---
+  - Career (career) []
+  - Compensation (compensation) []
+  - Bengaluru (bengaluru) []
+  - career-advice (career-advice-2) []
+  - #advice (advice-2) []
+
+--- Reactions ---
+  UPVOTE: 9
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: P86hv5Vy
+Title: Need help on Interview Prep- specially LLD / Machine Coding {JAVA}
+Slug: need-help-on-interview-prep-specially-ll-np0k
+Article Type: DISCUSSION
+Posted: 2026-06-24 00:26:51 IST
+Updated: 2026-06-24 00:26:51 IST
+URL: https://leetcode.com/discuss/post/8354596/need-help-on-interview-prep-specially-ll-np0k/
+Author: 
+
+--- Summary ---
+How do you guys structure your LLD answer?
+There are Entities/Classes,Service/Manager Classes, UML/Class Diagrams,Implmentations, E-R Diagrams,DB schema ,API design,Design Patterns etc..
+and in machine coding u need to write Concurrency stuff ->locki
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: GCryORzQ
+Title: Best Advice for Switching to Java Developer Role
+Slug: best-advice-for-switching-to-java-develo-19rn
+Article Type: DISCUSSION
+Posted: 2026-06-24 00:25:53 IST
+Updated: 2026-06-24 00:25:53 IST
+URL: https://leetcode.com/discuss/post/8354595/best-advice-for-switching-to-java-develo-19rn/
+Author: KashifSiddiqui
+
+--- Summary ---
+If a candidate has some years of experience as a Software Engineer but he has majorly worked on application support and little development but want to shift to Java developer role.
+What would you suggest him to do and how he can prepare for the java
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: IbRtStm2
+Title: OMIO SDE-2  5 YOE
+Slug: omio-sde-2-2-yoe-by-ramitkundu45-5kcz
+Article Type: DISCUSSION
+Posted: 2026-06-24 00:24:31 IST
+Updated: 2026-06-24 01:13:21 IST
+URL: https://leetcode.com/discuss/post/8354591/omio-sde-2-2-yoe-by-ramitkundu45-5kcz/
+Author: 
+
+--- Summary ---
+Offer Received - Omio | Senior Software Engineer | Bangalore | 5 YOEDate: May 24, 2026Experience: 5 YearsLocation: Bangalore, IndiaWork Policy: 4 Days Work From OfficeInterview ExperienceRound 1: Online AssessmentThe online assessment consisted of 2
+
+--- Tags ---
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7wzYOLgG
+Title: Company wise dsa question
+Slug: company-wise-dsa-question-by-mks69-kx83
+Article Type: DISCUSSION
+Posted: 2026-06-23 22:50:03 IST
+Updated: 2026-06-23 22:50:03 IST
+URL: https://leetcode.com/discuss/post/8354414/company-wise-dsa-question-by-mks69-kx83/
+Author: mks69
+
+--- Summary ---
+https://www.qorix.in
+
+When you click on any question, you'll be automatically redirected to the corresponding LeetCode problem.Additionally, if you sync your LeetCode ID with Qorix, the platform will display the number of LeetCode questions you've so
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: b5mswQEh
+Title: The One Thing LeetCode Taught Me That No Sheet Can
+Slug: the-one-thing-leetcode-taught-me-that-no-kn3m
+Article Type: DISCUSSION
+Posted: 2026-06-23 22:26:29 IST
+Updated: 2026-06-23 22:26:29 IST
+URL: https://leetcode.com/discuss/post/8354369/the-one-thing-leetcode-taught-me-that-no-kn3m/
+Author: ayush_kodes
+
+--- Summary ---
+For a long time, I thought LeetCode was mostly about patterns.And to some extent, it is.But after enough problems, I started noticing something else.The real difference is often not in knowing the pattern itself.
+It is in knowing when a problem is tr
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: uKHf3FcL
+Title: Agoda - Engineering Manager - Bangkok Location
+Slug: agoda-engineering-manager-bangkok-locati-hsds
+Article Type: DISCUSSION
+Posted: 2026-06-23 22:26:06 IST
+Updated: 2026-06-23 22:26:06 IST
+URL: https://leetcode.com/discuss/post/8354368/agoda-engineering-manager-bangkok-locati-hsds/
+Author: 
+
+--- Summary ---
+Total years of experience: 11
+Current Position: Engineering Manager
+Company: Product based fintech
+Current salary: 67.5 LPA base + 7.5 LPA variable + 10L ESOPS per year
+Offered base: 3,480,000 THB per year (290,000 THB per month)
+Annual Target Perfor
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: hwYWuvsf
+Title: Is Microsoft in hiring mode?
+Slug: is-microsoft-in-hiring-mode-by-anonymous-qrpz
+Article Type: DISCUSSION
+Posted: 2026-06-23 22:23:57 IST
+Updated: 2026-06-23 22:23:57 IST
+URL: https://leetcode.com/discuss/post/8354367/is-microsoft-in-hiring-mode-by-anonymous-qrpz/
+Author: 
+
+--- Summary ---
+seeing a lot of openings in msft in India ,does anyon egot interview invite I had OA for two roles but didn't got a call back.
+
+--- Reactions ---
+  UPVOTE: 2
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: QfBxq8jU
+Title: Solving the 10⁹-th Fibonacci in O(log N) Time | Power of Matrix Exponentiation
+Slug: solving-the-109-th-fibonacci-in-olog-n-t-wl5s
+Article Type: DISCUSSION
+Posted: 2026-06-23 22:15:47 IST
+Updated: 2026-06-23 22:15:47 IST
+URL: https://leetcode.com/discuss/post/8354351/solving-the-109-th-fibonacci-in-olog-n-t-wl5s/
+Author: samyasaha08
+
+--- Summary ---
+Let's try to solve the N-th Fibonacci number with standard recursive Dynamic Programming (DP). The mathematical definition is beautifully simple:FN​=FN−1​+FN−2​With base cases F0​=0 and F1​=1. A standard recursive DP approach with memoization looks l
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: liq7isCa
+Title: I built a tool that converts Java code into UML class diagrams — right in the browser
+Slug: i-built-a-tool-that-converts-java-code-i-49sb
+Article Type: DISCUSSION
+Posted: 2026-06-23 21:55:32 IST
+Updated: 2026-06-23 21:55:32 IST
+URL: https://leetcode.com/discuss/post/8354298/i-built-a-tool-that-converts-java-code-i-49sb/
+Author: suraj_12234
+
+--- Summary ---
+New project: Code → UMLEver joined a new codebase and struggled to picture how the classes fit together?
+Or needed a class diagram for documentation but didn't want to draw it by hand?I built Code → UML — that turns Java source code into a
+clean UML
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: gIl8WKFf
+Title: Salesforce | MTS | Bangalore | May 2026 
+Slug: salesforce-mts-bangalore-may-2026-by-ano-ckd0
+Article Type: DISCUSSION
+Posted: 2026-06-23 21:53:59 IST
+Updated: 2026-06-23 21:53:59 IST
+URL: https://leetcode.com/discuss/post/8354296/salesforce-mts-bangalore-may-2026-by-ano-ckd0/
+Author: 
+
+--- Summary ---
+Recuiter reached out to me after taking referal from friend for MTS role in Salesforce.Online AssessmentFormat
+Number of Questions: 2(Both Medium DSA question)
+Duration: 60 min
+Difficulty: Medium
+Result
+Cleared
+Interview Process OverviewFirst 2 round
+
+--- Tags ---
+  - Salesforce (salesforce) [COMPANY]
+  - Career (career) []
+  - Mid Level (mid-level) []
+  - Low Level Design (low-level-design) []
+  - DSA (dsa) []
+  - Interview (interview) []
+  - Data Structure and Algorithms (ds-and-algorithm) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7fLrDF3N
+Title: DE Shaw HPC storage engineer preparation strategy ?
+Slug: de-shaw-hpc-storage-engineer-preparation-qu4q
+Article Type: DISCUSSION
+Posted: 2026-06-23 21:44:23 IST
+Updated: 2026-06-23 21:44:23 IST
+URL: https://leetcode.com/discuss/post/8354273/de-shaw-hpc-storage-engineer-preparation-qu4q/
+Author: 
+
+--- Summary ---
+Hi can anyone tell me how to prepare for this role at DE Shaw? Seems very niche and I can't find any interview experiences onlineTIA
+
+--- Tags ---
+  - DE Shaw (de-shaw) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: wg6gQH8L
+Title: Streak paramount plus student discount
+Slug: streak-paramount-plus-student-discount-b-jvi0
+Article Type: DISCUSSION
+Posted: 2026-06-23 21:29:20 IST
+Updated: 2026-06-23 21:29:20 IST
+URL: https://leetcode.com/discuss/post/8354229/streak-paramount-plus-student-discount-b-jvi0/
+Author: yhtryry54654
+
+--- Summary ---
+Hey Everyone, Streak paramount plus student discount, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf.Streak paramount plus student discount
+Any advi
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ycIEoPUv
+Title: Streak Facebook down right now
+Slug: streak-facebook-down-right-now-by-yhtryr-skcq
+Article Type: DISCUSSION
+Posted: 2026-06-23 21:25:23 IST
+Updated: 2026-06-23 21:25:23 IST
+URL: https://leetcode.com/discuss/post/8354216/streak-facebook-down-right-now-by-yhtryr-skcq/
+Author: yhtryry54654
+
+--- Summary ---
+Hey Everyone, Streak Facebook down right now, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Streak Facebook down right now
+Any advice for me to cr
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: QS4t8XHC
+Title: Streak you get hacked on Facebook
+Slug: streak-you-get-hacked-on-facebook-by-yht-m3df
+Article Type: DISCUSSION
+Posted: 2026-06-23 21:23:43 IST
+Updated: 2026-06-23 21:23:43 IST
+URL: https://leetcode.com/discuss/post/8354210/streak-you-get-hacked-on-facebook-by-yht-m3df/
+Author: yhtryry54654
+
+--- Summary ---
+Hey Everyone, Streak you get hacked on Facebook, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Streak you get hacked on Facebook
+Any advice for me
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 3ietQELD
+Title: Streak NBC audio issues Engagement 
+Slug: streak-nbc-audio-issues-engagement-by-yh-tkgs
+Article Type: DISCUSSION
+Posted: 2026-06-23 21:22:17 IST
+Updated: 2026-06-23 21:22:17 IST
+URL: https://leetcode.com/discuss/post/8354204/streak-nbc-audio-issues-engagement-by-yh-tkgs/
+Author: yhtryry54654
+
+--- Summary ---
+Hey Everyone, Streak NBC audio issues Engagement , streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Streak NBC audio issues Engagement
+Any advice for
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: u2fb50RJ
+Title:  Streak Change My YouTube Layout to Horizonta
+Slug: streak-change-my-youtube-layout-to-horiz-n3bp
+Article Type: DISCUSSION
+Posted: 2026-06-23 21:15:48 IST
+Updated: 2026-06-23 21:15:48 IST
+URL: https://leetcode.com/discuss/post/8354191/streak-change-my-youtube-layout-to-horiz-n3bp/
+Author: fghrt
+
+--- Summary ---
+Hey Everyone,  Streak Change My YouTube Layout to Horizonta, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Streak Change My YouTube Layout to Hori
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2eV0mOsk
+Title: Streak many people canceling Netflix
+Slug: streak-many-people-canceling-netflix-by-6kkld
+Article Type: DISCUSSION
+Posted: 2026-06-23 21:13:30 IST
+Updated: 2026-06-23 21:13:30 IST
+URL: https://leetcode.com/discuss/post/8354189/streak-many-people-canceling-netflix-by-6kkld/
+Author: fghrt
+
+--- Summary ---
+Hey Everyone,Streak many people canceling Netflix , streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Streak many people canceling Netflix
+Any advice
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 5nH869Ak
+Title:  Streak Do You Get for 4.99 Netflix
+Slug: streak-do-you-get-for-499-netflix-by-fgh-09jh
+Article Type: DISCUSSION
+Posted: 2026-06-23 21:11:56 IST
+Updated: 2026-06-23 21:11:56 IST
+URL: https://leetcode.com/discuss/post/8354186/streak-do-you-get-for-499-netflix-by-fgh-09jh/
+Author: fghrt
+
+--- Summary ---
+Hey Everyone,  Streak Do You Get for 4.99 Netflix, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf.  Streak Do You Get for 4.99 Netflix
+Any advice fo
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ze1Ju9W7
+Title: Streak Sling TV have a cancellation fee
+Slug: streak-sling-tv-have-a-cancellation-fee-7fjui
+Article Type: DISCUSSION
+Posted: 2026-06-23 21:08:02 IST
+Updated: 2026-06-23 21:08:02 IST
+URL: https://leetcode.com/discuss/post/8354176/streak-sling-tv-have-a-cancellation-fee-7fjui/
+Author: thrtj345654
+
+--- Summary ---
+Hey Everyone, Streak Sling TV have a cancellation fee , streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf.Streak Sling TV have a cancellation fee
+Any a
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Z7dEYt24
+Title:  Streak eligible for the Hulu
+Slug: streak-eligible-for-the-hulu-by-thrtj345-soxh
+Article Type: DISCUSSION
+Posted: 2026-06-23 21:06:09 IST
+Updated: 2026-06-23 21:06:09 IST
+URL: https://leetcode.com/discuss/post/8354173/streak-eligible-for-the-hulu-by-thrtj345-soxh/
+Author: thrtj345654
+
+--- Summary ---
+Hey Everyone, Streak eligible for the Hulu, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf.  Streak eligible for the Hulu
+Any advice for me to crack
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: XY5nHLGU
+Title:  Streak YouuTube TV Having a Problem Rightt Now
+Slug: streak-youutube-tv-having-a-problem-righ-2mny
+Article Type: DISCUSSION
+Posted: 2026-06-23 21:04:19 IST
+Updated: 2026-06-23 21:04:19 IST
+URL: https://leetcode.com/discuss/post/8354164/streak-youutube-tv-having-a-problem-righ-2mny/
+Author: thrtj345654
+
+--- Summary ---
+Hey Everyone,  Streak YouuTube TV Having a Problem Rightt Now, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf.  Streak YouuTube TV Having a Problem
+
+════════════════════════════════════════════════════════════════════════════════
+Article #35
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: SgRAuWUw
+Title: Solved LeetCode 3699 - Number of ZigZag Arrays I | Optimized from TLE/MLE to O(n × m)
+Slug: solved-leetcode-3699-number-of-zigzag-ar-xks1
+Article Type: DISCUSSION
+Posted: 2026-06-23 21:02:10 IST
+Updated: 2026-06-23 21:02:10 IST
+URL: https://leetcode.com/discuss/post/8354162/solved-leetcode-3699-number-of-zigzag-ar-xks1/
+Author: PritamThinker
+
+--- Summary ---
+While solving 3699. Number of ZigZag Arrays I, my initial approaches ran into both Memory Limit Exceeded (MLE) and Time Limit Exceeded (TLE).❌ Initial Approaches
+1. 3D DPState:dp[length][prev][curr]This quickly became impossible because:n ≤ 2000
+m =
+
+--- Tags ---
+  - Array (array) [TOPIC]
+  - LeetCode (leetcode) [COMPANY]
+  - DP world (dp-world) [COMPANY]
+  - Hard (hard) []
+  - problem (problem-3) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #36
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: YfTQotaR
+Title:  Streak Switch to YouTube TV from Any Provider
+Slug: streak-switch-to-youtube-tv-from-any-pro-xdtf
+Article Type: DISCUSSION
+Posted: 2026-06-23 21:00:52 IST
+Updated: 2026-06-23 21:00:52 IST
+URL: https://leetcode.com/discuss/post/8354159/streak-switch-to-youtube-tv-from-any-pro-xdtf/
+Author: thrtj345654
+
+--- Summary ---
+Hey Everyone, , streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode,  Streak Switch to YouTube TV from Any Provider
+Any advice for me to crack good companies in this plac
+
+════════════════════════════════════════════════════════════════════════════════
+Article #37
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4YOA6tJ5
+Title: Streak cancel my Netflix subscription
+Slug: streak-cancel-my-netflix-subscription-by-ilkx
+Article Type: DISCUSSION
+Posted: 2026-06-23 20:56:40 IST
+Updated: 2026-06-23 20:56:40 IST
+URL: https://leetcode.com/discuss/post/8354152/streak-cancel-my-netflix-subscription-by-ilkx/
+Author: trytu5756
+
+--- Summary ---
+Hey Everyone, Streak cancel my Netflix subscription, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Streak cancel my Netflix subscription
+Any advic
+
+════════════════════════════════════════════════════════════════════════════════
+Article #38
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: cPgTzzzw
+Title: Streak  cancel Netflix instantly
+Slug: streak-cancel-netflix-instantly-by-trytu-rfg3
+Article Type: DISCUSSION
+Posted: 2026-06-23 20:55:20 IST
+Updated: 2026-06-23 20:55:20 IST
+URL: https://leetcode.com/discuss/post/8354148/streak-cancel-netflix-instantly-by-trytu-rfg3/
+Author: trytu5756
+
+--- Summary ---
+Hey Everyone,Streak  cancel Netflix instantly, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Streak  cancel Netflix instantly
+Any advice for me to
+
+════════════════════════════════════════════════════════════════════════════════
+Article #39
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: gfaZ8RYh
+Title: Streak  cancel my YouTube TV subscription
+Slug: streak-cancel-my-youtube-tv-subscription-0ndr
+Article Type: DISCUSSION
+Posted: 2026-06-23 20:53:58 IST
+Updated: 2026-06-23 20:53:58 IST
+URL: https://leetcode.com/discuss/post/8354144/streak-cancel-my-youtube-tv-subscription-0ndr/
+Author: trytu5756
+
+--- Summary ---
+Hey Everyone, Streak  cancel my YouTube TV subscription, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Streak  cancel my YouTube TV subscription
+A
+
+════════════════════════════════════════════════════════════════════════════════
+Article #40
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Pt4i1Yel
+Title: Streak  Cancel My Disney+ Subscription
+Slug: streak-cancel-my-disney-subscription-by-402fb
+Article Type: DISCUSSION
+Posted: 2026-06-23 20:52:38 IST
+Updated: 2026-06-23 20:52:38 IST
+URL: https://leetcode.com/discuss/post/8354140/streak-cancel-my-disney-subscription-by-402fb/
+Author: trytu5756
+
+--- Summary ---
+Hey Everyone, , streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Streak  Cancel My Disney+ Subscription
+Any advice for me to crack good companies in
+
+════════════════════════════════════════════════════════════════════════════════
+Article #41
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0STe3Rdg
+Title: Kotak Mahindra Bank - SDE2 - offer delay
+Slug: kotak-mahindra-bank-sde2-offer-delay-by-vq8rg
+Article Type: DISCUSSION
+Posted: 2026-06-23 20:51:07 IST
+Updated: 2026-06-23 20:51:07 IST
+URL: https://leetcode.com/discuss/post/8354136/kotak-mahindra-bank-sde2-offer-delay-by-vq8rg/
+Author: upik_98
+
+--- Summary ---
+I have successfully completed all technical rounds and submitted my pre-offer documentation. Following a positive HR discussion regarding salary negotiation, it has been 9 days without further updates(promised to send it in 3-4 business days). Additi
+
+--- Tags ---
+  - Kotak Mahindra Bank (kotak-mahindra-bank) [COMPANY]
+  - Kotak SDE (kotak-sde) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #42
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WiWzzsOB
+Title: Streak cancel my Sling TV subscription
+Slug: streak-cancel-my-sling-tv-subscription-b-yfdl
+Article Type: DISCUSSION
+Posted: 2026-06-23 20:50:53 IST
+Updated: 2026-06-23 20:50:53 IST
+URL: https://leetcode.com/discuss/post/8354134/streak-cancel-my-sling-tv-subscription-b-yfdl/
+Author: trytu5756
+
+--- Summary ---
+Hey Everyone, Streak cancel my Sling TV subscription , streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Streak cancel my Sling TV subscription
+Any ad
+
+════════════════════════════════════════════════════════════════════════════════
+Article #43
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: REDO5wzn
+Title: Streak Cancel McAfee Subscription on Phone
+Slug: streak-cancel-mcafee-subscription-on-pho-p3mk
+Article Type: DISCUSSION
+Posted: 2026-06-23 20:42:17 IST
+Updated: 2026-06-23 20:42:17 IST
+URL: https://leetcode.com/discuss/post/8354121/streak-cancel-mcafee-subscription-on-pho-p3mk/
+Author: rtrjtr
+
+--- Summary ---
+Hey Everyone, Streak Cancel McAfee Subscription on Phone, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Streak Cancel McAfee Subscription on Phone
+
+════════════════════════════════════════════════════════════════════════════════
+Article #44
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: InKeCCET
+Title: Streak Cancel Myy Paramountt Plus Subscription
+Slug: streak-cancel-myy-paramountt-plus-subscr-gr6f
+Article Type: DISCUSSION
+Posted: 2026-06-23 20:40:57 IST
+Updated: 2026-06-23 20:40:57 IST
+URL: https://leetcode.com/discuss/post/8354116/streak-cancel-myy-paramountt-plus-subscr-gr6f/
+Author: rtrjtr
+
+--- Summary ---
+Hey Everyone, Streak Cancel Myy Paramountt Plus Subscription, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Streak Cancel Myy Paramountt Plus Subs
+
+════════════════════════════════════════════════════════════════════════════════
+Article #45
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1YjCa31H
+Title: OpenText Internship Drive on June 29 – Any Tips or Guidance?
+Slug: opentext-internship-drive-on-june-29-any-4sk6
+Article Type: DISCUSSION
+Posted: 2026-06-23 20:40:11 IST
+Updated: 2026-06-23 20:40:11 IST
+URL: https://leetcode.com/discuss/post/8354115/opentext-internship-drive-on-june-29-any-4sk6/
+Author: 
+
+--- Summary ---
+Hi everyone,I have an OpenText Internship Drive scheduled for June 29, and I'm preparing for it.If anyone has recently attended the OpenText internship interview or online assessment, I would really appreciate your insights.Specifically, I'm looking
+
+--- Reactions ---
+  UPVOTE: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #46
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: IW1jGJ2g
+Title: Streak  Cancel Subscriptions on My YouTube Account
+Slug: streak-cancel-subscriptions-on-my-youtub-zy66
+Article Type: DISCUSSION
+Posted: 2026-06-23 20:38:38 IST
+Updated: 2026-06-23 20:38:38 IST
+URL: https://leetcode.com/discuss/post/8354111/streak-cancel-subscriptions-on-my-youtub-zy66/
+Author: rtrjtr
+
+--- Summary ---
+Hey Everyone, Streak  Cancel Subscriptions on My YouTube Account, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Streak  Cancel Subscriptions on My
+
+════════════════════════════════════════════════════════════════════════════════
+Article #47
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 9xfjfFtO
+Title: Streak  stop Total Av automatic payments
+Slug: streak-stop-total-av-automatic-payments-6rixg
+Article Type: DISCUSSION
+Posted: 2026-06-23 20:36:52 IST
+Updated: 2026-06-23 20:36:52 IST
+URL: https://leetcode.com/discuss/post/8354106/streak-stop-total-av-automatic-payments-6rixg/
+Author: rtrjtr
+
+--- Summary ---
+Hey Everyone, Streak  stop Total Av automatic payments, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Streak  stop Total Av automatic payments
+Any
+
+════════════════════════════════════════════════════════════════════════════════
+Article #48
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: qed0WW8q
+Title: Streak cancel my subscription to HBO Max
+Slug: streak-cancel-my-subscription-to-hbo-max-b52c
+Article Type: DISCUSSION
+Posted: 2026-06-23 20:26:56 IST
+Updated: 2026-06-23 20:26:56 IST
+URL: https://leetcode.com/discuss/post/8354086/streak-cancel-my-subscription-to-hbo-max-b52c/
+Author: jghj
+
+--- Summary ---
+Hey Everyone, Streak cancel my subscription to HBO Max, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Streak cancel my subscription to HBO Max
+Any
+
+════════════════════════════════════════════════════════════════════════════════
+Article #49
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: BqcFPcOP
+Title: Streak  cancel HBO Max
+Slug: streak-cancel-hbo-max-by-jghj-airm
+Article Type: DISCUSSION
+Posted: 2026-06-23 20:25:04 IST
+Updated: 2026-06-23 20:25:04 IST
+URL: https://leetcode.com/discuss/post/8354079/streak-cancel-hbo-max-by-jghj-airm/
+Author: jghj
+
+--- Summary ---
+Hey Everyone,Streak  cancel HBO Max , streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Streak  cancel HBO Max
+Any advice for me to crack good compani
+
+════════════════════════════════════════════════════════════════════════════════
+Article #50
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vDDzkzhm
+Title:  Streak terminate my Apple subscription
+Slug: streak-terminate-my-apple-subscription-b-071p
+Article Type: DISCUSSION
+Posted: 2026-06-23 20:23:23 IST
+Updated: 2026-06-23 20:23:23 IST
+URL: https://leetcode.com/discuss/post/8354072/streak-terminate-my-apple-subscription-b-071p/
+Author: jghj
+
+--- Summary ---
+Hey Everyone,  Streak terminate my Apple subscription , streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf.  Streak terminate my Apple subscription
+Any
+
+════════════════════════════════════════════════════════════════════════════════
+Article #51
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6gFc6jO2
+Title: Streak 365 Paramount Plus on Amazon Prime
+Slug: streak-365-paramount-plus-on-amazon-prim-dm2g
+Article Type: DISCUSSION
+Posted: 2026-06-23 20:21:53 IST
+Updated: 2026-06-23 20:21:53 IST
+URL: https://leetcode.com/discuss/post/8354070/streak-365-paramount-plus-on-amazon-prim-dm2g/
+Author: kuygftyf56
+
+--- Summary ---
+Hey Everyone,Paramount Plus on Amazon Prime, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Paramount Plus on Amazon Prime
+Any advice for me to cra
+
+════════════════════════════════════════════════════════════════════════════════
+Article #52
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: IUeIVj7U
+Title: Streak cancel AVG subscription 
+Slug: streak-cancel-avg-subscription-by-jghj-nses
+Article Type: DISCUSSION
+Posted: 2026-06-23 20:21:03 IST
+Updated: 2026-06-23 20:21:03 IST
+URL: https://leetcode.com/discuss/post/8354068/streak-cancel-avg-subscription-by-jghj-nses/
+Author: jghj
+
+--- Summary ---
+Hey Everyone, Streak cancel AVG subscription , streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Streak cancel AVG subscription
+Any advice for me to c
+
+════════════════════════════════════════════════════════════════════════════════
+Article #53
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: a86hWpOK
+Title: Streak Deleting Your Peacock Account
+Slug: streak-deleting-your-peacock-account-by-8jca2
+Article Type: DISCUSSION
+Posted: 2026-06-23 20:17:01 IST
+Updated: 2026-06-23 20:17:01 IST
+URL: https://leetcode.com/discuss/post/8354064/streak-deleting-your-peacock-account-by-8jca2/
+Author: jghj
+
+--- Summary ---
+Hey Everyone, Streak Deleting Your Peacock Account, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Streak Deleting Your Peacock Account
+Any advice
+
+════════════════════════════════════════════════════════════════════════════════
+Article #54
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ShydoK1D
+Title: Final year Student Seeking Internship Guidance - Software Devlopment, Full Stack and GenAI Roles    
+Slug: final-year-student-seeking-internship-gu-lfnw
+Article Type: DISCUSSION
+Posted: 2026-06-23 19:41:43 IST
+Updated: 2026-06-23 19:41:43 IST
+URL: https://leetcode.com/discuss/post/8354012/final-year-student-seeking-internship-gu-lfnw/
+Author: Samarth5005
+
+--- Summary ---
+Hello everyone,I am a final-year engineering student currently learning DSA and GenAI. I have solved 100+ LeetCode problems and have a decent understanding of technical concepts.My college has very limited placement opportunities, with only 1–2 compa
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #55
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: SGWBP4Qo
+Title: The Biggest Resume Myth in 2026
+Slug: the-biggest-resume-myth-in-2026-by-praje-7rye
+Article Type: DISCUSSION
+Posted: 2026-06-23 19:25:14 IST
+Updated: 2026-06-23 19:25:14 IST
+URL: https://leetcode.com/discuss/post/8353968/the-biggest-resume-myth-in-2026-by-praje-7rye/
+Author: PrajeethAnand
+
+--- Summary ---
+I see a lot of people talking about ATS scores as if creating one resume with a 95%+ ATS score will magically get them interviews everywhere.That's not how modern hiring works.Most companies use ATS and AI-based screening systems that evaluate your r
+
+--- Tags ---
+  - Career (career) []
+  - Resume Screening (resume-screening) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #56
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: mWN24U7Y
+Title: DE Shaw - Phone Screen [Reject]
+Slug: de-shaw-phone-screen-reject-by-shubh_rmc-t28z
+Article Type: DISCUSSION
+Posted: 2026-06-23 19:13:17 IST
+Updated: 2026-06-23 19:13:17 IST
+URL: https://leetcode.com/discuss/post/8353946/de-shaw-phone-screen-reject-by-shubh_rmc-t28z/
+Author: Shubh_rmcf07
+
+--- Summary ---
+You are given an array of buildings with heights. In one operation, you can do either of the following:Remove 1 floor from a building (cost : 1 unit)
+Remove the smallest building from the layout (cost : height of smallest building)Calculate the minim
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #57
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: a4Br49np
+Title: Stripe - Technical Phone Screen [Reject]
+Slug: stripe-technical-phone-screen-reject-by-jy92j
+Article Type: DISCUSSION
+Posted: 2026-06-23 19:10:29 IST
+Updated: 2026-06-23 19:10:29 IST
+URL: https://leetcode.com/discuss/post/8353936/stripe-technical-phone-screen-reject-by-jy92j/
+Author: Shubh_rmcf07
+
+--- Summary ---
+Standard stripe question : https://leetcode.com/discuss/post/7384225/stripe-phone-screen-4-part-interview-exp-dhoy/Was able to solve 3/4 but was rejected.
+
+════════════════════════════════════════════════════════════════════════════════
+Article #58
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: qoEMLVYD
+Title: Streak 365 Borrow Money 
+Slug: streak-365-borrow-money-by-fdsvbfd-4kyn
+Article Type: DISCUSSION
+Posted: 2026-06-23 19:01:52 IST
+Updated: 2026-06-23 19:01:52 IST
+URL: https://leetcode.com/discuss/post/8353918/streak-365-borrow-money-by-fdsvbfd-4kyn/
+Author: fdsvbfd
+
+--- Summary ---
+Hey Everyone, Borrow Money , streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf.Borrow Money
+Any advice for me to crack good companies in this placement
+
+════════════════════════════════════════════════════════════════════════════════
+Article #59
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZGnfwdpF
+Title: Streak 365Take Out $100
+Slug: streak-365take-out-100-by-fdsvbfd-99yx
+Article Type: DISCUSSION
+Posted: 2026-06-23 18:59:49 IST
+Updated: 2026-06-23 18:59:49 IST
+URL: https://leetcode.com/discuss/post/8353916/streak-365take-out-100-by-fdsvbfd-99yx/
+Author: fdsvbfd
+
+--- Summary ---
+Hey Everyone,Take Out 100,streak(8.885+56)−1412cal.Ihavejuststarteddoingdsaonthesamedayin2025andtodayihavecompleted365Daysonleetcode,ProudonmySelf.TakeOut100
+Any advice for me to crack good companies in this placement season Aug-Dec 2026-2027
+
+════════════════════════════════════════════════════════════════════════════════
+Article #60
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: lW3NaBfv
+Title: Streak 365 Problem via 
+Slug: streak-365-problem-via-by-fdsvbfd-a5kg
+Article Type: DISCUSSION
+Posted: 2026-06-23 18:56:54 IST
+Updated: 2026-06-23 18:56:54 IST
+URL: https://leetcode.com/discuss/post/8353911/streak-365-problem-via-by-fdsvbfd-a5kg/
+Author: fdsvbfd
+
+--- Summary ---
+Hey Everyone, Problem via , streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Problem via
+Any advice for me to crack good companies in this placement
+
+════════════════════════════════════════════════════════════════════════════════
+Article #61
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0GIbuRye
+Title: Ebay Interview Experience - Apr-May 2026 [Offer]
+Slug: ebay-interview-experience-apr-may-2026-o-wcre
+Article Type: DISCUSSION
+Posted: 2026-06-23 18:55:34 IST
+Updated: 2026-06-23 18:55:34 IST
+URL: https://leetcode.com/discuss/post/8353908/ebay-interview-experience-apr-may-2026-o-wcre/
+Author: Shubh_rmcf07
+
+--- Summary ---
+YOE: 4
+Current Company: Top PBCReached out by recruiter in April 2026.Round 1 : DSAhttps://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/Round 2 : DSAhttps://leetcode.com/problems/maximum-population-year/https://leetcode.com/pro
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #62
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: MBzE1tQZ
+Title:    	 Streak 365 Robinhud App
+Slug: streak-365-robinhud-app-by-fdsvbfd-xm59
+Article Type: DISCUSSION
+Posted: 2026-06-23 18:54:22 IST
+Updated: 2026-06-23 18:54:22 IST
+URL: https://leetcode.com/discuss/post/8353905/streak-365-robinhud-app-by-fdsvbfd-xm59/
+Author: fdsvbfd
+
+--- Summary ---
+Hey Everyone, Robinhud App, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf.  Robinhud App
+Any advice for me to crack good companies in this placemen
+
+════════════════════════════════════════════════════════════════════════════════
+Article #63
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4yTR1zNk
+Title: Postman SDE2 June 2026 | Offer
+Slug: postman-sde2-june-2026-offer-by-shubh_rm-qh7q
+Article Type: DISCUSSION
+Posted: 2026-06-23 18:53:08 IST
+Updated: 2026-06-23 18:53:08 IST
+URL: https://leetcode.com/discuss/post/8353903/postman-sde2-june-2026-offer-by-shubh_rm-qh7q/
+Author: Shubh_rmcf07
+
+--- Summary ---
+YOE: 4
+Current Company : FAANGMULAApplied via referral.Round 1 (HM Screen) : Discussed on past projects, standard behavioural questions.Round 2 (Machine Coding) : API development for meeting rooms. Expectation was to create APIs that can be consumed
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #64
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 79mDl0ol
+Title: Amazon - SDE2 Interview Experience [Reject]
+Slug: amazon-sde2-interview-experience-reject-x540z
+Article Type: DISCUSSION
+Posted: 2026-06-23 18:51:12 IST
+Updated: 2026-06-23 18:51:12 IST
+URL: https://leetcode.com/discuss/post/8353900/amazon-sde2-interview-experience-reject-x540z/
+Author: Shubh_rmcf07
+
+--- Summary ---
+Round 1 : HLDDesign a recommendation system for prime video. A user can search for titles, and should get titles from the inventory in order of most popular titles and other rankings.Verdict : LHRound 2 : LLDDesign a category hierarchy system, where
+
+════════════════════════════════════════════════════════════════════════════════
+Article #65
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WQFMJrK0
+Title: Streak 365 admission in dayananda sagar college 
+Slug: streak-365-admission-in-dayananda-sagar-osq1t
+Article Type: DISCUSSION
+Posted: 2026-06-23 18:38:12 IST
+Updated: 2026-06-23 18:38:12 IST
+URL: https://leetcode.com/discuss/post/8353880/streak-365-admission-in-dayananda-sagar-osq1t/
+Author: namankan87676
+
+--- Summary ---
+Hey Everyone, Direct adm. in DSCE, streak (7.338+69) - 1069  cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Direct adm. in DSCE
+Any advice for me to crack good companies in
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #66
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vN9ExGV8
+Title: Software Engineer (P3) - Docusign
+Slug: software-engineer-p3-docusign-by-jitaksh-ya4k
+Article Type: DISCUSSION
+Posted: 2026-06-23 18:37:33 IST
+Updated: 2026-06-23 18:42:30 IST
+URL: https://leetcode.com/discuss/post/8353875/software-engineer-p3-docusign-by-jitaksh-ya4k/
+Author: 
+
+--- Summary ---
+YOE: 4 Years
+Current Company: Wayfair
+Current CTC: 37.7 LPA (Fixed incl PF)
+Position: Software Engineer(L2)Offer Details:
+Position: Software Engineer (P3)
+Fixed Pay: 51,00,000 (Base + PF)
+Perf Bonus: 5% = 2,55,000
+Joining Bonus: 4,00,000
+RSUs: 20,000
+
+--- Tags ---
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #67
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: OKgFEM7k
+Title: Streak 365 Direct adm. in DSCE
+Slug: streak-365-direct-adm-in-dsce-by-namanka-2wf4
+Article Type: DISCUSSION
+Posted: 2026-06-23 18:19:51 IST
+Updated: 2026-06-23 18:21:10 IST
+URL: https://leetcode.com/discuss/post/8353844/streak-365-direct-adm-in-dsce-by-namanka-2wf4/
+Author: namankan87676
+
+--- Summary ---
+Hey Everyone, Direct adm. in DSCE, streak (7.338+69) - 1069 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Direct adm. in DSCE
+Any advice for me to crack good companies in
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #68
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: E1S1yJne
+Title: Next Greater Element in Circular Array | Java Code
+Slug: next-greater-element-in-circular-array-j-ug2j
+Article Type: DISCUSSION
+Posted: 2026-06-23 18:15:49 IST
+Updated: 2026-06-23 18:15:49 IST
+URL: https://leetcode.com/discuss/post/8353837/next-greater-element-in-circular-array-j-ug2j/
+Author: curiousToLearn
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #69
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: A0qT7BYi
+Title: Streak 365  Problem with Robinhud
+Slug: streak-365-problem-with-robinhud-by-fdsv-6xkl
+Article Type: DISCUSSION
+Posted: 2026-06-23 18:05:11 IST
+Updated: 2026-06-23 18:05:11 IST
+URL: https://leetcode.com/discuss/post/8353822/streak-365-problem-with-robinhud-by-fdsv-6xkl/
+Author: fdsvbfd
+
+--- Summary ---
+Hey Everyone, Problem with Robinhud, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Problem with Robinhud
+Any advice for me to crack good companies
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #70
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6YqvrBrr
+Title: Streak cancel my Max subscription
+Slug: streak-cancel-my-max-subscription-by-trh-ufc3
+Article Type: DISCUSSION
+Posted: 2026-06-23 17:56:12 IST
+Updated: 2026-06-23 17:56:12 IST
+URL: https://leetcode.com/discuss/post/8353807/streak-cancel-my-max-subscription-by-trh-ufc3/
+Author: trhrt
+
+--- Summary ---
+Hey Everyone, Streak cancel my Max subscription, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Streak cancel my Max subscription
+Any advice for me
+
+════════════════════════════════════════════════════════════════════════════════
+Article #71
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ixG2T1Z0
+Title: Streak cancel my Yahoo Premium 
+Slug: streak-cancel-my-yahoo-premium-by-trhrt-tcs8
+Article Type: DISCUSSION
+Posted: 2026-06-23 17:53:41 IST
+Updated: 2026-06-23 17:53:41 IST
+URL: https://leetcode.com/discuss/post/8353801/streak-cancel-my-yahoo-premium-by-trhrt-tcs8/
+Author: trhrt
+
+--- Summary ---
+Hey Everyone, Streak cancel my Yahoo Premium , streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Streak cancel my Yahoo Premium
+Any advice for me to c
+
+════════════════════════════════════════════════════════════════════════════════
+Article #72
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2fkHjNEl
+Title: Streak 365 Robinhud a Good Brokerage 
+Slug: streak-365-robinhud-a-good-brokerage-by-bm4ue
+Article Type: DISCUSSION
+Posted: 2026-06-23 17:53:37 IST
+Updated: 2026-06-23 17:53:37 IST
+URL: https://leetcode.com/discuss/post/8353799/streak-365-robinhud-a-good-brokerage-by-bm4ue/
+Author: iyegfa
+
+--- Summary ---
+Hey Everyone,Robinhud a Good Brokerage , streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. Robinhud a Good Brokerage
+Any advice for me to crack good c
+
+════════════════════════════════════════════════════════════════════════════════
+Article #73
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: mROdjOAT
+Title: Streak 365  Robinhud Trading
+Slug: streak-365-robinhud-trading-by-iyegfa-t5r8
+Article Type: DISCUSSION
+Posted: 2026-06-23 17:50:53 IST
+Updated: 2026-06-23 17:50:53 IST
+URL: https://leetcode.com/discuss/post/8353795/streak-365-robinhud-trading-by-iyegfa-t5r8/
+Author: iyegfa
+
+--- Summary ---
+Hey Everyone,Robinhud Trading, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf.Robinhud Trading
+Any advice for me to crack good companies in this pla
+
+════════════════════════════════════════════════════════════════════════════════
+Article #74
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DPXM0hvz
+Title: Streak 365 robinhud suport
+Slug: streak-365-robinhud-suport-by-iyegfa-z32d
+Article Type: DISCUSSION
+Posted: 2026-06-23 17:47:53 IST
+Updated: 2026-06-23 17:47:53 IST
+URL: https://leetcode.com/discuss/post/8353789/streak-365-robinhud-suport-by-iyegfa-z32d/
+Author: iyegfa
+
+--- Summary ---
+Hey Everyone, robinhud suport, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. robinhud suport
+Any advice for me to crack good companies in this pla
+
+════════════════════════════════════════════════════════════════════════════════
+Article #75
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Ot8TFiRG
+Title: Streak 365 cancel my Apple subscription
+Slug: streak-365-cancel-my-apple-subscription-ncaey
+Article Type: DISCUSSION
+Posted: 2026-06-23 17:30:47 IST
+Updated: 2026-06-23 17:30:47 IST
+URL: https://leetcode.com/discuss/post/8353771/streak-365-cancel-my-apple-subscription-ncaey/
+Author: 54eyrty
+
+--- Summary ---
+Hey Everyone, cancel my Apple subscription , streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. cancel my Apple subscription
+Any advice for me to crack
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #76
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Qd4qdAxw
+Title: Rubrik SWE OA - 2027 Grad | Dual-Camera proctored test | 85LPA CTC
+Slug: rubrik-swe-oa-2027-grad-dual-camera-proc-vfx6
+Article Type: DISCUSSION
+Posted: 2026-06-23 17:21:56 IST
+Updated: 2026-06-23 17:21:56 IST
+URL: https://leetcode.com/discuss/post/8353760/rubrik-swe-oa-2027-grad-dual-camera-proc-vfx6/
+Author: 
+
+--- Summary ---
+Rubrik’s storage engine uses strings as compact metadata signatures.
+For a given signature string S, the system defines a balance rule on every suffix of the string.You are given:a string S of length Nan integer KLet C be the set of distinct characte
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #77
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Wk3aC75i
+Title: Implement LRU Cache | Java Code
+Slug: implement-lru-cache-java-code-by-curious-tgv3
+Article Type: DISCUSSION
+Posted: 2026-06-23 17:15:02 IST
+Updated: 2026-06-23 17:15:02 IST
+URL: https://leetcode.com/discuss/post/8353748/implement-lru-cache-java-code-by-curious-tgv3/
+Author: curiousToLearn
+
+--- Summary ---
+LRU Cache is one of the most frequently asked system design and coding interview problems.In this video, I explain the intuition behind the LRU eviction strategy and implement the complete solution in Java using a HashMap and Doubly Linked List.
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #78
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Q3RMfOOg
+Title: Daily System Design Challenge #16
+Slug: daily-system-design-challenge-16-by-faha-j6yr
+Article Type: DISCUSSION
+Posted: 2026-06-23 17:07:00 IST
+Updated: 2026-06-23 17:07:00 IST
+URL: https://leetcode.com/discuss/post/8353730/daily-system-design-challenge-16-by-faha-j6yr/
+Author: Fahadh
+
+--- Summary ---
+A payment service uses:
+Redis for idempotency keys
+Kafka for event processing
+PostgreSQL for transactions
+After a traffic spike, users report:
+some payments are charged twice
+order status is updated only once
+Kafka shows no duplicate events
+PostgreSQ
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #79
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: a2T2UND3
+Title: Walmart SDE 2028 Update ? 
+Slug: walmart-sde-2028-update-by-anonymous_use-2hgy
+Article Type: DISCUSSION
+Posted: 2026-06-23 16:25:18 IST
+Updated: 2026-06-23 16:25:18 IST
+URL: https://leetcode.com/discuss/post/8353657/walmart-sde-2028-update-by-anonymous_use-2hgy/
+Author: 
+
+--- Summary ---
+Nearly 3 weeks from now Walmart had put intern position role at banglore office. Since then my application is "Application Under Review"I had no referral but I know that hardly anybody got any OA link.I have 8.8+ GPA. (I believe they shortlist on GPA
+
+════════════════════════════════════════════════════════════════════════════════
+Article #80
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ccUJgToR
+Title: LeetCode Post: Clean O(N) Single-Pass Grouping
+Slug: leetcode-post-clean-on-single-pass-group-t137
+Article Type: DISCUSSION
+Posted: 2026-06-23 16:24:00 IST
+Updated: 2026-06-23 16:24:00 IST
+URL: https://leetcode.com/discuss/post/8353655/leetcode-post-clean-on-single-pass-group-t137/
+Author: data100k
+
+--- Summary ---
+IntuitionThe problem requires us to filter customers based on three distinct business metrics: purchase count, active lifespan, and overall refund rate. Instead of querying separate common table expressions (CTEs) or running expensive self-joins for
+
+--- Reactions ---
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #81
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: FdiBMC0G
+Title: Waiting for MTS 2 Feedback
+Slug: waiting-for-mts-2-feedback-by-anonymous_-f158
+Article Type: DISCUSSION
+Posted: 2026-06-23 15:24:22 IST
+Updated: 2026-06-23 15:31:13 IST
+URL: https://leetcode.com/discuss/post/8353577/waiting-for-mts-2-feedback-by-anonymous_-f158/
+Author: 
+
+--- Summary ---
+I took adobe interview for mts 2 role .
+There were 4 rounds in which 1st and 2nd round were technical rounds with question related to workexp , design , dsa questions .3rd round was of manager round which had questions mostly related to my workexp an
+
+--- Tags ---
+  - Interview (interview) []
+  - Adobe (adobe-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #82
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pFK9lu1U
+Title: Streak 365 Paramount Plus cancellation
+Slug: streak-365-paramount-plus-cancellation-b-e7ue
+Article Type: DISCUSSION
+Posted: 2026-06-23 15:07:34 IST
+Updated: 2026-06-23 15:07:34 IST
+URL: https://leetcode.com/discuss/post/8353548/streak-365-paramount-plus-cancellation-b-e7ue/
+Author: codesman21
+
+--- Summary ---
+Hey Everyone, paramount plus cancellation subscription, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. paramount plus subscription
+Any advice for m
+
+════════════════════════════════════════════════════════════════════════════════
+Article #83
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 5386yt6D
+Title: streak youtube cancellation subscription
+Slug: streak-youtube-cancellation-subscription-rrkq
+Article Type: DISCUSSION
+Posted: 2026-06-23 14:52:11 IST
+Updated: 2026-06-23 14:52:11 IST
+URL: https://leetcode.com/discuss/post/8353520/streak-youtube-cancellation-subscription-rrkq/
+Author: codesman21
+
+--- Summary ---
+Hey Everyone, youtube cancellation subscription, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. youtube cancellation subscription
+Any advice for me
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #84
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: t7b6XvGR
+Title: streak youtube cancellation subscription
+Slug: streak-youtube-cancellation-subscription-6ux1
+Article Type: DISCUSSION
+Posted: 2026-06-23 14:51:50 IST
+Updated: 2026-06-23 14:51:50 IST
+URL: https://leetcode.com/discuss/post/8353517/streak-youtube-cancellation-subscription-6ux1/
+Author: codesman21
+
+--- Summary ---
+Hey Everyone, youtube cancellation subscription, streak (8.885+56) - 1412 cal. I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. youtube cancellation subscription
+Any advice for me
+
+════════════════════════════════════════════════════════════════════════════════
+Article #85
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6clFsnWv
+Title: Finally starting the LeetCode grind. Looking for a consistency partner and tips
+Slug: finally-starting-the-leetcode-grind-look-t12a
+Article Type: DISCUSSION
+Posted: 2026-06-23 13:52:04 IST
+Updated: 2026-06-23 13:52:04 IST
+URL: https://leetcode.com/discuss/post/8353429/finally-starting-the-leetcode-grind-look-t12a/
+Author: hamza-name-logic-expert
+
+--- Summary ---
+Hey Leedcosers of procasting i have finaly decided to get seriuse about my problem solving skills for interview. It feel both exciting and a bitter overwhelming  looking at the sheeet my plan is start with the standard DSA roadmap and focuse on quali
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #86
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8kba96s1
+Title: amazon sde 1 london 
+Slug: amazon-sde-1-london-by-anonymous_user-5sor
+Article Type: DISCUSSION
+Posted: 2026-06-23 13:50:47 IST
+Updated: 2026-06-23 13:50:47 IST
+URL: https://leetcode.com/discuss/post/8353425/amazon-sde-1-london-by-anonymous_user-5sor/
+Author: 
+
+--- Summary ---
+Hello everyone,I'm from a Tier-3 college in India.I recently applied for the Amazon London SDE-1 New Grad role without a referral on June 11, 2026. Fortunately, I got shortlisted and received the Online Assessment on June 17.My OA experience:• DSA Ro
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #87
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: u9l9hfEG
+Title: Enquiry
+Slug: enquiry-by-krishtayal29b-57ry
+Article Type: DISCUSSION
+Posted: 2026-06-23 13:37:45 IST
+Updated: 2026-06-23 13:37:45 IST
+URL: https://leetcode.com/discuss/post/8353408/enquiry-by-krishtayal29b-57ry/
+Author: krishtayal29b
+
+--- Summary ---
+Hello everyone,I want to ask on what skills i have to focus more to get internship in microsoft, google type companies. I am Just entered in my 2nd year. My many Frnds Do internship in their First year even they know only c and python, and i have ski
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #88
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: fuacEL6u
+Title: System Design From Scratch – Need Advice
+Slug: system-design-from-scratch-need-advice-b-3g0s
+Article Type: DISCUSSION
+Posted: 2026-06-23 13:10:12 IST
+Updated: 2026-06-23 13:10:55 IST
+URL: https://leetcode.com/discuss/post/8353368/system-design-from-scratch-need-advice-b-3g0s/
+Author: 
+
+--- Summary ---
+I am a Tier-1 recent B.Tech IT graduate who recently left a backend internship due to a toxic culture and unfulfilled PPO promises. As the backend intern, my scope was constantly stretched to manage full DevOps pipelines and deployment  alongside cor
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #89
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: o02KkLMu
+Title: DE shaw Interview help SDE role
+Slug: de-shaw-interview-help-sde-role-by-anony-zq8h
+Article Type: DISCUSSION
+Posted: 2026-06-23 13:04:15 IST
+Updated: 2026-06-23 13:04:15 IST
+URL: https://leetcode.com/discuss/post/8353355/de-shaw-interview-help-sde-role-by-anony-zq8h/
+Author: 
+
+--- Summary ---
+Hi All,Can anyone please share latest interview experience of DE shaw for position of SDEThanks!!!
+
+--- Tags ---
+  - DE Shaw (de-shaw) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #90
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: g1p4529L
+Title: Streak 365 Hulu cancellation subscription
+Slug: streak-365-hulu-cancellation-subscriptio-xv0n
+Article Type: DISCUSSION
+Posted: 2026-06-23 13:03:52 IST
+Updated: 2026-06-23 13:03:52 IST
+URL: https://leetcode.com/discuss/post/8353354/streak-365-hulu-cancellation-subscriptio-xv0n/
+Author: bixosi2342
+
+--- Summary ---
+Hey Everyone, hulu cancellation subscription, I have just started doing dsa on the same day in 2025 and today i have completed 365 Days on leetcode, Proud on mySelf. hulu cancellation subscription
+Any advice for me to crack good companies in this pla
+
+════════════════════════════════════════════════════════════════════════════════
+Article #91
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: PLvRXe0a
+Title: Memoization + DFS | Beats 95%+ | Fully Explained with Intuition & Visuals
+Slug: memoization-dfs-beats-95-fully-explained-c22u
+Article Type: DISCUSSION
+Posted: 2026-06-23 12:48:41 IST
+Updated: 2026-06-23 12:48:41 IST
+URL: https://leetcode.com/discuss/post/8353323/memoization-dfs-beats-95-fully-explained-c22u/
+Author: ammar_ahmad06
+
+--- Summary ---
+🧠 Jump Game V — The "King of the Hill" Problem💡 Core IntuitionThink of each index as a king standing on a hill.
+A king can ONLY jump to a shorter hill — and ONLY if no taller hill blocks the path.So the question becomes:
+"Starting from which hill can
+
+════════════════════════════════════════════════════════════════════════════════
+Article #92
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vFhzv92k
+Title: Amazon SDE PPO (Verbal Confirmation) vs DE Shaw SDET (Higher Compensation) – What Would You Do?
+Slug: amazon-sde-ppo-verbal-confirmation-vs-de-u4ds
+Article Type: DISCUSSION
+Posted: 2026-06-23 12:40:25 IST
+Updated: 2026-06-23 22:43:00 IST
+URL: https://leetcode.com/discuss/post/8353301/amazon-sde-ppo-verbal-confirmation-vs-de-u4ds/
+Author: 
+
+--- Summary ---
+Hey everyone,I'm a 2026 batch B.Tech CSE graduate and have been interning at Amazon as an SDE Intern since January (6-month internship).Today, during a discussion with my manager, I was informed that I would be getting a PPO. This is also my final we
+
+════════════════════════════════════════════════════════════════════════════════
+Article #93
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: PXCAUczz
+Title: Dp + Toposort
+Slug: dp-toposort-by-wo_krishna_haii-8kma
+Article Type: DISCUSSION
+Posted: 2026-06-23 12:31:00 IST
+Updated: 2026-06-23 12:31:00 IST
+URL: https://leetcode.com/discuss/post/8353276/dp-toposort-by-wo_krishna_haii-8kma/
+Author: wo_krishna_haii
+
+--- Summary ---
+🧩 DAG & Topological Sort — Pattern Notes (Discussion Thread)A running set of notes on problems that all reduce to "process a DAG in dependency order, then run a simple DP transition across each edge." Post a new question with your code + intuition, a
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #94
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: FF5vwVOv
+Title: Why hasn’t Weekly 506 rating been updated yet?
+Slug: why-hasnt-weekly-506-rating-been-updated-q6m1
+Article Type: DISCUSSION
+Posted: 2026-06-23 11:38:14 IST
+Updated: 2026-06-23 11:38:14 IST
+URL: https://leetcode.com/discuss/post/8353144/why-hasnt-weekly-506-rating-been-updated-q6m1/
+Author: 
+
+--- Summary ---
+Has this contest become unrated or something?
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+  - Leetcode Weekly Contest (leetcode-weekly-contest) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #95
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: INUTTcyy
+Title: Built a Programming Language as a Student – How Do I Take It Further?
+Slug: built-a-programming-language-as-a-studen-ihcz
+Article Type: DISCUSSION
+Posted: 2026-06-23 11:28:34 IST
+Updated: 2026-06-23 11:28:34 IST
+URL: https://leetcode.com/discuss/post/8353106/built-a-programming-language-as-a-studen-ihcz/
+Author: Pavan_Siva_Sai
+
+--- Summary ---
+Hi everyone,I am a B.Tech CSE student and recently built my own programming language called Wolf (v0.1.2).The language is implemented and is available through PyPI.My goal was to simplify programming and provide builtin functions for common DSA opera
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #96
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: W8eLKgpV
+Title: Day 5/365 - Number of ZigZag Arrays I
+Slug: day-5365-number-of-zigzag-arrays-i-by-pa-cpkk
+Article Type: DISCUSSION
+Posted: 2026-06-23 11:16:52 IST
+Updated: 2026-06-23 11:16:52 IST
+URL: https://leetcode.com/discuss/post/8353081/day-5365-number-of-zigzag-arrays-i-by-pa-cpkk/
+Author: parth-jaybhaye
+
+--- Summary ---
+IntuitionThis was my first Hard problem in the challenge, and I spent more time understanding the constraints than writing the code.The condition that no three consecutive elements can be strictly increasing or strictly decreasing makes it impossible
+
+--- Reactions ---
+  UPVOTE: 1
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #97
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 27n93ZH7
+Title: Tier 3 college ->Data Engineering job( 5lpa) | 5 months exp| stay or switch to software engineering?
+Slug: tier-3-college-data-engineering-job-5lpa-feu9
+Article Type: DISCUSSION
+Posted: 2026-06-23 11:16:04 IST
+Updated: 2026-06-23 11:16:04 IST
+URL: https://leetcode.com/discuss/post/8353077/tier-3-college-data-engineering-job-5lpa-feu9/
+Author: 
+
+--- Summary ---
+Graduated from a Tier-3 college and got a Data Engineering role (₹5 LPA).
+I have ~5 months of experience and no strong preference between Data Engineering and Software Engineering.From a career growth, compensation, and future opportunities perspecti
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #98
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 5ldZp5NP
+Title: 🚀 My First Day on LeetCode – Starting My DSA Journey - 
+Slug: my-first-day-on-leetcode-starting-my-dsa-to51
+Article Type: DISCUSSION
+Posted: 2026-06-23 10:09:03 IST
+Updated: 2026-06-23 10:09:03 IST
+URL: https://leetcode.com/discuss/post/8352957/my-first-day-on-leetcode-starting-my-dsa-to51/
+Author: Srgm123
+
+--- Summary ---
+Today marks my first step into the world of Data Structures and Algorithms on LeetCode, and I’m genuinely excited (and a little overwhelmed 😅).As a beginner, I have a few questions for the amazing developer community here:💡 How did you start your DSA
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #99
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: NRgWnpoB
+Title: Tier 1 Interview Preparation & Practice guidance.
+Slug: tier-1-interview-preparation-practice-gu-sn9x
+Article Type: DISCUSSION
+Posted: 2026-06-23 10:00:30 IST
+Updated: 2026-06-23 10:00:30 IST
+URL: https://leetcode.com/discuss/post/8352949/tier-1-interview-preparation-practice-gu-sn9x/
+Author: 
+
+--- Summary ---
+Hello guys,I have 6 YOE, currently in tier 2 organization, preparing for Tier 1 companies, help me with the resources for preparation and practice for LLD and HLD.The problem is not the topics, not the resources, i'm overflooded with the resources, I
+
+--- Tags ---
+  - Microsoft (microsoft) [COMPANY]
+  - Amazon (amazon) [COMPANY]
+  - eBay (ebay) [COMPANY]
+  - Goldman Sachs (goldman-sachs) [COMPANY]
+  - Salesforce (salesforce) [COMPANY]
+  - System Design (system-design) []
+  - Interview (interview) []
+  - preparation (preparation-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #100
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: r3AJxIc3
+Title: How To Solve ANY Stack Problem - Step By Step Guide Along With Problem Examples
+Slug: how-to-solve-any-stack-problem-step-by-s-t0a9
+Article Type: DISCUSSION
+Posted: 2026-06-23 09:28:06 IST
+Updated: 2026-06-23 09:28:06 IST
+URL: https://leetcode.com/discuss/post/8352898/how-to-solve-any-stack-problem-step-by-s-t0a9/
+Author: rochak1704
+
+--- Summary ---
+Stack problems look very different on the surface.But they all share one property:
+you need the most recently seen item that hasn't been used yet.That LIFO behavior is exactly what a stack gives you.Here is the complete guide.━━━━━━━━━━━━━━━━━━━━━━━━
+
+--- Tags ---
+  - Stack (stack) [TOPIC]
+  - Monotonic Stack (monotonic-stack) [TOPIC]
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 12
+
+════════════════════════════════════════════════════════════════════════════════
+Article #101
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: PLCrZQMr
+Title: College OA's have cooked me.
+Slug: college-oas-have-cooked-me-by-anonymous_-ytoq
+Article Type: DISCUSSION
+Posted: 2026-06-23 08:53:42 IST
+Updated: 2026-06-23 08:53:42 IST
+URL: https://leetcode.com/discuss/post/8352864/college-oas-have-cooked-me-by-anonymous_-ytoq/
+Author: 
+
+--- Summary ---
+Hello I have currently finished my 3rd year in CS from a top college from Banglore. I have given OA's for companies like visa , jpmorgan, duestche bank, hsbc , cisco, amazon and many more. Even though I have solved around 400 questions on leetcode an
+
+--- Tags ---
+  - Career (career) []
+
