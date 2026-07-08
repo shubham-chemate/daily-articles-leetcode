@@ -1,0 +1,774 @@
+LeetCode Discuss - Latest 36 Articles
+Fetched on: 2026-07-08 11:06:56 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: sSmEogop
+Title: Nobody Warns You About These 4 Stages of Learning DSA
+Slug: nobody-warns-you-about-these-4-stages-of-km7m
+Article Type: DISCUSSION
+Posted: 2026-07-08 10:11:25 IST
+Updated: 2026-07-08 10:11:25 IST
+URL: https://leetcode.com/discuss/post/8383328/nobody-warns-you-about-these-4-stages-of-km7m/
+Author: ayush_kodes
+
+--- Summary ---
+There's a specific kind of silence that happens when you open a medium problem, read it twice, and still have absolutely nothing. Not even a bad idea. Just static. If you've felt that recently, you're not behind, you're just in the part of this nobod
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2JjWYwra
+Title: career Guidence
+Slug: career-guidence-by-krishna_satya-u92s
+Article Type: DISCUSSION
+Posted: 2026-07-08 09:51:38 IST
+Updated: 2026-07-08 09:51:38 IST
+URL: https://leetcode.com/discuss/post/8383312/career-guidence-by-krishna_satya-u92s/
+Author: Krishna_Satya
+
+--- Summary ---
+Hi folks,I'm Satya, currently pursuing my B.Tech (3rd year). I recently started learning Data Structures and Algorithms (DSA) using Java, and I'm also learning Java Full Stack development.My goal is to prepare for top product-based companies like FAA
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 755oEh8n
+Title: Interview practice for code debugging
+Slug: interview-practice-for-code-debugging-by-a6ba
+Article Type: DISCUSSION
+Posted: 2026-07-08 07:49:15 IST
+Updated: 2026-07-08 07:49:15 IST
+URL: https://leetcode.com/discuss/post/8383202/interview-practice-for-code-debugging-by-a6ba/
+Author: rakshitha0903
+
+--- Summary ---
+How to practice such kind of questions?
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8yadrDDN
+Title: Senior MLE Shopify
+Slug: senior-mle-shopify-by-anonymous_user-tu59
+Article Type: DISCUSSION
+Posted: 2026-07-08 03:32:37 IST
+Updated: 2026-07-08 03:32:37 IST
+URL: https://leetcode.com/discuss/post/8383106/senior-mle-shopify-by-anonymous_user-tu59/
+Author: 
+
+--- Summary ---
+Pre screen Assesment:
+Had assesment conisting of mental teasers and behavior questions. There is a timmer and behavior questions had 5 scale rating similar to google assesments. Important to answer mostly with stringly agree or disagree for good outc
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0N0dezF1
+Title: Senior MLE Pinterest
+Slug: senior-mle-pinterest-by-anonymous_user-2qq6
+Article Type: DISCUSSION
+Posted: 2026-07-08 02:58:27 IST
+Updated: 2026-07-08 02:58:27 IST
+URL: https://leetcode.com/discuss/post/8383089/senior-mle-pinterest-by-anonymous_user-2qq6/
+Author: 
+
+--- Summary ---
+Phone screen:
+First round was on 2-3 ML basics related questions a coding question related to compairing 2 nested sets and checking for equalityOnsite:
+Coding 1(45 min): Find similar pins related using boards. Also find distance between 2 pins. The f
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: sP2KXmm0
+Title: Department Top Three Salaries
+Slug: department-top-three-salaries-by-syedahm-bdpr
+Article Type: DISCUSSION
+Posted: 2026-07-08 02:12:18 IST
+Updated: 2026-07-08 02:12:18 IST
+URL: https://leetcode.com/discuss/post/8383045/department-top-three-salaries-by-syedahm-bdpr/
+Author: syedahmershah
+
+--- Summary ---
+Simple & Clean | DENSE_RANK Window Function | MySQL
+This is a classic window function problem. The key insight is that "top 3 salaries per department" means we need a per-department ranking, not a global one — and we need to handle ties correctly (tw
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: lvNWfaJY
+Title: Concatenate Non-Zero Digits and Multiply by Sum I
+Slug: concatenate-non-zero-digits-and-multiply-p9nv
+Article Type: DISCUSSION
+Posted: 2026-07-08 02:06:21 IST
+Updated: 2026-07-08 02:06:21 IST
+URL: https://leetcode.com/discuss/post/8383038/concatenate-non-zero-digits-and-multiply-p9nv/
+Author: syedahmershah
+
+--- Summary ---
+Clean String-Based Solution | Two Birds, One Loop | JavaPretty straightforward once you figure out what the problem is actually asking — strip the zeros, concatenate what's left into a new number x, sum those same digits, then return x * sum.Approach
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 9CtpTy2E
+Title: Amazon SDE2 LLD Round
+Slug: amazon-sde2-lld-round-by-anonymous_user-n4nf
+Article Type: DISCUSSION
+Posted: 2026-07-08 01:11:27 IST
+Updated: 2026-07-08 01:11:27 IST
+URL: https://leetcode.com/discuss/post/8382978/amazon-sde2-lld-round-by-anonymous_user-n4nf/
+Author: 
+
+--- Summary ---
+Hi,In amazon sde2 LLD round. What is expected, are they expecting the high level code or just the UML diagrams?Thanks!
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: dhb42XE1
+Title: NEED HELP || How to prepare for Salesforce AMTS New grad || USA
+Slug: need-help-how-to-prepare-for-salesforce-s31rr
+Article Type: DISCUSSION
+Posted: 2026-07-08 00:16:44 IST
+Updated: 2026-07-08 00:16:44 IST
+URL: https://leetcode.com/discuss/post/8382897/need-help-how-to-prepare-for-salesforce-s31rr/
+Author: 
+
+--- Summary ---
+Hi,
+I have a Salesforce AMTS College Grad (JR330400) interview coming up, what do I need to do to prepare and ace the interview across all rounds with 100% gurantee. Willing to put any amount of hardwork and effort. Need strong advice as this might b
+
+--- Tags ---
+  - Salesforce (salesforce) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: IOhJGtDI
+Title: Amazon OA DSA Question
+Slug: amazon-oa-dsa-question-by-lc_practice-jj78
+Article Type: DISCUSSION
+Posted: 2026-07-08 00:13:16 IST
+Updated: 2026-07-08 00:13:16 IST
+URL: https://leetcode.com/discuss/post/8382889/amazon-oa-dsa-question-by-lc_practice-jj78/
+Author: LC_practice_
+
+--- Summary ---
+Was anyone able to solve this question?
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: M0m6ZnV2
+Title: Amazon | SDE-2 | July 2026 | Accepted
+Slug: amazon-sde-2-july-2026-accepted-by-anony-8ocs
+Article Type: DISCUSSION
+Posted: 2026-07-08 00:12:14 IST
+Updated: 2026-07-08 00:12:14 IST
+URL: https://leetcode.com/discuss/post/8382886/amazon-sde-2-july-2026-accepted-by-anony-8ocs/
+Author: 
+
+--- Summary ---
+I got the OA test link after referrals.Test had 3 section:1 DSA question
+Agentic Coding
+Behavioral SectionGot a call from the recruiter that I had cleared the OA test after 2 weeksThen my virtual rounds kept on delaying due to no interviewers or posi
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - SDE-2 (sde-2-2) []
+
+--- Reactions ---
+  UPVOTE: 7
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: NTwID32B
+Title: Dynamic Programming Patterns: A Practical Framework for Recognizing and Solving DP Problems
+Slug: dynamic-programming-patterns-a-practical-ck6a
+Article Type: DISCUSSION
+Posted: 2026-07-07 23:47:04 IST
+Updated: 2026-07-07 23:47:04 IST
+URL: https://leetcode.com/discuss/post/8382832/dynamic-programming-patterns-a-practical-ck6a/
+Author: ammar_ahmad06
+
+--- Summary ---
+Dynamic Programming PatternsDynamic Programming (DP) problems feel scattered until you notice they repeat a small set of shapes. Below is a framework I use to recognize which pattern a problem fits, along with the core idea and a few classic LeetCode
+
+--- Tags ---
+  - Dynamic Programming (dynamic-programming) [TOPIC]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: NqglHDTJ
+Title: TCS NQT || 07 July 2026 || Shift-2
+Slug: tcs-nqt-07-july-2026-shift-2-by-sarthak_-fiyx
+Article Type: DISCUSSION
+Posted: 2026-07-07 23:30:27 IST
+Updated: 2026-07-07 23:30:27 IST
+URL: https://leetcode.com/discuss/post/8382798/tcs-nqt-07-july-2026-shift-2-by-sarthak_-fiyx/
+Author: Sarthak_79
+
+--- Summary ---
+TCS NQT CODING SECTION :
+Easy Coding Section: A variation of the Integer to Roman problem was asked. Unlike the standard version, the input values extended to lakhs and crores, making it different from the usual LeetCode problem.
+Medium Coding Sectio
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: YPDY6hYT
+Title: How to get into product based companies with 90 days notice period ?
+Slug: how-to-get-into-product-based-companies-xkmxr
+Article Type: DISCUSSION
+Posted: 2026-07-07 23:11:10 IST
+Updated: 2026-07-07 23:11:10 IST
+URL: https://leetcode.com/discuss/post/8382747/how-to-get-into-product-based-companies-xkmxr/
+Author: 
+
+--- Summary ---
+Hey all,People who are currently working in service based companies are struggling to switch to product based companies even if they have appropriate skills - it's just because of the 90 day notice period.Some simple options are
+
+Resign early and sta
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: MVUxci1v
+Title: Razorpay | SDE-2 | June 2026| BLR | Rejected
+Slug: razorpay-sde-2-june-2026-blr-rejected-by-nuen
+Article Type: DISCUSSION
+Posted: 2026-07-07 23:06:08 IST
+Updated: 2026-07-08 00:13:12 IST
+URL: https://leetcode.com/discuss/post/8382736/razorpay-sde-2-june-2026-blr-rejected-by-nuen/
+Author: 
+
+--- Summary ---
+The HR reached out to me with this opp5 rounds
+Hackerrank Machine Coding  (Assignment)
+Hackerrank Machine Coding Extension
+Agentic Machine Coding round
+HLD+ LLD
+HRRound 1 (45 mins)Got rate limiter problem where I had to implement the token bucket alg
+
+--- Tags ---
+  - razorpay (razorpay) [COMPANY]
+  - SDE-2 (sde-2-2) []
+
+--- Reactions ---
+  UPVOTE: 7
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Bv20pKtg
+Title: SmartCoin (Olyv) | SDE-2| 9th June 2026 | Rejected
+Slug: smartcoin-olyv-sde-2-9th-june-2026-rejec-rdqi
+Article Type: DISCUSSION
+Posted: 2026-07-07 22:46:42 IST
+Updated: 2026-07-07 22:46:42 IST
+URL: https://leetcode.com/discuss/post/8382688/smartcoin-olyv-sde-2-9th-june-2026-rejec-rdqi/
+Author: 
+
+--- Summary ---
+A 3rd party recruiter reached out to me with this opportunity.Round 1: 2 LC Hard (60 mins)Trapping rain water
+CandyVerdict: Strong hireRound 2: HLDDesign a centralised logging systemThis round was expected to be LLD, but the recruiter just didnt care
+
+--- Tags ---
+  - SDE-2 (sde-2-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 3wLdNNQW
+Title: SDE-2 | Rippling | 15th April 2026 | Rejected | India
+Slug: sde-2-rippling-15th-april-2026-rejected-x4exs
+Article Type: DISCUSSION
+Posted: 2026-07-07 22:31:22 IST
+Updated: 2026-07-07 22:31:22 IST
+URL: https://leetcode.com/discuss/post/8382649/sde-2-rippling-15th-april-2026-rejected-x4exs/
+Author: 
+
+--- Summary ---
+I got the opportunity to give SDE-2 interviews at Rippling .I applied directly on their portal at 2 AM and got a call the next day.Prev org: Atlassian SDE-2I got the same Driver Delivery question as its very famous. I was fully prepared with it as we
+
+--- Tags ---
+  - Rippling (rippling) [COMPANY]
+  - Interview (interview) []
+  - SDE-2 (sde-2-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: bWrfZVnI
+Title: TCS NQT || 07 July 2026 || Shift-2 ||
+Slug: tcs-nqt-07-july-2026-shift-2-by-anonymou-auyv
+Article Type: DISCUSSION
+Posted: 2026-07-07 21:25:55 IST
+Updated: 2026-07-07 21:25:55 IST
+URL: https://leetcode.com/discuss/post/8382493/tcs-nqt-07-july-2026-shift-2-by-anonymou-auyv/
+Author: 
+
+--- Summary ---
+TCS NQT CODING SECTION :
+Easy Coding Section: A variation of the Integer to Roman problem was asked. Unlike the standard version, the input values extended to lakhs and crores, making it different from the usual LeetCode problem.
+Medium Coding Sectio
+
+--- Tags ---
+  - tcs (tcs) [COMPANY]
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: BpYuKC53
+Title: Career
+Slug: career-by-aviral3364-x9ys
+Article Type: DISCUSSION
+Posted: 2026-07-07 21:12:55 IST
+Updated: 2026-07-07 21:13:09 IST
+URL: https://leetcode.com/discuss/post/8382470/career-by-aviral3364-x9ys/
+Author: 
+
+--- Summary ---
+YOE - 5 years
+Current Company - Startup
+College - Tier 1 (Non-CSE)Offer in hand -
+Senior Software Engineer at HackerRank [59 LPA first year compensation]
+Forward Deployed Engineer at Google [71 LPA first year compensation]
+Tech Lead at a startup in A
+
+--- Tags ---
+  - Career (career) []
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: wMdgj7K5
+Title: Need help
+Slug: need-help-by-anonymous_user-ienn
+Article Type: DISCUSSION
+Posted: 2026-07-07 20:10:16 IST
+Updated: 2026-07-07 20:10:16 IST
+URL: https://leetcode.com/discuss/post/8382336/need-help-by-anonymous_user-ienn/
+Author: 
+
+--- Summary ---
+Hi everyone, I am working as Senior Flutter Developer(Full Stack) - FreelanceCan you guys suggest how can I get full time role in any company as they require standard procedure like Salary slips, Experience certificates etc.Experience: 6 years
+Curren
+
+--- Tags ---
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 5D3fhRW8
+Title: Offer
+Slug: offer-by-anonymous_user-lhuh
+Article Type: DISCUSSION
+Posted: 2026-07-07 19:45:36 IST
+Updated: 2026-07-07 19:48:19 IST
+URL: https://leetcode.com/discuss/post/8382265/offer-by-anonymous_user-lhuh/
+Author: 
+
+--- Summary ---
+Education: BTech in IT from Tier-2
+Years of Experience: 3
+Current Company: Cohesity
+Role: MTS 2
+Base: 17.64 INR Base + 8% AIP ( ~ 1.47 LAKH)
+RSU: 15 LAKH (vasted over 3 years)
+Other Benifits: 2200 per month for meal + 30k( Dental + Eye + Health ) + 1
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: qV3Pigtp
+Title: Amazon OA | 58LPA CTC | 2027 Grad | Asked in July
+Slug: amazon-oa-58lpa-ctc-2027-grad-asked-in-j-p3od
+Article Type: DISCUSSION
+Posted: 2026-07-07 19:13:31 IST
+Updated: 2026-07-07 19:13:31 IST
+URL: https://leetcode.com/discuss/post/8382196/amazon-oa-58lpa-ctc-2027-grad-asked-in-j-p3od/
+Author: 
+
+--- Reactions ---
+  UPVOTE: 7
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: CsoF4Cy9
+Title: Walmart Global Tech Interview – No Update After Technical Rounds
+Slug: walmart-global-tech-interview-no-update-p00ma
+Article Type: DISCUSSION
+Posted: 2026-07-07 18:52:33 IST
+Updated: 2026-07-07 18:52:33 IST
+URL: https://leetcode.com/discuss/post/8382144/walmart-global-tech-interview-no-update-p00ma/
+Author: 
+
+--- Summary ---
+Has anyone experienced a delay in hearing back after the technical rounds that happened today (july 7th) for Walmart Global Tech (Software Engineer IN3)?My interview process so far:✅ OA completed
+✅ DSA/Coding round completed
+✅ Java + LLD round comple
+
+--- Tags ---
+  - Walmart Labs (walmart-labs) [COMPANY]
+  - Career (career) []
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7FMj1KUW
+Title: Need advice from fellow mates!
+Slug: need-advice-from-fellow-mates-by-divdhar-633d
+Article Type: DISCUSSION
+Posted: 2026-07-07 18:45:33 IST
+Updated: 2026-07-07 18:45:33 IST
+URL: https://leetcode.com/discuss/post/8382131/need-advice-from-fellow-mates-by-divdhar-633d/
+Author: divDharsh
+
+--- Summary ---
+I am currently in my third year of computer science engineering. I have trouble solving the leetcode problems. Like I can derive the logic but when it comes it code implementation, I get stuck. I don't feel behind but I want to move forward. I can id
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: uhMH6Kml
+Title: Google team match L3
+Slug: google-team-match-l3-by-lit_aav-c18f
+Article Type: DISCUSSION
+Posted: 2026-07-07 18:44:42 IST
+Updated: 2026-07-07 18:44:42 IST
+URL: https://leetcode.com/discuss/post/8382129/google-team-match-l3-by-lit_aav-c18f/
+Author: Lit_AAV
+
+--- Summary ---
+Hi everyone,As part of my Google team match process, I've been asked to complete two additional DSA interview rounds. I asked my recruiter about it, and they mentioned that it varies from team to team, and this particular team requires two DSA rounds
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: b4Xf5dPb
+Title: PhonePe | Software Engineer (3-5) Years
+Slug: phonepe-software-engineer-3-5-years-by-a-iwkf
+Article Type: DISCUSSION
+Posted: 2026-07-07 18:06:37 IST
+Updated: 2026-07-07 18:43:15 IST
+URL: https://leetcode.com/discuss/post/8382058/phonepe-software-engineer-3-5-years-by-a-iwkf/
+Author: 
+
+--- Summary ---
+PhonePe
+Reached out to HR directly.Rounds-R1 - Machine Coding Round
+No protocoring and was given 90 minutes to finish and email the solution.
+Queston - Hackathon PlatformThree days after that 30 mins call was scheduled to discuss the solution and my
+
+--- Tags ---
+  - PhonePe (phonepe) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: FZwFq7Hw
+Title: given array, print product of subsets whose is length is n-1 (zeros count = 1 , >1 0 0 0 0) - Apple 
+Slug: given-array-print-product-of-subsets-who-64nz
+Article Type: DISCUSSION
+Posted: 2026-07-07 16:15:24 IST
+Updated: 2026-07-07 16:15:24 IST
+URL: https://leetcode.com/discuss/post/8381837/given-array-print-product-of-subsets-who-64nz/
+Author: apoorvan1999
+
+--- Tags ---
+  - Apple (apple) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: tJamQJrP
+Title: given array of elements find the maxSpan got by any of the elements in O(n) - Apple R1 from internet
+Slug: given-array-of-elements-find-the-maxspan-frsf
+Article Type: DISCUSSION
+Posted: 2026-07-07 15:44:47 IST
+Updated: 2026-07-07 15:44:47 IST
+URL: https://leetcode.com/discuss/post/8381780/given-array-of-elements-find-the-maxspan-frsf/
+Author: apoorvan1999
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: M1rJYmZG
+Title: Subset with given sum possible - Apple R1 find from internet
+Slug: subset-with-given-sum-possible-apple-r1-y9eod
+Article Type: DISCUSSION
+Posted: 2026-07-07 15:36:11 IST
+Updated: 2026-07-07 15:39:49 IST
+URL: https://leetcode.com/discuss/post/8381758/subset-with-given-sum-possible-apple-r1-y9eod/
+Author: apoorvan1999
+
+--- Summary ---
+Subset possible with given sum?Time Complexity = O(n × target)
+Space Complexity = O(target) for the space-optimized DP solution.All subsets with given sum:Time Complexity: O(2^n)
+Space Complexity: O(n) auxiliary spaceFor every element in the array, w
+
+--- Tags ---
+  - Apple (apple) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: shMMGKqR
+Title: 📗 PART 3 — HOW THE COMPUTER "TRIES AND UNDOES": BACKTRACKING
+Slug: part-3-how-the-computer-tries-and-undoes-3laf
+Article Type: DISCUSSION
+Posted: 2026-07-07 13:43:52 IST
+Updated: 2026-07-07 13:50:00 IST
+URL: https://leetcode.com/discuss/post/8381547/part-3-how-the-computer-tries-and-undoes-3laf/
+Author: DVA_NGUYEN
+
+--- Summary ---
+📗 PART 3 — HOW THE COMPUTER "TRIES AND UNDOES": BACKTRACKING
+Part 1 showed one call per function. Part 2 showed two calls per function. Now: what if a function calls itself a variable number of times in a loop, and needs to "undo" a choice after expl
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 33MKetSA
+Title: 📗 PART 2 — WHEN A FUNCTION CALLS ITSELF TWICE: THE RECURSION TREE
+Slug: part-2-when-a-function-calls-itself-twic-n6nw
+Article Type: DISCUSSION
+Posted: 2026-07-07 13:42:50 IST
+Updated: 2026-07-07 13:42:50 IST
+URL: https://leetcode.com/discuss/post/8381545/part-2-when-a-function-calls-itself-twic-n6nw/
+Author: DVA_NGUYEN
+
+--- Summary ---
+📗 PART 2 — WHEN A FUNCTION CALLS ITSELF TWICE: THE RECURSION TREE
+Part 1 covered functions with one recursive call (a straight line down and back up).
+Now: what happens when a function calls itself twice (like Fibonacci or binary tree traversal)? The
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: BJ7DGQVy
+Title: 📗 RECURSION : HOW THE COMPUTER THINKS - CHAPTER 1 - THE CALL STACK
+Slug: recursion-how-the-computer-thinks-type-1-rd7s
+Article Type: DISCUSSION
+Posted: 2026-07-07 13:41:29 IST
+Updated: 2026-07-07 13:46:57 IST
+URL: https://leetcode.com/discuss/post/8381543/recursion-how-the-computer-thinks-type-1-rd7s/
+Author: DVA_NGUYEN
+
+--- Summary ---
+📗 CHAPTER 1 — HOW THE COMPUTER THINKS: THE CALL STACK
+Goal: understand exactly what the computer does, step by step, when it runs a recursive function with one recursive call per function (like factorial).
+1. The Call Stack — the computer's "memory o
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2eKtHOyl
+Title: Cisco interview experience 
+Slug: cisco-interview-experience-by-anonymous_-gmmx
+Article Type: DISCUSSION
+Posted: 2026-07-07 13:01:18 IST
+Updated: 2026-07-07 13:01:18 IST
+URL: https://leetcode.com/discuss/post/8381480/cisco-interview-experience-by-anonymous_-gmmx/
+Author: 
+
+--- Summary ---
+has anyone given cisco interview for java developer lately?can anyone share their experiences
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: t3FiRiQa
+Title: How many Leetcode questions would you do per day?
+Slug: how-many-leetcode-questions-would-you-do-xqg8
+Article Type: DISCUSSION
+Posted: 2026-07-07 12:54:14 IST
+Updated: 2026-07-07 12:54:14 IST
+URL: https://leetcode.com/discuss/post/8381461/how-many-leetcode-questions-would-you-do-xqg8/
+Author: AbeerPorwal
+
+--- Summary ---
+Do you target or just do random number of questions based on your mood.
+I think that we should do one leetcode question a day with proper understanding of the problem and learn new techniques
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #35
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: fiUfukP5
+Title: How should I prepare for Senior Software Engineer (Backend) interviews?
+Slug: how-should-i-prepare-for-senior-software-4zm8
+Article Type: DISCUSSION
+Posted: 2026-07-07 12:11:57 IST
+Updated: 2026-07-07 12:11:57 IST
+URL: https://leetcode.com/discuss/post/8381349/how-should-i-prepare-for-senior-software-4zm8/
+Author: 
+
+--- Summary ---
+Hello everyone,I've been working as a Backend Software Engineer for the past 3 years (recently promoted to SSE), and I feel it's time for a change. I'm planning to switch and target Senior Backend Software Engineer roles.I have around 3 years of expe
+
+════════════════════════════════════════════════════════════════════════════════
+Article #36
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7nEQ8jWE
+Title: Arrays & Hashing — LeetCode Pattern Guide
+Slug: arrays-hashing-leetcode-pattern-guide-by-5rq9
+Article Type: DISCUSSION
+Posted: 2026-07-07 11:48:36 IST
+Updated: 2026-07-07 11:48:36 IST
+URL: https://leetcode.com/discuss/post/8381275/arrays-hashing-leetcode-pattern-guide-by-5rq9/
+Author: wo_krishna_haii
+
+--- Summary ---
+What is this pattern?Array Hashing is one of the most fundamental patterns in coding interviews. The core idea:
+Whenever you need to check "have I seen this before?", count occurrences, find complements, or group items by some signature — reach for a
+
+--- Reactions ---
+  UPVOTE: 3
+
