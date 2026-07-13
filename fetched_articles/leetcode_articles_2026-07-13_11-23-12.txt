@@ -1,0 +1,866 @@
+LeetCode Discuss - Latest 41 Articles
+Fetched on: 2026-07-13 11:23:12 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: KIH6caQj
+Title: Cohesity Interview Experience || MTS-3 || 1st Round
+Slug: cohesity-interview-experience-mts-3-1st-vlqdv
+Article Type: DISCUSSION
+Posted: 2026-07-13 11:19:19 IST
+Updated: 2026-07-13 11:19:19 IST
+URL: https://leetcode.com/discuss/post/8393700/cohesity-interview-experience-mts-3-1st-vlqdv/
+Author: 
+
+--- Summary ---
+Questions Asked:Coding-round in code-signal
+Minimum Number of Days to Make m Bouquets
+Largest Plus Sign
+Response
+Took some time to solve 1st question but passed for all test cases.
+Second question i tell the approach, but didn't properly code it due
+
+--- Tags ---
+  - Cohesity (cohesity) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZmT9r31E
+Title: Solved the IBM SDE OA, But No Response for 3 Months
+Slug: solved-the-ibm-sde-oa-but-no-response-fo-qend
+Article Type: DISCUSSION
+Posted: 2026-07-13 11:17:05 IST
+Updated: 2026-07-13 11:17:05 IST
+URL: https://leetcode.com/discuss/post/8393693/solved-the-ibm-sde-oa-but-no-response-fo-qend/
+Author: 
+
+--- Summary ---
+Has anyone else experienced this with IBM?I completed the IBM Online Assessment for an SDE role (8–10 LPA) about 3 months ago and solved all the coding questions. Since then, I haven't received any update no interview invitation, rejection, or any ot
+
+--- Tags ---
+  - Career (career) []
+  - interview experience (interview-experience) []
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6Ej3qckO
+Title: Pan Science Innovations(PSI) | Full Stack Developer(FSD) Intern | On-Campus 
+Slug: pan-science-innovationspsi-full-stack-de-59vf
+Article Type: DISCUSSION
+Posted: 2026-07-13 10:31:45 IST
+Updated: 2026-07-13 10:31:45 IST
+URL: https://leetcode.com/discuss/post/8393579/pan-science-innovationspsi-full-stack-de-59vf/
+Author: shubham040711
+
+--- Summary ---
+Status: Pre-final year B.Tech CSE student at IIIT Bhagalpur
+Position: Full Stack Developer (FSD) Intern
+Result: Rejected via official college TPO email after clearing all engineering rounds.Round 1: Full-Stack Take-Home Assignment & Architecture Vide
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: qRSYv69C
+Title: Day 25/365 - Sequential Digits
+Slug: day-25365-sequential-digits-by-parth-jay-zyur
+Article Type: DISCUSSION
+Posted: 2026-07-13 10:28:46 IST
+Updated: 2026-07-13 10:28:46 IST
+URL: https://leetcode.com/discuss/post/8393571/day-25365-sequential-digits-by-parth-jay-zyur/
+Author: parth-jaybhaye
+
+--- Summary ---
+IntuitionThe first thought that came to my mind was to generate every number between low and high and check whether its digits are sequential.But with values going up to 10^9, that approach would be far too slow.Instead of checking every possible num
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: s1pEYKKE
+Title: Virtusa | Data Scientist | On-Campus | Rejected at Final L2 Round (Deep Technical ML Intuition)
+Slug: virtusa-data-scientist-on-campus-rejecte-htqk
+Article Type: DISCUSSION
+Posted: 2026-07-13 10:27:50 IST
+Updated: 2026-07-13 10:28:44 IST
+URL: https://leetcode.com/discuss/post/8393570/virtusa-data-scientist-on-campus-rejecte-htqk/
+Author: shubham040711
+
+--- Summary ---
+Status: Pre-final year B.Tech CSE student at IIIT Bhagalpur
+Position: Data Scientist (L1 Role)
+Result: Rejected after L2 (Only 1 out of 4 final candidates pushed to HR)Online Assessments (OAs)
+Round 1: General Technical/Coding Assessment covering fou
+
+--- Tags ---
+  - Virtusa (virtusa) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: g8JCwwVr
+Title: Arista Networks SDE (EOS)->what can i expect?
+Slug: arista-networks-sde-eos-what-can-i-expec-mooe
+Article Type: DISCUSSION
+Posted: 2026-07-13 10:05:58 IST
+Updated: 2026-07-13 10:05:58 IST
+URL: https://leetcode.com/discuss/post/8393536/arista-networks-sde-eos-what-can-i-expec-mooe/
+Author: 
+
+--- Summary ---
+Hi everyone,Has anyone recently interviewed with Arista Networks for the Software Development Engineer (SDE) role in the EOS team?I would greatly appreciate it if you could share your interview experience, including the interview process, the types o
+
+--- Tags ---
+  - Arista Networks (arista-networks) [COMPANY]
+  - interview experience (interview-experience) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: h5T5kozJ
+Title: Posts Not Showing Up on the Discuss Page - Anyone Else Hitting This?
+Slug: posts-not-showing-up-on-the-discuss-page-jbq5
+Article Type: DISCUSSION
+Posted: 2026-07-13 09:52:30 IST
+Updated: 2026-07-13 09:52:30 IST
+URL: https://leetcode.com/discuss/post/8393504/posts-not-showing-up-on-the-discuss-page-jbq5/
+Author: ayush_kodes
+
+--- Summary ---
+Posted twice in the last couple of days and neither one is showing up on the Discuss page. Both went through fine on my end when I hit submit, no error message, but neither appeared in the feed afterward.I've seen a few older reports describing somet
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ib1WxAw2
+Title: Tree Problems!!
+Slug: tree-problems-by-praxisx-me0e
+Article Type: DISCUSSION
+Posted: 2026-07-13 09:50:04 IST
+Updated: 2026-07-13 09:50:04 IST
+URL: https://leetcode.com/discuss/post/8393502/tree-problems-by-praxisx-me0e/
+Author: Praxisx
+
+--- Summary ---
+These problems are easy and hard on the same time...The solution look easy sound easy ...but damLike there was this one question i was doing...i need to count the number of ops in a tree...so basically we need to go level by level...
+and then see if
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Uw18jRQd
+Title: SSE Interview Experience: Wise
+Slug: sse-interview-experience-wise-by-anonymo-fyt2
+Article Type: DISCUSSION
+Posted: 2026-07-13 09:28:38 IST
+Updated: 2026-07-13 09:28:38 IST
+URL: https://leetcode.com/discuss/post/8393465/sse-interview-experience-wise-by-anonymo-fyt2/
+Author: 
+
+--- Summary ---
+Recruiter Screening:
+Tell me about yourself
+Recruiter explained about the role and other info about team
+Technical Qs: If multiple microservices env, failure occurrs : how you prevent it?
+Relocation and salary expectations
+
+
+Pair programming: [Reje
+
+--- Tags ---
+  - Wise (wise) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2YEW4X4G
+Title: LeetCode 8: String to Integer (atoi) problem.
+Slug: leetcode-8-string-to-integer-atoi-proble-4xv6
+Article Type: DISCUSSION
+Posted: 2026-07-13 09:10:09 IST
+Updated: 2026-07-13 09:10:09 IST
+URL: https://leetcode.com/discuss/post/8393431/leetcode-8-string-to-integer-atoi-proble-4xv6/
+Author: ankushsingh_001
+
+--- Summary ---
+Skip spaces
+↓
+"   -42abc"
+^sign = -1Read digits:
+4 → result = 4
+2 → result = 42Next character = 'a'
+Stop reading.Return:
+-42
+
+--- Reactions ---
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: iTZPAj3b
+Title: LeetCode should give a feature to hide Difficulty Level from Problems, I Will Literally Helps A Lot.
+Slug: leetcode-should-give-a-feature-to-hide-d-cjxd
+Article Type: DISCUSSION
+Posted: 2026-07-12 23:38:33 IST
+Updated: 2026-07-12 23:38:33 IST
+URL: https://leetcode.com/discuss/post/8392942/leetcode-should-give-a-feature-to-hide-d-cjxd/
+Author: Sarthak_79
+
+--- Summary ---
+I've noticed something interesting about the way my mind works while solving DSA problems.Whenever I see the "Hard" tag on a problem, my brain subconsciously assumes it's going to be difficult. Instead of diving in and thinking clearly, I start overa
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 9
+  THUMBS_DOWN: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: EJmyiC5o
+Title: LeetCode Should Add an Option to Hide Problem Difficulty
+Slug: leetcode-should-give-a-feature-to-hide-d-hi4x
+Article Type: DISCUSSION
+Posted: 2026-07-12 23:35:33 IST
+Updated: 2026-07-12 23:38:21 IST
+URL: https://leetcode.com/discuss/post/8392934/leetcode-should-give-a-feature-to-hide-d-hi4x/
+Author: jatinbhola9599
+
+--- Summary ---
+I've noticed something interesting about the way my mind works while solving DSA problems.Whenever I see the "Hard" tag on a problem, my brain subconsciously assumes it's going to be difficult. Instead of diving in and thinking clearly, I start overa
+
+--- Tags ---
+  - LeetCode (leetcode) [COMPANY]
+  - General Discussion (general-discussion-2) [COMPANY]
+  - features (features) []
+  - Leetcode Team (leetcode-team-2) []
+
+--- Reactions ---
+  UPVOTE: 10
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: EzDkdz2W
+Title: Need Career Advice: Tier-3 Student with Strong DSA but No Interview Opportunities
+Slug: need-career-advice-tier-3-student-with-s-72nn
+Article Type: DISCUSSION
+Posted: 2026-07-12 22:34:04 IST
+Updated: 2026-07-12 22:34:04 IST
+URL: https://leetcode.com/discuss/post/8392818/need-career-advice-tier-3-student-with-s-72nn/
+Author: 
+
+--- Summary ---
+I need some genuine career advice from people who have been in a similar situation.I'm a final-year Computer Science student from a Tier-3 engineering college in a very rural area of India.For the past two years, I've dedicated myself to learning Dat
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: rGgCt9Hn
+Title: "Largest Rectangle in Histogram" Shouldn't be in "Recursion II" Card/Module
+Slug: largest-rectangle-in-histogram-shouldnt-ewwav
+Article Type: DISCUSSION
+Posted: 2026-07-12 21:42:35 IST
+Updated: 2026-07-12 21:42:35 IST
+URL: https://leetcode.com/discuss/post/8392723/largest-rectangle-in-histogram-shouldnt-ewwav/
+Author: a_memesh
+
+--- Summary ---
+While there are many approaches to solve this problem, the only approach that works is the one using a stack. Since this problem was in the "Recursion II" card/module, I was trying to solve it using recursion and I ended up implementing a divide and
+
+--- Tags ---
+  - Recursion II (recursion-ii) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 32ZSNmWF
+Title: Concept of idempotency in banking application
+Slug: concept-of-idempotency-in-banking-applic-21jl
+Article Type: DISCUSSION
+Posted: 2026-07-12 20:19:20 IST
+Updated: 2026-07-13 10:14:30 IST
+URL: https://leetcode.com/discuss/post/8392582/concept-of-idempotency-in-banking-applic-21jl/
+Author: shristi__
+
+--- Summary ---
+Understanding Idempotency in BankingI am working on my project , one doubt came in my mind how banking system avoids duplicate payment? so i go through this conceptOne of the most important concepts in payment systems is idempotency. It is used to av
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+  - system-design (system-design-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+  THUMBS_DOWN: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nUOt9m23
+Title: 99-Day LeetCode Streak, ~2 YOE, Still Can't Get Interview Calls. I Need Some Honest Career Advice.
+Slug: 99-day-leetcode-streak-2-yoe-still-cant-f1toc
+Article Type: DISCUSSION
+Posted: 2026-07-12 20:00:49 IST
+Updated: 2026-07-12 20:00:49 IST
+URL: https://leetcode.com/discuss/post/8392542/99-day-leetcode-streak-2-yoe-still-cant-f1toc/
+Author: FaizNexus
+
+--- Summary ---
+I'm currently on a 99-day LeetCode streak and have ~2 years of experience as a full-stack developer at a startup (still working there).I've been delaying applications because I never feel "ready enough." On top of that, the few companies I did apply
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0kjCjlYF
+Title: Can someone help with last 6 months Google Questions ?
+Slug: can-someone-help-with-last-6-months-goog-k1do
+Article Type: DISCUSSION
+Posted: 2026-07-12 19:47:55 IST
+Updated: 2026-07-12 19:47:55 IST
+URL: https://leetcode.com/discuss/post/8392512/can-someone-help-with-last-6-months-goog-k1do/
+Author: 
+
+--- Summary ---
+Hi,
+I have started preparing for Google, and I am looking for last 6 months questions asked in Google interviews. Can anyone help me sharing the questions ?
+Thanks in Advanced.Also, I am looking for mock interview partners for weekends. If you are al
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Career (career) []
+  - L4 Google (l4-google) []
+  - google interview questions (google-interview-questions) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: uKj16jPf
+Title: Payu | Dataplatform engineer 
+Slug: payu-dataplatform-engineer-by-anonymous_-nyos
+Article Type: DISCUSSION
+Posted: 2026-07-12 19:18:06 IST
+Updated: 2026-07-12 19:18:25 IST
+URL: https://leetcode.com/discuss/post/8392458/payu-dataplatform-engineer-by-anonymous_-nyos/
+Author: 
+
+--- Summary ---
+Round 1Experience: 2–3 Years
+Round 1 Duration: 45–60 minutesQ1: Explain about yourself and projects you have done ?Q2: What is Async and sync programming ?Q3: What is ngnix ?Q4: How are you deploying your backend ?Q5: What is JWT ?Q6: What are other
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ctBNuZ4L
+Title: I have 24 hours to prep for SMTS DE Shaw OA. What should I focus on?
+Slug: i-have-24-hours-to-prep-for-smts-de-shaw-0xmw
+Article Type: DISCUSSION
+Posted: 2026-07-12 18:58:04 IST
+Updated: 2026-07-12 18:58:04 IST
+URL: https://leetcode.com/discuss/post/8392418/i-have-24-hours-to-prep-for-smts-de-shaw-0xmw/
+Author: 
+
+--- Summary ---
+I have received the link for OA for DE Shaw. I have 24 hours. The role is SMTS, Java. I had just started preparing DSA again and am still in the basics. What should I focus on in the next 24 hours to clear the OA?
+
+--- Tags ---
+  - DE Shaw (de-shaw) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0fm81w1t
+Title: Has anyone gave tekion corp OA on campus? tekion corp is coming in our college
+Slug: has-anyone-gave-tekion-corp-oa-on-campus-nk8n
+Article Type: DISCUSSION
+Posted: 2026-07-12 18:04:46 IST
+Updated: 2026-07-12 18:04:46 IST
+URL: https://leetcode.com/discuss/post/8392345/has-anyone-gave-tekion-corp-oa-on-campus-nk8n/
+Author: Divyanshi_
+
+--- Summary ---
+Has anyone taken Tekion Corp's online assessment (OA) on campus? Tekion Corp is coming to our college
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: mwlgFMhV
+Title: Job openings for nystartx
+Slug: job-openings-for-nystartx-by-anonymous_u-552m
+Article Type: DISCUSSION
+Posted: 2026-07-12 17:15:41 IST
+Updated: 2026-07-12 17:15:41 IST
+URL: https://leetcode.com/discuss/post/8392236/job-openings-for-nystartx-by-anonymous_u-552m/
+Author: 
+
+--- Summary ---
+Job openings for MERN stack (Intern)Google form: https://docs.google.com/forms/d/e/1FAIpQLSesj772bbal2odlTtkqC2bL73CCi_22EMC7T_sNDSTD7XsAyg/viewform?usp=publish-editor
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kdjxTpu1
+Title: Interview Experience 
+Slug: interview-experience-by-amarnath_sahni-z6pg
+Article Type: DISCUSSION
+Posted: 2026-07-12 16:41:09 IST
+Updated: 2026-07-12 16:41:09 IST
+URL: https://leetcode.com/discuss/post/8392180/interview-experience-by-amarnath_sahni-z6pg/
+Author: Amarnath_sahni
+
+--- Summary ---
+Last day, I sat in an interview and witnessed something that really made me think.Many candidates were willing to work for a ₹10,000 stipend, even when the company clearly stated that there would be no PPO (Pre-Placement Offer) after the internship.T
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kIqtc6ad
+Title: Send me the link of the easiest leetcode question you have ever solved!
+Slug: send-me-the-link-of-the-easiest-leetcode-j65r
+Article Type: DISCUSSION
+Posted: 2026-07-12 15:54:30 IST
+Updated: 2026-07-12 15:54:30 IST
+URL: https://leetcode.com/discuss/post/8392111/send-me-the-link-of-the-easiest-leetcode-j65r/
+Author: AbeerPorwal
+
+--- Summary ---
+I am not talking about
+add two numbers
+divide two numbers
+these required different thought than just blindly adding.Apart from these two, please send me the easist questions on leetcode you have ever done and solved in one or two tries, because I wan
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 2
+  THUMBS_DOWN: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: RurnAClE
+Title: Google L3 Interview Experience (Zurich) - 7 Month Process
+Slug: google-l3-interview-experience-zurich-7-lu4b6
+Article Type: DISCUSSION
+Posted: 2026-07-12 15:30:53 IST
+Updated: 2026-07-12 15:30:53 IST
+URL: https://leetcode.com/discuss/post/8392057/google-l3-interview-experience-zurich-7-lu4b6/
+Author: 
+
+--- Summary ---
+Hi all,I have just signed my Google offer and wanted to share my timeline. Hopefully, this helps some of you who are currently in the loop or waiting out the long process.
+Nov / Dec: Multiple applications submitted through Google Careers
+Jan 15: Recr
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: qchmqyAm
+Title: Groww OA Question (26 LPA)
+Slug: groww-oa-question-by-mohitswarnkar13-ox4w
+Article Type: DISCUSSION
+Posted: 2026-07-12 14:58:18 IST
+Updated: 2026-07-12 15:06:17 IST
+URL: https://leetcode.com/discuss/post/8392012/groww-oa-question-by-mohitswarnkar13-ox4w/
+Author: mohitswarnkar13
+
+--- Summary ---
+Minimum Time to Complete Tasks
+You are given N tasks numbered from 0 to N - 1.
+You are also given a list of M dependencies, where each dependency is represented as [x, y], meaning that task x must be completed before task y can begin.
+Each task takes
+
+--- Tags ---
+  - Groww (groww) [COMPANY]
+  - OA | DSA | System / Logic (oa-dsa-system-logic) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: F4tIUGQv
+Title: DE SHAW || 70LPA CTC
+Slug: de-shaw-70lpa-ctc-by-anonymous_user-tq6q
+Article Type: DISCUSSION
+Posted: 2026-07-12 14:33:51 IST
+Updated: 2026-07-12 14:33:51 IST
+URL: https://leetcode.com/discuss/post/8391974/de-shaw-70lpa-ctc-by-anonymous_user-tq6q/
+Author: 
+
+--- Summary ---
+Could not take the image as camera was on. This is the question as per memory -DE Shaw is organizing its engineering hierarchy as a rooted reporting tree with N employees, where employee 1 is the CEO. Every employee must be assigned to one of two pro
+
+--- Reactions ---
+  UPVOTE: 6
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: d1q4wBCR
+Title: eBay Software Engineer 3 (India) Compensation & Negotiation Advice (2.7 YOE)
+Slug: ebay-software-engineer-3-india-compensat-mqam
+Article Type: DISCUSSION
+Posted: 2026-07-12 14:03:37 IST
+Updated: 2026-07-12 14:03:37 IST
+URL: https://leetcode.com/discuss/post/8391920/ebay-software-engineer-3-india-compensat-mqam/
+Author: 
+
+--- Summary ---
+Hi everyone,I'm currently interviewing for an eBay Software Engineer 3 role in India. I have 2.7 years of experience, and this is my first time negotiating a salary, so I'd really appreciate any insights from people who have gone through the process
+
+--- Tags ---
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 9TgFU2i9
+Title: Drone Delivery with Battery Swapping-Cisco OA
+Slug: drone-delivery-with-battery-swapping-by-jz4er
+Article Type: DISCUSSION
+Posted: 2026-07-12 13:41:48 IST
+Updated: 2026-07-13 08:45:12 IST
+URL: https://leetcode.com/discuss/post/8391877/drone-delivery-with-battery-swapping-by-jz4er/
+Author: 
+
+--- Summary ---
+Problem Statement
+A drone has to deliver a package from a source cell to a destination cell in a 2D grid.
+Grid values:
+• 0 → Open airspace (drone can fly)
+• 1 → No-fly zone (blocked)
+The drone starts with a fully charged battery of capacity B.
+Each m
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Tnav9Da2
+Title: System Design Prep for People Who've Only Ever Touched DSA
+Slug: system-design-prep-for-people-whove-only-d8u5
+Article Type: DISCUSSION
+Posted: 2026-07-12 13:24:32 IST
+Updated: 2026-07-12 13:31:58 IST
+URL: https://leetcode.com/discuss/post/8391844/system-design-prep-for-people-whove-only-d8u5/
+Author: ayush_kodes
+
+--- Summary ---
+Most placement prep looks like this: 95% DSA, and system design gets a mental note that says "I'll figure it out later." Later usually turns into the week before interviews start, which is backwards, because this is a skill you build over weeks, not
+
+--- Tags ---
+  - Career (career) []
+  - DSA (dsa) []
+  - Interview (interview) []
+  - system-design (system-design-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: UGeZKAAs
+Title: Can anyone guide me through infosys interview prep?
+Slug: can-anyone-guide-me-through-infosys-inte-p60h
+Article Type: DISCUSSION
+Posted: 2026-07-12 12:40:21 IST
+Updated: 2026-07-12 12:40:21 IST
+URL: https://leetcode.com/discuss/post/8391728/can-anyone-guide-me-through-infosys-inte-p60h/
+Author: deepluvcodes
+
+--- Summary ---
+Hey guys!! I have been follwing striver sheet lately but i think i need to get my hands on other things too can anyoen suggest me the any specific sheet dededicated for it.. cuz its like probably 2 weeks away i want to grasp every important topic bef
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pLjb7ri8
+Title: Last test case didn't like my happiness.
+Slug: when-test-cases-choose-violence-by-aniru-o0ba
+Article Type: DISCUSSION
+Posted: 2026-07-12 12:27:11 IST
+Updated: 2026-07-12 12:39:16 IST
+URL: https://leetcode.com/discuss/post/8391699/when-test-cases-choose-violence-by-aniru-o0ba/
+Author: anirudh8055
+
+--- Summary ---
+I was already upsolving the code.Feeling confident...
+Hit Submit.TLE 928/929 -that ONE test case : okay, whats wrong?Taking eternity long to figure out the bug.And changing one line 🤡1 upvote = 1 testcase getting passed 🥲⠀⠀
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: d1mO1x5a
+Title: Career Advice Needed (Urgent) Amazon vs Other
+Slug: career-advice-needed-urgent-amazon-vs-ot-byfb
+Article Type: DISCUSSION
+Posted: 2026-07-12 12:26:48 IST
+Updated: 2026-07-12 12:26:48 IST
+URL: https://leetcode.com/discuss/post/8391698/career-advice-needed-urgent-amazon-vs-ot-byfb/
+Author: 
+
+--- Summary ---
+Hey, LC grinders!I'm 2026 batch EE student, did 6M internship at amazon from JAN-JUN 2026, and got a verbally inclination from my manager on my last working day, but till now i haven't got the offer letter, while other interns in my org who got the i
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: crcZcf67
+Title: [LeetCode 24] Swap Nodes in Pairs - C++ Recursive | Beats 100% | 0ms
+Slug: leetcode-24-swap-nodes-in-pairs-c-recurs-2jzo
+Article Type: DISCUSSION
+Posted: 2026-07-12 12:17:48 IST
+Updated: 2026-07-12 12:17:48 IST
+URL: https://leetcode.com/discuss/post/8391671/leetcode-24-swap-nodes-in-pairs-c-recurs-2jzo/
+Author: alock_chan
+
+--- Summary ---
+Problem: https://leetcode.com/problems/swap-nodes-in-pairs/Approach: Recursive - swap head and second, recurse on rest
+Time: O(n) | Space: O(n) stack | Runtime: 0ms - Beats 100%Intuition: Store second = head->next. Set head->next = recursion on secon
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: IIMssDh7
+Title: [LeetCode 22] Generate Parentheses - C++ Backtracking | Beats 70%
+Slug: leetcode-22-generate-parentheses-c-backt-olp1
+Article Type: DISCUSSION
+Posted: 2026-07-12 12:17:12 IST
+Updated: 2026-07-12 12:17:12 IST
+URL: https://leetcode.com/discuss/post/8391668/leetcode-22-generate-parentheses-c-backt-olp1/
+Author: alock_chan
+
+--- Summary ---
+Problem: https://leetcode.com/problems/generate-parentheses/Approach: Recursive Backtracking
+Time: O(4^n/sqrt(n)) - Catalan number | Space: O(n) stack | Runtime: 0msIntuition: Track open/close counts. Add '(' if open<n, add ')' if close<open. Collect
+
+════════════════════════════════════════════════════════════════════════════════
+Article #35
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: AJ5kdAQA
+Title: [LeetCode 18] 4Sum - C++ Sort + Two Pointers O(n^3) | Beats 100%
+Slug: leetcode-18-4sum-c-sort-two-pointers-on3-wiru
+Article Type: DISCUSSION
+Posted: 2026-07-12 12:16:36 IST
+Updated: 2026-07-12 12:16:36 IST
+URL: https://leetcode.com/discuss/post/8391665/leetcode-18-4sum-c-sort-two-pointers-on3-wiru/
+Author: alock_chan
+
+--- Summary ---
+Problem: https://leetcode.com/problems/4sum/Approach: Sort + Two Nested Loops + Two Pointers
+Time: O(n^3) | Space: O(1) | Runtime: 0ms - Beats 100%Key Insight: Use long long for sum to avoid integer overflow. Skip duplicates at each level.Code (C++):
+
+════════════════════════════════════════════════════════════════════════════════
+Article #36
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: PGuXRM2P
+Title: [LeetCode 17] Letter Combinations of a Phone Number - C++ Iterative BFS | Beats 100%
+Slug: leetcode-17-letter-combinations-of-a-pho-nuna
+Article Type: DISCUSSION
+Posted: 2026-07-12 12:16:03 IST
+Updated: 2026-07-12 12:16:03 IST
+URL: https://leetcode.com/discuss/post/8391664/leetcode-17-letter-combinations-of-a-pho-nuna/
+Author: alock_chan
+
+--- Summary ---
+Problem: https://leetcode.com/problems/letter-combinations-of-a-phone-number/Approach: Iterative BFS - build combinations digit by digit
+Time: O(4^n * n) | Space: O(4^n) | Runtime: 0ms - Beats 100%Intuition:
+For each digit, expand existing combinatio
+
+════════════════════════════════════════════════════════════════════════════════
+Article #37
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: MV2t4LiV
+Title: [LeetCode 19] Remove Nth Node From End of List - C++ Two Pointer Solution | Beats 100%
+Slug: leetcode-19-remove-nth-node-from-end-of-o39a9
+Article Type: DISCUSSION
+Posted: 2026-07-12 12:15:17 IST
+Updated: 2026-07-12 12:15:17 IST
+URL: https://leetcode.com/discuss/post/8391663/leetcode-19-remove-nth-node-from-end-of-o39a9/
+Author: alock_chan
+
+--- Summary ---
+Problem: https://leetcode.com/problems/remove-nth-node-from-end-of-list/Approach: Two Pointer + Dummy Node (One Pass, O(n) time, O(1) space)Intuition:
+Use two pointers with a dummy head node. Move fast pointer n+1 steps ahead so that when fast reache
+
+════════════════════════════════════════════════════════════════════════════════
+Article #38
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: JDuxgCgG
+Title: Google Embedded System interview
+Slug: google-embedded-system-interview-by-viki-9ibv
+Article Type: DISCUSSION
+Posted: 2026-07-12 11:58:28 IST
+Updated: 2026-07-12 11:59:03 IST
+URL: https://leetcode.com/discuss/post/8391612/google-embedded-system-interview-by-viki-9ibv/
+Author: vikihunk
+
+--- Summary ---
+Hi All,I have an interview scheduled with google for embedded staff engineer position. I had two rounds of googlyness and embedded system design rounds. Googlyness questions were mostly from my personal experience so went on fine. The system design r
+
+════════════════════════════════════════════════════════════════════════════════
+Article #39
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Wlttji5P
+Title: Day 24/365 - Rank Transform of an Array
+Slug: day-24365-rank-transform-of-an-array-by-2e03t
+Article Type: DISCUSSION
+Posted: 2026-07-12 11:30:34 IST
+Updated: 2026-07-12 11:30:34 IST
+URL: https://leetcode.com/discuss/post/8391549/day-24365-rank-transform-of-an-array-by-2e03t/
+Author: parth-jaybhaye
+
+--- Summary ---
+IntuitionThe problem asks us to replace every element with its rank while ensuring that equal elements receive the same rank.A brute-force approach would compare every element with every other element, but that would be far too slow for large arrays.
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #40
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: YSmmkmcV
+Title: Weekly Contest 510 - Q3 Intuition
+Slug: weekly-contest-510-q3-intuition-by-samar-59ww
+Article Type: DISCUSSION
+Posted: 2026-07-12 11:19:09 IST
+Updated: 2026-07-12 11:19:09 IST
+URL: https://leetcode.com/discuss/post/8391520/weekly-contest-510-q3-intuition-by-samar-59ww/
+Author: Samarth5005
+
+--- Summary ---
+Hi everyone,I participated in Weekly Contest 510, but I couldn't solve Problem 3988 (Question 3).Can someone explain the logic or intuition behind the solution? I'm not looking for the complete code—I want to understand how to think about the problem
+
+--- Reactions ---
+  UPVOTE: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #41
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: g6yvH8ps
+Title: 3rd One
+Slug: 3rd-one-by-txkhi3osap-lwag
+Article Type: DISCUSSION
+Posted: 2026-07-12 10:50:41 IST
+Updated: 2026-07-12 10:50:41 IST
+URL: https://leetcode.com/discuss/post/8391440/3rd-one-by-txkhi3osap-lwag/
+Author: M950Cal
+
+--- Summary ---
+For Q3, I manually found the minimum grid size requirements for every k and how a path could be formed based on the number of rows/columns, and just used a ton of if/else branches lol. Ended up being 108 lines.Unfortunately I finished it 4 minutes af
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 1
+
