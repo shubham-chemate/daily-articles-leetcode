@@ -1,0 +1,977 @@
+LeetCode Discuss - Latest 45 Articles
+Fetched on: 2026-07-16 10:55:14 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: CN2VJb2S
+Title: Google L4 Interview Experience 
+Slug: google-l4-interview-experience-by-anonym-twtr
+Article Type: DISCUSSION
+Posted: 2026-07-16 10:51:15 IST
+Updated: 2026-07-16 10:51:15 IST
+URL: https://leetcode.com/discuss/post/8400409/google-l4-interview-experience-by-anonym-twtr/
+Author: 
+
+--- Summary ---
+I recently completed the Google L4 interview process.Phone ScreenRound 1 - Coding Round: Variation of Kadanes Algorithm
+Verdict: Strong HireRound 2 - Googliness
+Verdict: Strong HireOnsite Round 1
+A graph-connectivity problem involving relationships t
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 57iKUCh2
+Title: Day 28/365 - Sum of GCD of Formed Pairs
+Slug: day-28365-sum-of-gcd-of-formed-pairs-by-lstsk
+Article Type: DISCUSSION
+Posted: 2026-07-16 10:50:54 IST
+Updated: 2026-07-16 10:50:54 IST
+URL: https://leetcode.com/discuss/post/8400407/day-28365-sum-of-gcd-of-formed-pairs-by-lstsk/
+Author: parth-jaybhaye
+
+--- Summary ---
+IntuitionToday's problem looked much more complicated than it actually was.At first, I thought I would need to compare every possible pair of numbers or use some advanced GCD optimization. But after carefully reading the problem, I realized the main
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: PIlNcbXt
+Title: Numbering of Array Indices
+Slug: numbering-of-array-indices-by-chanti_7-dtbr
+Article Type: DISCUSSION
+Posted: 2026-07-16 10:44:37 IST
+Updated: 2026-07-16 10:44:37 IST
+URL: https://leetcode.com/discuss/post/8400393/numbering-of-array-indices-by-chanti_7-dtbr/
+Author: chanti_7
+
+--- Summary ---
+Why in Java, numbering of array indices start from 0 instead of 1?
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DWwhn9RQ
+Title: Airbnb OA
+Slug: airbnb-oa-by-anonymous_user-526s
+Article Type: DISCUSSION
+Posted: 2026-07-16 08:15:08 IST
+Updated: 2026-07-16 08:15:08 IST
+URL: https://leetcode.com/discuss/post/8400142/airbnb-oa-by-anonymous_user-526s/
+Author: 
+
+--- Summary ---
+Hello everyone,I’ve received the CodeSignal assessment link from Airbnb. Has anyone taken it recently and can share the format or the types of questions that are typically asked?Thanks in advance!
+
+--- Tags ---
+  - Airbnb (airbnb) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: AJHdiakv
+Title: Flipkart Grid 8.0
+Slug: flipkart-grid-80-by-sanskar3108-bj99
+Article Type: DISCUSSION
+Posted: 2026-07-16 07:07:18 IST
+Updated: 2026-07-16 07:07:18 IST
+URL: https://leetcode.com/discuss/post/8400059/flipkart-grid-80-by-sanskar3108-bj99/
+Author: sanskar3108
+
+--- Summary ---
+Hi community,i successfullt cleared Round 1 (profile based shortlisting) and I got selected for Flipkart GRiD 8.0 Round 2 Coding Assessment and my test is on Saturday 3pm. How to prepare for it?If anyone who have written tests in the previous FLIPKAR
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ngjltztl
+Title: Need Guidance for Flipkart GRID 8.0 OA (in 2 Days)
+Slug: need-guidance-for-flipkart-grid-80-oa-in-p9ds
+Article Type: DISCUSSION
+Posted: 2026-07-16 06:42:12 IST
+Updated: 2026-07-16 06:42:12 IST
+URL: https://leetcode.com/discuss/post/8400038/need-guidance-for-flipkart-grid-80-oa-in-p9ds/
+Author: Amith502
+
+--- Summary ---
+Hey everyone! I recently got shortlisted for the Flipkart GRID 8.0 Online Assessment, and my OA is in 2 days.If anyone has appeared for Flipkart GRID before or knows the pattern, could you please share:
+Important topics to study
+DSA question difficul
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: wB1TdUeV
+Title: Selected for Flipkart GRiD 8.0 Round 2 Coding Assessment, but how to prepare?
+Slug: selected-for-flipkart-grid-80-round-2-co-txyl
+Article Type: DISCUSSION
+Posted: 2026-07-16 06:19:01 IST
+Updated: 2026-07-16 06:19:48 IST
+URL: https://leetcode.com/discuss/post/8400018/selected-for-flipkart-grid-80-round-2-co-txyl/
+Author: sohan404
+
+--- Summary ---
+Hi community,i successfullt cleared Round 1 (profile based shortlisting) and I got selected for Flipkart GRiD 8.0 Round 2 Coding Assessment and my test is on Saturday 3pm. How to prepare for it?If anyone who have written tests in the previous FLIPKAR
+
+--- Tags ---
+  - Graph Theory (graph) [TOPIC]
+  - Flipkart (flipkart) [COMPANY]
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: cFY66Jpo
+Title: Seeking Guidance for Google Interview Preparation and LeetCode Roadmap
+Slug: seeking-guidance-for-google-interview-pr-qrru
+Article Type: DISCUSSION
+Posted: 2026-07-16 06:09:12 IST
+Updated: 2026-07-16 06:09:12 IST
+URL: https://leetcode.com/discuss/post/8400009/seeking-guidance-for-google-interview-pr-qrru/
+Author: pratikshamanikpatil121
+
+--- Summary ---
+Hi everyone,Working at Google has always been one of my biggest career goals. I now have approximately seven months to prepare seriously and find a full-time job.I would be very grateful for any guidance from people who have prepared for Google or si
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: NDr7MVPw
+Title: Two Pointers, O(1) Space — No Prefix Arrays Needed
+Slug: two-pointers-o1-space-no-prefix-arrays-n-kcmq
+Article Type: DISCUSSION
+Posted: 2026-07-16 01:44:06 IST
+Updated: 2026-07-16 01:44:06 IST
+URL: https://leetcode.com/discuss/post/8399884/two-pointers-o1-space-no-prefix-arrays-n-kcmq/
+Author: syedahmershah
+
+--- Summary ---
+The brute-force / prefix-array approach (precompute leftMax[] and rightMax[] for every index) works fine but costs O(n) extra space. Here's the two-pointer version that gets it down to O(1).The Key InsightWater trapped at any index i is:water[i]=min(
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: mwhEZs7P
+Title: O(n) Time, O(1) Space — Cycle Sort / Index Placement Trick
+Slug: on-time-o1-space-cycle-sort-index-placem-g9zs
+Article Type: DISCUSSION
+Posted: 2026-07-16 01:43:23 IST
+Updated: 2026-07-16 01:43:23 IST
+URL: https://leetcode.com/discuss/post/8399883/on-time-o1-space-cycle-sort-index-placem-g9zs/
+Author: syedahmershah
+
+--- Summary ---
+Took me a bit to see this one clearly, so writing it down in case it helps someone else.The Core IdeaIf an array of length n had all positive integers 1..n present, then after sorting, nums[i] would equal i + 1. The first missing positive is just the
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1oOLbxKy
+Title: Clear Street interview process
+Slug: clear-street-interview-process-by-anonym-ip7h
+Article Type: DISCUSSION
+Posted: 2026-07-16 01:28:02 IST
+Updated: 2026-07-16 01:28:02 IST
+URL: https://leetcode.com/discuss/post/8399872/clear-street-interview-process-by-anonym-ip7h/
+Author: 
+
+--- Summary ---
+Has anyone gone through the interview process at clear street. What kind of questions do they ask in their technical round interviews?How and where do I prepare for their interview?
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: uzz63V1i
+Title: Rejection after Rejection
+Slug: rejection-after-rejection-by-ethanthopki-t6kv
+Article Type: DISCUSSION
+Posted: 2026-07-15 23:57:23 IST
+Updated: 2026-07-15 23:59:41 IST
+URL: https://leetcode.com/discuss/post/8399759/rejection-after-rejection-by-ethanthopki-t6kv/
+Author: ethanthopkins
+
+--- Summary ---
+I'm a new grad CS major. I worked 7 months as a software engineer before I left due to relocation for personal reasons.
+Started my job search for software engineering 2 weeks ago in NYC and it's feeling the same as my last one - like I'm shooting app
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: f5MdI2fq
+Title: Dynamic Programming: Top-down vs. Bottom-up Approach.
+Slug: dynamic-programming-top-down-vs-bottom-u-ic62
+Article Type: DISCUSSION
+Posted: 2026-07-15 23:53:50 IST
+Updated: 2026-07-15 23:53:50 IST
+URL: https://leetcode.com/discuss/post/8399754/dynamic-programming-top-down-vs-bottom-u-ic62/
+Author: deepmondal
+
+--- Summary ---
+Top-Down (Memoization): Starts from the main problem and breaks it down into sub-problems using recursion, caching results to avoid redundant calculations.Bottom-Up (Tabulation): Iteratively solves all sub-problems starting from the simplest case and
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: KxI1SrC7
+Title: Time & Space Complexity: How to make code faster and more memory-efficient using Big O notation.
+Slug: time-space-complexity-how-to-make-code-f-h6jk
+Article Type: DISCUSSION
+Posted: 2026-07-15 23:51:31 IST
+Updated: 2026-07-15 23:51:31 IST
+URL: https://leetcode.com/discuss/post/8399748/time-space-complexity-how-to-make-code-f-h6jk/
+Author: deepmondal
+
+--- Summary ---
+IntroductionWriting code that simply "works" is just the beginning. The real challenge—and the hallmark of a great engineer—is writing code that is optimized, scalable, and efficient. Understanding Big O notation is essential because it provides a s
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: j8oPV49p
+Title: 💡 DFS + Map Tip: Don't Forget to Initialize the Base Case
+Slug: dfs-map-tip-dont-forget-to-initialize-th-hlsx
+Article Type: DISCUSSION
+Posted: 2026-07-15 23:09:19 IST
+Updated: 2026-07-15 23:09:19 IST
+URL: https://leetcode.com/discuss/post/8399644/dfs-map-tip-dont-forget-to-initialize-th-hlsx/
+Author: FaizNexus
+
+--- Summary ---
+While solving K-th Ancestor of a Tree, I ran into a subtle bug that can occur in many DFS + Map problems.I built a child → parent map using DFS:and answered the query by repeatedly moving to the parent:❌ The BugThe root never gets inserted into the m
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 9QJGkKoV
+Title: Stop memorizing patterns. Start asking one question.
+Slug: stop-memorizing-patterns-start-asking-on-b985
+Article Type: DISCUSSION
+Posted: 2026-07-15 23:00:30 IST
+Updated: 2026-07-15 23:00:30 IST
+URL: https://leetcode.com/discuss/post/8399620/stop-memorizing-patterns-start-asking-on-b985/
+Author: bintujhala12
+
+--- Summary ---
+When I first started solving DSA problems, I used to ask:
+"Is this a Two Pointer problem?"
+"Is this Binary Search?"
+"Is this Sliding Window?"
+If I couldn't identify the pattern in 30 seconds, I felt stuck.Then I changed my approach.Now, before writin
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: soKSjX94
+Title: Amazon SDE-1 vs Ivanti SDE-2
+Slug: amazon-sde-1-vs-ivanti-sde-2-by-anonymou-x0v7
+Article Type: DISCUSSION
+Posted: 2026-07-15 22:57:15 IST
+Updated: 2026-07-15 22:57:15 IST
+URL: https://leetcode.com/discuss/post/8399614/amazon-sde-1-vs-ivanti-sde-2-by-anonymou-x0v7/
+Author: 
+
+--- Summary ---
+Need some career advice from experienced software engineers.After ~2 years of experience, I've been fortunate to receive two offers, and I'm trying to decide which one would be better for my long-term career growth.Option 1: Amazon
+
+Role: Software De
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Ivanti (ivanti) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kITHpIND
+Title: ZooKeeper - (old technology pave the ways for modern one)
+Slug: zookeeper-old-technology-pave-the-ways-f-wsn7
+Article Type: DISCUSSION
+Posted: 2026-07-15 22:26:19 IST
+Updated: 2026-07-15 22:26:19 IST
+URL: https://leetcode.com/discuss/post/8399532/zookeeper-old-technology-pave-the-ways-f-wsn7/
+Author: gk2002
+
+--- Summary ---
+ZooKeeper — Interview Revision Notes1. What is ZooKeeper?ZooKeeper is a distributed coordination service.It helps distributed systems manage:
+Service discovery
+Leader election
+Distributed locks
+Configuration management
+Cluster membership
+Think:
+ZooKe
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8s43i4YK
+Title: Flipkart Grid 8.0 18th,19th July Resources 
+Slug: flipkart-grid-80-18th19th-july-resources-01tq
+Article Type: DISCUSSION
+Posted: 2026-07-15 21:44:46 IST
+Updated: 2026-07-15 21:46:07 IST
+URL: https://leetcode.com/discuss/post/8399428/flipkart-grid-80-18th19th-july-resources-01tq/
+Author: 
+
+--- Summary ---
+Hi guys, I’m from the 2028 batch and will be appearing for Flipkart Grid 8.0.While searching for preparation resources, I found these questions, which you can also use for practice.Thank me later!https://www.codinzhub.com/company/flipkart-gridhttps:/
+
+--- Tags ---
+  - Flipkart (flipkart) [COMPANY]
+  - Career (career) []
+  - Online Assessment (online-assessment) []
+  - interview question (interview-question) []
+  - Interview (interview) []
+  - OA (oa-2) []
+  - codinzhub (codinzhub) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: J6eFw93d
+Title: Software Development Engineer II, Amazon Payments | Job Opening
+Slug: software-development-engineer-ii-amazon-fddit
+Article Type: DISCUSSION
+Posted: 2026-07-15 21:28:44 IST
+Updated: 2026-07-15 21:28:44 IST
+URL: https://leetcode.com/discuss/post/8399390/software-development-engineer-ii-amazon-fddit/
+Author: Jay_Parkash
+
+--- Summary ---
+Apply Now for Software Development Engineer II, Amazon Payments
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: NHSioRko
+Title: Amazon Interview Process - Requisition Changed After Interviews?
+Slug: amazon-interview-process-requisition-cha-2knn
+Article Type: DISCUSSION
+Posted: 2026-07-15 21:11:10 IST
+Updated: 2026-07-15 21:11:10 IST
+URL: https://leetcode.com/discuss/post/8399368/amazon-interview-process-requisition-cha-2knn/
+Author: 
+
+--- Summary ---
+Amazon Interview Process - Requisition Changed After Interviews?Hi everyone,I wanted to check if anyone has experienced something similar during the Amazon interview process.Here's my timeline:
+Completed my OA and 2 coding rounds.
+The Hiring Manager
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nMn7eyJz
+Title: Flipkart GRiD 8.0
+Slug: flipkart-grid-80-by-anonymous_user-mpv2
+Article Type: DISCUSSION
+Posted: 2026-07-15 20:55:42 IST
+Updated: 2026-07-15 20:55:42 IST
+URL: https://leetcode.com/discuss/post/8399335/flipkart-grid-80-by-anonymous_user-mpv2/
+Author: 
+
+--- Summary ---
+Hey guys.....I am shortlisted for the 2nd Round of the Flipkart GRiD 8.0 program!Now I want to pass the OA and get into next rounds.....so how should i prep, the difficulty level of OA...Any resources and advicewhat to focus on and any insights any o
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 5duK94Zj
+Title: Seeking Serious Interview Prep Partners (4–6 YOE | Tier 1 Companies)
+Slug: seeking-serious-interview-prep-partners-4ypgx
+Article Type: DISCUSSION
+Posted: 2026-07-15 20:43:46 IST
+Updated: 2026-07-15 21:00:58 IST
+URL: https://leetcode.com/discuss/post/8399314/seeking-serious-interview-prep-partners-4ypgx/
+Author: 
+
+--- Summary ---
+Looking only for serious interview prep partners with 4–6 years of software engineering experience who are targeting Tier-1 product companies (FAANG and similar like Uber, Databricks, stripe ...) and planning a job switch in the next 1–3 months.I'm d
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DvUwnLVs
+Title: good time to join salesforce
+Slug: good-time-to-join-salesforce-by-anonymou-v73d
+Article Type: DISCUSSION
+Posted: 2026-07-15 20:19:48 IST
+Updated: 2026-07-16 10:27:36 IST
+URL: https://leetcode.com/discuss/post/8399267/good-time-to-join-salesforce-by-anonymou-v73d/
+Author: 
+
+--- Summary ---
+Currently working as an SDE-3 at a top US bank and recently received an offer from Salesforce for an SMTS role.I'm trying to decide whether this is the right time to make the switch.One concern I have is that Salesforce's business is closely tied to
+
+--- Tags ---
+  - Salesforce (salesforce) [COMPANY]
+  - Career (career) []
+  - #switch (switch-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: AvMfjVnW
+Title: 6 YOE | A3 | GenAi , Ai/ML, AWS, GCP
+Slug: 6-yoe-a3-genai-aiml-aws-gcp-by-anonymous-awf0
+Article Type: DISCUSSION
+Posted: 2026-07-15 19:36:22 IST
+Updated: 2026-07-15 19:36:22 IST
+URL: https://leetcode.com/discuss/post/8399184/6-yoe-a3-genai-aiml-aws-gcp-by-anonymous-awf0/
+Author: 
+
+--- Summary ---
+Which organizations should I target for my next career move in GenAI/AI-ML?Hi everyone,I have around 6 years of experience in software engineering, with a strong focus on:
+Generative AI and LLM applications
+RAG and multi-agent systems
+Python and back
+
+--- Tags ---
+  - Career (career) []
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ty1ayk6J
+Title: Upcoming SuperDay interview at Goldman Sachs
+Slug: upcoming-superday-interview-at-goldman-s-ve7c
+Article Type: DISCUSSION
+Posted: 2026-07-15 19:25:51 IST
+Updated: 2026-07-15 19:25:51 IST
+URL: https://leetcode.com/discuss/post/8399159/upcoming-superday-interview-at-goldman-s-ve7c/
+Author: 
+
+--- Summary ---
+I have an upcoming SuperDay interview for an Associate role at Goldman Sachs for Java profile.
+What type of problems usually they ask in SuperDay?? what is the difficulty level for dsa and system design??Any help is genuinely appreciated.Thanks
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: JGVh0lWB
+Title: Adobe MTS-2 Interview Experience | DSA, System Design, DevOps & Hiring Manager Round
+Slug: adobe-mts-2-interview-experience-dsa-sys-qphb
+Article Type: DISCUSSION
+Posted: 2026-07-15 19:18:44 IST
+Updated: 2026-07-15 19:18:44 IST
+URL: https://leetcode.com/discuss/post/8399146/adobe-mts-2-interview-experience-dsa-sys-qphb/
+Author: Jay_Parkash
+
+--- Summary ---
+Adobe MTS-2 Interview Experience | DSA, System Design, DevOps & Hiring Manager Round
+
+--- Tags ---
+  - Adobe (adobe) [COMPANY]
+  - Technical Interview (technical-interview) [COMPANY]
+  - top interview questions (top-interview-questions) []
+  - Career (career) []
+  - interview experience (interview-experience) []
+  - interview question (interview-question) []
+  - Interview (interview) []
+  - Top Interview Questions (top-interview-questions-2) []
+  - Adobe (adobe-2) []
+
+--- Reactions ---
+  THUMBS_DOWN: 1
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: dsX9bVYq
+Title: Offer Discussion
+Slug: offer-discussion-by-anonymous_user-6tn3
+Article Type: DISCUSSION
+Posted: 2026-07-15 19:08:35 IST
+Updated: 2026-07-15 19:08:35 IST
+URL: https://leetcode.com/discuss/post/8399131/offer-discussion-by-anonymous_user-6tn3/
+Author: 
+
+--- Summary ---
+Should I join JPMCCTC offered - 80LPA Base + 15% bonusHow is it in terms of career, growth and learningPros -
+CTCCons -
+5 day office
+No Cursor, Claude code only co-pilot
+
+--- Tags ---
+  - Career (career) []
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: hBI7Mzaq
+Title: Meesho SDE 3 Machine Coding
+Slug: meesho-sde-3-machine-coding-by-kingzman3-k409
+Article Type: DISCUSSION
+Posted: 2026-07-15 19:03:13 IST
+Updated: 2026-07-15 19:03:56 IST
+URL: https://leetcode.com/discuss/post/8399121/meesho-sde-3-machine-coding-by-kingzman3-k409/
+Author: 
+
+--- Summary ---
+Meesho asked implementation of stock exchange, where sell or buy orders will be added and Orderbook will match the orders
+Take care of concurrencyYou can get the problem description and solution on git with a simple search on google
+
+--- Tags ---
+  - Meesho (meesho) [COMPANY]
+  - Interview (interview) []
+  - machine coding (machine-coding-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: LA1UFL3y
+Title: [India] T1 Companies hiring currently
+Slug: india-t1-companies-hiring-currently-by-a-myns
+Article Type: DISCUSSION
+Posted: 2026-07-15 18:37:03 IST
+Updated: 2026-07-15 18:37:03 IST
+URL: https://leetcode.com/discuss/post/8399064/india-t1-companies-hiring-currently-by-a-myns/
+Author: 
+
+--- Summary ---
+I recently got laid off and after applying for few weeks, didnt received a single call. Please let me know which companies are hiring currently and how to get their interviews.
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vShkPEyS
+Title: DSA RESOURCE
+Slug: dsa-resource-by-nitinjangir007-0iwl
+Article Type: DISCUSSION
+Posted: 2026-07-15 17:56:39 IST
+Updated: 2026-07-15 17:56:39 IST
+URL: https://leetcode.com/discuss/post/8398980/dsa-resource-by-nitinjangir007-0iwl/
+Author: nitinjangir007
+
+--- Summary ---
+so hey everyone currently i am learning dsa from striver a to z and i am little bit confused about pattern recognition so from where should i learn pattern recognition so should i blindly follow striver a to z and what's the best way to utilize that
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nbWavDHm
+Title: community Help: Offer comparisions: 6 yoe: SDE
+Slug: community-help-offer-comparisions-6-yoe-xyv4y
+Article Type: DISCUSSION
+Posted: 2026-07-15 16:27:19 IST
+Updated: 2026-07-15 16:28:07 IST
+URL: https://leetcode.com/discuss/post/8398831/community-help-offer-comparisions-6-yoe-xyv4y/
+Author: 
+
+--- Summary ---
+Need help comparing these offers (5.8 YOE, SDE-2 @ MNC)I am 2020 passout from a good NIT. I have around 5.8 years of experience and am currently an SDE-2 at a Tier-1 MNC company. I recently received three offers and would love to get the community's
+
+--- Tags ---
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: b7fptUcb
+Title: How to stop failing OAs due to "Hidden Test Cases" (My recent experience)
+Slug: how-to-stop-failing-oas-due-to-hidden-te-45a7
+Article Type: DISCUSSION
+Posted: 2026-07-15 15:34:24 IST
+Updated: 2026-07-15 15:34:24 IST
+URL: https://leetcode.com/discuss/post/8398730/how-to-stop-failing-oas-due-to-hidden-te-45a7/
+Author: dylanhayes89
+
+--- Summary ---
+Hi everyone,Seeing posts like the recent "Rejected.. Rejected.. Rejected" really resonates with me. A lot of us are preparing for 2026 roles, and one of the most frustrating feelings is failing an Online Assessment (OA) just because of a few hidden t
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: HrB9qXV0
+Title: Need advice: Laid off recently, financial pressure, and struggling mentally
+Slug: need-advice-laid-off-recently-financial-qn63x
+Article Type: DISCUSSION
+Posted: 2026-07-15 15:31:23 IST
+Updated: 2026-07-15 15:31:23 IST
+URL: https://leetcode.com/discuss/post/8398725/need-advice-laid-off-recently-financial-qn63x/
+Author: 
+
+--- Summary ---
+Hi everyone,I recently got laid off from my current company. I am from a Tier-1 college and have around 2.5+ years of experience. It has been almost one month since the layoff, and honestly, I am finding it difficult to stay mentally strong.I have al
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #35
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: zwkbLFsk
+Title: Rejected.. Rejected.. Rejected, Keep this in Mind!!!
+Slug: rejected-rejected-rejected-keep-this-in-kq6ec
+Article Type: DISCUSSION
+Posted: 2026-07-15 15:08:24 IST
+Updated: 2026-07-15 15:08:24 IST
+URL: https://leetcode.com/discuss/post/8398681/rejected-rejected-rejected-keep-this-in-kq6ec/
+Author: Sarthak_79
+
+--- Summary ---
+A small reminder for everyone who is currrenlty preparing and attending interviews.
+One rejecton does't define your ability
+One failed interview doesn't define your future [But take a step back, reflect on what went wrong, make some notes, and try no
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+  - Motivation (motivation-2) []
+
+--- Reactions ---
+  UPVOTE: 10
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #36
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: TkNafR3m
+Title: Arcesium | Staff Software Engineer | Hyderabad
+Slug: arcesium-staff-software-engineer-hyderab-ubee
+Article Type: DISCUSSION
+Posted: 2026-07-15 14:21:59 IST
+Updated: 2026-07-15 14:21:59 IST
+URL: https://leetcode.com/discuss/post/8398567/arcesium-staff-software-engineer-hyderab-ubee/
+Author: 
+
+--- Summary ---
+After OA, I got an invite for virtual rounds.OA - has 2 questions
+calling an external  API, and return results based on some filters
+Binary search based (didn't remeber exactly)
+Round 1 (DSA)Discussion about past projects mentioned on resume, followe
+
+--- Tags ---
+  - Arcesium (arcesium) [COMPANY]
+  - Interview (interview) []
+  - OA (oa-2) []
+
+--- Reactions ---
+  UPVOTE: 8
+
+════════════════════════════════════════════════════════════════════════════════
+Article #37
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: XOVD0LbN
+Title: Two Number Sum
+Slug: two-number-sum-by-anujkashyap9027-rwj2
+Article Type: DISCUSSION
+Posted: 2026-07-15 14:13:30 IST
+Updated: 2026-07-15 14:13:30 IST
+URL: https://leetcode.com/discuss/post/8398547/two-number-sum-by-anujkashyap9027-rwj2/
+Author: Anujkashyap9027
+
+--- Summary ---
+import java.util.HashMap;class Solution {
+public int[] twoSum(int[] nums, int target) {
+HashMap<Integer, Integer> map = new HashMap<>();}
+
+--- Tags ---
+  - HTML (html) [COMPANY]
+  - Java (java) []
+  - JavaScript (javascript) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #38
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: EXySXJz7
+Title: Rejected.. Rejected.. Rejected !!! 
+Slug: rejected-rejected-rejected-by-anonymous_-bn93
+Article Type: DISCUSSION
+Posted: 2026-07-15 14:12:13 IST
+Updated: 2026-07-15 18:09:31 IST
+URL: https://leetcode.com/discuss/post/8398545/rejected-rejected-rejected-by-anonymous_-bn93/
+Author: 
+
+--- Summary ---
+A small reminder for everyone who is currrenlty preparing and attending interviews.
+One rejecton does't define your ability
+One failed interview doesn't define your future [But take a step back, reflect on what went wrong, make some notes, and try no
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+  - Motivation (motivation-2) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #39
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: PlfVen8y
+Title: 3658. GCD of Odd and Even Sums | 3 Approaches: Simulation, Formula & O(1) Math
+Slug: 3658-gcd-of-odd-and-even-sums-3-approach-6vcd
+Article Type: DISCUSSION
+Posted: 2026-07-15 12:42:11 IST
+Updated: 2026-07-15 12:42:52 IST
+URL: https://leetcode.com/discuss/post/8398360/3658-gcd-of-odd-and-even-sums-3-approach-6vcd/
+Author: LorensCodes
+
+--- Summary ---
+Approach 1: SimulationThe most straightforward way is to calculate both sums directly.Addthefirstnoddnumbers.
+Addthefirstnevennumbers.
+FindtheirGCDusingtheEuclideanAlgorithm.
+PythonTimeComplexity:O(n)SpaceComplexity:O(1)Approach 2: Using Mathematical
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #40
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: c3VRRaxH
+Title: Odyssey | OA | Campus Hiring 2027 | Need Preparation Tips
+Slug: odyssey-oa-campus-hiring-2027-need-prepa-lm3i
+Article Type: DISCUSSION
+Posted: 2026-07-15 11:43:12 IST
+Updated: 2026-07-15 11:43:12 IST
+URL: https://leetcode.com/discuss/post/8398203/odyssey-oa-campus-hiring-2027-need-prepa-lm3i/
+Author: keerthanaa08
+
+--- Summary ---
+Hi everyone,I have an upcoming Odyssey campus hiring Online Assessment (OA) for the 2027 batch.Has anyone recently attended the Odyssey OA? If so, could you please share:The OA pattern (number of coding/aptitude questions)
+Difficulty level
+Topics ask
+
+--- Reactions ---
+  UPVOTE: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #41
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8ACKWeDX
+Title: Top MNC Interview Prep 2026: DSA Problems You Should Practice
+Slug: top-mnc-interview-prep-2026-dsa-problems-k52v
+Article Type: DISCUSSION
+Posted: 2026-07-15 11:40:57 IST
+Updated: 2026-07-15 11:43:10 IST
+URL: https://leetcode.com/discuss/post/8398198/top-mnc-interview-prep-2026-dsa-problems-k52v/
+Author: Mangesh_2704
+
+--- Summary ---
+Hey folks, If you're targeting companies like Google, Microsoft, Amazon, Meta, Apple, Uber, Atlassian, NVIDIA, Adobe, and Stripe, focus on mastering patterns instead of solving random problems. Pattern recognition is one of the most valuable skills t
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 5
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #42
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: HlT16Tpl
+Title: ServiceNow Associate Systems Engineer Interview Experience
+Slug: servicenow-associate-systems-engineer-in-h99x
+Article Type: DISCUSSION
+Posted: 2026-07-15 11:36:32 IST
+Updated: 2026-07-15 11:36:32 IST
+URL: https://leetcode.com/discuss/post/8398177/servicenow-associate-systems-engineer-in-h99x/
+Author: Jay_Parkash
+
+--- Summary ---
+Read complete interview exp : ServiceNow Associate Systems Engineer Interview Experience
+
+--- Tags ---
+  - Technical Interview (technical-interview) [COMPANY]
+  - top interview questions (top-interview-questions) []
+  - Career (career) []
+  - interview experience (interview-experience) []
+  - interview question (interview-question) []
+  - Interview (interview) []
+  - Behavioral Interview (behavioral-interview) []
+  - Top Interview Questions (top-interview-questions-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #43
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: GIgD599U
+Title: Looking for good resources for 1:1 System design mock interviews
+Slug: looking-for-good-resources-for-11-system-55ny
+Article Type: DISCUSSION
+Posted: 2026-07-15 11:02:02 IST
+Updated: 2026-07-15 11:02:02 IST
+URL: https://leetcode.com/discuss/post/8398110/looking-for-good-resources-for-11-system-55ny/
+Author: shefali163
+
+--- Summary ---
+Hi everyone! I'm looking for affordable 1:1 system design mock interviews (preferably with experienced interviewers). If you've used any good platforms or know individuals who offer quality mocks at reasonable prices, I'd really appreciate your recom
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #44
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: yWG6bLbQ
+Title: Trees Show Up In Roughly A Third Of Amazon Interviews. Most People Still Wing Them.
+Slug: trees-show-up-in-roughly-a-third-of-amaz-5nrk
+Article Type: DISCUSSION
+Posted: 2026-07-15 10:55:28 IST
+Updated: 2026-07-15 10:55:28 IST
+URL: https://leetcode.com/discuss/post/8398086/trees-show-up-in-roughly-a-third-of-amaz-5nrk/
+Author: ayush_kodes
+
+--- Summary ---
+Here is a stat worth sitting with for a second. Across a large set of real reported interviews, trees alone account for roughly thirty percent of everything Amazon asks. Not graphs, not DP, not sliding window. Just trees. Binary tree traversals, BST
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #45
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: R6aQRuDw
+Title: Infosys SP/DSE OA in 5 Days 🚀
+Slug: infosys-spdse-oa-in-5-days-by-oneqfmkvxx-kbqv
+Article Type: DISCUSSION
+Posted: 2026-07-15 10:17:56 IST
+Updated: 2026-07-15 10:19:35 IST
+URL: https://leetcode.com/discuss/post/8398002/infosys-spdse-oa-in-5-days-by-oneqfmkvxx-kbqv/
+Author: onEQFmkVXx
+
+--- Summary ---
+Hi everyone,I have my Infosys Specialist Programmer (SP L1/L2/L3) / DSE Online Assessment in 5 days.Can anyone who recently appeared (2025–2026) share:
+Coding question patterns/topics
+Similar LeetCode problems
+Difficulty level
+Frequently asked DSA to
+
+--- Reactions ---
+  UPVOTE: 2
+  THUMBS_DOWN: 1
+
