@@ -1,0 +1,834 @@
+LeetCode Discuss - Latest 38 Articles
+Fetched on: 2026-07-23 11:09:28 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WVR1beoN
+Title: eBay Software Development Engineer 3 (SDE 3) Interview Experience | Bengaluru
+Slug: ebay-software-development-engineer-3-sde-fvlc
+Article Type: DISCUSSION
+Posted: 2026-07-23 10:33:54 IST
+Updated: 2026-07-23 10:33:54 IST
+URL: https://leetcode.com/discuss/post/8414303/ebay-software-development-engineer-3-sde-fvlc/
+Author: Jay_Parkash
+
+--- Summary ---
+eBay Software Development Engineer 3 (SDE 3) Interview Experience | Bengaluru
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: n8qsMmfA
+Title: Cache System Design: How Caching Works and the 4 Ways Cache Systems Fail in Production
+Slug: cache-system-design-how-caching-works-an-vgf5
+Article Type: DISCUSSION
+Posted: 2026-07-23 10:32:10 IST
+Updated: 2026-07-23 10:32:10 IST
+URL: https://leetcode.com/discuss/post/8414298/cache-system-design-how-caching-works-an-vgf5/
+Author: Jay_Parkash
+
+--- Summary ---
+Cache System Design: How Caching Works and the 4 Ways Cache Systems Fail in Production
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: dbFo47oL
+Title: Day 35/365 - Number of Unique XOR Triplets I
+Slug: day-35365-number-of-unique-xor-triplets-kwcnr
+Article Type: DISCUSSION
+Posted: 2026-07-23 10:11:46 IST
+Updated: 2026-07-23 10:11:46 IST
+URL: https://leetcode.com/discuss/post/8414262/day-35365-number-of-unique-xor-triplets-kwcnr/
+Author: parth-jaybhaye
+
+--- Summary ---
+IntuitionCompared to yesterday's problem, this one was surprisingly short.At first, I thought I would have to generate every possible triplet and calculate their XOR values. But with n up to (10^5), that approach would obviously be too slow.The solut
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ePb8meah
+Title: Mastercard, Nike, Swiggy, Amex SDE-1 interview experience recently?
+Slug: mastercard-nike-swiggy-amex-sde-1-interv-ue31
+Article Type: DISCUSSION
+Posted: 2026-07-23 10:02:34 IST
+Updated: 2026-07-23 10:02:34 IST
+URL: https://leetcode.com/discuss/post/8414242/mastercard-nike-swiggy-amex-sde-1-interv-ue31/
+Author: arushannn
+
+--- Summary ---
+Can anyone post the above company's interview experience recently and also did you guys cold mail the recruiter too for this opportunity?
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: HP95hGwJ
+Title: TCS Prime - Career Growth & Nature of Work?
+Slug: tcs-prime-career-growth-nature-of-work-b-gmb5
+Article Type: DISCUSSION
+Posted: 2026-07-23 09:56:02 IST
+Updated: 2026-07-23 09:56:02 IST
+URL: https://leetcode.com/discuss/post/8414227/tcs-prime-career-growth-nature-of-work-b-gmb5/
+Author: 
+
+--- Summary ---
+Hi everyone,I recently received a TCS Prime offer and would like to hear from people who have worked in this role.What kind of projects do Prime candidates usually get (internal products or client projects)?
+How is the learning curve and technical ex
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: UjC2Nrae
+Title: #3513  Unique XOR Triplets I
+Slug: 3513-unique-xor-triplets-i-by-ammar1ahma-6gj2
+Article Type: DISCUSSION
+Posted: 2026-07-23 06:44:59 IST
+Updated: 2026-07-23 06:44:59 IST
+URL: https://leetcode.com/discuss/post/8414040/3513-unique-xor-triplets-i-by-ammar1ahma-6gj2/
+Author: Ammar1ahmad
+
+--- Summary ---
+At first glance, the problem looks like it requires checking every possible triplet, which would be far too slow for n = 10^5.
+The key observation is that nums is a permutation of 1...n, so we can reason about the set of possible XOR values instead o
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 3
+  THUMBS_DOWN: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: YuiJZ9TJ
+Title: Adobe university Hackathon 
+Slug: adobe-university-hackathon-by-anonymous_-tm3o
+Article Type: DISCUSSION
+Posted: 2026-07-23 01:44:25 IST
+Updated: 2026-07-23 01:44:25 IST
+URL: https://leetcode.com/discuss/post/8413869/adobe-university-hackathon-by-anonymous_-tm3o/
+Author: 
+
+--- Summary ---
+how to prepare for adobe university hackathon i have done till stack ,currently in queue exam is on 9 aug how to preapre tree graph ? can anybody provide roadmap
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Th8iLlza
+Title: TEKION CORP 6M + PPO Experience (On campus)
+Slug: tekion-corp-6m-ppo-experience-on-campus-dl85d
+Article Type: DISCUSSION
+Posted: 2026-07-23 00:19:22 IST
+Updated: 2026-07-23 00:50:01 IST
+URL: https://leetcode.com/discuss/post/8413767/tekion-corp-6m-ppo-experience-on-campus-dl85d/
+Author: 
+
+--- Summary ---
+OA Round: (approx 200 participants shortlisted based on branch + cgpa)Q1 - https://leetcode.com/problems/longest-balanced-substring-after-one-swap/description/ (exact same, solved all TCs)
+Q2 - advanced BS ques based on inclusion exclusion principle
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WPTrVAUi
+Title: The resume shortlisting 
+Slug: the-resume-shortlisting-by-_adityapal-i8tx
+Article Type: DISCUSSION
+Posted: 2026-07-23 00:15:39 IST
+Updated: 2026-07-23 00:15:39 IST
+URL: https://leetcode.com/discuss/post/8413757/the-resume-shortlisting-by-_adityapal-i8tx/
+Author: _AdityaPal_
+
+--- Summary ---
+I've seen resumes with:
+1,000+ LeetCode problems
+20+ certificates
+Zero deployed projects
+And I've seen resumes with:
+200 LeetCode problems
+Two real applications
+GitHub activity
+Live users
+Which one would you interview first?
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: HbIQSZzs
+Title: Amazon - Complete Silence After Filling Hiring Interest Form
+Slug: amazon-complete-silence-after-filling-hi-4qng
+Article Type: DISCUSSION
+Posted: 2026-07-22 23:40:56 IST
+Updated: 2026-07-22 23:40:56 IST
+URL: https://leetcode.com/discuss/post/8413687/amazon-complete-silence-after-filling-hi-4qng/
+Author: dheemanth1910
+
+--- Summary ---
+Hi Everyone , I've given Amazon OA in May and I've recieved a mail to fill a hiring interest form on June 8th. I've filled the form on June 9th and I haven't recieved any call yet. (1 month 15 days of silence) ..
+In the applications section the job i
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: dKOR6AWG
+Title: Groww OA Experience
+Slug: groww-oa-experience-by-anonymous_user-sl58
+Article Type: DISCUSSION
+Posted: 2026-07-22 23:01:54 IST
+Updated: 2026-07-22 23:01:54 IST
+URL: https://leetcode.com/discuss/post/8413592/groww-oa-experience-by-anonymous_user-sl58/
+Author: 
+
+--- Summary ---
+I recently appeared for the Groww Online Assessment through the on-campus placement process at a Tier 2 college. The offered compensation was 26 LPA (18 LPA fixed + 2 LPA variable + 2 LPA joining bonus + 4 LPA ESOPs), with an internship stipend of ₹1
+
+--- Tags ---
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6zJXvdVi
+Title: Resources I've used till now in my career | 6 Years |
+Slug: resources-ive-used-till-now-in-my-career-pbxj
+Article Type: DISCUSSION
+Posted: 2026-07-22 22:54:00 IST
+Updated: 2026-07-22 23:00:27 IST
+URL: https://leetcode.com/discuss/post/8413571/resources-ive-used-till-now-in-my-career-pbxj/
+Author: agrawalji
+
+--- Summary ---
+I've compiled and added all the resources I've used till now in my career to gain various techincal knowledge.https://linkedin.com/feed/update/urn:li:activity:7469650433263751168/I see everywhere, whether fresher or experienced keep asking best resou
+
+--- Tags ---
+  - Career (career) []
+  - Data Structure and Algorithms (ds-and-algorithm) []
+
+--- Reactions ---
+  UPVOTE: 8
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: hQ5zFExl
+Title: Couchbase SRE Intern Experience
+Slug: couchbase-sre-intern-experience-by-anony-yf9h
+Article Type: DISCUSSION
+Posted: 2026-07-22 22:52:02 IST
+Updated: 2026-07-22 22:52:02 IST
+URL: https://leetcode.com/discuss/post/8413566/couchbase-sre-intern-experience-by-anony-yf9h/
+Author: 
+
+--- Summary ---
+The offered compensation was 26 LPA and a stipend of 1LPM for 6 months.The interview was on campus at a tier 2 university.The first round was primarily focused on my projects and internship experience. The interviewer spent a significant amount of ti
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: EtLovvEJ
+Title: Obituary: Brute Force (Every Coder's First Attempt, Beloved By All, Understood By None)
+Slug: obituary-brute-force-every-coders-first-3v0fe
+Article Type: DISCUSSION
+Posted: 2026-07-22 22:20:32 IST
+Updated: 2026-07-22 22:20:32 IST
+URL: https://leetcode.com/discuss/post/8413497/obituary-brute-force-every-coders-first-3v0fe/
+Author: ayush_kodes
+
+--- Summary ---
+We gather here today to remember Brute Force, who passed peacefully in the minds of thousands of LeetCode users the exact moment they finally understood what a hash map actually does.Brute Force was born the second anyone read a problem statement and
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1orxl2TG
+Title: New GitHub Accounts: A Complete Beginner's Guide
+Slug: new-github-accounts-a-complete-beginners-fmjh
+Article Type: DISCUSSION
+Posted: 2026-07-22 22:07:11 IST
+Updated: 2026-07-22 22:07:11 IST
+URL: https://leetcode.com/discuss/post/8413475/new-github-accounts-a-complete-beginners-fmjh/
+Author: uq0if2ECsP
+
+--- Summary ---
+Creating New GitHub Accounts: A Complete Beginner's Guide
+IntroductionGitHub is one of the world's leading platforms for software development, version control, and collaboration. Millions of developers, students, researchers, and organizations use Gi
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: TfitTe0E
+Title: Futures First OA – DSA Questions Asked?
+Slug: futures-first-oa-dsa-questions-asked-by-226sl
+Article Type: DISCUSSION
+Posted: 2026-07-22 21:58:30 IST
+Updated: 2026-07-22 21:58:30 IST
+URL: https://leetcode.com/discuss/post/8413462/futures-first-oa-dsa-questions-asked-by-226sl/
+Author: tanvi_tater
+
+--- Summary ---
+Hi everyone!Has anyone recently appeared for the Futures First Software Engineer OA?I'm looking for the DSA/coding questions that were asked in the online assessment or questions with a similar pattern. Any insights on the difficulty level, important
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: R3xGCTD7
+Title: Google, Meta, Apple, Microsoft & Amazon | Asked DSA Questions | Easy Level
+Slug: google-meta-apple-microsoft-amazon-asked-3aj1
+Article Type: DISCUSSION
+Posted: 2026-07-22 21:50:20 IST
+Updated: 2026-07-22 21:50:20 IST
+URL: https://leetcode.com/discuss/post/8413451/google-meta-apple-microsoft-amazon-asked-3aj1/
+Author: Sarthak_79
+
+--- Summary ---
+List of easy dsa question from L3/L4 interviews
+
+https://leetcode.com/problems/two-sum Array, Hash Table
+https://leetcode.com/problems/longest-common-prefix Array, String, Trie
+
+
+https://leetcode.com/problems/palindrome-number Math
+
+
+https://leetcode
+
+--- Tags ---
+  - DSA (dsa) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 14
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: HvPPFVx5
+Title: Learning LLM Fine-Tuning with Unsloth | Looking for the Best Resources
+Slug: learning-llm-fine-tuning-with-unsloth-lo-slu3
+Article Type: DISCUSSION
+Posted: 2026-07-22 21:25:05 IST
+Updated: 2026-07-22 21:25:05 IST
+URL: https://leetcode.com/discuss/post/8413401/learning-llm-fine-tuning-with-unsloth-lo-slu3/
+Author: papan2004
+
+--- Summary ---
+Hi everyone,I'm currently learning LLM fine-tuning using the Unsloth library and have a basic understanding of LLMs.I'm looking for high-quality resources that cover topics such as:Fine-tuning with Unsloth (SFT, LoRA/QLoRA, etc.)
+How the training pip
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WUexkjht
+Title: TCS Prime: Joining After ~1 Year | Project Allocation & Onboarding Questions
+Slug: tcs-prime-joining-after-1-year-project-a-8buy
+Article Type: DISCUSSION
+Posted: 2026-07-22 21:21:15 IST
+Updated: 2026-07-22 21:21:15 IST
+URL: https://leetcode.com/discuss/post/8413391/tcs-prime-joining-after-1-year-project-a-8buy/
+Author: papan2004
+
+--- Summary ---
+Hi everyone,I recently received a TCS Prime offer, but I'll likely be joining after almost a year.I had a few questions for those who have already joined:
+How does the onboarding process usually work?
+How are projects allocated? Can we choose, or are
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: o0hNoJzT
+Title: Youtube playlist for CS fundamentals
+Slug: youtube-playlist-for-cs-fundamentals-by-yumc7
+Article Type: DISCUSSION
+Posted: 2026-07-22 21:13:04 IST
+Updated: 2026-07-22 21:13:04 IST
+URL: https://leetcode.com/discuss/post/8413369/youtube-playlist-for-cs-fundamentals-by-yumc7/
+Author: xx__STONE__xx
+
+--- Summary ---
+I’m looking for a YouTube playlist to learn CS fundamentals for online assessments (OAs) and SDE interviews.If you have any recommendations, tips, or resources, I’d really appreciate them!
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: sQ2p42cu
+Title: How do you stay confident after multiple interview rejections?
+Slug: how-do-you-stay-confident-after-multiple-onrw
+Article Type: DISCUSSION
+Posted: 2026-07-22 20:26:54 IST
+Updated: 2026-07-22 21:22:30 IST
+URL: https://leetcode.com/discuss/post/8413278/how-do-you-stay-confident-after-multiple-onrw/
+Author: 
+
+--- Summary ---
+Hi everyone,I'm looking for some advice from people who've been in a similar situation.
+I graduated in 2021 (BTech in CSE from an old NIT) and currently work as an SDE-2 at FAANG. I've been here for a little over 4 years and 3 months at FAANG (Total
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 8
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: q92RYRfc
+Title: Has anyone received O.A. Test link for SDE I, Amazon University Talent Acquisition Job id: 10454435
+Slug: has-anyone-received-oa-test-link-for-sde-4qcy
+Article Type: DISCUSSION
+Posted: 2026-07-22 19:52:21 IST
+Updated: 2026-07-22 19:52:21 IST
+URL: https://leetcode.com/discuss/post/8413215/has-anyone-received-oa-test-link-for-sde-4qcy/
+Author: 
+
+--- Summary ---
+This role is still open you can apply if not. If anyone who has applied received O.A. test link please let me know?
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ypwbDPnm
+Title: TCS NQT exam experience 
+Slug: tcs-nqt-exam-experience-by-codeyogic-nta3
+Article Type: DISCUSSION
+Posted: 2026-07-22 19:49:52 IST
+Updated: 2026-07-22 19:49:52 IST
+URL: https://leetcode.com/discuss/post/8413208/tcs-nqt-exam-experience-by-codeyogic-nta3/
+Author: CodeYogic
+
+--- Summary ---
+so i gave my tcs nqt exam , we are fighting for 3 levels , ninja digital and primenumerical ability was the first section to start with
+i was very confident , i saw a lot of pyqs which were quite doable , and hence i was confident enough to solve atl
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4QrkG2Zy
+Title: starting my dsa journey 
+Slug: starting-my-dsa-journey-by-keshava710-zwvj
+Article Type: DISCUSSION
+Posted: 2026-07-22 19:46:30 IST
+Updated: 2026-07-22 19:46:30 IST
+URL: https://leetcode.com/discuss/post/8413202/starting-my-dsa-journey-by-keshava710-zwvj/
+Author: keshava710
+
+--- Summary ---
+hey forks i am starting my dsa journey any suggestion and tips ,would be greatful .greetings
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: L8YkgMPX
+Title: Backtracking is just DFS on a decision tree. once i saw it that way everything clicked.
+Slug: backtracking-is-just-dfs-on-a-decision-t-6jix
+Article Type: DISCUSSION
+Posted: 2026-07-22 18:36:11 IST
+Updated: 2026-07-22 18:36:11 IST
+URL: https://leetcode.com/discuss/post/8413097/backtracking-is-just-dfs-on-a-decision-t-6jix/
+Author: 
+
+--- Summary ---
+i used to panic every time i saw "generate all combinations" or "find all paths" type problems. felt like every backtracking problem was completely different. then someone told me:every backtracking problem is the same skeleton. the only thing that c
+
+--- Tags ---
+  - Career (career) []
+  - DSA (dsa) []
+  - Interview (interview) []
+  - Job Search (job-search-2) []
+  - DSA Resources (dsa-resources) []
+
+--- Reactions ---
+  UPVOTE: 10
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4TiPyUeS
+Title: 3 weeks of silence from Apple Recruiter after asking for salary expectations.
+Slug: silence-from-apple-recruiter-after-askin-kilt
+Article Type: DISCUSSION
+Posted: 2026-07-22 15:38:31 IST
+Updated: 2026-07-22 16:04:20 IST
+URL: https://leetcode.com/discuss/post/8412853/silence-from-apple-recruiter-after-askin-kilt/
+Author: 
+
+--- Summary ---
+Looking for some perspective from anyone who's interviewed with Apple.I interviewed for a Software Engineer role within Apple's IS&T organization, where the focus was on LLMs and RAG-based applications.Here's my timeline:
+1 Apr: Initial recruiter cal
+
+--- Tags ---
+  - Apple (apple) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ITxcjP2J
+Title: What do companies actually expect from AI/ML & Data Science Engineers beyond core ML/DL concepts?
+Slug: what-do-companies-actually-expect-from-a-w5yo
+Article Type: DISCUSSION
+Posted: 2026-07-22 15:38:18 IST
+Updated: 2026-07-22 15:38:18 IST
+URL: https://leetcode.com/discuss/post/8412852/what-do-companies-actually-expect-from-a-w5yo/
+Author: Spandan-Bhoi23
+
+--- Summary ---
+Beyond ML/DL, DSA , what skills and technologies do companies expect from AI/ML and Data Science engineers? What should students prioritize to become industry-ready?
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: sjoS08wu
+Title: Rat in Maze Python working and Solution
+Slug: rat-in-maze-python-working-and-solution-rv4bk
+Article Type: DISCUSSION
+Posted: 2026-07-22 15:10:01 IST
+Updated: 2026-07-22 15:10:01 IST
+URL: https://leetcode.com/discuss/post/8412807/rat-in-maze-python-working-and-solution-rv4bk/
+Author: samchari
+
+--- Summary ---
+Mastering Rat in a MazeFrom Brute-Force Backtracking to Elegant Direction LoopsThe Rat in a Maze problem is a classic algorithmic puzzle that pops up frequently in technical interviews. It tests your fundamental grasp of Backtracking, recursion, and
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: mDdNVuA7
+Title: One DSA Habit That Improved Your Problem-Solving?
+Slug: one-dsa-habit-that-improved-your-problem-ztc0
+Article Type: DISCUSSION
+Posted: 2026-07-22 14:37:57 IST
+Updated: 2026-07-22 14:37:57 IST
+URL: https://leetcode.com/discuss/post/8412758/one-dsa-habit-that-improved-your-problem-ztc0/
+Author: dhayaldhruv274
+
+--- Summary ---
+What's one habit that genuinely improved your DSA skills?Mine has been understanding the pattern behind a problem instead of memorizing solutions. Curious to know what worked for others.
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: zSSYQLOI
+Title: Salesforce - MTS - Interview Experience ( Rejected )
+Slug: salesforce-mts-interview-experience-reje-ubo3
+Article Type: DISCUSSION
+Posted: 2026-07-22 14:12:53 IST
+Updated: 2026-07-22 16:49:17 IST
+URL: https://leetcode.com/discuss/post/8412716/salesforce-mts-interview-experience-reje-ubo3/
+Author: 
+
+--- Summary ---
+Experience: 4 YOERound 1: Data Structures & AlgorithmsTwo LeetCode medium questions.
+https://leetcode.com/problems/maximal-square/description/
+https://leetcode.com/problems/longest-increasing-subsequence/description/Gave bruteforce and optimial appro
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: bruohwCQ
+Title: Google, Meta, Apple, Microsoft & Amazon | Asked DSA Questions | Hard Level
+Slug: google-meta-apple-microsoft-amazon-asked-pevo
+Article Type: DISCUSSION
+Posted: 2026-07-22 13:15:52 IST
+Updated: 2026-07-22 13:15:52 IST
+URL: https://leetcode.com/discuss/post/8412644/google-meta-apple-microsoft-amazon-asked-pevo/
+Author: Sarthak_79
+
+--- Summary ---
+List of hard DSA Question from L3/L4 interviews
+
+https://leetcode.com/problems/median-of-two-sorted-arrays Array, Binary Search, Divide and Conquer
+
+
+https://leetcode.com/problems/trapping-rain-water Array, Two Pointers, Dynamic Programming, Stack, M
+
+--- Tags ---
+  - DSA (dsa) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 19
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: mCR27XCz
+Title: NEED HELP
+Slug: need-help-by-anonymous_user-tc08
+Article Type: DISCUSSION
+Posted: 2026-07-22 13:04:55 IST
+Updated: 2026-07-22 13:04:55 IST
+URL: https://leetcode.com/discuss/post/8412629/need-help-by-anonymous_user-tc08/
+Author: 
+
+--- Summary ---
+Hey everyone,I'm currently pursuing an MCA, and I've been hearing that getting a job is becoming increasingly difficult.I have a few questions for people working in the industry:What is the current reality of the job market for MCA graduates?
+How muc
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: yN8g8Ihm
+Title: DP finally clicked for me after mass failing for months. heres the mental shift.
+Slug: dp-finally-clicked-for-me-after-mass-fai-qmwy
+Article Type: DISCUSSION
+Posted: 2026-07-22 12:46:16 IST
+Updated: 2026-07-22 12:46:16 IST
+URL: https://leetcode.com/discuss/post/8412604/dp-finally-clicked-for-me-after-mass-fai-qmwy/
+Author: 
+
+--- Summary ---
+i used to see a DP problem and immediately think "ok whats the recurrence relation" and then stare at it for 40 minutes getting nowhere. turns out i was skipping the most important step.the shift: dont think about transitions first. think about what
+
+--- Tags ---
+  - Career (career) []
+  - DSA (dsa) []
+  - Interview (interview) []
+  - DSA Resources (dsa-resources) []
+
+--- Reactions ---
+  UPVOTE: 9
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vM76L5eb
+Title: 3501. Maximize Active Section with Trade II
+Slug: 3501-maximize-active-section-with-trade-0wozk
+Article Type: DISCUSSION
+Posted: 2026-07-22 12:00:28 IST
+Updated: 2026-07-22 12:00:28 IST
+URL: https://leetcode.com/discuss/post/8412527/3501-maximize-active-section-with-trade-0wozk/
+Author: LorensCodes
+
+--- Summary ---
+Python 2 | Sparse Table | O(n log n + q) | Efficient Range Query SolutionIntuitionA brute-force approach evaluates each query independently by scanning the entire substring and trying every possible trade. Since both the string length and the number
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #35
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: PmJ2bKvh
+Title: Google interview questions L3|L4 DSA easy 
+Slug: google-interview-questions-l3l4-dsa-easy-uozo
+Article Type: DISCUSSION
+Posted: 2026-07-22 11:37:11 IST
+Updated: 2026-07-22 11:53:08 IST
+URL: https://leetcode.com/discuss/post/8412487/google-interview-questions-l3l4-dsa-easy-uozo/
+Author: hargunalone
+
+--- Summary ---
+HI List of easy dsa question from l3/l4 interview
+https://leetcode.com/problems/two-sum	Array, Hash Table
+https://leetcode.com/problems/longest-common-prefix	Array, String, Trie
+https://leetcode.com/problems/palindrome-number	Math
+https://leetcode.co
+
+--- Reactions ---
+  UPVOTE: 4
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #36
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: KsK2XwHy
+Title: Google interview questions L3|L4 DSA HARD
+Slug: google-interview-questions-l3l4-dsa-hard-78d4
+Article Type: DISCUSSION
+Posted: 2026-07-22 11:36:46 IST
+Updated: 2026-07-22 11:54:53 IST
+URL: https://leetcode.com/discuss/post/8412485/google-interview-questions-l3l4-dsa-hard-78d4/
+Author: hargunalone
+
+--- Summary ---
+HI List of hard dsa question from l3/l4 interviews
+https://leetcode.com/problems/median-of-two-sorted-arrays	Array, Binary Search, Divide and Conquer
+https://leetcode.com/problems/trapping-rain-water	Array, Two Pointers, Dynamic Programming, Stack, M
+
+════════════════════════════════════════════════════════════════════════════════
+Article #37
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kPetvxkB
+Title: Google interview questions L3|L4 DSA medium 
+Slug: google-interview-questions-l3l4-dsa-medi-pcja
+Article Type: DISCUSSION
+Posted: 2026-07-22 11:36:36 IST
+Updated: 2026-07-22 11:36:36 IST
+URL: https://leetcode.com/discuss/post/8412483/google-interview-questions-l3l4-dsa-medi-pcja/
+Author: hargunalone
+
+--- Summary ---
+HI List of medium dsa question from l3/l4 interviews
+
+════════════════════════════════════════════════════════════════════════════════
+Article #38
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1VwMX59l
+Title: Mass Cheating in Leetcode Contests
+Slug: mass-cheating-in-leetcode-contests-by-ne-lp40
+Article Type: DISCUSSION
+Posted: 2026-07-22 10:23:00 IST
+Updated: 2026-07-22 10:58:52 IST
+URL: https://leetcode.com/discuss/post/8412381/mass-cheating-in-leetcode-contests-by-ne-lp40/
+Author: nene
+
+--- Summary ---
+Leetcode contest integrity is at threat!!!I have been noticing it from very long that there have been few top rankers who are submitting the solutions to hard problems within like 2-3 minutes.When you go to code replay, you see that more than 500 cha
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 14
+
