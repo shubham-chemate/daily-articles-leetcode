@@ -1,0 +1,1007 @@
+LeetCode Discuss - Latest 46 Articles
+Fetched on: 2026-08-01 11:11:11 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4qQEOAho
+Title: Day 44/365 - Predict the Winner
+Slug: day-44365-predict-the-winner-by-parth-ja-qk2z
+Article Type: DISCUSSION
+Posted: 2026-08-01 10:51:04 IST
+Updated: 2026-08-01 10:51:04 IST
+URL: https://leetcode.com/discuss/post/8433894/day-44365-predict-the-winner-by-parth-ja-qk2z/
+Author: parth-jaybhaye
+
+--- Summary ---
+IntuitionAt first, I thought this was just about maximizing my own score, but that's not enough because both players play optimally.Instead of tracking the total score, it's easier to track the maximum score difference the current player can achieve
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: hqI9n6sS
+Title: time complexity analysis in interviews is easier than you think. i use exactly 5 rules.
+Slug: time-complexity-analysis-in-interviews-i-o3pj
+Article Type: DISCUSSION
+Posted: 2026-08-01 10:37:26 IST
+Updated: 2026-08-01 10:37:26 IST
+URL: https://leetcode.com/discuss/post/8433869/time-complexity-analysis-in-interviews-i-o3pj/
+Author: 
+
+--- Summary ---
+used to panic when interviewers asked "whats the time complexity?" — especially for recursive solutions. then i learned 5 rules that cover 95% of cases:rule 1: count the loopsif you see for i in range(n): for j in range(n): → O(n²). thats it.rule 2:
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+  - DSA Resources (dsa-resources) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Eroe6WbJ
+Title: How Do You Stay Consistent With Daily LeetCode Practice?
+Slug: how-do-you-stay-consistent-with-daily-le-5e66
+Article Type: DISCUSSION
+Posted: 2026-08-01 10:23:00 IST
+Updated: 2026-08-01 10:23:00 IST
+URL: https://leetcode.com/discuss/post/8433837/how-do-you-stay-consistent-with-daily-le-5e66/
+Author: Sxu6ET9rVX
+
+--- Summary ---
+Hi everyone,I've been trying to solve LeetCode problems consistently, but sometimes I struggle to maintain a daily routine alongside work and other responsibilities.I'm curious to know:How many problems do you solve per day?
+Do you focus on one topic
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: wezbyFGj
+Title: Unable to submit answer for 2026-07-31 daily question of 486 - Predict the Winner
+Slug: unable-to-submit-answer-for-2026-07-31-d-7g7z
+Article Type: DISCUSSION
+Posted: 2026-08-01 10:13:13 IST
+Updated: 2026-08-01 10:13:13 IST
+URL: https://leetcode.com/discuss/post/8433824/unable-to-submit-answer-for-2026-07-31-d-7g7z/
+Author: David-Tong
+
+--- Summary ---
+I am unable to submit my passed answer for the daily question "486 - Predict the Winner".Even I change it to return False only, it still shows me with the same error below.
+Something must run wrong with the problem juedging system.
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: uN30hBSn
+Title: Why isn't sorting considered a good approach for this problem?
+Slug: why-isnt-sorting-considered-a-good-appro-49n3
+Article Type: DISCUSSION
+Posted: 2026-08-01 10:04:49 IST
+Updated: 2026-08-01 10:04:49 IST
+URL: https://leetcode.com/discuss/post/8433810/why-isnt-sorting-considered-a-good-appro-49n3/
+Author: Gauravshahh786
+
+--- Summary ---
+Why isn't sorting considered a good approach for this problem?I initially thought of solving this problem by sorting the array and returning nums[0].This solution works, but it has a time complexity of O(n log n).My question is about the interview pe
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: xOfnUuCr
+Title: Contest rating not getting updated??
+Slug: contest-rating-not-getting-updated-by-ri-sg4j
+Article Type: DISCUSSION
+Posted: 2026-08-01 10:01:49 IST
+Updated: 2026-08-01 10:02:07 IST
+URL: https://leetcode.com/discuss/post/8433809/contest-rating-not-getting-updated-by-ri-sg4j/
+Author: 
+
+--- Summary ---
+i noticed something strange in leetcode from last few contest i have given my contest rating is not getting updated no matter what my performanceis it a glitch ir something wrong with me???After may 9 no contest rating got updated for me
+if it is a g
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4gzqk7Jf
+Title: LeetCode Problems 41–50: What I Learned, Approaches Used & Key Takeaways
+Slug: leetcode-problems-41-50-what-i-learned-a-czlp
+Article Type: DISCUSSION
+Posted: 2026-08-01 08:19:30 IST
+Updated: 2026-08-01 08:19:30 IST
+URL: https://leetcode.com/discuss/post/8433714/leetcode-problems-41-50-what-i-learned-a-czlp/
+Author: harsh_jethwa76
+
+--- Summary ---
+LeetCode Journey Update: Problems 41–50 CompletedAnother milestone achieved in my DSA journey! 🎯I have successfully completed LeetCode Problems 41 to 50.This set of problems helped me improve my understanding of arrays, strings, recursion, backtracki
+
+--- Tags ---
+  - Hash Table (hash-table) [TOPIC]
+  - Backtracking (backtracking) [TOPIC]
+  - Recursion (recursion) [TOPIC]
+  - Java (java) []
+  - Career (career) []
+  - Compensation (compensation) []
+  - String Manipulation (string-manipulation) []
+  - Interview (interview) []
+  - DOM Manipulation (dom-manipulation) []
+  - Array Questions (array-questions) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: gP1MEpEh
+Title: Enfoque eficiente para mapeo de caracteres Unicode y transformación de strings (Manejo de UTF-8)
+Slug: enfoque-eficiente-para-mapeo-de-caracter-5el4
+Article Type: DISCUSSION
+Posted: 2026-08-01 07:51:06 IST
+Updated: 2026-08-01 07:51:06 IST
+URL: https://leetcode.com/discuss/post/8433700/enfoque-eficiente-para-mapeo-de-caracter-5el4/
+Author: bSsBCDzjUd
+
+--- Summary ---
+Hola a todos,Me encontré con un problema de diseño al construir un algoritmo de transformación de texto que convierte caracteres ASCII estándar en diferentes variantes de glifos Unicode en tiempo real (similar a cómo funcionan las herramientas de maq
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: qlfJkY95
+Title: FreeCharge | Lead SDE Interview Experience | Gurgaon
+Slug: freecharge-lead-sde-interview-experience-3cj6
+Article Type: DISCUSSION
+Posted: 2026-08-01 06:35:10 IST
+Updated: 2026-08-01 06:36:07 IST
+URL: https://leetcode.com/discuss/post/8433657/freecharge-lead-sde-interview-experience-3cj6/
+Author: ananyarsingh
+
+--- Summary ---
+Hi Viewers,I recently attended the Lead Software Development Engineer (Lead SDE) interview at FreeCharge. The first technical round lasted around 60 minutes and covered two coding questions followed by behavioral discussions.Round 1 – Technical Inter
+
+--- Tags ---
+  - Freecharge (freecharge) [COMPANY]
+  - Java (java) []
+  - India (india) []
+  - Interview (interview) []
+  - Behavioral Interview (behavioral-interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DWeKJYYC
+Title: How to get good at DP ?
+Slug: how-to-get-good-at-dp-by-anonymous_user-bvl8
+Article Type: DISCUSSION
+Posted: 2026-08-01 03:45:51 IST
+Updated: 2026-08-01 03:45:51 IST
+URL: https://leetcode.com/discuss/post/8433589/how-to-get-good-at-dp-by-anonymous_user-bvl8/
+Author: 
+
+--- Summary ---
+same as the title above if possible can someone please guide this dumba** soul how to get better at DP i have realized giving OA's that dp is what is holding me back i can do the standard types pick not pick or the ones like basically standard proble
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vdeJJSiG
+Title: Amazon Offer | QA Engineer II (L5) | Bangalore | 6.4 YOE
+Slug: amazon-offer-qa-engineer-ii-l5-bangalore-wffl
+Article Type: DISCUSSION
+Posted: 2026-08-01 01:33:06 IST
+Updated: 2026-08-01 01:33:06 IST
+URL: https://leetcode.com/discuss/post/8433486/amazon-offer-qa-engineer-ii-l5-bangalore-wffl/
+Author: 
+
+--- Summary ---
+Hi everyone,Need some advice from the community.Current:
+Location: Gurgaon
+Fixed: ₹19 LPA
+JB: ₹1.5L (First Year)Offered:
+Company: Amazon
+Role: QAE II (L5)
+Location: Bangalore
+YOE: 6.5Base: ₹27L
+Year 1 Bonus: ₹12L
+Year 2 Bonus: ₹9.5L
+RSUs: 100 Units (
+
+--- Tags ---
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: sFVkdAKk
+Title: Microsoft SDE 2 | June 2026
+Slug: microsoft-sde-2-june-2026-by-anonymous_u-mfqj
+Article Type: DISCUSSION
+Posted: 2026-08-01 00:17:31 IST
+Updated: 2026-08-01 00:17:31 IST
+URL: https://leetcode.com/discuss/post/8433374/microsoft-sde-2-june-2026-by-anonymous_u-mfqj/
+Author: 
+
+--- Summary ---
+My 3rd Offer - Amazon and EternalEducation: B.Tech (Tier 3 College)
+Experience: 3.5 years
+Previous Company: PocketFMCompany: Microsoft
+Role: Software Development Engineer II (L61)
+Location: Hyderabad / Bengaluru
+Offer Received: YesGot referred by som
+
+--- Tags ---
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 3
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: HYuUTP98
+Title: hashmaps solve more interview problems than any other data structure. heres the cheat sheet.
+Slug: hashmaps-solve-more-interview-problems-t-6p1p
+Article Type: DISCUSSION
+Posted: 2026-08-01 00:14:15 IST
+Updated: 2026-08-01 00:14:15 IST
+URL: https://leetcode.com/discuss/post/8433368/hashmaps-solve-more-interview-problems-t-6p1p/
+Author: 
+
+--- Summary ---
+if i could only bring ONE data structure to an interview, it would be a hashmap. not because its fancy — because it turns O(n²) into O(n) for an absurd number of problems.the pattern: "i need to CHECK if something exists / COUNT occurrences / FIND a
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+  - DSA Resources (dsa-resources) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: YaMX18iq
+Title: Apple Hiring Manager Interview - CoderPad Round
+Slug: apple-hiring-manager-interview-coderpad-jrl5a
+Article Type: DISCUSSION
+Posted: 2026-08-01 00:04:07 IST
+Updated: 2026-08-01 00:05:26 IST
+URL: https://leetcode.com/discuss/post/8433355/apple-hiring-manager-interview-coderpad-jrl5a/
+Author: cod05
+
+--- Summary ---
+Hello LC community,I have a 45 min interview coming up at Apple with hiring manager on coderpad. Could someone share their experience on this on what sort of question to expect? This is for iCloud and first ever round (no recuriter phone call happene
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: INYyQGy3
+Title: # ⭐ Master Prefix Sum Pattern | From Intuition to Interview Recognition
+Slug: master-prefix-sum-pattern-from-intuition-s4jo
+Article Type: DISCUSSION
+Posted: 2026-07-31 23:52:11 IST
+Updated: 2026-07-31 23:52:11 IST
+URL: https://leetcode.com/discuss/post/8433335/master-prefix-sum-pattern-from-intuition-s4jo/
+Author: manjirikinage2005
+
+--- Summary ---
+Prefix Sum PatternIntuitionThe Prefix Sum pattern is used when a problem repeatedly asks for cumulative information over an array.Instead of calculating the same sums again and again,calculate them once and reuse them whenever needed.The repeated wor
+
+--- Tags ---
+  - Array (array) [TOPIC]
+  - Prefix Sum (prefix-sum) [TOPIC]
+  - Java (java) []
+  - Algorithm (algorithm) []
+  - Interview (interview) []
+  - patterns (patterns-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: cZIzxgXM
+Title: ⭐ Master Fast & Slow Pointer Pattern | From Intuition to Interview Recognition
+Slug: master-fast-slow-pointer-pattern-from-in-wxd3
+Article Type: DISCUSSION
+Posted: 2026-07-31 23:48:27 IST
+Updated: 2026-07-31 23:48:27 IST
+URL: https://leetcode.com/discuss/post/8433322/master-fast-slow-pointer-pattern-from-in-wxd3/
+Author: manjirikinage2005
+
+--- Summary ---
+Linked List • Two Pointers • JavaFast & Slow Pointer PatternIntuitionThe Fast & Slow Pointer pattern is used when two pointers move through the same data structure at different speeds.Instead of storing visited nodes using extra memory,we let one poi
+
+--- Tags ---
+  - Linked List (linked-list) [TOPIC]
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: sIIqVVno
+Title: Infosys OA
+Slug: infosys-oa-by-harry156-o7w5
+Article Type: DISCUSSION
+Posted: 2026-07-31 23:47:04 IST
+Updated: 2026-07-31 23:47:04 IST
+URL: https://leetcode.com/discuss/post/8433316/infosys-oa-by-harry156-o7w5/
+Author: harry156
+
+--- Summary ---
+Hello Guys I am having OA of Infosys on 2nd Aug What should i focus on and how shoudl i prepare for next round?
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 84eQU9Gd
+Title: HDFC Golang Backend Engineer Interview Experience | 4 YOE | Screening + Technical + Final
+Slug: hdfc-golang-backend-engineer-interview-e-fayv
+Article Type: DISCUSSION
+Posted: 2026-07-31 23:40:26 IST
+Updated: 2026-07-31 23:40:26 IST
+URL: https://leetcode.com/discuss/post/8433303/hdfc-golang-backend-engineer-interview-e-fayv/
+Author: 
+
+--- Summary ---
+HDFC - Golang Backend Engineer Interview ExperienceRecently attended the interview process for HDFC - Golang Backend Engineer. Below are the questions asked across all the rounds.Experience: ~4 Years (Golang Backend)Screening RoundGolang
+What are gor
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: CSnixo8r
+Title: ⭐ Fixed Size Sliding Window Pattern | Complete Java Interview Notes + Template + Recognition Guide
+Slug: fixed-size-sliding-window-pattern-comple-srmf
+Article Type: DISCUSSION
+Posted: 2026-07-31 23:38:06 IST
+Updated: 2026-07-31 23:38:06 IST
+URL: https://leetcode.com/discuss/post/8433297/fixed-size-sliding-window-pattern-comple-srmf/
+Author: manjirikinage2005
+
+--- Summary ---
+📒 Fixed Size Sliding Window Pattern | Interview Revision Cheat Sheet🎯 Pattern RecognitionThink of this pattern whenever the problem contains:✅ Subarray of size K✅ Substring of length K✅ Fixed Window✅ Consecutive Elements✅ Maximum / Minimum Sum✅ Maxim
+
+--- Tags ---
+  - Sliding Window (sliding-window) [TOPIC]
+  - sliding window technique (sliding-window-technique) []
+  - patterns (patterns-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: JilUuvDI
+Title: CRED Agentic AI Engineer Intern Interview Experience & Process (2026)
+Slug: cred-agentic-ai-engineer-intern-intervie-dung
+Article Type: DISCUSSION
+Posted: 2026-07-31 23:37:10 IST
+Updated: 2026-07-31 23:37:10 IST
+URL: https://leetcode.com/discuss/post/8433294/cred-agentic-ai-engineer-intern-intervie-dung/
+Author: antrikakashyap2
+
+--- Summary ---
+Hi everyone,Has anyone recently gone through the interview process for the CRED Agentic AI Engineer Intern role?I would really appreciate it if you could share:
+The overall interview process (OA, technical rounds, HR, etc.)
+DSA difficulty and the typ
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: H5De605U
+Title: Free resources for recent OA (online assessment) questions for IITs and NITs 
+Slug: free-resources-for-recent-oa-online-asse-3pma
+Article Type: DISCUSSION
+Posted: 2026-07-31 22:46:35 IST
+Updated: 2026-07-31 22:46:35 IST
+URL: https://leetcode.com/discuss/post/8433196/free-resources-for-recent-oa-online-asse-3pma/
+Author: 
+
+--- Summary ---
+Hey everyone!I'm from one of the top 7 IITs, and my internship session is almost coming to an end. By God's grace, I also secured an internship at a top MNC.During my internship, my friends and I came across a community called Codinzhub, where studen
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Microsoft (microsoft) [COMPANY]
+  - Cisco (cisco) [COMPANY]
+  - Salesforce (salesforce) [COMPANY]
+  - Career (career) []
+  - interview experience (interview-experience) []
+  - Online Assessment (online-assessment) []
+  - Compensation (compensation) []
+  - Interview (interview) []
+  - codinzhub (codinzhub) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: w7MT3a6C
+Title: Built LESCO eBill – Looking for Feedback from Developers
+Slug: built-lesco-ebill-looking-for-feedback-f-buzb
+Article Type: DISCUSSION
+Posted: 2026-07-31 22:14:43 IST
+Updated: 2026-07-31 22:14:43 IST
+URL: https://leetcode.com/discuss/post/8433142/built-lesco-ebill-looking-for-feedback-f-buzb/
+Author: legend456
+
+--- Summary ---
+I recently built LESCO eBill (https://lescoebill.pk/) to make it easier for users to check and manage their electricity bills online. The website also includes a bill calculator and helpful guides for understanding electricity charges.I'd love to hea
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: opF4aVME
+Title: Before Solving a LeetCode Problem, Ask Yourself These 5 Questions
+Slug: before-solving-a-leetcode-problem-ask-yo-8a15
+Article Type: DISCUSSION
+Posted: 2026-07-31 22:06:40 IST
+Updated: 2026-07-31 22:06:40 IST
+URL: https://leetcode.com/discuss/post/8433130/before-solving-a-leetcode-problem-ask-yo-8a15/
+Author: Gayatree_parida611
+
+--- Summary ---
+🧠 Before Solving a LeetCode Problem, Ask Yourself These 5 QuestionsWhen I started solving LeetCode problems, one of the biggest mistakes I made was jumping straight into coding.Now, before writing any code, I try to ask myself these 5 questions:1️⃣ W
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: bGpz19bk
+Title: Made a vim script which auto reloads your custom mappings like imap jk <Esc> etc.
+Slug: made-a-vim-script-which-auto-reloads-you-fl7t
+Article Type: DISCUSSION
+Posted: 2026-07-31 20:35:06 IST
+Updated: 2026-07-31 20:35:06 IST
+URL: https://leetcode.com/discuss/post/8432972/made-a-vim-script-which-auto-reloads-you-fl7t/
+Author: uke
+
+--- Summary ---
+Install TamperMonkey
+Install this script
+
+--- Reactions ---
+  UPVOTE: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: VQUG7Xi2
+Title: the 5 mistakes that made me fail every coding interview for 6 months (not DSA-related)
+Slug: the-5-mistakes-that-made-me-fail-every-c-w4p0
+Article Type: DISCUSSION
+Posted: 2026-07-31 20:25:52 IST
+Updated: 2026-07-31 20:25:52 IST
+URL: https://leetcode.com/discuss/post/8432954/the-5-mistakes-that-made-me-fail-every-c-w4p0/
+Author: 
+
+--- Summary ---
+my DSA was fine. i could solve mediums consistently. still got rejected 6 times in a row. here's what was actually killing me — none of it was about algorithms:mistake 1: coding in silencei'd read the problem, go quiet for 5 minutes thinking, then st
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+  - DSA Resources (dsa-resources) []
+
+--- Reactions ---
+  UPVOTE: 23
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: H1TzLdn3
+Title: Title: How Can I Improve the Performance of an E-commerce Website?
+Slug: title-how-can-i-improve-the-performance-2h4bd
+Article Type: DISCUSSION
+Posted: 2026-07-31 20:17:47 IST
+Updated: 2026-07-31 20:17:47 IST
+URL: https://leetcode.com/discuss/post/8432945/title-how-can-i-improve-the-performance-2h4bd/
+Author: Michaelan0
+
+--- Summary ---
+I'm currently working on the technical side of my e-commerce project, Michaelan, and I'm trying to learn more about improving website performance.One thing I'm particularly interested in is how developers approach performance optimization when a webs
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: b4OxoxE7
+Title: Uber SDE-2 Interview Experience : LLD, HLD, DSA & Hiring Manager Round
+Slug: uber-sde-2-interview-experience-lld-hld-usfdr
+Article Type: DISCUSSION
+Posted: 2026-07-31 20:03:57 IST
+Updated: 2026-07-31 20:03:57 IST
+URL: https://leetcode.com/discuss/post/8432925/uber-sde-2-interview-experience-lld-hld-usfdr/
+Author: Jay_Parkash
+
+--- Summary ---
+Uber SDE-2 Interview Experience : LLD, HLD, DSA & Hiring Manager Round
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  THUMBS_DOWN: 1
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: xs0Nypfm
+Title: Test 2 
+Slug: test-2-by-ali_2202-zgtj
+Article Type: DISCUSSION
+Posted: 2026-07-31 19:58:19 IST
+Updated: 2026-07-31 19:58:19 IST
+URL: https://leetcode.com/discuss/post/8432915/test-2-by-ali_2202-zgtj/
+Author: Ali_2202
+
+--- Tags ---
+  - operating-system (operating-system) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: cHx98MmM
+Title: Daily Coding Challenge until i land a SWE job at Google - Day 5
+Slug: daily-coding-challenge-until-i-land-a-sw-t3j7
+Article Type: DISCUSSION
+Posted: 2026-07-31 19:54:27 IST
+Updated: 2026-07-31 19:54:27 IST
+URL: https://leetcode.com/discuss/post/8432911/daily-coding-challenge-until-i-land-a-sw-t3j7/
+Author: hanchivi39
+
+--- Summary ---
+If you are interested in practicing Leetcode. I've compiled a collection of common coding interview and LeetCode problems, each with detailed explanations and solutions.GitHub Repository: Stewie-pixel/claude-with-leetcodeProblem
+Minimum Number of Pus
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+  - july-leetcoding-challenge (july-leetcoding-challenge) []
+  - 31-Day LeetCoding Challenge (31-day-leetcoding-challenge) []
+  - daily dsa session (daily-dsa-session) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: A98KBNUs
+Title: Need Referal 
+Slug: need-referal-by-_baki_hanma-6n8n
+Article Type: DISCUSSION
+Posted: 2026-07-31 19:46:06 IST
+Updated: 2026-07-31 19:46:06 IST
+URL: https://leetcode.com/discuss/post/8432892/need-referal-by-_baki_hanma-6n8n/
+Author: _BAKI_HANMA
+
+--- Summary ---
+Hi everyone,I’m looking to apply for a Software Engineer role at Deutsche Telekom and was wondering if anyone here is currently working there or has connections who might be open to giving a referral. I have experience in Java backend development, RE
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4XMiI4gj
+Title: Fresher looking for job
+Slug: fresher-looking-for-job-by-adityaa1-qx6g
+Article Type: DISCUSSION
+Posted: 2026-07-31 19:39:54 IST
+Updated: 2026-07-31 19:39:54 IST
+URL: https://leetcode.com/discuss/post/8432879/fresher-looking-for-job-by-adityaa1-qx6g/
+Author: AdityaA1
+
+--- Summary ---
+Hi everyone,I graduated with a B.Tech in Computer Science Engineering in 2025. Like many others, I had plans after graduation and spent a significant amount of time preparing for GATE, hoping to pursue higher studies through IITs/NITs. Unfortunately,
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nGjs5GwF
+Title: Siemens healthineers - Software Trainee Engineer position - July 2026
+Slug: siemens-healthineers-poftware-trainee-en-r967
+Article Type: DISCUSSION
+Posted: 2026-07-31 19:29:19 IST
+Updated: 2026-07-31 19:29:37 IST
+URL: https://leetcode.com/discuss/post/8432857/siemens-healthineers-poftware-trainee-en-r967/
+Author: 
+
+--- Summary ---
+I applied to this position on 3rd july , got mail on 10 july regarding resume was sent to hiring manager for review . after that no response from them , application status is in process(Recruiter) .Anyone got any response ? Please help
+
+--- Tags ---
+  - Siemens (siemens) [COMPANY]
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 5paQoWyo
+Title: NEW GUY HERE
+Slug: new-guy-here-by-vatsalsinh-d2ps
+Article Type: DISCUSSION
+Posted: 2026-07-31 19:03:42 IST
+Updated: 2026-07-31 19:03:42 IST
+URL: https://leetcode.com/discuss/post/8432817/new-guy-here-by-vatsalsinh-d2ps/
+Author: vatsalsinh
+
+--- Summary ---
+Hyy, So I just created my first LEETCODE account. I am vatsal currently doing BCA dual specialization i'm a first year student started a week ago. I wish to upskill myself, currently im learning C , HTML , CSS , JS , JQUERY. I hope if someone could t
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: sCPBl2tn
+Title: How is the culture at NetApp India?
+Slug: how-is-the-culture-at-netapp-india-by-an-7gac
+Article Type: DISCUSSION
+Posted: 2026-07-31 18:09:36 IST
+Updated: 2026-07-31 18:10:03 IST
+URL: https://leetcode.com/discuss/post/8432747/how-is-the-culture-at-netapp-india-by-an-7gac/
+Author: 
+
+--- Summary ---
+I have read some good things about NetApp in LeetCode discuss.
+How true is it ?
+In terms of job security, increments, promotions, WLB etc.
+This is in only in context to India.
+
+--- Tags ---
+  - NetApp (netapp) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #35
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Cfa5WUcM
+Title: [C++] Greedy + Frequency Sort | Clean & Optimal Solution | O(n)
+Slug: c-greedy-frequency-sort-clean-optimal-so-23z7
+Article Type: DISCUSSION
+Posted: 2026-07-31 17:29:03 IST
+Updated: 2026-07-31 17:29:03 IST
+URL: https://leetcode.com/discuss/post/8432676/c-greedy-frequency-sort-clean-optimal-so-23z7/
+Author: bourkibate-abdessamad
+
+--- Summary ---
+IntuitionTo minimize the total number of key presses, we must assign the most frequently occurring letters to the first positions on the keypad (which require only 1 push). The next most frequent letters should be placed in the second positions (requ
+
+════════════════════════════════════════════════════════════════════════════════
+Article #36
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7MX6top0
+Title: Microsoft | L61 | Offer | India
+Slug: microsoft-sde-2-l61-compensation-by-anon-7rom
+Article Type: DISCUSSION
+Posted: 2026-07-31 16:57:01 IST
+Updated: 2026-08-01 11:02:14 IST
+URL: https://leetcode.com/discuss/post/8432617/microsoft-sde-2-l61-compensation-by-anon-7rom/
+Author: 
+
+--- Summary ---
+Previous Company - Google
+Previous Compensation - 45L Per yearMicrosoft Offer -CTC ~ 1.3 crBase Salary - 34L
+Performance Bonus - 6.8L
+Stocks - 80,000 USD (25% Vesting per year)
+Joining Bonus - 10.2L (7L first year, 3.2L second month)Yearly Compensati
+
+--- Reactions ---
+  UPVOTE: 12
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #37
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: QUmI40fU
+Title: 297. Serialize and Deserialize Binary Tree
+Slug: 297-serialize-and-deserialize-binary-tre-0g4w
+Article Type: DISCUSSION
+Posted: 2026-07-31 16:38:08 IST
+Updated: 2026-07-31 16:38:08 IST
+URL: https://leetcode.com/discuss/post/8432594/297-serialize-and-deserialize-binary-tre-0g4w/
+Author: sooomnath
+
+--- Summary ---
+I’m getting an invalid testcase error: "name 'Or' is not defined".
+Has anyone else encountered this issue?
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #38
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: YpOblJfY
+Title:  heres exactly how i decide between BFS and DFS in 5 seconds
+Slug: heres-exactly-how-i-decide-between-bfs-a-d9lt
+Article Type: DISCUSSION
+Posted: 2026-07-31 15:04:39 IST
+Updated: 2026-07-31 15:04:39 IST
+URL: https://leetcode.com/discuss/post/8432442/heres-exactly-how-i-decide-between-bfs-a-d9lt/
+Author: 
+
+--- Summary ---
+wasted so much time early on picking the wrong traversal. used DFS when BFS was needed, got wrong answers. used BFS when DFS was cleaner, wrote 30 lines instead of 10. then i found the rule:BFS when you need SHORTEST / LEVEL-BY-LEVEL.
+DFS when you ne
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+  - DSA Resources (dsa-resources) []
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #39
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: HKEf4N4e
+Title: Albertsons Companies | Staff Software Engineer | Bengaluru
+Slug: albertsons-companies-staff-software-engi-z5hr
+Article Type: DISCUSSION
+Posted: 2026-07-31 15:01:57 IST
+Updated: 2026-07-31 15:05:23 IST
+URL: https://leetcode.com/discuss/post/8432436/albertsons-companies-staff-software-engi-z5hr/
+Author: 
+
+--- Summary ---
+Education: B.Tech, Tier 3
+Years of Experience: 11
+Prior Salary: 3600000 + 400000 (variable)
+Company: Albertsons Companies India
+Title/Level: Staff Software Engineer
+Profile: Fullstack
+Location: Bengaluru
+Fixed Salary: 5000000
+Variable Bonus: 500000
+R
+
+--- Tags ---
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #40
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: sSeMPBKT
+Title: Microsoft L61/L62 Interview Experience 
+Slug: microsoft-l61l62-interview-experience-by-c5xm
+Article Type: DISCUSSION
+Posted: 2026-07-31 14:05:07 IST
+Updated: 2026-07-31 14:05:07 IST
+URL: https://leetcode.com/discuss/post/8432358/microsoft-l61l62-interview-experience-by-c5xm/
+Author: 
+
+--- Summary ---
+I recently gave the Interviews for Microsoft SDE-2. There were a total of 9 Rounds (2 OAs and 7 Interview Rounds).First Round (Online Assessment) -
+Consisted of 1 Graph and 1 Greedy question. Solved both questions.Second Round (LLD) -
+Designed and im
+
+--- Reactions ---
+  UPVOTE: 5
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #41
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: gsgU1a95
+Title: Failed interviews at 12 companies this year so far...
+Slug: failed-interviews-at-12-companies-this-y-8ssz
+Article Type: DISCUSSION
+Posted: 2026-07-31 13:30:13 IST
+Updated: 2026-07-31 13:30:13 IST
+URL: https://leetcode.com/discuss/post/8432312/failed-interviews-at-12-companies-this-y-8ssz/
+Author: 
+
+--- Summary ---
+This year I got the opportunity to interview at the below companies, but some or the other round went wrong and I failed to switch:
+Sprinklr
+Arista
+MMT
+Kotak Mahindra Bank
+Akamai
+Adobe
+Credgenics
+Rubrik
+Amazon
+Salesforce
+Arrise
+Flipkart
+Bit about me:
+
+--- Reactions ---
+  UPVOTE: 14
+
+════════════════════════════════════════════════════════════════════════════════
+Article #42
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: UVDyAroC
+Title: A Minimalist Workflow for Solving LeetCode Problems Professionally
+Slug: a-minimalist-workflow-for-solving-leetco-o83a
+Article Type: DISCUSSION
+Posted: 2026-07-31 13:13:53 IST
+Updated: 2026-07-31 13:13:53 IST
+URL: https://leetcode.com/discuss/post/8432292/a-minimalist-workflow-for-solving-leetco-o83a/
+Author: 88QjgsiQwj
+
+--- Summary ---
+Solving more problems helps, but a repeatable process matters more than raw
+submission count. This is the workflow I use to keep solutions correct,
+minimal, and reviewable.1. Identify the invariant firstBefore writing code, state what must remain tru
+
+--- Tags ---
+  - study guide (study-guide) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #43
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6Yi0RL5I
+Title: 31072026 - Minimum Number of Pushes to Type Word II
+Slug: 31072026-minimum-number-of-pushes-to-typ-yx5y
+Article Type: DISCUSSION
+Posted: 2026-07-31 12:39:48 IST
+Updated: 2026-07-31 12:39:48 IST
+URL: https://leetcode.com/discuss/post/8432238/31072026-minimum-number-of-pushes-to-typ-yx5y/
+Author: Parth12999cde
+
+--- Summary ---
+IntuitionInitially, I started thinking about actually remapping the keypad.My first idea was to create a new keypad layout where every distinct character of the word would occupy the first position on a key so that every character would require only
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #44
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ch4E3qEW
+Title: The Ultimate DP Patterns & Problems Compendium
+Slug: the-ultimate-dp-patterns-problems-compen-4bqm
+Article Type: DISCUSSION
+Posted: 2026-07-31 12:19:09 IST
+Updated: 2026-07-31 12:53:45 IST
+URL: https://leetcode.com/discuss/post/8432191/the-ultimate-dp-patterns-problems-compen-4bqm/
+Author: Pankajj_42
+
+--- Summary ---
+The Ultimate Dynamic Programming Master CompendiumHello LeetCode community! 👋A Unified Reference Integrating Striver, AlgoMaster, CSES, AtCoder, USACO, CP-Algorithms & LeetCode
+Patterns: 22 Core + 8 Advanced | Problems: 400+ curated links
+Use this as
+
+--- Tags ---
+  - DP world (dp-world) [COMPANY]
+  - DSA (dsa) []
+  - patterns (patterns-2) []
+
+--- Reactions ---
+  UPVOTE: 24
+
+════════════════════════════════════════════════════════════════════════════════
+Article #45
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: UbjcRgry
+Title: Day 43/365 - Minimum Number of Pushes to Type Word II
+Slug: day-43365-minimum-number-of-pushes-to-ty-oky3
+Article Type: DISCUSSION
+Posted: 2026-07-31 11:55:17 IST
+Updated: 2026-07-31 11:55:17 IST
+URL: https://leetcode.com/discuss/post/8432130/day-43365-minimum-number-of-pushes-to-ty-oky3/
+Author: parth-jaybhaye
+
+--- Summary ---
+IntuitionUnlike the previous problem, this time the letters can appear multiple times. That means I should assign the most frequently used letters to the positions that require the fewest key presses.The more often a letter appears, the more benefit
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #46
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1SEBvHBe
+Title: How to Filter for Questions asked in last 6 months
+Slug: how-to-filter-for-questions-asked-in-las-xw3m
+Article Type: DISCUSSION
+Posted: 2026-07-31 11:47:52 IST
+Updated: 2026-07-31 11:47:52 IST
+URL: https://leetcode.com/discuss/post/8432116/how-to-filter-for-questions-asked-in-las-xw3m/
+Author: CR09k2zieJ
+
+--- Summary ---
+Hi,In filter I see company name, filter by last submitted date.
+How do i filter by last 3-6 months.
+Lets say I want to have list of question asked in Google in last 6 months.
+
