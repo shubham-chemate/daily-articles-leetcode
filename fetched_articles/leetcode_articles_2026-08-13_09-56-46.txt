@@ -1,0 +1,888 @@
+LeetCode Discuss - Latest 44 Articles
+Fetched on: 2026-08-13 09:56:46 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: hvs5wrC2
+Title: What I learned building a benchmark for AI coding agents
+Slug: what-i-learned-building-a-benchmark-for-smnza
+Article Type: DISCUSSION
+Posted: 2026-08-13 09:09:12 IST
+Updated: 2026-08-13 09:09:12 IST
+URL: https://leetcode.com/discuss/post/8457899/what-i-learned-building-a-benchmark-for-smnza/
+Author: quangtrungleetcode
+
+--- Summary ---
+I've been building a platform that benchmarks AI coding agents — the kind that take a real repository plus a GitHub issue and try to produce a working patch. It runs SWE-bench Verified, SWE-bench Multilingual, Multi-SWE-bench, and SWE-PolyBench tasks
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: UBoBZe2q
+Title: BCA Freshman: What AI/ML project will be completely "Future-Proof" to recruiters in 3 years?
+Slug: bca-freshman-what-aiml-project-will-be-c-2nkn
+Article Type: DISCUSSION
+Posted: 2026-08-13 08:20:25 IST
+Updated: 2026-08-13 08:20:25 IST
+URL: https://leetcode.com/discuss/post/8457858/bca-freshman-what-aiml-project-will-be-c-2nkn/
+Author: DeepRoy_2007
+
+--- Summary ---
+Hey LeetCode Community,I am a 1st-year BCA student deeply passionate about AI, Machine Learning, and Automation.Looking ahead, I know that basic predictive models or generic projects (like movie recommenders or stock predictors) won't turn heads by t
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: HZRlxrnk
+Title: Agoda | Staff Software Engineer (Bangkok)
+Slug: agoda-staff-software-engineer-bangkok-by-0ozb
+Article Type: DISCUSSION
+Posted: 2026-08-13 08:18:47 IST
+Updated: 2026-08-13 08:18:47 IST
+URL: https://leetcode.com/discuss/post/8457856/agoda-staff-software-engineer-bangkok-by-0ozb/
+Author: 
+
+--- Summary ---
+I recently interviewed with Agoda for Staff Software Engineer role but after the Coding and Platform Design rounds, they downlevelled me to Senior Software Engineer and I haven't heard back from them after that. Anyone else face something similar?
+
+--- Tags ---
+  - Agoda (agoda) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2xfpl4Lz
+Title: 148. Sort List | Python | Merge Sort | O(n log n) | O(log n)
+Slug: 148-sort-list-python-merge-sort-on-log-n-tccm
+Article Type: DISCUSSION
+Posted: 2026-08-13 08:02:00 IST
+Updated: 2026-08-13 08:02:00 IST
+URL: https://leetcode.com/discuss/post/8457841/148-sort-list-python-merge-sort-on-log-n-tccm/
+Author: c8IIP8pUdz
+
+--- Summary ---
+ApproachI used Merge Sort to sort the linked list.Since linked lists do not support random access like arrays, Merge Sort works well here because we can divide the list using the slow and fast pointer technique and then merge the sorted halves.1. Fin
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WcWnN6je
+Title: Listening over Grinding
+Slug: listening-over-grinding-by-praxisx-9yol
+Article Type: DISCUSSION
+Posted: 2026-08-13 07:46:37 IST
+Updated: 2026-08-13 07:46:37 IST
+URL: https://leetcode.com/discuss/post/8457820/listening-over-grinding-by-praxisx-9yol/
+Author: Praxisx
+
+--- Summary ---
+Yesterday, I made a post about hitting 400 LeetCode problems.I was mostly doing Easy + Medium and was starting to realize that Backtracking and Trees were exposing some gaps in my problem-solving.So i asked people that how could i solve them..The com
+
+--- Tags ---
+  - Professional Growth (professional-growth) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Zy3jLtZH
+Title: school contest help
+Slug: school-contest-help-by-8bfdwdzugw-tezl
+Article Type: DISCUSSION
+Posted: 2026-08-13 06:19:11 IST
+Updated: 2026-08-13 06:19:11 IST
+URL: https://leetcode.com/discuss/post/8457769/school-contest-help-by-8bfdwdzugw-tezl/
+Author: 8bFDWdzuGw
+
+--- Summary ---
+School may give my name for LLM contest.
+In this I had to create a web or app using my idea, I can use LLM, api even third part api.
+I am good at cp and dsa, for this give me a guidance and roadmap which will take least time(as I am also preparing fo
+
+--- Tags ---
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Ez4wuw58
+Title: school contest help
+Slug: school-contest-help-by-8bfdwdzugw-m8a7
+Article Type: DISCUSSION
+Posted: 2026-08-13 06:19:06 IST
+Updated: 2026-08-13 06:19:06 IST
+URL: https://leetcode.com/discuss/post/8457768/school-contest-help-by-8bfdwdzugw-m8a7/
+Author: 8bFDWdzuGw
+
+--- Summary ---
+School may give my name for LLM contest.
+In this I had to create a web or app using my idea, I can use LLM, api even third part api.
+I am good at cp and dsa, for this give me a guidance and roadmap which will take least time(as I am also preparing fo
+
+--- Tags ---
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: yWZ94WPI
+Title: Career Dilemma at 15+ yrs exp in AI&Data- leadership track or architect/dev ?
+Slug: career-dilemma-at-15-yrs-exp-in-aidata-l-upuo
+Article Type: DISCUSSION
+Posted: 2026-08-13 05:39:18 IST
+Updated: 2026-08-13 05:39:18 IST
+URL: https://leetcode.com/discuss/post/8457746/career-dilemma-at-15-yrs-exp-in-aidata-l-upuo/
+Author: VfrlkdrImN
+
+--- Summary ---
+I got offer from india based GCC for manager position.I'm currently a lead developer with solid hands-on experience in AI and Data. I am getting offer for a role that's more Data-focused, whereas my background has leaned more toward AI. I'm also bein
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: a0sEEZnZ
+Title: How to Improve Website Performance for Educational Platforms?
+Slug: how-to-improve-website-performance-for-e-fmfk
+Article Type: DISCUSSION
+Posted: 2026-08-13 04:20:21 IST
+Updated: 2026-08-13 04:20:21 IST
+URL: https://leetcode.com/discuss/post/8457723/how-to-improve-website-performance-for-e-fmfk/
+Author: zigCCf3Xer
+
+--- Summary ---
+I’m working on an educational website called namazrakatguide.com and am exploring ways to improve its frontend performance and user experience.For developers building content-heavy educational websites, what techniques do you recommend for:
+Improving
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: CxJki0Jt
+Title: Salesforce Fullstack SMTS, How Bad is Taking a LWC+Java Job when lack of React Burned Me?
+Slug: salesforce-fullstack-smts-how-bad-is-tak-mapp
+Article Type: DISCUSSION
+Posted: 2026-08-13 03:54:17 IST
+Updated: 2026-08-13 03:54:17 IST
+URL: https://leetcode.com/discuss/post/8457716/salesforce-fullstack-smts-how-bad-is-tak-mapp/
+Author: 
+
+--- Summary ---
+Evaluating potential Salesforce SMTS offer for San Francisco location. I'm in the team-matching process and am considering a team that is based on Lightning Web Components and Java. I have 6 years of experience and all of them are Angular/TS. Not hav
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: IDcW8qEs
+Title: Efficient Data Structures for Managing Dynamic Menu Data
+Slug: efficient-data-structures-for-managing-d-k94v
+Article Type: DISCUSSION
+Posted: 2026-08-13 00:17:13 IST
+Updated: 2026-08-13 00:17:13 IST
+URL: https://leetcode.com/discuss/post/8457509/efficient-data-structures-for-managing-d-k94v/
+Author: samrena
+
+--- Summary ---
+Hi everyone,I'm working on a project that involves managing a large, frequently updated menu catalog, and I'm thinking about the most efficient data structures to use.The main operations will be: quickly retrieving items by category, applying real-ti
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7NErPusF
+Title: Can Algorithms Optimize a Recipe Recommendation System?
+Slug: can-algorithms-optimize-a-recipe-recomme-8psd
+Article Type: DISCUSSION
+Posted: 2026-08-13 00:15:42 IST
+Updated: 2026-08-13 00:15:42 IST
+URL: https://leetcode.com/discuss/post/8457503/can-algorithms-optimize-a-recipe-recomme-8psd/
+Author: samrena
+
+--- Summary ---
+Hi everyone,I'm exploring the idea of building a recipe recommendation system, and I'm curious about how to approach it from an algorithmic perspective.What are some effective ways to model user preferences and recipe attributes to generate personali
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vS1gXSi7
+Title: Designing a High-Availability User Feedback System
+Slug: designing-a-high-availability-user-feedb-mhyt
+Article Type: DISCUSSION
+Posted: 2026-08-13 00:14:26 IST
+Updated: 2026-08-13 00:14:26 IST
+URL: https://leetcode.com/discuss/post/8457499/designing-a-high-availability-user-feedb-mhyt/
+Author: samrena
+
+--- Summary ---
+Hi everyone,I'm designing a user feedback and survey platform and I'm thinking about the best way to architect the system to handle high traffic and ensure data integrity.Key challenges I'm considering include: managing a large volume of concurrent s
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 72XlfgDb
+Title: How Are Physics Engines Implemented in Racing Games?
+Slug: how-are-physics-engines-implemented-in-r-s6of
+Article Type: DISCUSSION
+Posted: 2026-08-13 00:13:34 IST
+Updated: 2026-08-13 00:13:34 IST
+URL: https://leetcode.com/discuss/post/8457497/how-are-physics-engines-implemented-in-r-s6of/
+Author: samrena
+
+--- Summary ---
+Hi everyone,I've always been fascinated by the physics in racing games and I'm curious about how they are implemented from a programming perspective.What are the core algorithms and data structures used to simulate realistic car handling, collision d
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: D3Plyo5I
+Title: Best Strategies for Optimizing Mobile Web Application Performance
+Slug: best-strategies-for-optimizing-mobile-we-87j1
+Article Type: DISCUSSION
+Posted: 2026-08-13 00:12:28 IST
+Updated: 2026-08-13 00:12:28 IST
+URL: https://leetcode.com/discuss/post/8457493/best-strategies-for-optimizing-mobile-we-87j1/
+Author: samrena
+
+--- Summary ---
+Hi everyone,I've been working on a mobile-friendly web application and I'm curious about the best strategies for optimizing performance on low-end Android devices.Specifically, I'm looking for advice on reducing initial load time, minimizing layout s
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZNRhbrEj
+Title: TraceLink SDE 1 Interview Experience – Manager Round
+Slug: tracelink-sde-1-interview-experience-man-zvz1
+Article Type: DISCUSSION
+Posted: 2026-08-12 23:50:35 IST
+Updated: 2026-08-12 23:50:35 IST
+URL: https://leetcode.com/discuss/post/8457440/tracelink-sde-1-interview-experience-man-zvz1/
+Author: 
+
+--- Summary ---
+Has anyone interviewed at TraceLink for the Software Engineer I (SDE 1) role recently?I have a manager round coming up and would love to hear about your experience. What should I expect in terms of coding, backend questions, system design, or behavio
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DfueUQQV
+Title: LLD and HLD Preparation
+Slug: lld-and-hld-preparation-by-anonymous_use-7tps
+Article Type: DISCUSSION
+Posted: 2026-08-12 23:16:37 IST
+Updated: 2026-08-12 23:16:37 IST
+URL: https://leetcode.com/discuss/post/8457376/lld-and-hld-preparation-by-anonymous_use-7tps/
+Author: 
+
+--- Summary ---
+Hi everyone,I was preparing for a switch (~3 years of experience).
+I was looking for someone who seriously wants to prepare for these interviews. Gave some interviews recently and figured out I needed to improve.If you are seriously preparing for it,
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: NmTxJym7
+Title: Okta Staff Software Engineer Experience (Offer) | Bangalore
+Slug: okta-staff-software-engineer-experience-bxat4
+Article Type: DISCUSSION
+Posted: 2026-08-12 23:14:03 IST
+Updated: 2026-08-12 23:14:03 IST
+URL: https://leetcode.com/discuss/post/8457372/okta-staff-software-engineer-experience-bxat4/
+Author: 
+
+--- Summary ---
+Gating: Round 1 is pass/fail. Loop is Round 2, 3, 4 and then Round 5 is HMInterviewer seniority: Round 1 was a Senior Engineer. Rounds 2 and 3 were both Staff Software Engineers — essentially peers to the role. Round 4 (System Design) was an Architec
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: PzNWgXlL
+Title: Microsoft L62 vs Disney Sr. Prod Dev Eng 2 (Compensation Eval)
+Slug: microsoft-l62-vs-disney-sr-prod-dev-eng-lb9vv
+Article Type: DISCUSSION
+Posted: 2026-08-12 23:07:49 IST
+Updated: 2026-08-12 23:19:58 IST
+URL: https://leetcode.com/discuss/post/8457353/microsoft-l62-vs-disney-sr-prod-dev-eng-lb9vv/
+Author: 
+
+--- Summary ---
+Background:-Education: Tier 1 Comp Science
+YOE: 5+
+Last Comp: 40 Fixed + 10L/Year RSUs (Total = ~50LPA)
+Last Company: Top PBCOffer Details:-Disney - Senior Product Development Engineer 2:-Base: 48.5L (Incl PF)
+JB: 2L + 2L
+New Hire RSUs: 20k USD (3 ye
+
+--- Tags ---
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Azmjlcyk
+Title: NetApp MTS1 Offer: Is this good for 1.3 YOE in India? 
+Slug: netapp-mts1-offer-is-this-good-for-13-yo-dg5w
+Article Type: DISCUSSION
+Posted: 2026-08-12 22:55:12 IST
+Updated: 2026-08-12 22:55:12 IST
+URL: https://leetcode.com/discuss/post/8457320/netapp-mts1-offer-is-this-good-for-13-yo-dg5w/
+Author: 
+
+--- Summary ---
+Hi everyone,I received an offer from NetApp for an MTS1 role in Bengaluru and would appreciate feedback on the compensation and whether the switch makes sense.Experience: 1.3 years
+Current company: Startup ( Series A fintech)Current compensation
+Fixe
+
+--- Tags ---
+  - Career (career) []
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WqoaDWye
+Title: Day 6 of My DSA Journey | Product of Array Except Self & Merge Sorted Array
+Slug: day-6-of-my-dsa-journey-product-of-array-sf9d
+Article Type: DISCUSSION
+Posted: 2026-08-12 22:18:02 IST
+Updated: 2026-08-12 22:18:02 IST
+URL: https://leetcode.com/discuss/post/8457231/day-6-of-my-dsa-journey-product-of-array-sf9d/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today was Day 6 of my DSA journey.Today I continued practicing Arrays and focused on two important problems that helped me strengthen my understanding of prefix/suffix techniques, in-place algorithms, and two-pointer approaches.Today I worked on:
+Pro
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: sRQL2q3L
+Title: 2958. Length of Longest Subarray With at Most K Frequency — Sliding Window
+Slug: 2958-length-of-longest-subarray-with-at-z5gp5
+Article Type: DISCUSSION
+Posted: 2026-08-12 22:13:25 IST
+Updated: 2026-08-12 22:13:25 IST
+URL: https://leetcode.com/discuss/post/8457226/2958-length-of-longest-subarray-with-at-z5gp5/
+Author: c8IIP8pUdz
+
+--- Summary ---
+ApproachI used a Sliding Window with a frequency hashmap.
+high expands the window and adds the current element to freq.
+If the frequency of the current element becomes greater than k, we move low forward until the frequency becomes valid again.
+For e
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: QYnbmHC5
+Title: Amazon SDE II Interview Experience 2026
+Slug: amazon-sde-ii-interview-experience-2026-19lzv
+Article Type: DISCUSSION
+Posted: 2026-08-12 21:25:23 IST
+Updated: 2026-08-13 00:03:59 IST
+URL: https://leetcode.com/discuss/post/8457154/amazon-sde-ii-interview-experience-2026-19lzv/
+Author: 
+
+--- Summary ---
+Hey everyone,I recently went through the interview process for an SDE II role at Amazon, and wanted to share my experience.The process consisted of a phone screen followed by a full interview loop covering LLD, DSA, HLD, and Leadership Principles.The
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 20
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: VTtJCOE4
+Title: SDET Interview Experience at Arcana — What to Expect?
+Slug: sdet-interview-experience-at-arcana-what-ovfn
+Article Type: DISCUSSION
+Posted: 2026-08-12 20:47:07 IST
+Updated: 2026-08-12 20:47:07 IST
+URL: https://leetcode.com/discuss/post/8457086/sdet-interview-experience-at-arcana-what-ovfn/
+Author: _Ankitkumarsingh
+
+--- Summary ---
+Hi everyone,I have an upcoming interview for an SDET role at Arcana next Monday and was wondering if anyone here has interviewed for a similar position recently.If you have, I’d really appreciate any insights into:What the interview rounds were like
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6sxGNctR
+Title: 279 Problems Solved | LeetCode Knight | Contest Rating 1888
+Slug: 279-problems-solved-leetcode-knight-cont-bkwi
+Article Type: DISCUSSION
+Posted: 2026-08-12 19:59:11 IST
+Updated: 2026-08-12 19:59:11 IST
+URL: https://leetcode.com/discuss/post/8457002/279-problems-solved-leetcode-knight-cont-bkwi/
+Author: c8IIP8pUdz
+
+--- Summary ---
+279 problems solved and finally reached the Knight badge with a contest rating of 1888, placing me in the Top 4.97% of contests.Stats:
+279 Problems Solved
+150 Easy
+117 Medium
+12 Hard
+1888 Contest Rating
+Knight Badge
+139 Active Days
+50 Days Max Streak
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: npwnPPN7
+Title: Looking for Advice on Handling Large Amounts of Data Efficiently
+Slug: looking-for-advice-on-handling-large-amo-24gc
+Article Type: DISCUSSION
+Posted: 2026-08-12 19:08:32 IST
+Updated: 2026-08-12 19:08:32 IST
+URL: https://leetcode.com/discuss/post/8456914/looking-for-advice-on-handling-large-amo-24gc/
+Author: usamabh
+
+--- Summary ---
+I’m working on a project that needs to handle a fairly large amount of data, and I’m trying to figure out the best way to keep the application responsive as the data grows.One example is a https://moviesblastapp.com/ where content needs to be loaded
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Rlt2vxCU
+Title: Harness Engineering Explained: What It Is, Why It Matters and How It Works (With Real Examples)
+Slug: harness-engineering-explained-what-it-is-x8sf
+Article Type: DISCUSSION
+Posted: 2026-08-12 18:14:41 IST
+Updated: 2026-08-12 18:14:41 IST
+URL: https://leetcode.com/discuss/post/8456825/harness-engineering-explained-what-it-is-x8sf/
+Author: Jay_Parkash
+
+--- Summary ---
+Harness Engineering Explained: What It Is, Why It Matters and How It Works (With Real Examples)
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: QDeUuuLu
+Title: Day 55/365 - Length of Longest Subarray With at Most K Frequency
+Slug: day-55365-length-of-longest-subarray-wit-a6d3
+Article Type: DISCUSSION
+Posted: 2026-08-12 17:50:36 IST
+Updated: 2026-08-12 17:50:36 IST
+URL: https://leetcode.com/discuss/post/8456788/day-55365-length-of-longest-subarray-wit-a6d3/
+Author: parth-jaybhaye
+
+--- Summary ---
+IntuitionThe condition only depends on the frequency of elements inside the current subarray. This naturally suggests using a sliding window, where I expand the window while it's valid and shrink it whenever any element appears more than k times.Key
+
+--- Reactions ---
+  UPVOTE: 1
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: TUxNQloh
+Title: Add Two Numbers - Java Solution | LeetCode 2
+Slug: add-two-numbers-java-solution-leetcode-2-e5sc
+Article Type: DISCUSSION
+Posted: 2026-08-12 17:37:40 IST
+Updated: 2026-08-12 17:37:40 IST
+URL: https://leetcode.com/discuss/post/8456765/add-two-numbers-java-solution-leetcode-2-e5sc/
+Author: prathamesh_narale_45
+
+--- Summary ---
+ApproachWe process both linked lists digit by digit, starting from the least significant digit because the digits are stored in reverse order.At each step:
+Add the values of the current nodes.
+Add the carry from the previous step.
+Store sum % 10 in t
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: eNzFX9C6
+Title: Canonical Python Engineer – DevSkiller Technical Assessment
+Slug: canonical-python-engineer-devskiller-tec-42e4
+Article Type: DISCUSSION
+Posted: 2026-08-12 16:56:18 IST
+Updated: 2026-08-12 16:56:18 IST
+URL: https://leetcode.com/discuss/post/8456692/canonical-python-engineer-devskiller-tec-42e4/
+Author: 
+
+--- Summary ---
+I’ve progressed to the technical assessment stage for a Python Engineer role at Canonical, with the test being conducted through DevSkiller.For anyone who has taken a recent Canonical/DevSkiller assessment:
+What kind of questions should I expect?
+Is
+
+--- Tags ---
+  - Canonical (canonical) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: PUlZkzwC
+Title: How to Calculate UK Bank Holidays Programmatically — Date Logic for All 4 Nations
+Slug: how-to-calculate-uk-bank-holidays-progra-fbhv
+Article Type: DISCUSSION
+Posted: 2026-08-12 16:41:54 IST
+Updated: 2026-08-12 16:41:54 IST
+URL: https://leetcode.com/discuss/post/8456666/how-to-calculate-uk-bank-holidays-progra-fbhv/
+Author: stephenkingg567
+
+--- Summary ---
+UK bank holiday logic is trickier than it looks. Dates vary across England, Wales, Scotland and Northern Ireland — and some holidays use substitute day rules when they fall on weekends.Key challenges:
+Easter calculation (Good Friday + Easter Monday)
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: bq3POfiV
+Title: Length of Longest Subarray With at Most K Frequency | LeetCode 2958
+Slug: length-of-longest-subarray-with-at-most-2l2b1
+Article Type: DISCUSSION
+Posted: 2026-08-12 16:30:05 IST
+Updated: 2026-08-12 16:30:05 IST
+URL: https://leetcode.com/discuss/post/8456650/length-of-longest-subarray-with-at-most-2l2b1/
+Author: tanwar04
+
+--- Summary ---
+Solved today's LeetCode Daily – 2958. Length of Longest Subarray With at Most K Frequency.This was a good Medium problem to practice the Sliding Window + HashMap pattern.The idea was pretty simple once I understood what needed to be maintained:
+Keep
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kTywGLlo
+Title: SDE-2 with zero referral callbacks: Is the market this dry or is my resume broken?
+Slug: sde-2-with-zero-referral-callbacks-is-th-nxbb
+Article Type: DISCUSSION
+Posted: 2026-08-12 15:53:01 IST
+Updated: 2026-08-12 15:54:59 IST
+URL: https://leetcode.com/discuss/post/8456597/sde-2-with-zero-referral-callbacks-is-th-nxbb/
+Author: 
+
+--- Summary ---
+I'm currently an SDE-2 with 5+ years of solid backend experience, coming from a Tier-3 college. I’ve been actively looking to switch for a while now.
+Current CTC: 55LPA
+I’ve applied to around 30 companies exclusively via employee referrals, but I hav
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4m47J38l
+Title: EatClub (Box8) SDE(Intern + PPO) Interview Experience | On-Campus | ₹22 LPA CTC
+Slug: eatclub-box8-sde-interview-experience-on-yimt
+Article Type: DISCUSSION
+Posted: 2026-08-12 15:47:12 IST
+Updated: 2026-08-12 23:51:50 IST
+URL: https://leetcode.com/discuss/post/8456586/eatclub-box8-sde-interview-experience-on-yimt/
+Author: akjinit
+
+--- Summary ---
+Sharing my interview experience for anyone preparing for similar SDE roles. I wasn't selected, but the process was a good learning experience.Phase 1 — Online Assessment (HackerRank)The OA consisted of 3 coding questions:
+
+Easy — Counting non-overlap
+
+--- Tags ---
+  - Career (career) []
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #35
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: EWKwqwdQ
+Title: 20 lakhs vs 25 lakhs offer | SDE2 | 1 yr 
+Slug: 20-lakhs-vs-25-lakhs-offer-sde2-1-yr-by-phy3u
+Article Type: DISCUSSION
+Posted: 2026-08-12 15:10:34 IST
+Updated: 2026-08-12 15:30:59 IST
+URL: https://leetcode.com/discuss/post/8456507/20-lakhs-vs-25-lakhs-offer-sde2-1-yr-by-phy3u/
+Author: 
+
+--- Summary ---
+Background: 1 yr experience, 17 lakh fixed in startup
+Tech Stack in which i have experience in: Golang, Docker, KubernetesI have 2 offers from MNCs :1st (Golang role)
+20 base2nd (Full Stack role)
+25 base,Both are offering variable + equityhow to nego
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #36
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Mt7PR06e
+Title: Longest Subarray With Controlled Frequencies
+Slug: longest-subarray-with-controlled-frequen-2777
+Article Type: DISCUSSION
+Posted: 2026-08-12 14:33:19 IST
+Updated: 2026-08-12 14:33:19 IST
+URL: https://leetcode.com/discuss/post/8456463/longest-subarray-with-controlled-frequen-2777/
+Author: sainijhalak
+
+--- Summary ---
+Longest Subarray With Controlled FrequenciesYou are given an integer array nums and two integers k and m.A subarray is called controlled if:
+Every distinct element appears at most k times.
+Exactly m distinct elements appear exactly k times.
+All other
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #37
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: mw0A53mP
+Title: Forward Networks Coding Interviews | Aug 2026 | 3 coding + 1 HM
+Slug: forward-networks-coding-interviews-aug-2-t1gq
+Article Type: DISCUSSION
+Posted: 2026-08-12 14:13:33 IST
+Updated: 2026-08-12 14:19:04 IST
+URL: https://leetcode.com/discuss/post/8456425/forward-networks-coding-interviews-aug-2-t1gq/
+Author: siDAAN
+
+--- Summary ---
+First round - Recursive Routing Table Lookup (Longest Prefix Match)Problem StatementYou are implementing a simplified IPv4 routing engine.You are given a routing table where each entry consists of:An IPv4 subnet in CIDR notation (e.g., 10.0.0.0/8, 19
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #38
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: YCLDLOg8
+Title: 288 → 390 Problems in 15 Days — What Changed in My DSA Journey?
+Slug: 288-390-problems-in-15-days-what-changed-59hv
+Article Type: DISCUSSION
+Posted: 2026-08-12 13:59:53 IST
+Updated: 2026-08-12 13:59:53 IST
+URL: https://leetcode.com/discuss/post/8456402/288-390-problems-in-15-days-what-changed-59hv/
+Author: preetham054
+
+--- Summary ---
+From 288 to 390: 102 LeetCode Problems in 15 DaysFifteen days ago, I had solved 288 problems on LeetCode. Today, I reached 390.That is an improvement of 102 problems in 15 days.More importantly, this period has changed the way I approach problem solv
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #39
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: FI5G6KUt
+Title: 400 Questions solved
+Slug: 400-questions-solved-by-praxisx-mov1
+Article Type: DISCUSSION
+Posted: 2026-08-12 13:04:52 IST
+Updated: 2026-08-12 13:04:52 IST
+URL: https://leetcode.com/discuss/post/8456313/400-questions-solved-by-praxisx-mov1/
+Author: Praxisx
+
+--- Summary ---
+300 --> 20 days ago.
+400 --> today.100 problems in 20 days.Not gonna lie, lost some speed. Part of it was college paperwork eating my days, part of it was hitting backtracking and trees head on. That combo humbled me a bit ngl.Backtracking especially
+
+--- Reactions ---
+  UPVOTE: 7
+  THUMBS_DOWN: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #40
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: IJd9qxmx
+Title: 🚀 Amazon SDE Intern-2027 OA Experience | Array + AI Dev Task
+Slug: amazon-sde-intern-2027-oa-experience-arr-vkv5
+Article Type: DISCUSSION
+Posted: 2026-08-12 12:08:36 IST
+Updated: 2026-08-12 12:08:36 IST
+URL: https://leetcode.com/discuss/post/8456182/amazon-sde-intern-2027-oa-experience-arr-vkv5/
+Author: mohitkumhar
+
+--- Summary ---
+Hey everyone, I recently took the Amazon Intern-2027 Online Assessment and wanted to share a quick overview of the format.There were 2 main questions:1. DSA Question (Array - Medium)
+This was a medium difficulty problem based strictly on Arrays. My i
+
+--- Reactions ---
+  UPVOTE: 7
+
+════════════════════════════════════════════════════════════════════════════════
+Article #41
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: tX0O4vh9
+Title: Amazon passed OA, invited to 4 rounds ( New grad ).
+Slug: amazon-passed-oa-invited-to-4-rounds-new-ki9c
+Article Type: DISCUSSION
+Posted: 2026-08-12 11:53:58 IST
+Updated: 2026-08-12 11:53:58 IST
+URL: https://leetcode.com/discuss/post/8456144/amazon-passed-oa-invited-to-4-rounds-new-ki9c/
+Author: DomkeB
+
+--- Summary ---
+Hi leetcoders,I have just received an email that they want to schedule 4 meetings. I was wondering if there is someone who recently went trough this process and can give more details. I know there is no way to be prepared for everything but I want to
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #42
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: YrPXfFPp
+Title: Top 10 Linked List Patterns Every Beginner Should Master (With LeetCode Problems)
+Slug: top-10-linked-list-patterns-every-beginn-0k3l
+Article Type: DISCUSSION
+Posted: 2026-08-12 10:34:18 IST
+Updated: 2026-08-12 10:34:18 IST
+URL: https://leetcode.com/discuss/post/8455981/top-10-linked-list-patterns-every-beginn-0k3l/
+Author: Kumarshivambhardwaj
+
+--- Summary ---
+Why this post?When I first started solving Linked List problems, every question looked completely different. After practicing consistently, I realized that most Linked List problems are built on just a few recurring patterns.
+Instead of memorizing so
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #43
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 3AQouTNX
+Title: Leetcode for beginners
+Slug: leetcode-for-beginners-by-devmyre-y04v
+Article Type: DISCUSSION
+Posted: 2026-08-12 10:01:20 IST
+Updated: 2026-08-12 10:01:20 IST
+URL: https://leetcode.com/discuss/post/8455925/leetcode-for-beginners-by-devmyre-y04v/
+Author: Devmyre
+
+--- Summary ---
+How to start Leetcode without burning outIf you're just starting LeetCode, here's one piece of advice:Don't solve random problems. Learn patterns instead.When I first started, I thought solving more questions meant making more progress. But after a w
+
+--- Tags ---
+  - The LeetCode Beginner's Guide (the-leetcode-beginners-guide) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #44
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: TULdn6F1
+Title: Flipkart SDE-2 Interview Experience (Jan 2026) | Offline Drive | Selected
+Slug: flipkart-sde-2-interview-experience-jan-o8ngx
+Article Type: DISCUSSION
+Posted: 2026-08-12 08:39:21 IST
+Updated: 2026-08-12 08:39:21 IST
+URL: https://leetcode.com/discuss/post/8455829/flipkart-sde-2-interview-experience-jan-o8ngx/
+Author: dnvavinash
+
+--- Summary ---
+Background2.5 years of experience (non-internship) at Amadeus Software Labs.Applied for the Flipkart SDE-2 role in the first week of January. Got a call from HR shortly after, followed by an assessment link the next day.Round 1 — Online Assessment (2
+
+--- Tags ---
+  - Flipkart (flipkart) [COMPANY]
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+  - SDE 2 (sde-2-3) []
+
+--- Reactions ---
+  UPVOTE: 10
+
