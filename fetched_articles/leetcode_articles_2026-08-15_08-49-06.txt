@@ -1,0 +1,723 @@
+LeetCode Discuss - Latest 35 Articles
+Fetched on: 2026-08-15 08:49:06 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2BSYX6pQ
+Title: Microsoft L61 - SE - HackerRank Live Coding
+Slug: microsoft-l61-se-hackerrank-live-coding-e3e2m
+Article Type: DISCUSSION
+Posted: 2026-08-15 08:17:45 IST
+Updated: 2026-08-15 08:17:45 IST
+URL: https://leetcode.com/discuss/post/8461584/microsoft-l61-se-hackerrank-live-coding-e3e2m/
+Author: 
+
+--- Summary ---
+Got this question - Alien dictionary in Hacker Rank live coding round : https://leetcode.com/problems/alien-dictionary/description/The interviewer was nice and I had around 45 mins to do this. 10-15 mins went into intro and project discussion.I was n
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: glUpRVBZ
+Title: Leetcode for System Design
+Slug: leetcode-for-system-design-by-shivanshag-t4ce
+Article Type: DISCUSSION
+Posted: 2026-08-15 04:26:51 IST
+Updated: 2026-08-15 04:26:51 IST
+URL: https://leetcode.com/discuss/post/8461479/leetcode-for-system-design-by-shivanshag-t4ce/
+Author: shivanshagrawal831
+
+--- Summary ---
+Introducing LeetCode for System DesignPreparing for system design interviews is difficult because there are very few platforms where you can actually practice real design problems and receive feedback.
+At ScaleMock ,we are trying to solve this.
+You c
+
+--- Reactions ---
+  UPVOTE: 2
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 3osVxFzy
+Title: Let's practice DSA mocks together
+Slug: lets-practice-dsa-mocks-together-by-dija-99nm
+Article Type: DISCUSSION
+Posted: 2026-08-15 03:31:03 IST
+Updated: 2026-08-15 03:31:03 IST
+URL: https://leetcode.com/discuss/post/8461460/lets-practice-dsa-mocks-together-by-dija-99nm/
+Author: DijanaPavlovic
+
+--- Summary ---
+Hi, looking for people who are actively preparing for interviews at FAANG to practice mock DSA interviews.
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: n7xSinXH
+Title: Any anticipation for Mojo 1.0 support in leetcode? 
+Slug: any-anticipation-for-mojo-10-support-in-t9qc6
+Article Type: DISCUSSION
+Posted: 2026-08-15 01:30:18 IST
+Updated: 2026-08-15 01:30:18 IST
+URL: https://leetcode.com/discuss/post/8461383/any-anticipation-for-mojo-10-support-in-t9qc6/
+Author: base58ed
+
+--- Summary ---
+The language and it's stdlib are stable now. It'll be useful to practice solving problems using Mojo standard library. Being intimately close (but still bear differences) to python makes it interesting nevertheless.
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1kPxuXzi
+Title: Free Site for Java Concurrency Learners
+Slug: free-site-for-java-concurrency-learners-8lyor
+Article Type: DISCUSSION
+Posted: 2026-08-15 00:34:42 IST
+Updated: 2026-08-15 00:42:41 IST
+URL: https://leetcode.com/discuss/post/8461322/free-site-for-java-concurrency-learners-8lyor/
+Author: shubha2207
+
+--- Summary ---
+Here is the honest truth: video is great for the first watch, but no one remembers everything. I wanted something that stays with you — a permanent reference where you can read at your own pace, track what you have covered, and jump straight to the s
+
+--- Tags ---
+  - Concurrency (concurrency) [TOPIC]
+  - Career (career) []
+  - Low Level Design (low-level-design) []
+  - Interview (interview) []
+  - system-design (system-design-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: r8h1zuim
+Title: Concept Clear 
+Slug: concept-clear-by-ganesh_2407-9gst
+Article Type: DISCUSSION
+Posted: 2026-08-15 00:02:05 IST
+Updated: 2026-08-15 00:02:05 IST
+URL: https://leetcode.com/discuss/post/8461287/concept-clear-by-ganesh_2407-9gst/
+Author: ganesh_2407_
+
+--- Summary ---
+If you have understand the actual concept of linked list then the midium level problems were looking easy , I think if you are lacking in concept go watch Striver Playlist concept will be automatically clear
+
+--- Tags ---
+  - Linked List (linked-list) [TOPIC]
+
+--- Reactions ---
+  UPVOTE: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: UC5EGbXm
+Title: Tesco India - Need compensation & leveling insights (10+ YOE)
+Slug: tesco-india-need-compensation-leveling-i-ypmy
+Article Type: DISCUSSION
+Posted: 2026-08-14 23:49:29 IST
+Updated: 2026-08-14 23:50:36 IST
+URL: https://leetcode.com/discuss/post/8461266/tesco-india-need-compensation-leveling-i-ypmy/
+Author: 
+
+--- Summary ---
+Looking for insights from current or former Tesco India engineers.My profile:
+10+ years of experience
+Joined Tesco ~2 years ago
+Currently SDE-2 (Front End)
+No RSUs/stock component
+I'm trying to understand whether I'm fairly compensated and leveled wi
+
+--- Tags ---
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZOag5lPh
+Title: REPOST PLEASE GUIDE - Evaluate my offer - staff software engineer
+Slug: repost-please-guide-evaluate-my-offer-st-sp0u
+Article Type: DISCUSSION
+Posted: 2026-08-14 23:15:23 IST
+Updated: 2026-08-14 23:15:23 IST
+URL: https://leetcode.com/discuss/post/8461185/repost-please-guide-evaluate-my-offer-st-sp0u/
+Author: 
+
+--- Summary ---
+YOE - 8
+Location - BLR (Hybrid)
+Base - 60 L (inclusive of PF)
+BONUS - 6 L
+Stock - $50,000 over 3 years (one third each year)
+Relocation - 1 Ltotal ctc ~ 82LCant reveal company name due to NDA. can share if accept. non negotiableTake or leave it , is
+
+--- Tags ---
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: YT42NiQ4
+Title: IBAC challenge
+Slug: ibac-challenge-by-shindepratik447-13lt
+Article Type: DISCUSSION
+Posted: 2026-08-14 23:08:53 IST
+Updated: 2026-08-14 23:08:53 IST
+URL: https://leetcode.com/discuss/post/8461170/ibac-challenge-by-shindepratik447-13lt/
+Author: shindepratik447
+
+--- Summary ---
+Has anyone solved the question asked in the recent IBAC challenge?
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: xPcIoABp
+Title: Salesforce MTS Interview Experience Aug 2026
+Slug: salesforce-mts-interview-experience-aug-uxjdp
+Article Type: DISCUSSION
+Posted: 2026-08-14 23:08:52 IST
+Updated: 2026-08-14 23:08:52 IST
+URL: https://leetcode.com/discuss/post/8461169/salesforce-mts-interview-experience-aug-uxjdp/
+Author: kakarot_goku
+
+--- Summary ---
+Hi Guys, wanted to give back to the community about my recent interview experience.
+So it started with when i applied to Salesforce through Linkedin in workday portal.
+Got call from the recruiter few days later and was asked to give the OA.
+After 1 d
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: G3l8LPsJ
+Title: Day 8 of My DSA Journey | Maximum Length Substring With Two Occurrences + Revision
+Slug: day-8-of-my-dsa-journey-maximum-length-s-fu24
+Article Type: DISCUSSION
+Posted: 2026-08-14 22:52:25 IST
+Updated: 2026-08-14 22:52:25 IST
+URL: https://leetcode.com/discuss/post/8461138/day-8-of-my-dsa-journey-maximum-length-s-fu24/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today was Day 8 of my DSA journey.Today I continued practicing Strings and Sliding Window techniques and also spent time revising the problems and concepts I have covered during the previous days.Today I worked on:
+Maximum Length Substring With Two O
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 3IIPVNHq
+Title: Open to Work | 2026 B.Tech IT Graduate | MERN / Software Engineer
+Slug: open-to-work-2026-btech-it-graduate-mern-nevp
+Article Type: DISCUSSION
+Posted: 2026-08-14 22:04:06 IST
+Updated: 2026-08-14 22:04:06 IST
+URL: https://leetcode.com/discuss/post/8461025/open-to-work-2026-btech-it-graduate-mern-nevp/
+Author: navneetpratap_2710
+
+--- Summary ---
+Hi everyone,
+I’m a 2026 B.Tech IT graduate looking for fresher opportunities in:
+• MERN Stack Developer
+• Full Stack Developer
+• Software Engineer / SDE
+• Backend Developer
+Skills: React.js, Node.js, Express.js, MongoDB, JavaScript, C++, Python, SQL.
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 5ibw3WBe
+Title: Public declaration
+Slug: public-declaration-by-strongestsorcerer-bxov
+Article Type: DISCUSSION
+Posted: 2026-08-14 21:52:41 IST
+Updated: 2026-08-14 21:52:41 IST
+URL: https://leetcode.com/discuss/post/8461006/public-declaration-by-strongestsorcerer-bxov/
+Author: strongestsorcerer
+
+--- Summary ---
+I will re-visit this post on 25th December 2026.I set a target of solving 1500 problems and achieving 2100 rating.
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 9
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: IoQLoK7a
+Title: Microsoft OA | 2027 Grad | SWE1 | 55LPA CTC
+Slug: microsoft-oa-2027-grad-swe1-55lpa-ctc-by-k9jn
+Article Type: DISCUSSION
+Posted: 2026-08-14 21:38:51 IST
+Updated: 2026-08-14 21:38:51 IST
+URL: https://leetcode.com/discuss/post/8460980/microsoft-oa-2027-grad-swe1-55lpa-ctc-by-k9jn/
+Author: 
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Sk7geioG
+Title: Omnissa [Formerly VMWare] - Senior Python Developer Interview Experience - Bengaluru, India
+Slug: omnissa-formerly-vmware-senior-python-de-onoh
+Article Type: DISCUSSION
+Posted: 2026-08-14 21:22:00 IST
+Updated: 2026-08-15 08:46:03 IST
+URL: https://leetcode.com/discuss/post/8460958/omnissa-formerly-vmware-senior-python-de-onoh/
+Author: user9230jc
+
+--- Summary ---
+Applied for a Senior Python Developer role at Omnissa Bangalore.Round 1 - Technical Discussion - 60 minsThe first round was a 60-minute technical discussion around my resume, projects, architecture decisions, and different engineering scenarios. This
+
+--- Tags ---
+  - VMware (vmware) [COMPANY]
+  - Interview (interview) []
+  - Omnissa (omnissa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: GcUEai4L
+Title: How to Design a Reliable Multi-Factor Calculator in JavaScript
+Slug: how-to-design-a-reliable-multi-factor-ca-hfr0
+Article Type: DISCUSSION
+Posted: 2026-08-14 21:18:42 IST
+Updated: 2026-08-14 21:19:34 IST
+URL: https://leetcode.com/discuss/post/8460956/how-to-design-a-reliable-multi-factor-ca-hfr0/
+Author: crscalculator
+
+--- Summary ---
+When building a multi-factor calculator, I think it is important to separate the calculation logic from the UI.A clean approach is:
+Collect and validate user inputs.
+Normalize the input values.
+Pass the normalized data to a calculation function.
+Keep
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 63hWdDp4
+Title: Google SAD Apprenticeship 2027 (India) — Need info on HackerEarth OA + process after
+Slug: google-sad-apprenticeship-2027-india-nee-fqsj
+Article Type: DISCUSSION
+Posted: 2026-08-14 20:36:48 IST
+Updated: 2026-08-14 20:36:48 IST
+URL: https://leetcode.com/discuss/post/8460888/google-sad-apprenticeship-2027-india-nee-fqsj/
+Author: atharvaralegankar
+
+--- Summary ---
+Hi all,I'm a fresher (CE grad, 2026) who applied for Google's Software Application Development Apprenticeship, March 2027 Start (Bengaluru/Gurugram/Hyderabad/Mumbai). Got invited to the HackerEarth OA — 1 hour duration, scheduled this weekend.Google'
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1WL8F2IQ
+Title: Maximum Length Substring With Two Occurrences | Sliding Window + HashMap | LeetCode 3090
+Slug: maximum-length-substring-with-two-occurr-1yn2
+Article Type: DISCUSSION
+Posted: 2026-08-14 20:15:11 IST
+Updated: 2026-08-14 20:15:11 IST
+URL: https://leetcode.com/discuss/post/8460845/maximum-length-substring-with-two-occurr-1yn2/
+Author: tanwar04
+
+--- Summary ---
+Solved today's LeetCode Daily – 3090. Maximum Length Substring With Two Occurrences.This was a nice Easy problem to practice the Sliding Window + HashMap pattern.The main idea is to maintain a window where every character appears at most twice.My app
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Szv2S2gb
+Title: Amazon SDE Internship Interview — Looking for Advice 🚀
+Slug: amazon-sde-internship-interview-looking-qmqyo
+Article Type: DISCUSSION
+Posted: 2026-08-14 19:22:35 IST
+Updated: 2026-08-14 19:23:12 IST
+URL: https://leetcode.com/discuss/post/8460761/amazon-sde-internship-interview-looking-qmqyo/
+Author: 
+
+--- Summary ---
+I’m excited to share that I’ve been shortlisted for the Amazon SDE Internship interview through the Amazon HackOn opportunity! 🎉Now I’m looking to prepare as effectively as possible, and I’d really appreciate advice from people who have recently gone
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+  - amazon sde1 (amazon-sde1-2) []
+  - amazon_intern (amazon-intern-2) []
+  - hackathon A (hackathon-a) []
+
+--- Reactions ---
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Qxw7ht3o
+Title: I Stopped Overcomplicating Sliding Window ,Here's the 1 Rule That Fixed It.
+Slug: i-stopped-overcomplicating-sliding-windo-3qu0
+Article Type: DISCUSSION
+Posted: 2026-08-14 19:06:29 IST
+Updated: 2026-08-14 19:06:29 IST
+URL: https://leetcode.com/discuss/post/8460732/i-stopped-overcomplicating-sliding-windo-3qu0/
+Author: Divyanshu--kumar
+
+--- Summary ---
+spent weeks solving sliding window problems like every single one was brand new.then it clicked while doing Longest Substring Without Repeating Characters,don't shrink the window unless you actually have to.just grow it first.only pull back when the
+
+--- Tags ---
+  - sliding window technique (sliding-window-technique) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nLD44xQL
+Title: One Block — Simple Greedy Approach || Swiggy Hackerrank Assessment
+Slug: one-block-simple-greedy-approach-swiggy-kw5o2
+Article Type: DISCUSSION
+Posted: 2026-08-14 18:21:45 IST
+Updated: 2026-08-14 18:21:45 IST
+URL: https://leetcode.com/discuss/post/8460682/one-block-simple-greedy-approach-swiggy-kw5o2/
+Author: ayu0620
+
+--- Summary ---
+I recently appeared for a Swiggy HackerRank assessment, which had 3 coding questions. This was one of the questions I solved during the assessment.I was able to complete the assessment within the given time and eventually passed the assessment. The r
+
+--- Reactions ---
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: VYOdujxD
+Title: Infosys OA (DSE/SP(L1,L2,L3)) 4 Questions :>
+Slug: infosys-oa-dsespl1l2l3-4-questions-by-ry-vjsp
+Article Type: DISCUSSION
+Posted: 2026-08-14 17:34:30 IST
+Updated: 2026-08-14 17:37:56 IST
+URL: https://leetcode.com/discuss/post/8460608/infosys-oa-dsespl1l2l3-4-questions-by-ry-vjsp/
+Author: 
+
+--- Summary ---
+It has 4 DSA questions, roughly ranging from Easy → Medium → Hard → Complex.Time : 3hrsQ1 (Leetcode medium)The first question was based on:
+(a[i] - a[j]) * a[k] where i < j < k
+Positive, negative and zero values were possible.
+Expected approach: O(n)
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: uyYxxFAd
+Title: Amazon SDE Intern 2027 OA Question
+Slug: amazon-sde-intern-2027-oa-question-by-ay-2xxt
+Article Type: DISCUSSION
+Posted: 2026-08-14 17:05:58 IST
+Updated: 2026-08-14 17:05:58 IST
+URL: https://leetcode.com/discuss/post/8460574/amazon-sde-intern-2027-oa-question-by-ay-2xxt/
+Author: AymanKhan94
+
+--- Summary ---
+I recently came across a problem where the coordinates of the bags can go up to 10^9, which makes a direct array-based approach impossible.ProblemYou are given n segments, where each segment is represented as:[l, r, c]This means every bag from positi
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: JBs2wCbT
+Title: Newrelic , SE 2
+Slug: newrelic-se-2-by-anonymous_user-2kp1
+Article Type: DISCUSSION
+Posted: 2026-08-14 15:39:40 IST
+Updated: 2026-08-14 15:40:18 IST
+URL: https://leetcode.com/discuss/post/8460430/newrelic-se-2-by-anonymous_user-2kp1/
+Author: 
+
+--- Summary ---
+Hi everyone,I’ve received an offer from New Relic and would appreciate some advice before making a decision.My background:4 YOE, currently working at a leading bankCurrent role: Software Engineer / AssociateOffer: ₹35 LPA basePosition: Software Engin
+
+--- Tags ---
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: cBElFn3U
+Title: Google SWE PPO conversion
+Slug: google-swe-ppo-conversion-by-anonymous_u-y027
+Article Type: DISCUSSION
+Posted: 2026-08-14 15:25:34 IST
+Updated: 2026-08-14 15:25:34 IST
+URL: https://leetcode.com/discuss/post/8460397/google-swe-ppo-conversion-by-anonymous_u-y027/
+Author: 
+
+--- Summary ---
+Are anybody aware of how is the PPO conversion process this year, i worked with google search and got a mail from recruiter that my feedback was gathered and reviewed and you will hear back from us by end of aug or early sep. also heard that few inte
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WhSM0DpP
+Title: Tips for DSA
+Slug: tips-for-dsa-by-pawankumar646435-ojd5
+Article Type: DISCUSSION
+Posted: 2026-08-14 15:14:57 IST
+Updated: 2026-08-14 15:14:57 IST
+URL: https://leetcode.com/discuss/post/8460379/tips-for-dsa-by-pawankumar646435-ojd5/
+Author: pawankumar646435
+
+--- Summary ---
+I have just started solving DSA questions (currently on Arrays and Binary search). Can anyone give me any tips of how to approach the questions and any tips that would help me going forward, i would really appreciate that.
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: jeyKj2ws
+Title: Deutsche Bank Apprenticeship 2026 — Interview Experience 🏦💻
+Slug: deutsche-bank-apprenticeship-2026-interv-yj4q
+Article Type: DISCUSSION
+Posted: 2026-08-14 14:05:17 IST
+Updated: 2026-08-14 14:05:17 IST
+URL: https://leetcode.com/discuss/post/8460284/deutsche-bank-apprenticeship-2026-interv-yj4q/
+Author: vighneshtakke4
+
+--- Summary ---
+I recently went through the Deutsche Bank Apprenticeship 2026 selection process and wanted to share my interview experience with the community. 🚀📝 Round 1 — Online Codility AssessmentThe first step was an online Codility assessment consisting of:
+🧠 1
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: UBTFrnDk
+Title: Epidemia Labs — Disease Spread Simulation & Research Platform
+Slug: epidemia-labs-disease-spread-simulation-12tf4
+Article Type: DISCUSSION
+Posted: 2026-08-14 13:46:45 IST
+Updated: 2026-08-14 13:46:45 IST
+URL: https://leetcode.com/discuss/post/8460249/epidemia-labs-disease-spread-simulation-12tf4/
+Author: pvsaipranav
+
+--- Summary ---
+Epidemia Labs — Disease Spread Simulation & Research PlatformHi everyone! 👋I’m working with my team on an interdisciplinary project called Epidemia Labs, a Disease Spread Simulation & Research Platform.The idea is to combine mathematics, computer sci
+
+--- Tags ---
+  - general-discussion (general-discussion) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: OvMAeBwk
+Title: AutoClinical AI — AI-Native Clinical Trial Data Management & Health Intelligence Platform
+Slug: autoclinical-ai-ai-native-clinical-trial-z9z7
+Article Type: DISCUSSION
+Posted: 2026-08-14 13:39:03 IST
+Updated: 2026-08-14 13:39:03 IST
+URL: https://leetcode.com/discuss/post/8460243/autoclinical-ai-ai-native-clinical-trial-z9z7/
+Author: pvsaipranav
+
+--- Summary ---
+AutoClinical AI — Turning Clinical Reports into Structured, Actionable Intelligence🚀 IntroductionWe are building AutoClinical AI, an AI-powered healthcare intelligence platform designed to transform unstructured clinical and medical reports into stru
+
+--- Tags ---
+  - general-discussion (general-discussion) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: fzy7NX7v
+Title: 🚀 Building an AI-Powered Study Workspace — Looking for Feedback Before Development
+Slug: building-an-ai-powered-study-workspace-l-1t9j
+Article Type: DISCUSSION
+Posted: 2026-08-14 12:57:22 IST
+Updated: 2026-08-14 12:57:22 IST
+URL: https://leetcode.com/discuss/post/8460162/building-an-ai-powered-study-workspace-l-1t9j/
+Author: pvsaipranav
+
+--- Summary ---
+🚀 Building an AI-Powered Study Workspace — Looking for Feedback Before DevelopmentHi everyone 👋We are two engineering students working on a project that started as a simple study timer and has now evolved into a much larger idea:
+An AI-powered study
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: mv1CQFYt
+Title: Real Interview with AI for DSA and system design
+Slug: real-interview-with-ai-for-dsa-and-syste-683v
+Article Type: DISCUSSION
+Posted: 2026-08-14 12:46:37 IST
+Updated: 2026-08-14 12:46:37 IST
+URL: https://leetcode.com/discuss/post/8460147/real-interview-with-ai-for-dsa-and-syste-683v/
+Author: krisalay
+
+--- Summary ---
+DSA interviews shouldn't be about solving 500 random problems.
+One of the biggest problems with DSA interview prep is that you can solve hundreds of LeetCode problems and still freeze when someone asks you to solve one live.
+Because an actual intervi
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: bjniNLSi
+Title:  Day 57/365 - Maximum Length Substring With Two Occurrences
+Slug: day-57365-maximum-length-substring-with-c5f5v
+Article Type: DISCUSSION
+Posted: 2026-08-14 12:44:31 IST
+Updated: 2026-08-14 12:44:31 IST
+URL: https://leetcode.com/discuss/post/8460141/day-57365-maximum-length-substring-with-c5f5v/
+Author: parth-jaybhaye
+
+--- Summary ---
+IntuitionThe substring is valid as long as every character appears at most two times. This is a classic sliding window problem where I expand the window and shrink it only when a character exceeds the allowed frequency.Key ObservationWhen extending t
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1fHelp50
+Title: Wellsfargo: Senior Software Engineer
+Slug: wellsfargo-senior-software-engineer-by-d-f26y
+Article Type: DISCUSSION
+Posted: 2026-08-14 12:43:42 IST
+Updated: 2026-08-14 12:51:58 IST
+URL: https://leetcode.com/discuss/post/8460138/wellsfargo-senior-software-engineer-by-d-f26y/
+Author: 
+
+--- Summary ---
+1. Screening Test: (Solved Both)
+Two questions regarding SQL and SpringBoot Rest API problems from hackerrank - 1hr 10 mins
+SQL problem was bit complex involving sub queries
+
+hard to write without AI assistance
+
+
+SpringBoot Rest API problem was regar
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ji9TE0XM
+Title: Seeking Placement Advice as a Final-Year CSE Student
+Slug: seeking-placement-advice-as-a-final-year-5jpw
+Article Type: DISCUSSION
+Posted: 2026-08-14 10:13:24 IST
+Updated: 2026-08-14 10:13:24 IST
+URL: https://leetcode.com/discuss/post/8459819/seeking-placement-advice-as-a-final-year-5jpw/
+Author: Gokul_022
+
+--- Summary ---
+I’m a final-year B.Tech Computer Science student currently looking for placement opportunities. I’d really appreciate any advice or suggestions from those who have already gone through the placement process. What skills, technologies, or areas should
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #35
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: jxGvwjMj
+Title: The Ultimate Graph Interview Roadmap | 15 Graph Templates Every Coding Interview Follows 
+Slug: the-ultimate-graph-interview-roadmap-15-r1frb
+Article Type: DISCUSSION
+Posted: 2026-08-14 08:44:41 IST
+Updated: 2026-08-14 08:44:41 IST
+URL: https://leetcode.com/discuss/post/8459705/the-ultimate-graph-interview-roadmap-15-r1frb/
+Author: Kumarshivambhardwaj
+
+--- Summary ---
+Why this post?When I started learning Graphs, every problem looked different.Some questions were about cities, some about courses, some about islands, while others involved flights, roads, or networks.After solving many problems, I realized that most
+
+--- Reactions ---
+  UPVOTE: 4
+  THUMBS_DOWN: 1
+
