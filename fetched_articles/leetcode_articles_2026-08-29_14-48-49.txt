@@ -1,0 +1,795 @@
+LeetCode Discuss - Latest 36 Articles
+Fetched on: 2026-08-29 14:48:49 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Vk5Hi0Ap
+Title: I am new
+Slug: i-am-new-by-gsingh_999-daw3
+Article Type: DISCUSSION
+Posted: 2026-08-29 14:40:40 IST
+Updated: 2026-08-29 14:40:40 IST
+URL: https://leetcode.com/discuss/post/8488780/i-am-new-by-gsingh_999-daw3/
+Author: Gsingh_999
+
+--- Summary ---
+hi i am new to the leetcode i DONT KNOW a thing about C++ i only know basics of pythion like int and eval stuff only so yea what shld i do even i cant even solve the first problem i dont know what to do i am dumbfounded atp i cant even understand one
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: rKlxAsFh
+Title: LeetCode Challenge | Basic Calculator — Stack-Based Expression Evaluation 🧮⚡
+Slug: leetcode-challenge-basic-calculator-stac-kyku
+Article Type: DISCUSSION
+Posted: 2026-08-29 13:57:21 IST
+Updated: 2026-08-29 13:57:21 IST
+URL: https://leetcode.com/discuss/post/8488715/leetcode-challenge-basic-calculator-stac-kyku/
+Author: vighneshtakke4
+
+--- Summary ---
+🧠 IntuitionThis problem looks simple because we only have +, -, parentheses, and integers.But parentheses change the order in which expressions need to be evaluated.The key idea was to use two stacks:🔢 One stack for numbers
+➕ One stack for operatorsW
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Kt9QntEE
+Title: Does Google Only Hire from IITs?
+Slug: does-google-only-hire-from-iits-by-prath-8ucm
+Article Type: DISCUSSION
+Posted: 2026-08-29 13:24:34 IST
+Updated: 2026-08-29 13:24:34 IST
+URL: https://leetcode.com/discuss/post/8488679/does-google-only-hire-from-iits-by-prath-8ucm/
+Author: prathambasava
+
+--- Summary ---
+Are your chances of getting into Google gone if you aren't an IIT passout.
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: MqOsdw2H
+Title: SDE  1 INTERN AT AMZON 
+Slug: sde-1-intern-at-amzon-by-coderahulx-rlem
+Article Type: DISCUSSION
+Posted: 2026-08-29 13:21:32 IST
+Updated: 2026-08-29 13:21:32 IST
+URL: https://leetcode.com/discuss/post/8488675/sde-1-intern-at-amzon-by-coderahulx-rlem/
+Author: CodeRAHULx
+
+--- Summary ---
+Hii, everyone i got the assessment link for amzon sde 1 intern and this is my first time can u help me to understand what kind of question should i prepare and how
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: cbf07qIM
+Title: Reporting Issues regarding contest graph in my profile
+Slug: reporting-issues-regarding-contest-graph-7m6c
+Article Type: DISCUSSION
+Posted: 2026-08-29 13:09:19 IST
+Updated: 2026-08-29 13:09:48 IST
+URL: https://leetcode.com/discuss/post/8488664/reporting-issues-regarding-contest-graph-7m6c/
+Author: shaurya_the_coder
+
+--- Summary ---
+@leetcode in my profile Theres some issue with contest graph
+My global rating appeared very very late even doing all the contest in order to enable it
+the graph is inconsistent, i've given contest before weekly 515 and also have solved questions but
+
+--- Tags ---
+  - {Account Issues} (account-issues) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: rL9ty17Y
+Title: IBM India Online Assessment (OA) | Application developer-Cloud fullstack
+Slug: ibm-india-online-assessment-oa-applicati-sevo
+Article Type: DISCUSSION
+Posted: 2026-08-29 13:05:08 IST
+Updated: 2026-08-29 13:05:08 IST
+URL: https://leetcode.com/discuss/post/8488656/ibm-india-online-assessment-oa-applicati-sevo/
+Author: teja_1403
+
+--- Summary ---
+OverviewAssessment MetricDetailsCompanyIBM IndiaRoleApplication developer-Cloud fullstackDuration60 MinutesPlatformHackerRankTotal Problems2Problem 1: Maximize Rental RevenueProblem StatementIn a cloud computing platform, there are n virtual machine
+
+--- Tags ---
+  - IBM (ibm) [COMPANY]
+  - coding (coding) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: yD0W0aYu
+Title: Best Books & Playlists for System Design (HLD/LLD) Interview Preparation?
+Slug: best-books-playlists-for-system-design-h-xicp
+Article Type: DISCUSSION
+Posted: 2026-08-29 12:58:22 IST
+Updated: 2026-08-29 12:58:22 IST
+URL: https://leetcode.com/discuss/post/8488646/best-books-playlists-for-system-design-h-xicp/
+Author: bytebyrudransh
+
+--- Summary ---
+Hi everyone,Can someone recommend the best books, YouTube playlists, or roadmaps for learning System Design for both:High-Level Design (HLD)
+Low-Level Design (LLD)I'm looking for resources that are suitable for interview preparation and preferably be
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+  - system-design (system-design-2) []
+  - learning resources (learning-resources) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: FTshNEDk
+Title: Lexicographically Smallest Array by Swapping Elements — Sorting + Grouping Approach
+Slug: lexicographically-smallest-array-by-swap-gfcz
+Article Type: DISCUSSION
+Posted: 2026-08-29 11:51:39 IST
+Updated: 2026-08-29 11:51:39 IST
+URL: https://leetcode.com/discuss/post/8488525/lexicographically-smallest-array-by-swap-gfcz/
+Author: tanwar04
+
+--- Summary ---
+Solved LeetCode 2948 – Make Lexicographically Smallest Array by Swapping Elements.The key observation I used was that two elements can be swapped whenever their difference is within limit. After sorting the array, I grouped elements together as long
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: u6QFpSn4
+Title: Regarding Rank updation 
+Slug: regarding-rank-updation-by-anshuman_21-ohvb
+Article Type: DISCUSSION
+Posted: 2026-08-29 11:33:52 IST
+Updated: 2026-08-29 11:33:52 IST
+URL: https://leetcode.com/discuss/post/8488509/regarding-rank-updation-by-anshuman_21-ohvb/
+Author: Anshuman_21
+
+--- Summary ---
+Hii everyone , I give my contest last sunday , still my rank and no of contest in not updated yet, this is first time it not updated , everytime when i give my contest on sunday , till next friday it updated.but this time it still not updated yet..??
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: lGG5UtgI
+Title: ClearTax SDE-3 Interview Experience | Worst Experience | Ghosted
+Slug: cleartax-sde-3-interview-experience-wors-0t8h
+Article Type: DISCUSSION
+Posted: 2026-08-29 11:09:33 IST
+Updated: 2026-08-29 11:09:33 IST
+URL: https://leetcode.com/discuss/post/8488472/cleartax-sde-3-interview-experience-wors-0t8h/
+Author: 
+
+--- Summary ---
+Round 1 – Machine CodingThe first round was a machine coding round for a BookMyShow-like system. I was given 1 hour to implement the solution. I was able to complete around 60% of the requirements within the allotted time.The interviewer mentioned th
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: skjOzz2X
+Title: How to learn C++ here?
+Slug: how-to-learn-c-here-by-tmdxq2z0il-f7ly
+Article Type: DISCUSSION
+Posted: 2026-08-29 10:53:52 IST
+Updated: 2026-08-29 10:53:52 IST
+URL: https://leetcode.com/discuss/post/8488453/how-to-learn-c-here-by-tmdxq2z0il-f7ly/
+Author: TMDXq2Z0IL
+
+--- Summary ---
+Hello everyone, I am new to leetcode and also coding, I just wanted to ask how to use leetcode to learn C++.
+
+--- Tags ---
+  - C++ (cpp) []
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6N6DnNjF
+Title: Jiostar | syfe | kissht sde2  4yrs offer
+Slug: jiostar-syfe-kissht-sde2-4yrs-offer-by-y-lss2
+Article Type: DISCUSSION
+Posted: 2026-08-29 10:47:51 IST
+Updated: 2026-08-29 12:39:51 IST
+URL: https://leetcode.com/discuss/post/8488445/jiostar-syfe-kissht-sde2-4yrs-offer-by-y-lss2/
+Author: 
+
+--- Summary ---
+YOE: 4.2
+college-Tier 2current CTC
+Base CTC: 33L
+Variable: 3l
+TCT-36lSyfe   ggnPosition: SDE2
+Base CTC: 35L
+ESOPs: Worth 7L (vesting, not cash) 4yrs
+Joining Bonus: 2L (paid after 6-month probation, 1-year lock-in — repayable if you leave within 1 yea
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: OmB2d4NS
+Title: # 🌐 Computer Networks Interview Cheat Sheet
+Slug: computer-networks-interview-cheat-sheet-u48de
+Article Type: DISCUSSION
+Posted: 2026-08-29 09:09:07 IST
+Updated: 2026-08-29 09:09:07 IST
+URL: https://leetcode.com/discuss/post/8488337/computer-networks-interview-cheat-sheet-u48de/
+Author: Alpha__--Hacker
+
+--- Summary ---
+🌐 Computer Networks Interview Cheat Sheet
+A complete last-minute revision guide covering the most important Computer Networks concepts and frequently asked interview questions.
+📌 Table of Contents
+Network Fundamentals
+OSI Model
+TCP/IP Model
+Encapsula
+
+--- Tags ---
+  - Networking (networking) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7lGNCiQk
+Title: Salesforce AMTS Interview Experience | New Grad 2026
+Slug: salesforce-amts-interview-experience-new-csmd
+Article Type: DISCUSSION
+Posted: 2026-08-29 08:43:21 IST
+Updated: 2026-08-29 08:43:21 IST
+URL: https://leetcode.com/discuss/post/8488321/salesforce-amts-interview-experience-new-csmd/
+Author: param-sangha
+
+--- Summary ---
+I applied for Salesforce’s Associate Member of Technical Staff (AMTS) role through an opening on the Salesforce careers portal with a referral. Within a few days, I received the online assessment.Role: Associate Member of Technical Staff
+Hiring proce
+
+--- Reactions ---
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Nqq3Y6wX
+Title: How to never fail in web dev or core cs rounds ? devprep.online may help
+Slug: how-to-never-fail-in-web-dev-or-core-cs-t92ar
+Article Type: DISCUSSION
+Posted: 2026-08-29 08:05:25 IST
+Updated: 2026-08-29 08:05:25 IST
+URL: https://leetcode.com/discuss/post/8488300/how-to-never-fail-in-web-dev-or-core-cs-t92ar/
+Author: maity_0602_
+
+--- Summary ---
+have been using https://devprep.online/ past long time and 40+ users also using it
+its been a great help tbh since it has 3600+ questions overall , that too of easy medium and hard level , not even gfg nor anyone does this , just study when ever your
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: m3IeaIsY
+Title: I want a partner to leetcode with.
+Slug: i-want-a-partner-to-leetcode-with-by-zai-q4hc
+Article Type: DISCUSSION
+Posted: 2026-08-29 08:02:36 IST
+Updated: 2026-08-29 08:02:36 IST
+URL: https://leetcode.com/discuss/post/8488299/i-want-a-partner-to-leetcode-with-by-zai-q4hc/
+Author: zainab_azzam
+
+--- Summary ---
+Looking for group of motivated peoples who wanna cracks the interviews. Let's build a group and pratice, help and motivate each other to crack the upcoming interview.
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: fxjXmPjt
+Title: Amazon SDE Internship Interview Experience – 2 DSA Questions
+Slug: amazon-sde-internship-interview-experien-6zgb
+Article Type: DISCUSSION
+Posted: 2026-08-29 07:21:20 IST
+Updated: 2026-08-29 07:21:20 IST
+URL: https://leetcode.com/discuss/post/8488279/amazon-sde-internship-interview-experien-6zgb/
+Author: agneaybnair
+
+--- Summary ---
+I recently attended an Amazon SDE Internship interview and was asked two DSA questions during the technical round. Sharing them here in case they are useful for others preparing for interviews.Question 1 – Find the Center of a Star GraphI was given a
+
+--- Reactions ---
+  UPVOTE: 8
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WUoDCnYt
+Title: Make Lexicographically Smallest Array by Swapping Elements — Daily Solutions (2026-08-29)
+Slug: make-lexicographically-smallest-array-by-16bt
+Article Type: DISCUSSION
+Posted: 2026-08-29 05:32:21 IST
+Updated: 2026-08-29 05:32:21 IST
+URL: https://leetcode.com/discuss/post/8488239/make-lexicographically-smallest-array-by-16bt/
+Author: leetduckdotcom
+
+--- Summary ---
+Make Lexicographically Smallest Array by Swapping Elements — Problem of the Day 20260829 Difficulty: Medium · View problemhttps://leetcode.com/problems/makelexicographicallysmallestarraybyswappingelem
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 9wFjnpQ2
+Title: leetcode 315
+Slug: leetcode-315-by-anonymous_user-qfn2
+Article Type: DISCUSSION
+Posted: 2026-08-29 03:58:32 IST
+Updated: 2026-08-29 03:58:32 IST
+URL: https://leetcode.com/discuss/post/8488213/leetcode-315-by-anonymous_user-qfn2/
+Author: 
+
+--- Summary ---
+is this solution good for leetcode 315, from interview POV?:class Solution:
+def countSmaller(self, nums: List[int]) -> List[int]:
+n = len(nums)
+st = SortedList()
+st.add(nums[n-1])
+res = [0] * n
+for i in range(n-2, -1, -1):
+j = bisect.bisect_left(st,n
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: yMZqHfry
+Title: AWS Seattle SDE-2
+Slug: aws-seattle-sde-2-by-anmolarora98-lzj3
+Article Type: DISCUSSION
+Posted: 2026-08-29 02:37:53 IST
+Updated: 2026-08-29 02:38:30 IST
+URL: https://leetcode.com/discuss/post/8488182/aws-seattle-sde-2-by-anmolarora98-lzj3/
+Author: 
+
+--- Summary ---
+AWS SDE-II Overall Experience (OA + Loop)Recently interviewed for an AWS SDE II position and wanted to share my complete interview experience for anyone preparing for a similar loop.Online AssessmentThe OA had two parts:
+LeetCode-style coding questio
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ya5Za25m
+Title: Goldmann Sachs | Associate | Interview
+Slug: goldmann-sachs-associate-interview-by-an-nakn
+Article Type: DISCUSSION
+Posted: 2026-08-29 02:08:09 IST
+Updated: 2026-08-29 02:08:09 IST
+URL: https://leetcode.com/discuss/post/8488155/goldmann-sachs-associate-interview-by-an-nakn/
+Author: 
+
+--- Summary ---
+Coderpad Round: Leetocde 490. The Maze
+https://leetcode.com/problems/the-maze/description/SuperDay Round 1:Question 1: /* * Your team is building a high-throughput notification service. Due to network retries and upstream glitches, the service often
+
+--- Tags ---
+  - Goldman Sachs (goldman-sachs) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pxei11Yf
+Title: Amazon SDE Intern Prep & Interview Experience Advice (2027 Batch / Jan-July 2026)
+Slug: amazon-sde-intern-prep-interview-experie-q6hy
+Article Type: DISCUSSION
+Posted: 2026-08-29 01:16:13 IST
+Updated: 2026-08-29 01:16:13 IST
+URL: https://leetcode.com/discuss/post/8488116/amazon-sde-intern-prep-interview-experie-q6hy/
+Author: manish-dev25
+
+--- Summary ---
+Hi everyone,I recently applied for the Amazon SDE Intern position (2027 batch / Jan–July cycle). I have completed the Online Assessment (OA), filled out the Hiring Interest Form, and my interview has finally been scheduled!To be completely honest, I
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - C++ (cpp) []
+  - Career (career) []
+  - amazon sde1 (amazon-sde1-2) []
+  - amazon_intern (amazon-intern-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WHjSWY1i
+Title: Microsoft | L61 | Hyderabad
+Slug: microsoft-l61-hyderabad-by-anonymous_use-c6av
+Article Type: DISCUSSION
+Posted: 2026-08-29 00:26:20 IST
+Updated: 2026-08-29 00:37:02 IST
+URL: https://leetcode.com/discuss/post/8488073/microsoft-l61-hyderabad-by-anonymous_use-c6av/
+Author: 
+
+--- Summary ---
+Education: Tier-1
+Years of Experience: 3.8
+Current Compensation: 47 LPA (Base : 36)
+Prior Experience: Tier-1 StartupCompany: Microsoft
+Level: L61 (SDE-2)
+Offer date: April 2026Base: 35 LPA
+Stocks: 70K USD over 4 years
+Performance bonus: 3.5 LPA (Aver
+
+--- Tags ---
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: VhLozu5J
+Title: Apple Interview | On Campus Placements
+Slug: apple-interview-on-campus-placements-by-umsiu
+Article Type: DISCUSSION
+Posted: 2026-08-28 23:48:09 IST
+Updated: 2026-08-28 23:48:09 IST
+URL: https://leetcode.com/discuss/post/8488021/apple-interview-on-campus-placements-by-umsiu/
+Author: 
+
+--- Summary ---
+Can someone who has given Apple interview for on campus placements before (last year or whenever), please tell how was your experienc? What kind of stuffs they focus on?How many rounds were there and how were you evaluated?
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0hEw9ZLD
+Title: Enterpret Engineering Intern - Bckend Interview Experience
+Slug: enterpret-engineering-intern-bckend-inte-3nrh
+Article Type: DISCUSSION
+Posted: 2026-08-28 23:18:00 IST
+Updated: 2026-08-28 23:18:00 IST
+URL: https://leetcode.com/discuss/post/8487985/enterpret-engineering-intern-bckend-inte-3nrh/
+Author: 
+
+--- Summary ---
+Enterpret Engineering Intern Interview ExperienceI applied directly and later reached out to an employee for a referral. They shared my profile internally with HR, and the next day I received a call saying that my DSA interview was scheduled for the
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZRnhfEtn
+Title: Any Updates on the Microsoft Opportunity?
+Slug: any-updates-on-the-microsoft-opportunity-1eka
+Article Type: DISCUSSION
+Posted: 2026-08-28 22:55:17 IST
+Updated: 2026-08-28 22:55:34 IST
+URL: https://leetcode.com/discuss/post/8487957/any-updates-on-the-microsoft-opportunity-1eka/
+Author: 
+
+--- Summary ---
+Has anyone who applied for this Microsoft opportunity heard back or received an OA link? I applied with a referral but haven’t received any updates yet.
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: eEOH6ana
+Title: Recursive CTE Explained Step by Step | Employee Hierarchy (LC 3482)
+Slug: recursive-cte-explained-step-by-step-emp-id89
+Article Type: DISCUSSION
+Posted: 2026-08-28 22:53:06 IST
+Updated: 2026-08-28 22:53:06 IST
+URL: https://leetcode.com/discuss/post/8487954/recursive-cte-explained-step-by-step-emp-id89/
+Author: SaamiAbbasKhan
+
+--- Summary ---
+IntroductionThis problem took me a long time because I was still learning SQL and did not initially know that SQL supports recursion.My first thought was to solve the hierarchy using ordinary joins, subqueries, or window functions. However, those app
+
+--- Tags ---
+  - Database (database) [TOPIC]
+  - MySQL (mysql) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Is8VLprQ
+Title: Recent interview trend
+Slug: recent-interview-trend-by-parjapat-nck2
+Article Type: DISCUSSION
+Posted: 2026-08-28 22:30:02 IST
+Updated: 2026-08-28 22:30:24 IST
+URL: https://leetcode.com/discuss/post/8487909/recent-interview-trend-by-parjapat-nck2/
+Author: 
+
+--- Summary ---
+Stipe - The problem was given last week not particularly hard, but it was medium-hard and definitely lengthy considering 60 mint time requiring careful handling of multiple conditions and edge cases. It was a 3-part problem, and there was no specific
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: u8pmvZ3Z
+Title: Daily System Design Challenge #26
+Slug: daily-system-design-challenge-26-by-faha-1anx
+Article Type: DISCUSSION
+Posted: 2026-08-28 22:05:52 IST
+Updated: 2026-08-28 22:05:52 IST
+URL: https://leetcode.com/discuss/post/8487870/daily-system-design-challenge-26-by-faha-1anx/
+Author: Fahadh
+
+--- Summary ---
+A social media platform stores posts across thousands of database shards using:user_id → hash → shardEverything works well until a celebrity with 100M followers posts.Suddenly:
+one shard becomes overloaded
+write latency increases
+other shards remain
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vcdzeB3r
+Title: Amazon OA Assessment- August'26
+Slug: amazon-oa-assessment-august26-by-priya_2-kk1d
+Article Type: DISCUSSION
+Posted: 2026-08-28 21:57:39 IST
+Updated: 2026-08-28 21:57:39 IST
+URL: https://leetcode.com/discuss/post/8487861/amazon-oa-assessment-august26-by-priya_2-kk1d/
+Author: Priya_2011
+
+--- Summary ---
+programming QuestionAmazon has multiple delivery centers all over the world. A city is given in the form of a grid where the delivery centers are marked as 1 and all other places are marked as 0. Distance between two cells is defined as the maximum a
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: jR3zpHRu
+Title: UBER sde 1 vs an indian hft(help to choose the offer)
+Slug: uber-sde-1-vs-an-indian-hfthelp-to-choos-9994
+Article Type: DISCUSSION
+Posted: 2026-08-28 21:25:01 IST
+Updated: 2026-08-28 21:25:01 IST
+URL: https://leetcode.com/discuss/post/8487805/uber-sde-1-vs-an-indian-hfthelp-to-choos-9994/
+Author: 
+
+--- Summary ---
+profile-top iit cse,8.9 cgcompany-uber
+Title/Level: Software Engineer I
+Total TC: ~37,50,000
+Compensation:
+Base: 23,00,000
+Joining Bonus: 2,00,000
+Stocks: USD 9L per year
+Performance Bonus: 3,00,000 (can vary based on performance)
+Relocation Allowanc
+
+--- Tags ---
+  - Career (career) []
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 17oDCaCr
+Title: Easy Problems Are Lying to You
+Slug: easy-problems-are-lying-to-you-by-vyann-pys6
+Article Type: DISCUSSION
+Posted: 2026-08-28 21:14:05 IST
+Updated: 2026-08-28 21:14:05 IST
+URL: https://leetcode.com/discuss/post/8487784/easy-problems-are-lying-to-you-by-vyann-pys6/
+Author: vyann
+
+--- Summary ---
+Easy Problems Are Lying to YouHave you ever started a LeetCode problem marked Easy, thinking it would take just a few minutes, but ended up spending much longer?Why does this happen?
+You don't know the right pattern yet.
+The main idea is not obvious.
+
+--- Tags ---
+  - LeetCode (leetcode) [COMPANY]
+  - problem (problem-3) []
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Nw81oAGk
+Title: Looking for hackathon teammates? We built Collabicx
+Slug: looking-for-hackathon-teammates-we-built-oasr
+Article Type: DISCUSSION
+Posted: 2026-08-28 20:59:37 IST
+Updated: 2026-08-28 20:59:37 IST
+URL: https://leetcode.com/discuss/post/8487766/looking-for-hackathon-teammates-we-built-oasr/
+Author: sandhyadayanithi
+
+--- Summary ---
+Heyy everyone! We’ve finally put Collabicx out!
+It’s a platform we built to help people find teammates and collaborate on hackathon projects. We’d love for you all to actually use the platform, explore the features, and let us know what you think! 🫶🔗
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 9JcRt6mY
+Title: Regarding CISCO SRE role for fresher 
+Slug: regarding-cisco-sre-role-for-fresher-by-7yt7t
+Article Type: DISCUSSION
+Posted: 2026-08-28 20:22:35 IST
+Updated: 2026-08-28 20:22:35 IST
+URL: https://leetcode.com/discuss/post/8487716/regarding-cisco-sre-role-for-fresher-by-7yt7t/
+Author: 
+
+--- Summary ---
+Hi I was interviewed for cisco SRE role for fresher. I reached till ETR connect round. The HR told she will contact the college placement cell next day of interview i.e. 5 aug. No reply came.Also rounds were elementary so many people were eleminated
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #35
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8DChmrl3
+Title: Agoda | Staff Software Engineer | Bangkok | MAY 2026
+Slug: agoda-staff-software-engineer-bangkok-ma-a69h
+Article Type: DISCUSSION
+Posted: 2026-08-28 20:14:38 IST
+Updated: 2026-08-28 20:14:38 IST
+URL: https://leetcode.com/discuss/post/8487700/agoda-staff-software-engineer-bangkok-ma-a69h/
+Author: 
+
+--- Summary ---
+Staff Software Engineer Interview ExperienceBelow is the interview experience for the role of Staff Software Engineer.Round 1 (DSA & Coding)Problem Statement: Minimum Daily Reading LimitYou are given an array of integers where each element represents
+
+--- Tags ---
+  - Agoda (agoda) [COMPANY]
+  - interview experience (interview-experience) []
+  - Bangkok (bangkok) []
+  - Interview (interview) []
+  - bangalore (bangalore-2) []
+  - Staff software (staff-software) []
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #36
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: RNpy6iPy
+Title: Fumbled an OA
+Slug: fumbled-an-oa-by-anonymous_user-af81
+Article Type: DISCUSSION
+Posted: 2026-08-28 19:19:52 IST
+Updated: 2026-08-28 19:22:12 IST
+URL: https://leetcode.com/discuss/post/8487641/fumbled-an-oa-by-anonymous_user-af81/
+Author: 
+
+--- Summary ---
+i really feel bad that i fumbled infosys OA (first round) can't even solve a single qn fully , i solved 400+ problems in leetcode still even though i recogonized the approach , i cant fully pass the full test , this is my first on campus company.i fe
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 3
+
