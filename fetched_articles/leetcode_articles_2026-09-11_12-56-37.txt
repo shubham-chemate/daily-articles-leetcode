@@ -1,0 +1,855 @@
+LeetCode Discuss - Latest 36 Articles
+Fetched on: 2026-09-11 12:56:37 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: dPfssTDB
+Title: Is DSA DEAD after GPT-Astra?🙄🙄
+Slug: is-dsa-dead-after-gpt-astra-by-ankit2885-e7f8
+Article Type: DISCUSSION
+Posted: 2026-09-11 12:27:48 IST
+Updated: 2026-09-11 12:27:48 IST
+URL: https://leetcode.com/discuss/post/8515336/is-dsa-dead-after-gpt-astra-by-ankit2885-e7f8/
+Author: ankit2885
+
+--- Summary ---
+With GPT-Astra and AI getting insanely good at coding, is grinding DSA still worth it? If AI can solve most LeetCode problems, will companies still ask DSA in interviews?If AI writes the code, do we still need to learn how to write it ourselves? Will
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2jVGXToF
+Title: Walmart OA prep
+Slug: walmart-oa-prep-by-anonymous_user-ev0o
+Article Type: DISCUSSION
+Posted: 2026-09-11 12:24:45 IST
+Updated: 2026-09-11 12:24:45 IST
+URL: https://leetcode.com/discuss/post/8515332/walmart-oa-prep-by-anonymous_user-ev0o/
+Author: 
+
+--- Summary ---
+Hey guys,I got the invitation for the Walmart Full Stack OA on HackerRank. It's split into 3 sections:Software Fundamentals (1 language-agnostic coding question)Front-end (Bug fixing/features in React/Angular with AI assist)Back-end (Node/Spring/Djan
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: x0xOdcgd
+Title: Flipkart | Grid 8.0 Online Assesment | 
+Slug: flipkart-grid-80-online-assesment-by-abi-je1j
+Article Type: DISCUSSION
+Posted: 2026-09-11 11:08:41 IST
+Updated: 2026-09-11 11:08:41 IST
+URL: https://leetcode.com/discuss/post/8515179/flipkart-grid-80-online-assesment-by-abi-je1j/
+Author: Abinas_0305
+
+--- Summary ---
+Hi everyone,I recently took the Flipkart GRiD 8.0 Online Assessment and wanted to share my experience.Test Structure & Experience:
+The assessment consisted of a mix of DSA and core CS subjects.
+Time management was a major factor. Unfortunately, time
+
+--- Tags ---
+  - Flipkart (flipkart) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+  - experience (experience-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: JDntzYSf
+Title: Blinkit SDE-1 Backend  | Off-Campus Interview Experience
+Slug: blinkit-sde-1-backend-off-campus-intervi-ivvo
+Article Type: DISCUSSION
+Posted: 2026-09-11 10:32:01 IST
+Updated: 2026-09-11 10:32:01 IST
+URL: https://leetcode.com/discuss/post/8515131/blinkit-sde-1-backend-off-campus-intervi-ivvo/
+Author: 
+
+--- Summary ---
+I recently got selected for Blinkit SDE-1 Backend through an off-campus opportunity, and I wanted to share my interview experience along with the resources that helped me during my preparation.Role: SDE-1 — Backend
+Graduation: 2026
+Experience: 6-mont
+
+--- Tags ---
+  - blinkit (blinkit) [COMPANY]
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 6
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 74LYeq1i
+Title: What do u do when u get stuck on a problem ⁉️
+Slug: what-do-u-do-when-u-get-stuck-on-a-probl-uan4
+Article Type: DISCUSSION
+Posted: 2026-09-11 10:15:32 IST
+Updated: 2026-09-11 10:15:32 IST
+URL: https://leetcode.com/discuss/post/8515112/what-do-u-do-when-u-get-stuck-on-a-probl-uan4/
+Author: ShiYoBo
+
+--- Summary ---
+When i get stuck i usually wait & do this instead of jumping to the solution :
+Understand the full problem
+remember which patters does it uses ! ( like DP , backtracking etc )
+Set Base Cases & write rough codes
+
+After this if somehow i figured out ev
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8vNCvcMY
+Title:  LeetCode Contests — Weekly + Biweekly | Who’s Competing ?
+Slug: leetcode-contests-weekly-biweekly-whos-c-6n9y
+Article Type: DISCUSSION
+Posted: 2026-09-11 10:11:18 IST
+Updated: 2026-09-11 10:11:18 IST
+URL: https://leetcode.com/discuss/post/8515103/leetcode-contests-weekly-biweekly-whos-c-6n9y/
+Author: harsh_jethwa
+
+--- Summary ---
+Upcoming LeetCode Contests — Weekly + Biweekly | Who’s Competing?Two contests. One goal.Get better at solving problems under pressure. 🔥The upcoming Weekly Contest and Biweekly Contest are great opportunities to test our DSA preparation, improve spee
+
+--- Tags ---
+  - Continental (continental) [COMPANY]
+  - Contest (contest) [COMPANY]
+  - Contentful Studio (contentful-studio) []
+  - Weekly Contest 480. (weekly-contest-480) []
+  - controversy (controversy) []
+  - biweekly contest 180 (biweekly-contest-180) []
+  - biweekly contest 181 (biweekly-contest-181) []
+  - Leetcode Weekly Contest (leetcode-weekly-contest) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: if6Kdmch
+Title: Today's LeetCode Problem Reaction ⁉️
+Slug: todays-leetcode-problem-reaction-by-shiy-bvhk
+Article Type: DISCUSSION
+Posted: 2026-09-11 10:05:20 IST
+Updated: 2026-09-11 10:05:20 IST
+URL: https://leetcode.com/discuss/post/8515092/todays-leetcode-problem-reaction-by-shiy-bvhk/
+Author: ShiYoBo
+
+--- Summary ---
+Today's problem "Unique 3-Digit Even Numbers" wasn't that hard if u already know how to generate permutations so how was ur reaction & difficulty ?•🙂
+•😏
+•😩
+•😡Which TC u used ? i used Brute Force and optimal both !
+in C++ it uses 'next_permutation()'
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: k15kwlqb
+Title: Microsoft Behavioral Interview Questions
+Slug: microsoft-behavioral-interview-questions-xnii
+Article Type: DISCUSSION
+Posted: 2026-09-11 10:02:48 IST
+Updated: 2026-09-11 10:02:48 IST
+URL: https://leetcode.com/discuss/post/8515089/microsoft-behavioral-interview-questions-xnii/
+Author: xyzabcdef
+
+--- Summary ---
+Hi everyone,I have an upcoming interview scheduled with Microsoft for an SDE-2 position.I have a few specific questions, particularly regarding the HLD & LLD rounds.
+Is completely runnable code expected in LLD round ? Do they provide their own IDE &
+
+--- Tags ---
+  - Microsoft (microsoft) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ITs9JV4B
+Title: Service-Based → Product-Based SDE After 3 Years: Is It Realistic?
+Slug: service-based-product-based-sde-after-3-02d7y
+Article Type: DISCUSSION
+Posted: 2026-09-11 09:34:05 IST
+Updated: 2026-09-11 09:34:05 IST
+URL: https://leetcode.com/discuss/post/8515026/service-based-product-based-sde-after-3-02d7y/
+Author: 
+
+--- Summary ---
+Hi everyone,I’ve been feeling stuck in the same cycle for the last 2 years, and I finally decided to write here because maybe someone else has gone through something similar.I currently have around 2.3 years of experience as a Salesforce Developer in
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: KLuI8Hgq
+Title: Brex Interview Experience - Software engineer
+Slug: brex-interview-experience-software-engin-92a2
+Article Type: DISCUSSION
+Posted: 2026-09-11 08:57:15 IST
+Updated: 2026-09-11 09:00:21 IST
+URL: https://leetcode.com/discuss/post/8514985/brex-interview-experience-software-engin-92a2/
+Author: kottavu
+
+--- Summary ---
+Stervo is a card-based board game where players buy cards in exchange for colored gems. In this game, today, we care about two things, gems and cards.Players can have any number of gems of five different colors: (B)lue, (W)hite, (G)reen, (R)ed, and (
+
+--- Tags ---
+  - Brex (brex) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: l84cr6Dg
+Title: Kickdrum OA questions. || intern + FTE 
+Slug: kickdrum-oa-questions-intern-fte-by-rimj-akfl
+Article Type: DISCUSSION
+Posted: 2026-09-11 08:26:36 IST
+Updated: 2026-09-11 08:26:36 IST
+URL: https://leetcode.com/discuss/post/8514952/kickdrum-oa-questions-intern-fte-by-rimj-akfl/
+Author: rimjhim_pal_10_2005
+
+--- Summary ---
+Array Manipulation Pseudocode
+What will be the output of the following pseudocode?
+A = [2, 5, 3, 6, 4]
+FOR i = 1 TO 4
+IF A[i] > A[i - 1]
+A[i] = A[i] - A[i - 1]
+ELSE
+A[i] = A[i] + A[i - 1]
+END FORresult = A[1] * A[3] + A[4] - A[2]PRINT result
+LLM Pro
+
+--- Tags ---
+  - Kickdrum (kickdrum) [COMPANY]
+  - interview experience (interview-experience) []
+  - interview question (interview-question) []
+  - Interview (interview) []
+  - OA | DSA | System / Logic (oa-dsa-system-logic) []
+  - interview preparation help (interview-preparation-help) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8L7OrG5G
+Title: Apple New Grad SWE Process
+Slug: apple-new-grad-swe-process-by-anonymous_-mocv
+Article Type: DISCUSSION
+Posted: 2026-09-11 07:19:28 IST
+Updated: 2026-09-11 07:19:28 IST
+URL: https://leetcode.com/discuss/post/8514903/apple-new-grad-swe-process-by-anonymous_-mocv/
+Author: 
+
+--- Summary ---
+I recently finished my general technical screen for Apple’s new grad SWE/IS&T process (US), and I felt like it went really well. The recruiter mentioned that if the feedback is positive, the next step would be team matching, which could take around 1
+
+--- Tags ---
+  - Apple (apple) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: jqeDRKmx
+Title: Meta PE loop interview #meta #PE 
+Slug: meta-pe-loop-interview-meta-pe-by-focus_-6m0e
+Article Type: DISCUSSION
+Posted: 2026-09-11 05:13:25 IST
+Updated: 2026-09-11 05:13:25 IST
+URL: https://leetcode.com/discuss/post/8514806/meta-pe-loop-interview-meta-pe-by-focus_-6m0e/
+Author: focus_learner
+
+--- Summary ---
+I’m preparing for the Meta PE loop interview and would really appreciate any advice from people who have recently gone through the process.I’d love to hear about:
+What does the PE loop typically look like?
+What types of questions should I expect in t
+
+--- Tags ---
+  - Meta (facebook) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: m2Wk7iXp
+Title: Palantir On-Site(DC) for FDSE Internship
+Slug: palantir-on-sitedc-for-fdse-internship-b-qb8m
+Article Type: DISCUSSION
+Posted: 2026-09-11 03:07:51 IST
+Updated: 2026-09-11 03:07:51 IST
+URL: https://leetcode.com/discuss/post/8514764/palantir-on-sitedc-for-fdse-internship-b-qb8m/
+Author: Gmills
+
+--- Summary ---
+Hey everyone,I have an upcoming on site for Palantir in the DC office. Whats the best way to prepare and what to expect?I know theres a decomp and leaneing round and then behaviorals, but what should I expecr for live coding? I've never done in perso
+
+--- Tags ---
+  - Palantir (palantir) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: I46g8luP
+Title: Largest Rectangle in Histogram
+Slug: largest-rectangle-in-histogram-by-sachin-4x9w
+Article Type: DISCUSSION
+Posted: 2026-09-11 01:54:04 IST
+Updated: 2026-09-11 01:54:04 IST
+URL: https://leetcode.com/discuss/post/8514725/largest-rectangle-in-histogram-by-sachin-4x9w/
+Author: sachin_badshah16
+
+--- Summary ---
+How do you approach “Largest Rectangle in Histogram”?I recently started learning Monotonic Stack and came across Largest Rectangle in Histogram.I understand that we can solve it in O(n) using a monotonic increasing stack, but I still find the width c
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 9Urcc6Ec
+Title: Amazon SDE1 Interview Loop India 2026 – Round Numbering / Possibility of Round 4
+Slug: amazon-sde1-india-2026-round-numbering-p-h55h
+Article Type: DISCUSSION
+Posted: 2026-09-11 01:03:11 IST
+Updated: 2026-09-11 10:39:09 IST
+URL: https://leetcode.com/discuss/post/8514672/amazon-sde1-india-2026-round-numbering-p-h55h/
+Author: 
+
+--- Summary ---
+Hi everyone, I’m going through the Amazon SDE1 hiring process in India through an AUTA hiring drive, and I’m a little confused about how the interview rounds are numbered and process happened so far..My process so far:
+Aug 21 – onsite: I had 2 interv
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+  - amazon sde1 (amazon-sde1-2) []
+  - Interview stages (interview-stages) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6oGZDE0J
+Title: Salesforce AMTS vs Blinkit SDE-1
+Slug: salesforce-amts-vs-blinkit-sde-1-by-fals-z233
+Article Type: DISCUSSION
+Posted: 2026-09-11 00:42:18 IST
+Updated: 2026-09-11 00:42:39 IST
+URL: https://leetcode.com/discuss/post/8514648/salesforce-amts-vs-blinkit-sde-1-by-fals-z233/
+Author: 
+
+--- Summary ---
+Salesforce AMTS vs Blinkit SDE-1Got offers from Salesforce AMTS and Blinkit SDE-1 Backend and I'm confused about which one to choose.Salesforce AMTS
+Base: ₹16.5 LPA
+Performance Bonus: ₹1.65 LPA
+Joining Bonus: ₹5 L
+Relocation: ₹50K
+RSUs: $28K over 4 y
+
+--- Tags ---
+  - Salesforce (salesforce) [COMPANY]
+  - blinkit (blinkit) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: GzjesJhF
+Title: Wells Fargo || Senior Software Engineer  Salary || June 2026
+Slug: wells-fargo-sse-june-2026-by-anonymous_u-kd29
+Article Type: DISCUSSION
+Posted: 2026-09-10 22:28:51 IST
+Updated: 2026-09-10 23:19:49 IST
+URL: https://leetcode.com/discuss/post/8514361/wells-fargo-sse-june-2026-by-anonymous_u-kd29/
+Author: 
+
+--- Summary ---
+I recently received an offer from Wells Fargo, and the compensation breakdown is as follows:YEO : 4
+Interview Rounds : 3Base Salary: 24 LPA
+Variable Pay: 2 LPA
+RSU: 0
+Bonus: 0
+Total Package: 26 LPACompared to my previous base salary, this seems like
+
+--- Tags ---
+  - Wells Fargo (wells-fargo) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: n2JRFbW7
+Title: Why Does LeetCode Feel Different at 2 AM?
+Slug: why-does-leetcode-feel-different-at-2-am-um3g
+Article Type: DISCUSSION
+Posted: 2026-09-10 22:25:04 IST
+Updated: 2026-09-10 22:25:04 IST
+URL: https://leetcode.com/discuss/post/8514351/why-does-leetcode-feel-different-at-2-am-um3g/
+Author: _joshiapoorv0008
+
+--- Summary ---
+Have you ever noticed that the same LeetCode problem can feel completely different depending on when you solve it?Sometimes a problem looks impossible for 20 minutes...Then suddenly the solution appears in your head while you're doing something compl
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: gUtvCxbe
+Title: Amazon SDE2 London Interview
+Slug: amazon-sde2-london-interview-by-awaishme-dw9h
+Article Type: DISCUSSION
+Posted: 2026-09-10 22:17:58 IST
+Updated: 2026-09-10 22:18:18 IST
+URL: https://leetcode.com/discuss/post/8514330/amazon-sde2-london-interview-by-awaishme-dw9h/
+Author: 
+
+--- Summary ---
+I have received an Interview opportunity for Software Development Engineer @Amazon London.
+What should I expect in 60 mins telephonic phone interview? As it is just in the next week it is difficult to prepare for everything.1st Priority -> DSA
+2nd P
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Phone Screening (phone-screening) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: UqgJAGFW
+Title: Day 35 of My DSA Journey | Count Nodes Equal to Average of Subtree
+Slug: day-35-of-my-dsa-journey-count-nodes-equ-nxyn
+Article Type: DISCUSSION
+Posted: 2026-09-10 22:11:25 IST
+Updated: 2026-09-10 22:11:25 IST
+URL: https://leetcode.com/discuss/post/8514312/day-35-of-my-dsa-journey-count-nodes-equ-nxyn/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 35 of my DSA journey, and I worked on Count Nodes Equal to Average of Subtree.Today's problem focused on traversing a binary tree while calculating the sum and number of nodes in each subtree.The key observation was that for every no
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: MO8eXlMu
+Title: Fresher Software Engineer | Actively Looking for Opportunities 2027 batch
+Slug: fresher-software-engineer-actively-looki-a4us
+Article Type: DISCUSSION
+Posted: 2026-09-10 20:55:51 IST
+Updated: 2026-09-10 20:55:51 IST
+URL: https://leetcode.com/discuss/post/8514146/fresher-software-engineer-actively-looki-a4us/
+Author: auk2103
+
+--- Summary ---
+Please refer me if your company is hiring or aware of any Fresher Software Engineer opportunitiesHi everyone! I’m Udaykumar Angari, a final CSE Student from RGUKT Basar, currently looking for entry-level Software Engineer / SDE opportunities.Skills:
+
+--- Tags ---
+  - Placement (placement) [COMPANY]
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: mW3aJC1z
+Title: Blinkit SDE-1 Backend Interview Experience | Off-Campus
+Slug: blinkit-sde-1-backend-interview-experien-ggm5
+Article Type: DISCUSSION
+Posted: 2026-09-10 20:16:59 IST
+Updated: 2026-09-11 00:45:49 IST
+URL: https://leetcode.com/discuss/post/8514070/blinkit-sde-1-backend-interview-experien-ggm5/
+Author: 
+
+--- Summary ---
+Blinkit SDE-1 Backend Interview Experience | Off-CampusSharing my Blinkit SDE-1 Backend interview experience for anyone preparing for similar roles.Role: SDE-1 — Backend
+Hiring: Off-Campus
+Interview Process: 3 Rounds — DSA → LLD/System Design → Cultu
+
+--- Tags ---
+  - blinkit (blinkit) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 7
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0RTBn510
+Title: Salesforce AMTS Interview Experience | India | Pool Campus Hiring
+Slug: salesforce-amts-interview-experience-ind-ijyg
+Article Type: DISCUSSION
+Posted: 2026-09-10 19:51:41 IST
+Updated: 2026-09-11 00:46:15 IST
+URL: https://leetcode.com/discuss/post/8514030/salesforce-amts-interview-experience-ind-ijyg/
+Author: 
+
+--- Summary ---
+Salesforce AMTS Interview Experience | India | Pool Campus HiringSharing my Salesforce AMTS interview experience in case it helps someone preparing for similar interviews.Role: Associate Member of Technical Staff (AMTS)
+Hiring: Pool Campus Hiring
+Int
+
+--- Tags ---
+  - Salesforce (salesforce) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nRLK6glG
+Title: Clevertap | Mumbai | 2026 Jan | Offer
+Slug: clevertap-mumbai-2026-jan-offer-by-anony-qbts
+Article Type: DISCUSSION
+Posted: 2026-09-10 19:23:43 IST
+Updated: 2026-09-10 19:23:43 IST
+URL: https://leetcode.com/discuss/post/8513989/clevertap-mumbai-2026-jan-offer-by-anony-qbts/
+Author: 
+
+--- Summary ---
+3 Yoe
+Previous ctc - 14 LPA
+Position - Backend Engineer
+Offer - 20 LPA + 2 JB (After negotiation)
+Rejected Offer (Reason - 4 days wfo in Mumbai and Lowball offer)
+
+--- Tags ---
+  - CleverTap (clevertap) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: VPlHEEUd
+Title: Infosys 2026 OA — Were the 4 Coding Questions Actually in Increasing Difficulty?
+Slug: infosys-2026-oa-were-the-4-coding-questi-n6uu
+Article Type: DISCUSSION
+Posted: 2026-09-10 18:38:12 IST
+Updated: 2026-09-10 18:38:12 IST
+URL: https://leetcode.com/discuss/post/8513911/infosys-2026-oa-were-the-4-coding-questi-n6uu/
+Author: phanijana
+
+--- Summary ---
+I recently appeared for the Infosys 2026 coding assessment. There were 4 coding questions, and I found the difficulty quite interesting.I don't remember seeing any difficulty labels such as Easy/Medium/Hard/Complex on the platform, so I'm curious whe
+
+--- Tags ---
+  - Infosys (infosys) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+  - OA (oa-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: RSMcWZho
+Title: IBM Coding Assessment 2 - On campus
+Slug: ibm-coding-assessment-2-on-campus-by-ano-vs12
+Article Type: DISCUSSION
+Posted: 2026-09-10 18:34:15 IST
+Updated: 2026-09-10 18:42:07 IST
+URL: https://leetcode.com/discuss/post/8513902/ibm-coding-assessment-2-on-campus-by-ano-vs12/
+Author: 
+
+--- Summary ---
+This is the second coding assessment after shortlisted from OA1.)Given an integer array named yCoordinates where yCoordinates[i] represents the Y axis and each index represents the X axis. Find the strictly increasing contiguous slope of the give poi
+
+--- Tags ---
+  - IBM (ibm) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DwFcPbmF
+Title: Amazon Phone Screen Sr. SDE | 2026
+Slug: amazon-phone-screen-sr-sde-2026-by-anony-mq9x
+Article Type: DISCUSSION
+Posted: 2026-09-10 17:04:50 IST
+Updated: 2026-09-10 17:04:50 IST
+URL: https://leetcode.com/discuss/post/8513766/amazon-phone-screen-sr-sde-2026-by-anony-mq9x/
+Author: 
+
+--- Summary ---
+Recently gave the interview for Amazon Sr. SDE (L6) and was asked the following questions in phone screen round:2 LP questions around Learn and Be Curious, Customer Obsession and Ownership with follow up questions.Coding question:
+Topological sort an
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: L4GtmgsK
+Title: AMAZON SDE 2 (L5) | SPAIN | 9 YOE
+Slug: amazon-sde-2-l5-spain-by-anonymous_user-vs2p
+Article Type: DISCUSSION
+Posted: 2026-09-10 16:47:18 IST
+Updated: 2026-09-10 23:02:30 IST
+URL: https://leetcode.com/discuss/post/8513742/amazon-sde-2-l5-spain-by-anonymous_user-vs2p/
+Author: 
+
+--- Summary ---
+Had 2 rounds of interviews on a single day.Round 1 : LLD and Leadership principles and GenAI questionsThis round started with Leadership principles and GenAI related questions. The behavioral questions round lasted 30 mins and remaining 30 mins I was
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: chyFX0jP
+Title: SDET to AI Engineer | SDE | FDE
+Slug: sdet-to-ai-engineer-sde-fde-by-anonymous-81np
+Article Type: DISCUSSION
+Posted: 2026-09-10 16:10:27 IST
+Updated: 2026-09-10 16:10:27 IST
+URL: https://leetcode.com/discuss/post/8513683/sdet-to-ai-engineer-sde-fde-by-anonymous-81np/
+Author: 
+
+--- Summary ---
+I'm a Test Automation professional seeking a career transition into AI Engineering, Software Development, or Forward Deployed Engineering. I'm eager to connect with others who have made similar transitions, especially AI Engineers, SDEs, FDEs, and hi
+
+--- Tags ---
+  - Career (career) []
+  - #switch (switch-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: gQe37hTZ
+Title: Oracle OCI || Software Developer 3 || Phone Screening Round
+Slug: oracle-oci-software-developer-3-phone-sc-qeg5
+Article Type: DISCUSSION
+Posted: 2026-09-10 15:46:05 IST
+Updated: 2026-09-10 15:46:05 IST
+URL: https://leetcode.com/discuss/post/8513629/oracle-oci-software-developer-3-phone-sc-qeg5/
+Author: 6NPQo57mII
+
+--- Summary ---
+The round included both DSA and System Design.
+
+DSA: Asked Next Permutation. I was expected to explain the approach, implement the solution, and discuss the time and space complexity.
+
+
+System Design: Asked me to design a system for uploading a 100 G
+
+--- Tags ---
+  - Oracle (oracle) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 5m328k3S
+Title: LinkedIn Loop Rounds IC2
+Slug: linkedin-loop-rounds-ic2-by-tanushree112-efry
+Article Type: DISCUSSION
+Posted: 2026-09-10 15:26:00 IST
+Updated: 2026-09-10 15:26:51 IST
+URL: https://leetcode.com/discuss/post/8513597/linkedin-loop-rounds-ic2-by-tanushree112-efry/
+Author: 
+
+--- Summary ---
+Sharing my LinkedIn IC2 interview loop experience for anyone preparing for similar interviews.Here are the questions/topics that were covered across the rounds:Elimination Round
+Maximum Depth of Binary Tree
+Zigzag Level Order Traversal
+Round 1 – DSA
+
+--- Tags ---
+  - LinkedIn (linkedin) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 40YGP0IG
+Title: LeetCode Challenge | Minimum Difficulty of a Job Schedule — DP + Partitioning 📚🧠
+Slug: leetcode-challenge-minimum-difficulty-of-s30o
+Article Type: DISCUSSION
+Posted: 2026-09-10 15:19:45 IST
+Updated: 2026-09-10 15:19:45 IST
+URL: https://leetcode.com/discuss/post/8513583/leetcode-challenge-minimum-difficulty-of-s30o/
+Author: vighneshtakke4
+
+--- Summary ---
+🧠 IntuitionThe main challenge here is dividing the jobs into exactly d days while keeping their original order.Each day must contain a contiguous group of jobs, and the difficulty of a day is the maximum difficulty among the jobs assigned to that day
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4kczvAAF
+Title: MMT || SDE 2
+Slug: mmt-sde-2-by-anonymous_user-zpo7
+Article Type: DISCUSSION
+Posted: 2026-09-10 15:06:14 IST
+Updated: 2026-09-10 15:06:14 IST
+URL: https://leetcode.com/discuss/post/8513565/mmt-sde-2-by-anonymous_user-zpo7/
+Author: 
+
+--- Summary ---
+Recently Interviewed for MMT.contacted via naukri for this job opportunity.R1:
+Basic introduction.
+Projects
+https://leetcode.com/problems/subarray-sum-equals-k/description/
+find cycle in directed graph.
+R2:
+Introduction
+write a code where
+
+producer p
+
+--- Tags ---
+  - Java (java) []
+  - Interview (interview) []
+  - SDE2 (sde2-2) []
+  - MMT (mmt-3) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #35
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: il7li313
+Title: Razorpay | SDE Intern | Aug 2025 [Offer]
+Slug: razorpay-sde-intern-aug-2025-offer-by-an-9rbc
+Article Type: DISCUSSION
+Posted: 2026-09-10 14:17:28 IST
+Updated: 2026-09-10 14:17:28 IST
+URL: https://leetcode.com/discuss/post/8513477/razorpay-sde-intern-aug-2025-offer-by-an-9rbc/
+Author: 
+
+--- Summary ---
+Background
+Education: BTech CSE, 2026(passout), Tier - 3 college, India
+Experience: In college(no prior experience)Opportunity details
+Date: Aug , 2025
+Location: Bangalore , India
+Role: SDE-1
+Applied: Applied via college Training and Placement CellIn
+
+--- Tags ---
+  - razorpay (razorpay) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #36
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: CX3QH38a
+Title: WEX interview coding questions
+Slug: wex-interview-coding-questions-by-anonym-e7mn
+Article Type: DISCUSSION
+Posted: 2026-09-10 12:44:26 IST
+Updated: 2026-09-10 12:44:26 IST
+URL: https://leetcode.com/discuss/post/8513333/wex-interview-coding-questions-by-anonym-e7mn/
+Author: 
+
+--- Summary ---
+Print all permuation of string it can contain digit, small charater and capital charater. Return permuation of string in sorted order (digit-> small char -> captial char)
+Given input U 3 U -3 O O X output: -3 3
+U push in stack
+O pop in stack
+X end o
+
+--- Tags ---
+  - coding (coding) [COMPANY]
+  - Interview (interview) []
+  - WEX (wex) [COMPANY]
+
