@@ -1,0 +1,833 @@
+LeetCode Discuss - Latest 37 Articles
+Fetched on: 2026-09-19 13:00:07 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1t9znvHN
+Title: # Built WanderLoft — A Full-Stack Travel Discovery & Community Platform 🌍 PLEASE CHECK 
+Slug: built-wanderloft-a-full-stack-travel-dis-w006
+Article Type: DISCUSSION
+Posted: 2026-09-19 12:22:24 IST
+Updated: 2026-09-19 12:22:46 IST
+URL: https://leetcode.com/discuss/post/8528988/built-wanderloft-a-full-stack-travel-dis-w006/
+Author: 
+
+--- Summary ---
+Hey everyone!I recently built WanderLoft, a full-stack travel platform focused on discovering stays and destinations while allowing users to share their travel experiences with the community.🚀 What I built
+🏡 Travel Listings — Browse and explore 30+ s
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: QNl6LC1C
+Title: 1 Return || max , min || 1401: java
+Slug: 1-return-max-min-1401-java-by-farhan_isl-rt82
+Article Type: DISCUSSION
+Posted: 2026-09-19 11:59:25 IST
+Updated: 2026-09-19 11:59:25 IST
+URL: https://leetcode.com/discuss/post/8528950/1-return-max-min-1401-java-by-farhan_isl-rt82/
+Author: Farhan_Islam_Rafid
+
+--- Summary ---
+IntuitionFind the point of the rectangle that is closest to the circle's center.
+Then check if the distance between them is within the circle's radius.ApproachUse Math.min() and Math.max() to find the closest x and y coordinates of the rectangle.Then
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2U5Gen5O
+Title: Booking.com SDE-1 Backend – OA & Interview Process
+Slug: bookingcom-sde-1-backend-oa-interview-pr-3lp5
+Article Type: DISCUSSION
+Posted: 2026-09-19 11:44:51 IST
+Updated: 2026-09-19 11:44:51 IST
+URL: https://leetcode.com/discuss/post/8528927/bookingcom-sde-1-backend-oa-interview-pr-3lp5/
+Author: 
+
+--- Summary ---
+Recently, I received an Online Assessment (OA) invitation from Booking.com for an SDE-1 Backend role.Has anyone recently received a similar OA invitation or gone through the Booking.com SDE-1 interview process?I’d really appreciate any insights on:
+I
+
+--- Tags ---
+  - Career (career) []
+  - Online Assessment (online-assessment) []
+  - Booking.com (booking-com) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: K3dJTsRC
+Title: Cargill Software Engineering Intern OA – 100 Minutes | What to Expect?
+Slug: cargill-software-engineering-intern-oa-1-jtq8
+Article Type: DISCUSSION
+Posted: 2026-09-19 11:32:00 IST
+Updated: 2026-09-19 11:32:00 IST
+URL: https://leetcode.com/discuss/post/8528905/cargill-software-engineering-intern-oa-1-jtq8/
+Author: Najir581
+
+--- Summary ---
+Hi everyone,I recently received an Online Assessment (OA) invitation for the Software Engineering Intern role at Cargill. The assessment duration is 100 minutes.I couldn't find much information about the recent Cargill OA, so I wanted to ask anyone w
+
+--- Tags ---
+  - Career (career) []
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: XwBvLVrR
+Title: My 150 LeetCode Challenge 
+Slug: my-150-leetcode-challenge-by-gungun2816-pbvi
+Article Type: DISCUSSION
+Posted: 2026-09-19 11:04:48 IST
+Updated: 2026-09-19 11:04:48 IST
+URL: https://leetcode.com/discuss/post/8528875/my-150-leetcode-challenge-by-gungun2816-pbvi/
+Author: gungun2816
+
+--- Summary ---
+Today is Day 2/30.My goal is to solve 150 LeetCode problems by solving 5 questions every day.I will be posting my daily progress to stay consistent and accountable.Mentors and developers, please share your best tips for improving DSA, contest perform
+
+--- Tags ---
+  - Career (career) []
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: rpDRnCvk
+Title: Amazon|| SDE-2 || SELECTED 
+Slug: amazon-sde-2-selected-by-anonymous_user-hx6i
+Article Type: DISCUSSION
+Posted: 2026-09-19 10:58:25 IST
+Updated: 2026-09-19 10:58:25 IST
+URL: https://leetcode.com/discuss/post/8528863/amazon-sde-2-selected-by-anonymous_user-hx6i/
+Author: 
+
+--- Summary ---
+My Education: B.Tech (Tier 3 College)
+Experience: 3 years 5 months
+Previous Company: PocketFM (SDE2)Company: Amazon
+Role: Software Development Engineer II (SDE II, L5)
+Location: Hyderabad, India
+Offer Received: YesGot referred by someone on boost my
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Compensation (compensation) []
+  - Interview (interview) []
+  - SDE2 (sde2-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Rg4VhBtw
+Title: Adobe CS1 
+Slug: adobe-cs1-by-anonymous_user-vo1w
+Article Type: DISCUSSION
+Posted: 2026-09-19 09:16:03 IST
+Updated: 2026-09-19 09:16:03 IST
+URL: https://leetcode.com/discuss/post/8528767/adobe-cs1-by-anonymous_user-vo1w/
+Author: 
+
+--- Summary ---
+Hey everyone,Finally got an offer from Adobe for the Computer Scientist 1 role.Education: B.Tech (IIT Jodhpur) in MechanicalExperience: 5 years 8 monthsPrevious Role: Senior / Full Stack EngineerCurrent CTC: ₹33 LPA (₹30 L + ₹3 L)Company: AdobeRole:
+
+--- Tags ---
+  - Adobe (adobe) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ivyv7KEV
+Title: Need some career advice from experienced developers.
+Slug: need-some-career-advice-from-experienced-8v24
+Article Type: DISCUSSION
+Posted: 2026-09-19 08:48:27 IST
+Updated: 2026-09-19 08:52:33 IST
+URL: https://leetcode.com/discuss/post/8528747/need-some-career-advice-from-experienced-8v24/
+Author: 
+
+--- Summary ---
+I have 2+ years of backend-focused full-stack experience, including around 1.5 years at my current company.Tech stack: Node.js, Express, MySQL, MongoDB, Redis, RabbitMQ, BullMQ, Angular/React, Jenkins, PM2/Linux.
+Experience: Production CRM, payments/
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: hDZiAH7B
+Title: Upcoming Doordash  iOS interview
+Slug: upcoming-doordash-ios-interview-by-luane-s2hc
+Article Type: DISCUSSION
+Posted: 2026-09-19 02:24:09 IST
+Updated: 2026-09-19 02:24:09 IST
+URL: https://leetcode.com/discuss/post/8528595/upcoming-doordash-ios-interview-by-luane-s2hc/
+Author: luane
+
+--- Summary ---
+Does anyone recently interviewed for iOS mid-level position at Doordash that could share the experience with me?Thank you in advance!
+
+--- Tags ---
+  - DoorDash (doordash) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Cq348D29
+Title: JioHotstar SDE-2 Decision - Looking for advice on WLB , Growth & Compensation
+Slug: jiohotstar-sde-2-decision-looking-for-ad-5ufo
+Article Type: DISCUSSION
+Posted: 2026-09-19 01:43:08 IST
+Updated: 2026-09-19 01:43:08 IST
+URL: https://leetcode.com/discuss/post/8528560/jiohotstar-sde-2-decision-looking-for-ad-5ufo/
+Author: ayush87654
+
+--- Summary ---
+JioHotstar SDE-2: ₹31.5L Fixed + ₹3.5L Variable vs Current Compensation — Is This a Lowball?Hi everyone,I’m currently working as a Data Engineer, with around 3 years 3 months of experience.I have received an offer from JioHotstar for an SDE-2 role wi
+
+--- Tags ---
+  - Compensation (compensation) []
+  - JioHotstar (jiohotstar) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: LO6tMb0S
+Title: Snowflake FDE Poland
+Slug: snowflake-fde-by-leetcoder-by-heart-5lyk
+Article Type: DISCUSSION
+Posted: 2026-09-19 01:39:49 IST
+Updated: 2026-09-19 01:42:17 IST
+URL: https://leetcode.com/discuss/post/8528555/snowflake-fde-by-leetcoder-by-heart-5lyk/
+Author: leetcoder-by-heart
+
+--- Summary ---
+Anyone interviewing for the FDE (Forward Deployed Engineer or Software Engineer, Applied AI) role at Snowflake Warsaw? If so, what leetcode problem did you get in the first round?
+
+--- Tags ---
+  - Snowflake (snowflake) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0Rfzaekp
+Title: SanDisk Associate Software Engineer – Technical Interview 1 Update
+Slug: sandisk-associate-software-engineer-tech-txsq
+Article Type: DISCUSSION
+Posted: 2026-09-19 01:14:47 IST
+Updated: 2026-09-19 01:14:47 IST
+URL: https://leetcode.com/discuss/post/8528529/sandisk-associate-software-engineer-tech-txsq/
+Author: 
+
+--- Summary ---
+Hi everyone,I recently attended the SanDisk Associate Software Engineer Technical Interview – Round 1 on September 16th.It has been a few days, but I haven’t received any update regarding the next round or the interview status yet.I wanted to check w
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: AJWFBoO1
+Title: 1600+ rating goal 
+Slug: 1600-rating-goal-by-anshagrawal694-lsgf
+Article Type: DISCUSSION
+Posted: 2026-09-19 00:21:36 IST
+Updated: 2026-09-19 00:21:36 IST
+URL: https://leetcode.com/discuss/post/8528480/1600-rating-goal-by-anshagrawal694-lsgf/
+Author: anshagrawal694
+
+--- Summary ---
+Hi everyone, Just want to know some tips about contest because in next contest my goal is to achive 1600+ rating currently i have 1592 rating don't get wanna down.
+So pls drop your suggestions in comments down below.
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: XGhswuPr
+Title: Can anyone please recommend the best way to look for a job change in the current market?
+Slug: can-anyone-please-recommend-the-best-way-98kq
+Article Type: DISCUSSION
+Posted: 2026-09-19 00:13:59 IST
+Updated: 2026-09-19 00:13:59 IST
+URL: https://leetcode.com/discuss/post/8528471/can-anyone-please-recommend-the-best-way-98kq/
+Author: 
+
+--- Summary ---
+I’ve been aggressively looking for a job for the past year.I’ve been rejected by Adobe, Microsoft, Flipkart, and a few other companies. Last year, I was at least getting interview calls, even though I wasn’t able to convert some of them.But right now
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nGpisglM
+Title: Google | SWE L4 | USA
+Slug: google-swe-l4-usa-by-anonymous_user-m4jv
+Article Type: DISCUSSION
+Posted: 2026-09-18 23:58:35 IST
+Updated: 2026-09-18 23:58:35 IST
+URL: https://leetcode.com/discuss/post/8528448/google-swe-l4-usa-by-anonymous_user-m4jv/
+Author: 
+
+--- Summary ---
+YOE: 3
+Date of Offer: Sep 2026
+Company: Google
+Title/Level: Software Engineer L4
+Location: USA
+Salary (base): $200kTarget bonus: 15% = $30kSigning Bonus: $21kStock: $175k over 4 yearsTC: ~$318k (first year)
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: zTdNqtD1
+Title: # TCS NQT 2026 – Complete Exam Experience & Section-wise Review
+Slug: tcs-nqt-2026-complete-exam-experience-se-jjz7
+Article Type: DISCUSSION
+Posted: 2026-09-18 23:39:36 IST
+Updated: 2026-09-18 23:39:36 IST
+URL: https://leetcode.com/discuss/post/8528416/tcs-nqt-2026-complete-exam-experience-se-jjz7/
+Author: learner56
+
+--- Summary ---
+TCS NQT 2026 – Complete Exam Experience & Section-wise ReviewI appeared for the TCS NQT 2026 exam and wanted to share my experience for students preparing for the exam. The exact questions may vary between shifts, but this was my experience.Numerical
+
+--- Tags ---
+  - tcs (tcs) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: OfLdovj0
+Title: Amazon Phone Screen Round | Rejected
+Slug: amazon-phone-screen-round-rejected-by-an-vmo9
+Article Type: DISCUSSION
+Posted: 2026-09-18 23:09:10 IST
+Updated: 2026-09-18 23:09:10 IST
+URL: https://leetcode.com/discuss/post/8528370/amazon-phone-screen-round-rejected-by-an-vmo9/
+Author: 
+
+--- Summary ---
+DSA Question -
+Given an array, the cost of adding two numbers is addition of two numbers, what is the minimum cost of adding all numbers.
+Solved within 10 minutes with running code.2.HLD
+Design an Employee Directory for Amazon where employees can se
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Phone Screening (phone-screening) []
+  - Interview (interview) []
+  - SDE2 (sde2-2) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7oqUEHJo
+Title: Advice for Learning DSA and problem-solving the right approach ?
+Slug: advice-for-learning-dsa-and-problem-solv-6vg4
+Article Type: DISCUSSION
+Posted: 2026-09-18 23:02:53 IST
+Updated: 2026-09-18 23:02:53 IST
+URL: https://leetcode.com/discuss/post/8528360/advice-for-learning-dsa-and-problem-solv-6vg4/
+Author: Usaid_X_Malik
+
+--- Summary ---
+I am a BS Artificial Intelligence student in my 4th semester. I am looking for guidance from an experienced industry professional with strong DSA knowledge. What is the right approach to understanding and solving DSA problems, and which core concepts
+
+--- Tags ---
+  - Career (career) []
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vf5Q6N9k
+Title: How do you recognize when a Stack is the right approach?
+Slug: how-do-you-recognize-when-a-stack-is-the-mfr6
+Article Type: DISCUSSION
+Posted: 2026-09-18 22:40:03 IST
+Updated: 2026-09-18 22:40:46 IST
+URL: https://leetcode.com/discuss/post/8528325/how-do-you-recognize-when-a-stack-is-the-mfr6/
+Author: TanishkaAggarwal
+
+--- Summary ---
+I've recently started learning stacks, and I've noticed that they can be used in problems that don't initially look like stack problems.For example, I've come across problems involving Next Greater Element, Largest Rectangle in Histogram, and similar
+
+--- Tags ---
+  - Stack (stack) [TOPIC]
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7bAzFRUw
+Title: SET 6 — SLIDING WINDOW (Python DSA Cheat Sheet)
+Slug: set-6-sliding-window-python-dsa-cheat-sh-fn3m
+Article Type: DISCUSSION
+Posted: 2026-09-18 22:35:10 IST
+Updated: 2026-09-18 22:35:10 IST
+URL: https://leetcode.com/discuss/post/8528312/set-6-sliding-window-python-dsa-cheat-sh-fn3m/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SET 6 — SLIDING WINDOW (Python DSA Cheat Sheet)1. What is the Sliding Window Technique?The Sliding Window technique is an algorithmic approach for processing sequential data (arrays, strings) over contiguous segments called windows.Instead of recalcu
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1Zwloboy
+Title: SET 5 — TWO POINTERS (Python DSA Cheat Sheet)
+Slug: set-5-two-pointers-python-dsa-cheat-shee-4kxe
+Article Type: DISCUSSION
+Posted: 2026-09-18 22:34:03 IST
+Updated: 2026-09-18 22:34:03 IST
+URL: https://leetcode.com/discuss/post/8528307/set-5-two-pointers-python-dsa-cheat-shee-4kxe/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SET 5 — TWO POINTERS (Python DSA Cheat Sheet)1. What is the Two Pointers Technique?The Two Pointers technique is an algorithmic paradigm where two integer indices (or reference pointers) traverse a sequence—either in opposite directions, in the same
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: hB8YusKZ
+Title: SET 3 — STRINGS (Python DSA Cheat Sheet)
+Slug: set-3-strings-python-dsa-cheat-sheet-by-n4obv
+Article Type: DISCUSSION
+Posted: 2026-09-18 22:25:51 IST
+Updated: 2026-09-18 22:25:51 IST
+URL: https://leetcode.com/discuss/post/8528296/set-3-strings-python-dsa-cheat-sheet-by-n4obv/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SET 3 — STRINGS (Python DSA Cheat Sheet)1. What is a String?A string is an ordered, immutable sequence of characters. In Python, there is no separate char type — a single character is just a string of length 1.Internally, Python strings are sequences
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: N6Zi6K8U
+Title: JioStar Analyst
+Slug: jiostar-analyst-by-vharshita122-8cny
+Article Type: DISCUSSION
+Posted: 2026-09-18 22:22:19 IST
+Updated: 2026-09-18 22:22:19 IST
+URL: https://leetcode.com/discuss/post/8528291/jiostar-analyst-by-vharshita122-8cny/
+Author: vharshita122
+
+--- Summary ---
+please tell what we can expect in the jiostar Analyst role interview on campus, do they also ask dsa and system design for this role?
+
+--- Tags ---
+  - Interview (interview) []
+  - JioStar (jiostar) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: qrg3t5OT
+Title: SET 2 — ARRAYS & 2D MATRICES (Python DSA Cheat Sheet)
+Slug: array-by-krishna_agarwal1-c26z
+Article Type: DISCUSSION
+Posted: 2026-09-18 22:22:14 IST
+Updated: 2026-09-18 22:26:20 IST
+URL: https://leetcode.com/discuss/post/8528289/array-by-krishna_agarwal1-c26z/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SET 2 — ARRAYS & 2D MATRICES (Python DSA Cheat Sheet)1. What is an Array?In computer science, an array is a contiguous block of memory holding elements of identical type, accessed via zero-based numerical indices in O(1) time.In Python, the primary a
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: p6zYIJMy
+Title: SET 1 — BIT MANIPULATION (Python DSA Cheat Sheet)
+Slug: bit-manipulation-by-krishna_agarwal1-byyf
+Article Type: DISCUSSION
+Posted: 2026-09-18 22:21:15 IST
+Updated: 2026-09-18 22:28:11 IST
+URL: https://leetcode.com/discuss/post/8528288/bit-manipulation-by-krishna_agarwal1-byyf/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SET 1 — BIT MANIPULATION (Python DSA Cheat Sheet)1. What is Bit Manipulation?At the lowest hardware level, every piece of data—integers, floating-point numbers, characters, memory addresses, and data structures—is represented as binary digits (bits):
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4T8490d0
+Title: PYTHON DSA COMPLETE LEARNING SHEET
+Slug: python-dsa-complete-learning-sheet-by-kr-kpj0
+Article Type: DISCUSSION
+Posted: 2026-09-18 22:15:38 IST
+Updated: 2026-09-18 22:15:38 IST
+URL: https://leetcode.com/discuss/post/8528282/python-dsa-complete-learning-sheet-by-kr-kpj0/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+🚀 PYTHON DSA COMPLETE LEARNING SHEETThe Definitive Pattern-Driven, Commented Study Guide for Coding Interviews📑 Curriculum & Navigation
+Bit Manipulation
+Arrays & Dynamic Arrays
+Strings & Hashing
+Two Pointers
+Sliding Window
+Prefix Sum & Difference Arr
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: tH3pyNdm
+Title: Career advice: JPMC vs MakeMyTrip vs Oracle Health
+Slug: career-advice-jpmc-vs-makemytrip-vs-orac-qb5s
+Article Type: DISCUSSION
+Posted: 2026-09-18 21:24:18 IST
+Updated: 2026-09-18 23:48:27 IST
+URL: https://leetcode.com/discuss/post/8528211/career-advice-jpmc-vs-makemytrip-vs-orac-qb5s/
+Author: 
+
+--- Summary ---
+Career advice: JPMC vs MakeMyTrip vs Oracle HealthI'm a software engineer from a Tier-1 college with 6+ years of backend development experience, primarily in B2B SaaS/platform engineering.I was recently laid off from a startup due to business/organiz
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: NekIr98i
+Title: Amazon SDE Intern OA Round - Looking For Preparation Advice
+Slug: amazon-sde-intern-oa-round-looking-for-p-262o
+Article Type: DISCUSSION
+Posted: 2026-09-18 20:56:18 IST
+Updated: 2026-09-18 20:57:12 IST
+URL: https://leetcode.com/discuss/post/8528172/amazon-sde-intern-oa-round-looking-for-p-262o/
+Author: AashiSrivastava411
+
+--- Summary ---
+I am a 2nd year B.tech student and I recently appeared for an Amazon SDE Intern Online Assessment and wanted to share my experience and get some advice from people who have gone through similar OAs.
+The assessment had multiple sections, including:
+Co
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Career (career) []
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+  - amazon_OA (amazon-oa-3) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WjyjHpWi
+Title: Apple SSE round, in ASE
+Slug: apple-sse-round-in-ase-by-anonymous_user-njgb
+Article Type: DISCUSSION
+Posted: 2026-09-18 20:47:38 IST
+Updated: 2026-09-18 20:47:38 IST
+URL: https://leetcode.com/discuss/post/8528163/apple-sse-round-in-ase-by-anonymous_user-njgb/
+Author: 
+
+--- Summary ---
+Hello all,
+I have an upcomging round (Technical screen) 1st round, with Apple team in Core services, and I am not sure, what it's going to be about. Does anyone here know what can they focus more on? System design or Leetcode style? I am given a code
+
+--- Tags ---
+  - Apple (apple) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vJEleXwP
+Title: Inventory Allocation with Bids and Round-Robin Amazon OA
+Slug: inventory-allocation-with-bids-and-round-re19
+Article Type: DISCUSSION
+Posted: 2026-09-18 19:40:45 IST
+Updated: 2026-09-18 19:40:45 IST
+URL: https://leetcode.com/discuss/post/8528072/inventory-allocation-with-bids-and-round-re19/
+Author: 
+
+--- Summary ---
+You are given an integer totalInventory representing the total number of items available.You are also given a 2D array requests, where each request is represented as:[customerId, quantity, bidAmount, timestamp]where:customerId — unique ID of the cust
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Pu8D3nyW
+Title:  JioStar  | Staff Backend Engineer | Interview Experience
+Slug: jiostar-staff-backend-engineer-interview-gfw9
+Article Type: DISCUSSION
+Posted: 2026-09-18 18:30:17 IST
+Updated: 2026-09-18 18:31:13 IST
+URL: https://leetcode.com/discuss/post/8527987/jiostar-staff-backend-engineer-interview-gfw9/
+Author: swatibansal019
+
+--- Summary ---
+I recently went through the interview process for a Staff Backend Engineer role at JioStar. I appeared for 2 rounds and was rejected in the second round.Sharing my experience in case it helps others preparing for similar roles.1) HLD + LLD RoundProbl
+
+--- Tags ---
+  - Interview (interview) []
+  - JioStar (jiostar) []
+
+--- Reactions ---
+  UPVOTE: 8
+  THUMBS_DOWN: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 38v7Mpz3
+Title: FDE google europe
+Slug: fde-google-europe-by-wisefrog-osru
+Article Type: DISCUSSION
+Posted: 2026-09-18 18:22:25 IST
+Updated: 2026-09-18 18:22:25 IST
+URL: https://leetcode.com/discuss/post/8527976/fde-google-europe-by-wisefrog-osru/
+Author: WiseFrog
+
+--- Summary ---
+Hello, I have an upcoming interview (coding + SysDes) with Google Cloud for AI Eng FDE (EU). Anyone who recently interviewed for a similar role? I was told I won't be asked DP. Any advices or recommendations ?
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: PCacFkOM
+Title: Looking for a Referral – Software Engineer / Python Backend Roles
+Slug: looking-for-a-referral-software-engineer-f8dx
+Article Type: DISCUSSION
+Posted: 2026-09-18 18:19:29 IST
+Updated: 2026-09-18 18:19:29 IST
+URL: https://leetcode.com/discuss/post/8527971/looking-for-a-referral-software-engineer-f8dx/
+Author: 
+
+--- Summary ---
+Hi everyone,I’m currently looking for opportunities in Software Engineering, Python Backend, Backend Development, AI/ML, or related roles and would really appreciate a referral if your company has a relevant opening.About me:
+Software Engineer with e
+
+--- Tags ---
+  - Career (career) []
+  - looking for a job (looking-for-a-job) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: STnpdMbd
+Title: Need Advice - Domain Switch to Data Engineer
+Slug: need-advice-domain-switch-to-data-engine-i2ot
+Article Type: DISCUSSION
+Posted: 2026-09-18 17:05:19 IST
+Updated: 2026-09-18 17:05:19 IST
+URL: https://leetcode.com/discuss/post/8527863/need-advice-domain-switch-to-data-engine-i2ot/
+Author: Reshma1
+
+--- Summary ---
+I have been working in a tech team of a US based bank for 4 years. Salary is good. I was assigned to a management type of team with very menial work in the beginning and later got shifted to a mainframe team. So my team basically supports multiple ap
+
+--- Tags ---
+  - Career (career) []
+  - Data engineer (data-engineer-3) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #35
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: PZ2yXbLh
+Title: Open to Entry-Level Software Engineer Opportunities
+Slug: open-to-entry-level-software-engineer-op-37i7
+Article Type: DISCUSSION
+Posted: 2026-09-18 16:51:19 IST
+Updated: 2026-09-18 16:51:19 IST
+URL: https://leetcode.com/discuss/post/8527838/open-to-entry-level-software-engineer-op-37i7/
+Author: anuragpandey9500
+
+--- Summary ---
+Hi everyone! 👋I’m a recent B.Tech Computer Science graduate actively looking for an Entry-Level Software Engineer / Software Developer opportunity.💻 Skills:
+• Java & Data Structures & Algorithms
+• JavaScript, React.js, HTML, CSS
+• Python & SQL
+• REST
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #36
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: SX406u6d
+Title: phonepe final decision timeline
+Slug: phonepe-final-decision-timeline-by-anony-d9kl
+Article Type: DISCUSSION
+Posted: 2026-09-18 15:43:03 IST
+Updated: 2026-09-18 15:43:03 IST
+URL: https://leetcode.com/discuss/post/8527741/phonepe-final-decision-timeline-by-anony-d9kl/
+Author: 
+
+--- Summary ---
+how long did it take after the final round (Hiring Manager) for you to hear back from the recruiter at Phonepe? do they ghost or actually send out rejection mails?#phonepe #interviews
+
+--- Tags ---
+  - PhonePe (phonepe) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #37
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: w6aoZwFE
+Title: Amazon SDE-1 Chennai On-Campus OA Result – Job ID 10423461
+Slug: amazon-sde-1-chennai-on-campus-oa-result-mgja
+Article Type: DISCUSSION
+Posted: 2026-09-18 13:04:06 IST
+Updated: 2026-09-18 13:04:06 IST
+URL: https://leetcode.com/discuss/post/8527513/amazon-sde-1-chennai-on-campus-oa-result-mgja/
+Author: MADHUMITHA_T_V
+
+--- Summary ---
+Hi everyone,I completed the Amazon SDE-1 Online Assessment on September 2, 2026 through an on-campus placement drive.Role: Software Development Engineer I – Chennai
+Job ID: 10423461
+Recruitment: Amazon University Talent Acquisition
+OA Date: September
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
