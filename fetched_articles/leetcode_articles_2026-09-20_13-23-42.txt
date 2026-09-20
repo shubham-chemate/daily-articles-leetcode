@@ -1,0 +1,873 @@
+LeetCode Discuss - Latest 39 Articles
+Fetched on: 2026-09-20 13:23:42 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 02xKNZp5
+Title: Microsoft swe intern interview
+Slug: microsoft-swe-intern-interview-by-juqle3-n5v2
+Article Type: DISCUSSION
+Posted: 2026-09-20 12:54:05 IST
+Updated: 2026-09-20 12:54:05 IST
+URL: https://leetcode.com/discuss/post/8530832/microsoft-swe-intern-interview-by-juqle3-n5v2/
+Author: JuqLE3tk32
+
+--- Summary ---
+I have a technical interview in a few days! Would love some tips and whether the microsoft section of leetcode is good to use to revise.
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: BqZJAxF6
+Title: Find the First Strictly Greater Element’s Index
+Slug: find-the-first-strictly-greater-elements-r136
+Article Type: DISCUSSION
+Posted: 2026-09-20 11:53:03 IST
+Updated: 2026-09-20 11:53:03 IST
+URL: https://leetcode.com/discuss/post/8530679/find-the-first-strictly-greater-elements-r136/
+Author: akash_viru18
+
+--- Summary ---
+Problem DescriptionGiven a strictly increasing sorted array nums and an integer target, find the index i such that:nums[i] < target < nums[i + 1]Return the index i.If no such index exists, return -1.The array contains distinct elements and is sorted
+
+--- Tags ---
+  - Binary Search (binary-search) [TOPIC]
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kpDsltl2
+Title: Cisco full loop
+Slug: cisco-full-loop-by-arushannn-z127
+Article Type: DISCUSSION
+Posted: 2026-09-20 11:41:42 IST
+Updated: 2026-09-20 11:41:42 IST
+URL: https://leetcode.com/discuss/post/8530651/cisco-full-loop-by-arushannn-z127/
+Author: arushannn
+
+--- Summary ---
+anyone who has undergone a full loop of interviews at cisco? 1-3 yoe range
+
+--- Tags ---
+  - Cisco (cisco) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: cANjSwDf
+Title: My Analysis of Weekly Contest 520
+Slug: my-analysis-of-weekly-contest-520-by-moh-90s8
+Article Type: DISCUSSION
+Posted: 2026-09-20 10:35:18 IST
+Updated: 2026-09-20 10:35:18 IST
+URL: https://leetcode.com/discuss/post/8530544/my-analysis-of-weekly-contest-520-by-moh-90s8/
+Author: MOHD_SHAMOON_04
+
+--- Summary ---
+Weekly Contest 520 Analysis:Number of users who solved Question-X:
+25,395 users solved Question 1
+15,621 users solved Question 2
+5,261 users solved Question 3
+1,256 users solved Question 4
+Number of users who solved 'X' amount of Question:
+16,870 use
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8THPu2oo
+Title: The Ultimate LLM Coding Battle on LeetCode ! 🔥
+Slug: the-ultimate-llm-coding-battle-on-leetco-lxby
+Article Type: DISCUSSION
+Posted: 2026-09-20 10:10:45 IST
+Updated: 2026-09-20 10:10:45 IST
+URL: https://leetcode.com/discuss/post/8530509/the-ultimate-llm-coding-battle-on-leetco-lxby/
+Author: Abhishek360007
+
+--- Summary ---
+🤖 AI vs AI on LeetCodeLeetCode Weekly Contest 520 LLM leaderboard is here! 🔥🥇 Claude Fable 5 — 19.5/20
+🥈 GPT-5.6 Sol — 19.4/20
+🥉 Gemini 3.5 Flash — 19.0/20⚔️ The Top 2 — An Extremely Close Battle• Claude Fable 5 secured 19.5/20, the highest average s
+
+--- Tags ---
+  - LeetCode (leetcode) [COMPANY]
+  - Contest (contest) [COMPANY]
+  - AI Coding (ai-coding) []
+  - competitive-programming (competitive-programming-2) []
+  - Leetcode Weekly Contest (leetcode-weekly-contest) []
+  - LLM (llm-2) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: hhQY96Ra
+Title: Number of Intersecting Interval Pairs II (my solution)
+Slug: number-of-intersecting-interval-pairs-ii-65js
+Article Type: DISCUSSION
+Posted: 2026-09-20 10:10:40 IST
+Updated: 2026-09-20 10:10:40 IST
+URL: https://leetcode.com/discuss/post/8530508/number-of-intersecting-interval-pairs-ii-65js/
+Author: owenwu4
+
+--- Summary ---
+think of merge intervals. this is the same. keep a sortedlist of every x and y coordinate to the right, and apply the same formula from the brute force of current 1th >= right 0th and current 0th <= right 1th.class Solution:
+def countIntersectingInte
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: URQkQzDF
+Title: How Google Drive Syncs Files and Resolves Concurrent Edits
+Slug: how-google-drive-syncs-files-and-resolve-355t
+Article Type: DISCUSSION
+Posted: 2026-09-20 10:07:19 IST
+Updated: 2026-09-20 10:28:12 IST
+URL: https://leetcode.com/discuss/post/8530502/how-google-drive-syncs-files-and-resolve-355t/
+Author: subhamg911
+
+--- Summary ---
+File synchronization looks simple until devices go offline, files become large, and multiple users edit the same content.
+This article examines a Google Drive–style sync architecture and the problems behind reliable file updates:
+Offline edits reconn
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: g3w6vrx9
+Title: Weekly Contest 520 : All Solutions A - D (Java)
+Slug: weekly-contest-520-all-solutions-a-d-jav-p1w6
+Article Type: DISCUSSION
+Posted: 2026-09-20 10:03:58 IST
+Updated: 2026-09-20 10:03:58 IST
+URL: https://leetcode.com/discuss/post/8530498/weekly-contest-520-all-solutions-a-d-jav-p1w6/
+Author: mbbn
+
+--- Summary ---
+Q1. Number of Intersecting Interval Pairs IIntuition
+  
+Dry RunInputThere are:InitiallyWe will check every pair (i, j) where:The intervals are:Iteration 1Current intervals:We check:Substituting the values:Calculate both sides:This is true.The interva
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+  - DSA (dsa) []
+  - Weekly Contest 520 Solutions (weekly-contest-520-solutions) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: JsuGpYg1
+Title: Weekly Contest 520 Solutions
+Slug: weekly-contest-520-solutions-by-stephen-5cpa4
+Article Type: DISCUSSION
+Posted: 2026-09-20 09:44:03 IST
+Updated: 2026-09-20 09:51:33 IST
+URL: https://leetcode.com/discuss/post/8530461/weekly-contest-520-solutions-by-stephen-5cpa4/
+Author: stephen-moon
+
+--- Summary ---
+Q4 O(nlogmaxNum)solution by greedy
+convince yourself that it is optimal to place the largest number at the beginning of perm, call it mx. then remove all mx from nums
+then, a bruteforce would be iterate over nums to find optimal value for second posi
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: EeboTvKd
+Title: Weekly Contest 520 — All Problem Solutions
+Slug: weekly-contest-520-all-problem-solutions-schh
+Article Type: DISCUSSION
+Posted: 2026-09-20 09:40:40 IST
+Updated: 2026-09-20 09:40:40 IST
+URL: https://leetcode.com/discuss/post/8530449/weekly-contest-520-all-problem-solutions-schh/
+Author: vijaykumarsingh
+
+--- Summary ---
+Weekly Contest 520 — Problems All SolutionsQuestion 1 — Number of Intersecting Interval Pairs IIntuitionTwo closed intervals [a, b] and [c, d] intersect if their common range is non-empty.This can be checked using:max(a, c) <= min(b, d)The <= is impo
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2tafttaT
+Title: 🏆 Weekly Contest 520
+Slug: weekly-contest-520-by-leetcode-rrm1
+Article Type: DISCUSSION
+Posted: 2026-09-20 09:30:08 IST
+Updated: 2026-09-20 09:30:08 IST
+URL: https://leetcode.com/discuss/post/8530437/weekly-contest-520-by-leetcode-rrm1/
+Author: LeetCode
+
+--- Summary ---
+Welcome to Weekly Contest 520! Feel free to share and post your contest experience here! You can also view the rankings for the contest. Links to the individual
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 3
+  THUMBS_DOWN: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1Wv8Wr6M
+Title: Interview Kickstart Engineering Manager Round — System Design Interview Experience
+Slug: interview-kickstart-engineering-manager-vgmax
+Article Type: DISCUSSION
+Posted: 2026-09-20 08:07:28 IST
+Updated: 2026-09-20 12:36:03 IST
+URL: https://leetcode.com/discuss/post/8530377/interview-kickstart-engineering-manager-vgmax/
+Author: 
+
+--- Summary ---
+Hi everyone,I have an upcoming Engineering Manager round at Interview Kickstart as part of the Software Engineering interview(Backend Intern) process, and I’m trying to understand what to expect from this round.Has anyone recently gone through the In
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Nn014fan
+Title: Looking for a Cisco Referral – Software Engineer | Job ID: 2015359
+Slug: looking-for-a-cisco-referral-software-en-0rqb
+Article Type: DISCUSSION
+Posted: 2026-09-20 07:06:31 IST
+Updated: 2026-09-20 07:06:31 IST
+URL: https://leetcode.com/discuss/post/8530321/looking-for-a-cisco-referral-software-en-0rqb/
+Author: vikash_8454
+
+--- Summary ---
+Hi everyone! I’m a B.Tech ECE student at NIT Patna (2027 batch) and I’m currently looking for a referral for the following Cisco opening:Role: Software Engineer – Evergreen Full-Time, India Engineering
+Job ID: 2015359I’d really appreciate it if anyon
+
+--- Tags ---
+  - Cisco (cisco) [COMPANY]
+  - Career (career) []
+  - Referral  (referral-2) []
+  - Hiring Freshers (hiring-freshers) []
+  - looking for a job (looking-for-a-job) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: EDS20zbj
+Title: Looking for more details about QRT interview process
+Slug: looking-for-more-details-about-qrt-inter-6wwf
+Article Type: DISCUSSION
+Posted: 2026-09-20 01:22:30 IST
+Updated: 2026-09-20 01:22:30 IST
+URL: https://leetcode.com/discuss/post/8530158/looking-for-more-details-about-qrt-inter-6wwf/
+Author: 
+
+--- Summary ---
+How does the interview process look like for QRT software engineer roles? Has anyone interviewed with them recently? What topics were asked and what should I prepare?
+
+--- Tags ---
+  - QRT (qrt) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: RnacTA7s
+Title: Amazon | Applied Scientist Intern (6 Months) | Interview Experience
+Slug: amazon-applied-scientist-intern-6-months-hdbp
+Article Type: DISCUSSION
+Posted: 2026-09-20 00:44:24 IST
+Updated: 2026-09-20 00:46:52 IST
+URL: https://leetcode.com/discuss/post/8530116/amazon-applied-scientist-intern-6-months-hdbp/
+Author: 
+
+--- Summary ---
+Role: Applied Scientist Intern (6 Months)
+Company: Amazon
+Rounds: 2 Rounds (1 DSA + 1 ML Breadth & Depth)Round 1: Data Structures & Algorithms (2-DSA questions)1.Given an array of integers, maximize the score of the array by reversing at most one con
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Interview (interview) []
+  - applied scientist (applied-scientist-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: mxgsrfn0
+Title: PowerUp money Interview  sde 2 backend
+Slug: powerup-money-interview-sde-2-backend-by-oxva
+Article Type: DISCUSSION
+Posted: 2026-09-20 00:17:37 IST
+Updated: 2026-09-20 00:17:37 IST
+URL: https://leetcode.com/discuss/post/8530078/powerup-money-interview-sde-2-backend-by-oxva/
+Author: 
+
+--- Summary ---
+R1 :standard dsaq1 . binary search on the answer type question similar to koko eating bananas. Solved in mins with different approaches , interviewer looked disinterested and busy .said okay and moved to next questionq2 . LIS question , wrote the rec
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: UaUnsbIW
+Title: How does it feel being under rank 1000?  🤌🏻
+Slug: how-does-it-feel-being-under-rank-1000-b-xc03
+Article Type: DISCUSSION
+Posted: 2026-09-19 23:44:57 IST
+Updated: 2026-09-19 23:44:57 IST
+URL: https://leetcode.com/discuss/post/8530026/how-does-it-feel-being-under-rank-1000-b-xc03/
+Author: ShiYoBo
+
+--- Summary ---
+I've been wondering what it's like to recognize patterns when you're grinding below the 999 rank threshold. There's probably a certain perspective that comes with solving so many problems at that level—do you start seeing connections across different
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1RqXfxHH
+Title: 7 YOE service-based support, 3-month notice period. Which companies to target and how to prepare?
+Slug: 7-yoe-service-based-support-3-month-noti-gzlx
+Article Type: DISCUSSION
+Posted: 2026-09-19 22:46:15 IST
+Updated: 2026-09-19 22:46:15 IST
+URL: https://leetcode.com/discuss/post/8529932/7-yoe-service-based-support-3-month-noti-gzlx/
+Author: 
+
+--- Summary ---
+I have total of 7 years at a service-based companies, mostly application support with Python scripting. Currently learning FastAPI for backend development roles and working on DSA (weak area) and system design (starting from zero). I planning to appl
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DegNP0lG
+Title: What to do ahead?
+Slug: what-to-do-ahead-by-_soham_more-ud0v
+Article Type: DISCUSSION
+Posted: 2026-09-19 21:41:12 IST
+Updated: 2026-09-19 21:41:12 IST
+URL: https://leetcode.com/discuss/post/8529826/what-to-do-ahead-by-_soham_more-ud0v/
+Author: _soham_more_
+
+--- Summary ---
+I'm currently in my 2nd year of B.Tech and have just started learning DSA in C++.
+I know the basic concepts and want to improve my problem-solving skills.
+What should I learn next, and how should I practice?
+Should I focus on LeetCode, other platform
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Lb2sl75A
+Title: Seeking Guidance on an AI/ML Roadmap and Career Direction
+Slug: seeking-guidance-on-an-aiml-roadmap-and-vvqvt
+Article Type: DISCUSSION
+Posted: 2026-09-19 21:11:14 IST
+Updated: 2026-09-19 21:11:14 IST
+URL: https://leetcode.com/discuss/post/8529783/seeking-guidance-on-an-aiml-roadmap-and-vvqvt/
+Author: krishaang_7
+
+--- Summary ---
+Hi, my name is Krishaang Prabhakar, and I’m currently in the 2nd year of my B.Tech in Computer Science.I’m interested in building my career in AI/ML and want to develop a strong skill set that can help me get hired by a good company after graduation.
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ADYb8iun
+Title:  Compensation / Career Advice – India
+Slug: compensation-career-advice-india-by-anon-2g8j
+Article Type: DISCUSSION
+Posted: 2026-09-19 20:51:50 IST
+Updated: 2026-09-19 20:51:50 IST
+URL: https://leetcode.com/discuss/post/8529759/compensation-career-advice-india-by-anon-2g8j/
+Author: 
+
+--- Summary ---
+Background
+Education: Tier-1 college, Mechanical Engineering
+Experience: ~3 years
+Previous company: Product-based startup
+Previous CTC: ₹16.5 LPA
+Previous role: Software Engineer
+Current SwitchI joined a new company this month as a Software Engineer
+
+--- Tags ---
+  - Career (career) []
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Guuj4sNk
+Title: Anyone from dell company??
+Slug: anyone-from-dell-company-by-harshitha56-109e
+Article Type: DISCUSSION
+Posted: 2026-09-19 20:11:01 IST
+Updated: 2026-09-19 20:11:01 IST
+URL: https://leetcode.com/discuss/post/8529695/anyone-from-dell-company-by-harshitha56-109e/
+Author: harshitha56
+
+--- Summary ---
+Hey everyone! 👋Dell is visiting our campus for placements, and I’ve applied for the drive.Could anyone who has attended a Dell campus drive/interview share their experience or tell me what topics/questions I should focus on for the coding and technic
+
+--- Tags ---
+  - Dell (dell) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: cyDkQiNW
+Title: How many LeetCode Questions Should You Solve?
+Slug: how-many-leetcode-questions-should-you-s-w2wq
+Article Type: DISCUSSION
+Posted: 2026-09-19 19:48:58 IST
+Updated: 2026-09-19 19:48:58 IST
+URL: https://leetcode.com/discuss/post/8529644/how-many-leetcode-questions-should-you-s-w2wq/
+Author: prathambasava
+
+--- Summary ---
+How many problems to solve everyday to get better as soon as possible?
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: wsCEcKk6
+Title: Pace Stock Broking Software Developer Role
+Slug: pace-stock-broking-software-developer-ro-4vbr
+Article Type: DISCUSSION
+Posted: 2026-09-19 19:43:20 IST
+Updated: 2026-09-19 19:43:20 IST
+URL: https://leetcode.com/discuss/post/8529634/pace-stock-broking-software-developer-ro-4vbr/
+Author: 
+
+--- Summary ---
+Can anyone provide their interview experience for Software Developer Role in Pace Stock Broking Services for freshers (oncampus/offcampus).
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8Pn0WaLg
+Title: OA HELP
+Slug: oa-help-by-anonymous_user-aoqf
+Article Type: DISCUSSION
+Posted: 2026-09-19 19:15:11 IST
+Updated: 2026-09-19 19:15:11 IST
+URL: https://leetcode.com/discuss/post/8529588/oa-help-by-anonymous_user-aoqf/
+Author: 
+
+--- Summary ---
+hello guys recently i had Fidelity Investment OA in my college only for 5th sem students, But i did not qualify the OA , i could only solve one debugging question but there was another dsa question baswd on greedy/dp. how should i prepare DSA such th
+
+--- Tags ---
+  - Fidelity (fidelity) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6V9tBIRi
+Title: SET 13 — RECURSION (Python DSA Cheat Sheet)
+Slug: set-13-recursion-python-dsa-cheat-sheet-827z0
+Article Type: DISCUSSION
+Posted: 2026-09-19 19:09:19 IST
+Updated: 2026-09-19 19:09:19 IST
+URL: https://leetcode.com/discuss/post/8529574/set-13-recursion-python-dsa-cheat-sheet-827z0/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SET 13 — RECURSION (Python DSA Cheat Sheet)1. What is Recursion?Recursion is a programming technique where a function solves a problem by calling itself on smaller instances of the same problem.Every valid recursive algorithm must satisfy two fundame
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: fZs6ze5b
+Title: SET 12 — QUEUE & DEQUE (Python DSA Cheat Sheet)
+Slug: set-12-queue-deque-python-dsa-cheat-shee-agnl
+Article Type: DISCUSSION
+Posted: 2026-09-19 19:08:57 IST
+Updated: 2026-09-19 19:08:57 IST
+URL: https://leetcode.com/discuss/post/8529570/set-12-queue-deque-python-dsa-cheat-shee-agnl/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SET 12 — QUEUE & DEQUE (Python DSA Cheat Sheet)1. What is a Queue & Deque?1.1 Queue (FIFO)A Queue is a linear data structure that operates under the FIFO (First-In, First-Out) principle: the first element inserted is the first one removed.
+Enqueue: A
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: otbwbIdR
+Title: SET 11 — STACK & MONOTONIC STACK (Python DSA Cheat Sheet)
+Slug: set-11-stack-monotonic-stack-python-dsa-23lpq
+Article Type: DISCUSSION
+Posted: 2026-09-19 19:08:31 IST
+Updated: 2026-09-19 19:08:31 IST
+URL: https://leetcode.com/discuss/post/8529569/set-11-stack-monotonic-stack-python-dsa-23lpq/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SET 11 — STACK & MONOTONIC STACK (Python DSA Cheat Sheet)1. What is a Stack?A Stack is a linear data structure that operates under the LIFO (Last-In, First-Out) principle: the last element added to the stack is the first element to be removed.In Pyth
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WUqp1WVx
+Title: SET 10 — LINKED LIST (Python DSA Cheat Sheet)
+Slug: set-10-linked-list-python-dsa-cheat-shee-1idr
+Article Type: DISCUSSION
+Posted: 2026-09-19 19:08:03 IST
+Updated: 2026-09-19 19:08:03 IST
+URL: https://leetcode.com/discuss/post/8529567/set-10-linked-list-python-dsa-cheat-shee-1idr/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SET 10 — LINKED LIST (Python DSA Cheat Sheet)1. What is a Linked List?A Linked List is a linear, dynamic data structure where elements (called Nodes) are not stored in contiguous memory locations. Instead, each node contains:
+val: The data payload st
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2ZzV3Hey
+Title: SET 9 — BINARY SEARCH (Python DSA Cheat Sheet)
+Slug: set-9-binary-search-python-dsa-cheat-she-2rzg
+Article Type: DISCUSSION
+Posted: 2026-09-19 19:07:35 IST
+Updated: 2026-09-19 19:07:35 IST
+URL: https://leetcode.com/discuss/post/8529564/set-9-binary-search-python-dsa-cheat-she-2rzg/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SET 9 — BINARY SEARCH (Python DSA Cheat Sheet)1. What is Binary Search?Binary Search is an optimal search paradigm that finds the position of a target value or solves optimization problems in a search space by repeatedly halving the search range in O
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: z6xM6af8
+Title: SET 7 — PREFIX SUM & DIFFERENCE ARRAY (Python DSA Cheat Sheet)
+Slug: set-7-prefix-sum-difference-array-python-ksj7
+Article Type: DISCUSSION
+Posted: 2026-09-19 19:02:33 IST
+Updated: 2026-09-19 19:02:33 IST
+URL: https://leetcode.com/discuss/post/8529553/set-7-prefix-sum-difference-array-python-ksj7/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SET 7 — PREFIX SUM & DIFFERENCE ARRAY (Python DSA Cheat Sheet)1. What is Prefix Sum & Difference Array?1.1 Prefix Sum (Cumulative Accumulator)A Prefix Sum array is a precomputed auxiliary array where each index i stores the cumulative sum of all elem
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: xctymnNx
+Title: Seeking Guidance on Restarting My Software Development Career After a 6-Month Gap
+Slug: seeking-guidance-on-restarting-my-softwa-ggjp
+Article Type: DISCUSSION
+Posted: 2026-09-19 18:57:02 IST
+Updated: 2026-09-19 18:57:02 IST
+URL: https://leetcode.com/discuss/post/8529545/seeking-guidance-on-restarting-my-softwa-ggjp/
+Author: 
+
+--- Summary ---
+Hi,
+I wanted to seek some guidance regarding my current job search situation.I resigned from my previous job in March 2026 because I wasn’t getting enough exposure to software development. It has now been over six months, but unfortunately, I haven’t
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 44vOXbIa
+Title: 2 YOE in Service-Based Company – Which Job Portals Actually Work?
+Slug: 2-yoe-in-service-based-company-which-job-8mg5
+Article Type: DISCUSSION
+Posted: 2026-09-19 17:25:34 IST
+Updated: 2026-09-19 17:25:34 IST
+URL: https://leetcode.com/discuss/post/8529410/2-yoe-in-service-based-company-which-job-8mg5/
+Author: 
+
+--- Summary ---
+Hi everyone,I have around 2 years of experience working in a service-based company and am actively looking for a job switch.I wanted to ask those who recently switched jobs:Which job portals are actually giving you interview calls?
+Is LinkedIn Easy A
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6PrDLucl
+Title: Top Graph Problems for FAANG Interviews 🚀
+Slug: top-graph-problems-for-faang-interviews-eztop
+Article Type: DISCUSSION
+Posted: 2026-09-19 17:06:33 IST
+Updated: 2026-09-19 17:17:31 IST
+URL: https://leetcode.com/discuss/post/8529380/top-graph-problems-for-faang-interviews-eztop/
+Author: Why-Consistency-Wins
+
+--- Summary ---
+Top Graph Problems for FAANG Interviews 🚀Instead of memorizing dozens of graph problems, focus on recognizing the pattern. Interviewers are usually testing whether you can identify the underlying algorithm and apply it correctly.1. BFS/DFS Traversal
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Meta (facebook) [COMPANY]
+  - DSA (dsa) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 7
+  THUMBS_DOWN: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #35
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DQ9T8bPl
+Title: How Do You Find Time for Actual Work?
+Slug: how-do-you-find-time-for-actual-work-by-5bnku
+Article Type: DISCUSSION
+Posted: 2026-09-19 15:37:06 IST
+Updated: 2026-09-19 15:37:06 IST
+URL: https://leetcode.com/discuss/post/8529235/how-do-you-find-time-for-actual-work-by-5bnku/
+Author: shashiram01
+
+--- Summary ---
+How do you manage your own work when meetings and team queries take up most of the day?Between meetings, helping teammates, answering questions, emails, and follow-ups, I often feel like there’s barely any uninterrupted time left for my actual develo
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #36
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: bZJAKU2A
+Title: 🚨 Need Career Advice from Experienced Professionals
+Slug: need-career-advice-from-experienced-prof-71h6
+Article Type: DISCUSSION
+Posted: 2026-09-19 15:29:57 IST
+Updated: 2026-09-19 17:12:13 IST
+URL: https://leetcode.com/discuss/post/8529221/need-career-advice-from-experienced-prof-71h6/
+Author: 
+
+--- Summary ---
+Hi Everyone,I recently received an offer from PNB MetLife and would appreciate some guidance from people who have worked there or know about the company culture.Current Profile
+2 Years of Experience
+Current Company: Capgemini
+Current CTC: ₹4 LPANew O
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #37
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: jnGWQYFG
+Title: Matrix Chain Multiplication (MCM) and Its Subproblems
+Slug: matrix-chain-multiplication-mcm-and-its-ww1sn
+Article Type: DISCUSSION
+Posted: 2026-09-19 15:13:52 IST
+Updated: 2026-09-19 15:13:52 IST
+URL: https://leetcode.com/discuss/post/8529192/matrix-chain-multiplication-mcm-and-its-ww1sn/
+Author: im__nishant
+
+--- Summary ---
+Matrix Chain Multiplication is the foundation of the Interval DP / Partition DP pattern.The common idea is:The main problems in this family are:
+Matrix Chain Multiplication
+Minimum Cost to Cut a Stick
+Palindrome Partitioning
+Evaluate Expression to Tr
+
+--- Tags ---
+  - Dynamic Programming (dynamic-programming) [TOPIC]
+  - Matrix (matrix) [TOPIC]
+  - Knapsack Problem (knapsack-problem) []
+  - DSA (dsa) []
+  - 0-1 Knapsack (0-1-knapsack) []
+  - Complete Knapsack (complete-knapsack) []
+  - Multiple Knapsack (multiple-knapsack) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #38
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: CsC8G5RJ
+Title: LCS and Its Related Patterns (12): One Pattern, Multiple Problems
+Slug: lcs-and-its-related-patterns-12-one-patt-vy1z
+Article Type: DISCUSSION
+Posted: 2026-09-19 14:37:50 IST
+Updated: 2026-09-19 14:37:50 IST
+URL: https://leetcode.com/discuss/post/8529158/lcs-and-its-related-patterns-12-one-patt-vy1z/
+Author: im__nishant
+
+--- Summary ---
+I recently went through a series of problems based on Longest Common Subsequence (LCS).The main idea was not to memorize every solution separately.Instead, I wanted to understand:
+How does one LCS pattern transform into different problems?
+Once the b
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #39
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: q2UlApmV
+Title: The Gap
+Slug: the-gap-by-anonymous_user-eyfg
+Article Type: DISCUSSION
+Posted: 2026-09-19 14:08:35 IST
+Updated: 2026-09-19 14:08:35 IST
+URL: https://leetcode.com/discuss/post/8529120/the-gap-by-anonymous_user-eyfg/
+Author: 
+
+--- Summary ---
+Hey everyone, I need a little bit of guidance. I graduted in june with my computer science degree and since then I haven't gotten a job plus I dont have many skills except mern stack, and deveops tools.
+One github clone fully depolyed in my resume. W
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
