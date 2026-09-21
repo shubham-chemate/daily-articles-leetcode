@@ -1,0 +1,830 @@
+LeetCode Discuss - Latest 37 Articles
+Fetched on: 2026-09-21 13:39:36 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: aVCAT0bE
+Title: How do you improve Android app performance on low end devices?
+Slug: how-do-you-improve-android-app-performan-vr9r
+Article Type: DISCUSSION
+Posted: 2026-09-21 13:26:08 IST
+Updated: 2026-09-21 13:26:08 IST
+URL: https://leetcode.com/discuss/post/8532642/how-do-you-improve-android-app-performan-vr9r/
+Author: QFKFwyrrNa
+
+--- Summary ---
+Hi everyone,I have been learning more about Android app performance and I am curious about how developers optimize apps for low end devices.What are the most important things to focus on when an app has slow loading times or high memory usage? Do you
+
+--- Tags ---
+  - General Discussion (general-discussion-2) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nfyJczor
+Title: CapitalOne OA for New Grad [September 2026]
+Slug: capitalone-oa-for-new-grad-september-202-9rij
+Article Type: DISCUSSION
+Posted: 2026-09-21 05:30:35 IST
+Updated: 2026-09-21 05:30:35 IST
+URL: https://leetcode.com/discuss/post/8532231/capitalone-oa-for-new-grad-september-202-9rij/
+Author: 
+
+--- Summary ---
+Question 1. You are given an array. Sort by pairs, but if the array length is odd, dont touch the final number.
+Example: Input [5,4,2,3,7] Output [4,5,2,3,7]Question 2. LC 3034. Number of Subarrays That Match a Pattern IQuestion 3. I do not rememberQ
+
+--- Tags ---
+  - Capital One (capital-one) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+  - OA (oa-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZSHGV22g
+Title: SDE-1 Flexport [Offer]
+Slug: sde-1-flexport-offer-by-anonymous_user-8e93
+Article Type: DISCUSSION
+Posted: 2026-09-21 05:10:23 IST
+Updated: 2026-09-21 05:13:29 IST
+URL: https://leetcode.com/discuss/post/8532223/sde-1-flexport-offer-by-anonymous_user-8e93/
+Author: 
+
+--- Summary ---
+BackgroundCollege: Tier 1.5
+Education: B. Tech (CSE)
+YoE: 1 year, 2 monthsOffer DetailsCompany: Flexport (formerly Shopify Logistics)
+Base: 33 LPA
+Joining Bonus: 3 LPA
+Fixed yearly Bonus: 3.3LPA (10% of base) given on a quarterly basis
+ESOPs: ~21.6L/
+
+--- Tags ---
+  - Flexport (flexport) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: n3DXI67l
+Title: S&P Global | Senior Software Engineer
+Slug: sp-global-senior-software-engineer-by-an-2bjc
+Article Type: DISCUSSION
+Posted: 2026-09-21 04:32:57 IST
+Updated: 2026-09-21 04:32:57 IST
+URL: https://leetcode.com/discuss/post/8532214/sp-global-senior-software-engineer-by-an-2bjc/
+Author: 
+
+--- Summary ---
+I have received an offer from S&P Global.Current CTC: 30 LPA (26 Fixed + Bonus)Offered compensation:
+Fixed: 36 LPA (including employer PF)
+Variable: 15% bonus (~500000)
+Relocation: 60k
+Total CTC: ~41 LPAYOE: 5 yearsIs this a good offer considering I
+
+--- Tags ---
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: qPUobOUV
+Title: Amazon OA, AI proff question, can you suggest appraoch ?
+Slug: amazon-oa-ai-proff-question-can-you-sugg-exiw
+Article Type: DISCUSSION
+Posted: 2026-09-21 03:42:08 IST
+Updated: 2026-09-21 04:58:27 IST
+URL: https://leetcode.com/discuss/post/8532189/amazon-oa-ai-proff-question-can-you-sugg-exiw/
+Author: dutta_bikram
+
+--- Summary ---
+As a logistics manager in an automobile manufacturing company, you are responsible for storing deliveries in secure warehouses.You are given an array deliveryLogs of size n, where each element represents the number of parts delivered in the i-th log.
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+  - OA (oa-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: r7imoQjy
+Title: Kotak | SDE-2 interview Experience
+Slug: kotak-sde-2-interview-experience-by-anon-7g5n
+Article Type: DISCUSSION
+Posted: 2026-09-21 02:35:15 IST
+Updated: 2026-09-21 02:35:15 IST
+URL: https://leetcode.com/discuss/post/8532150/kotak-sde-2-interview-experience-by-anon-7g5n/
+Author: 
+
+--- Summary ---
+Hi
+Cuurent Exp:3.5 years in FAANG(SDE-2)Round 1 : Bar Raiser (90 mins)This was a DSA + LLD + Distributed Systems round.DSA: https://leetcode.com/problems/course-schedule/description/ and https://leetcode.com/problems/house-robber-ii/description/LLD:
+
+--- Tags ---
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+  - Kotak Mahindra Bank (kotak-mahindra-bank) [COMPANY]
+  - Kotak SDE (kotak-sde) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: VMN8e4WK
+Title: Need career advice from experienced engineers 🙏
+Slug: need-career-advice-from-experienced-engi-3fx7
+Article Type: DISCUSSION
+Posted: 2026-09-21 01:56:15 IST
+Updated: 2026-09-21 01:56:15 IST
+URL: https://leetcode.com/discuss/post/8532113/need-career-advice-from-experienced-engi-3fx7/
+Author: bikramghoshal6337
+
+--- Summary ---
+I’m a 2025 B.Tech CSE graduate, currently working at a PBC company for ~1 year.My current role is mostly operations/production support — Linux, databases, basic Azure, monitoring and troubleshooting. It’s neither proper development nor really DevOps/
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: bspGoAd8
+Title: Offer Evaluation | Google | L5 Engineer | Bengaluru
+Slug: offer-evaluation-google-l5-engineer-beng-c3x0
+Article Type: DISCUSSION
+Posted: 2026-09-21 01:49:17 IST
+Updated: 2026-09-21 01:58:59 IST
+URL: https://leetcode.com/discuss/post/8532105/offer-evaluation-google-l5-engineer-beng-c3x0/
+Author: shubsark
+
+--- Summary ---
+Education: MS from a Top US University (OMSCS) and B.Tech from Tier 3
+Years of Experience: 8
+Current Company: Qualcomm
+Current TC: 60L (Walking away from a 4-5L performance bonus in December)
+Google L5 Offer Details:
+Base Salary: 62.5L (Recruiter men
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: dLVuiuPM
+Title: Nvidia ic3 or ic2
+Slug: nvidia-ic3-or-ic2-by-anonymous_user-u1d7
+Article Type: DISCUSSION
+Posted: 2026-09-21 00:26:13 IST
+Updated: 2026-09-21 00:26:13 IST
+URL: https://leetcode.com/discuss/post/8532024/nvidia-ic3-or-ic2-by-anonymous_user-u1d7/
+Author: 
+
+--- Summary ---
+hi, i recently finished the nvidia full panel and i am expecting a offer. what level do you think they will give me.experience : 3.5 years + m.techrole is aligned to my experience only
+
+--- Tags ---
+  - Nvidia (nvidia) [COMPANY]
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZME5mzpA
+Title: Rippling SDE-2 [Offer]
+Slug: rippling-sde-2-offer-by-anonymous_user-7ykd
+Article Type: DISCUSSION
+Posted: 2026-09-21 00:10:58 IST
+Updated: 2026-09-21 00:10:58 IST
+URL: https://leetcode.com/discuss/post/8532004/rippling-sde-2-offer-by-anonymous_user-7ykd/
+Author: 
+
+--- Summary ---
+Offer DetailsCompany: Rippling
+Base: ~63 LPA
+Bonus: ~8 LPA
+ESOPs: 12.5k USD (40%, 30%, 20%, 10% - 4 year split)Total first year comp: ~75 LHR also said that there is a provision for additional 5k USD ESOPs in year 1, if performance rating is above ce
+
+--- Tags ---
+  - Rippling (rippling) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WUAGSvEy
+Title: Google Big Code Challenge 2026
+Slug: google-big-code-challenge-2026-by-palr73-44tv
+Article Type: DISCUSSION
+Posted: 2026-09-21 00:03:43 IST
+Updated: 2026-09-21 00:03:43 IST
+URL: https://leetcode.com/discuss/post/8531992/google-big-code-challenge-2026-by-palr73-44tv/
+Author: palr73414
+
+--- Summary ---
+Hello folks! I’m a 3rd-year CSE student, and I recently had the opportunity to participate in Qualifying Round of the Google Big Code Challenge. A brief description can be found here-The Big Code Challenge.Going into it, I was excited but also a bit
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: iuCX4hvY
+Title: My interview prep journey — what worked for me
+Slug: my-interview-prep-journey-what-worked-fo-2z6h
+Article Type: DISCUSSION
+Posted: 2026-09-21 00:00:32 IST
+Updated: 2026-09-21 00:00:32 IST
+URL: https://leetcode.com/discuss/post/8531990/my-interview-prep-journey-what-worked-fo-2z6h/
+Author: NikhilPandeyONS
+
+--- Summary ---
+My interview prep journey — what worked for meIn the last 1 month, I went through interviews with Nielsen, New Relic and Crunchyroll and received offers from all.I had been struggling with interviews for quite some time, so I wanted to share what wor
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 9
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: BGXZKntY
+Title: **Oracle OCI (IC3) Offer Letter : How Long Does It Usually Take?**
+Slug: oracle-ic3-offer-letter-how-long-does-it-2ex3
+Article Type: DISCUSSION
+Posted: 2026-09-20 23:45:28 IST
+Updated: 2026-09-20 23:49:13 IST
+URL: https://leetcode.com/discuss/post/8531969/oracle-ic3-offer-letter-how-long-does-it-2ex3/
+Author: 
+
+--- Summary ---
+I was verbally informed that I was selected for an Oracle IC3 role over a month ago, but I’m still waiting for the official offer letter. And now they have extended the timelines to one more month while initially the HR conveyed it'll hardly take 3 t
+
+--- Tags ---
+  - Oracle (oracle) [COMPANY]
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: MYYOGFnk
+Title: Google L4 Team Matching for almost a year — interview validity confusion. Looking for advice
+Slug: google-team-matching-for-almost-a-year-i-tiqt
+Article Type: DISCUSSION
+Posted: 2026-09-20 23:43:02 IST
+Updated: 2026-09-21 00:35:41 IST
+URL: https://leetcode.com/discuss/post/8531965/google-team-matching-for-almost-a-year-i-tiqt/
+Author: 
+
+--- Summary ---
+Hi everyone,I’m currently in the Google L4 team-matching process, and it has been almost a year since I completed my interviews.Here’s my situation:I cleared the interview process and was moved to team matching.I had one team match during this period
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: o2o878bK
+Title: Infosys Specialist Programmer (L1) Interview Experience 🚀 | 11 LPA
+Slug: infosys-specialist-programmer-l1-intervi-jvv0
+Article Type: DISCUSSION
+Posted: 2026-09-20 23:42:20 IST
+Updated: 2026-09-20 23:42:20 IST
+URL: https://leetcode.com/discuss/post/8531964/infosys-specialist-programmer-l1-intervi-jvv0/
+Author: 
+
+--- Summary ---
+I recently got selected for the Infosys Specialist Programmer (SP) role — 11 LPA, and I wanted to share my interview experience for anyone preparing for Infosys placements.The selection process consisted of 2 rounds:Round 1 — On-Campus OA 💻The first
+
+--- Tags ---
+  - Infosys (infosys) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: CAUFLeUM
+Title: How do you approach performance optimization for content-heavy websites?
+Slug: how-do-you-approach-performance-optimiza-1vhc
+Article Type: DISCUSSION
+Posted: 2026-09-20 22:35:13 IST
+Updated: 2026-09-20 22:35:13 IST
+URL: https://leetcode.com/discuss/post/8531815/how-do-you-approach-performance-optimiza-1vhc/
+Author: 0aOh2jsNFT
+
+--- Summary ---
+Hi everyone,I’m working on a https://onstreamhub.com/ and have been learning more about performance optimization, especially for mobile users. I’m interested in how developers approach things like image optimization, caching, page-load performance, a
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: QUjlx5wa
+Title: Looking for genuine people to connect, learn and grow with 
+Slug: looking-for-genuine-people-to-connect-le-7iav
+Article Type: DISCUSSION
+Posted: 2026-09-20 22:29:00 IST
+Updated: 2026-09-20 22:29:00 IST
+URL: https://leetcode.com/discuss/post/8531801/looking-for-genuine-people-to-connect-le-7iav/
+Author: Arun_Shivhare_
+
+--- Summary ---
+I’m currently in my 7th semester of B.Tech CSE, preparing seriously for Software Development Engineer roles.I come from a college where companies rarely visit for placements, so I’m trying to build my career largely through the off-campus route.Over
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0kxgpsQl
+Title: Day 3/30 Update 🚀
+Slug: day-330-update-by-gungun2816-ubhs
+Article Type: DISCUSSION
+Posted: 2026-09-20 21:13:30 IST
+Updated: 2026-09-20 21:13:30 IST
+URL: https://leetcode.com/discuss/post/8531684/day-330-update-by-gungun2816-ubhs/
+Author: gungun2816
+
+--- Summary ---
+My goal is to solve 150 LeetCode problems by solving 5 questions every day.To be honest, today didn't go as planned. My exams are coming up, and I couldn't find enough time for coding. I tried solving one LeetCode problem, but I wasn't able to solve
+
+--- Tags ---
+  - Career (career) []
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: q3pCufGE
+Title: Amazon Bar Raiser Snapshots | Till 2026 September
+Slug: amazon-bar-raiser-snapshots-by-esh_war2-9gmk
+Article Type: DISCUSSION
+Posted: 2026-09-20 19:41:49 IST
+Updated: 2026-09-20 20:02:25 IST
+URL: https://leetcode.com/discuss/post/8531532/amazon-bar-raiser-snapshots-by-esh_war2-9gmk/
+Author: esh_war2
+
+--- Summary ---
+Hey everyone I have compiled all Amazon bar raiser interviews with links to actual posts where other round details are also mentioned.I wanted to create this list because one should get good idea of how bar raiser will be for SDE roles at Amazon.Most
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+  THUMBS_DOWN: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: tfuI94Xj
+Title: Amazon SDE-II OA — What should I expect?
+Slug: amazon-oa-help-for-sde-ii-by-anonymous_u-oxby
+Article Type: DISCUSSION
+Posted: 2026-09-20 19:17:34 IST
+Updated: 2026-09-20 19:20:38 IST
+URL: https://leetcode.com/discuss/post/8531495/amazon-oa-help-for-sde-ii-by-anonymous_u-oxby/
+Author: 
+
+--- Summary ---
+Hi all,I have received an invitation to take an OA for an Amazon SDE-II position and wanted to know what I should expect.Previous Amazon OA experience:
+I took an Amazon OA a couple of months ago as well. At that time, I got a DP Hard question that I
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: cNyM6yOU
+Title: SDE-3 JPMC offer evaluation | Current Flipkart
+Slug: sde-3-jpmc-offer-evaluation-current-flip-7nyh
+Article Type: DISCUSSION
+Posted: 2026-09-20 19:16:30 IST
+Updated: 2026-09-20 19:16:30 IST
+URL: https://leetcode.com/discuss/post/8531492/sde-3-jpmc-offer-evaluation-current-flip-7nyh/
+Author: 
+
+--- Summary ---
+I am getting an offer from JPMC for sde-3
+Yoe : 5 years
+Current designation : SDE-2
+current CTC : 32 fixed + 20% variable + ~15L rsu per years
+JPMC offer : 40 fixed + 10-15% variable
+location : bangalore
+jpmc org : CIBIs it a good offer?
+
+--- Tags ---
+  - JPMorgan Chase (jpmorgan) [COMPANY]
+  - Flipkart (flipkart) [COMPANY]
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1ushQJdY
+Title: SET 23 — DYNAMIC PROGRAMMING 1: FUNDAMENTALS & 1D DP (Python DSA Cheat Sheet)
+Slug: set-23-dynamic-programming-1-fundamental-yw3b
+Article Type: DISCUSSION
+Posted: 2026-09-20 19:00:44 IST
+Updated: 2026-09-20 19:00:44 IST
+URL: https://leetcode.com/discuss/post/8531467/set-23-dynamic-programming-1-fundamental-yw3b/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SET 23 — DYNAMIC PROGRAMMING 1: FUNDAMENTALS & 1D DP (Python DSA Cheat Sheet)1. What is Dynamic Programming (DP)?Dynamic Programming (DP) is an algorithmic optimization technique that solves complex problems by breaking them down into simpler, overla
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  THUMBS_DOWN: 1
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DMqqMBhX
+Title: SET 22 — UNION FIND / DISJOINT SET UNION (DSU) (Python DSA Cheat Sheet)
+Slug: set-22-union-find-disjoint-set-union-dsu-dgdq
+Article Type: DISCUSSION
+Posted: 2026-09-20 19:00:04 IST
+Updated: 2026-09-20 19:00:04 IST
+URL: https://leetcode.com/discuss/post/8531465/set-22-union-find-disjoint-set-union-dsu-dgdq/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SET 22 — UNION FIND / DISJOINT SET UNION (DSU) (Python DSA Cheat Sheet)1. What is Disjoint Set Union (DSU)?Disjoint Set Union (DSU), also known as a Union-Find data structure, maintains a collection of non-overlapping (disjoint) sets of elements.It s
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: A3Dp7pW5
+Title: SET 21 — TOPOLOGICAL SORT (Python DSA Cheat Sheet)
+Slug: set-21-topological-sort-python-dsa-cheat-v385
+Article Type: DISCUSSION
+Posted: 2026-09-20 18:59:40 IST
+Updated: 2026-09-20 18:59:40 IST
+URL: https://leetcode.com/discuss/post/8531464/set-21-topological-sort-python-dsa-cheat-v385/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SET 21 — TOPOLOGICAL SORT (Python DSA Cheat Sheet)1. What is Topological Sort?A Topological Sort of a Directed Graph is a linear ordering of its vertices such that for every directed edge (u→v), vertex u comes before vertex v in the ordering.The DAG
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: OrIMrYjw
+Title: SET 20 — SHORTEST PATH ALGORITHMS (Python DSA Cheat Sheet)
+Slug: set-20-shortest-path-algorithms-python-d-u993
+Article Type: DISCUSSION
+Posted: 2026-09-20 18:59:14 IST
+Updated: 2026-09-20 18:59:14 IST
+URL: https://leetcode.com/discuss/post/8531462/set-20-shortest-path-algorithms-python-d-u993/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SET 20 — SHORTEST PATH ALGORITHMS (Python DSA Cheat Sheet)1. Overview of Shortest Path AlgorithmsFinding the shortest path between nodes in a graph depends entirely on two properties:
+Edge Weights: Unweighted vs Non-negative weights vs Negative weigh
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pzdWdYtf
+Title: SET 19 — GRAPHS: FUNDAMENTALS, BFS & DFS (Python DSA Cheat Sheet)
+Slug: set-19-graphs-fundamentals-bfs-dfs-pytho-nu10
+Article Type: DISCUSSION
+Posted: 2026-09-20 18:58:51 IST
+Updated: 2026-09-20 18:58:51 IST
+URL: https://leetcode.com/discuss/post/8531460/set-19-graphs-fundamentals-bfs-dfs-pytho-nu10/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SET 19 — GRAPHS: FUNDAMENTALS, BFS & DFS (Python DSA Cheat Sheet)1. What is a Graph?A Graph G=(V,E) is a non-linear data structure consisting of a set of Vertices (Nodes) V connected by a set of Edges (Arcs) E.Unlike trees, graphs have no designated
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: VTcSqrbQ
+Title: SET 18 — GREEDY ALGORITHMS (Python DSA Cheat Sheet)
+Slug: set-18-greedy-algorithms-python-dsa-chea-j2cs
+Article Type: DISCUSSION
+Posted: 2026-09-20 18:58:11 IST
+Updated: 2026-09-20 18:58:11 IST
+URL: https://leetcode.com/discuss/post/8531459/set-18-greedy-algorithms-python-dsa-chea-j2cs/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SET 18 — GREEDY ALGORITHMS (Python DSA Cheat Sheet)1. What is a Greedy Algorithm?A Greedy Algorithm builds a solution piece by piece by always making the choice that looks best at the immediate moment (local optimum), with the goal that these local o
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZgYNfYd0
+Title: SET 17 — HEAP & PRIORITY QUEUE (Python DSA Cheat Sheet)
+Slug: set-17-heap-priority-queue-python-dsa-ch-dv95
+Article Type: DISCUSSION
+Posted: 2026-09-20 18:57:29 IST
+Updated: 2026-09-20 18:57:29 IST
+URL: https://leetcode.com/discuss/post/8531455/set-17-heap-priority-queue-python-dsa-ch-dv95/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SET 17 — HEAP & PRIORITY QUEUE (Python DSA Cheat Sheet)1. What is a Heap & Priority Queue?A Priority Queue is an abstract data type where each element has an associated priority, and elements are served in order of priority (highest or lowest first),
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: xwVAFcMb
+Title: SET 16 — BINARY SEARCH TREE (BST) (Python DSA Cheat Sheet)
+Slug: set-16-binary-search-tree-bst-python-dsa-mhwa
+Article Type: DISCUSSION
+Posted: 2026-09-20 18:57:04 IST
+Updated: 2026-09-20 18:57:04 IST
+URL: https://leetcode.com/discuss/post/8531454/set-16-binary-search-tree-bst-python-dsa-mhwa/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SET 16 — BINARY SEARCH TREE (BST) (Python DSA Cheat Sheet)1. What is a Binary Search Tree (BST)?A Binary Search Tree (BST) is a binary tree data structure with a fundamental ordering property:
+For every node X in the tree:
+Every node in the left subt
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vvzv844k
+Title: SET 15 — BINARY TREES (Python DSA Cheat Sheet)
+Slug: set-15-binary-trees-python-dsa-cheat-she-8gjw
+Article Type: DISCUSSION
+Posted: 2026-09-20 18:56:31 IST
+Updated: 2026-09-20 18:56:31 IST
+URL: https://leetcode.com/discuss/post/8531451/set-15-binary-trees-python-dsa-cheat-she-8gjw/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SET 15 — BINARY TREES (Python DSA Cheat Sheet)1. What is a Binary Tree?A Tree is a non-linear, hierarchical data structure consisting of nodes connected by directed edges, with no cycles.A Binary Tree is a tree where each node has at most two childre
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: TWfdOrZK
+Title: SET 14 — BACKTRACKING (Python DSA Cheat Sheet)
+Slug: set-14-backtracking-python-dsa-cheat-she-0q8i
+Article Type: DISCUSSION
+Posted: 2026-09-20 18:54:43 IST
+Updated: 2026-09-20 18:54:43 IST
+URL: https://leetcode.com/discuss/post/8531445/set-14-backtracking-python-dsa-cheat-she-0q8i/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SET 14 — BACKTRACKING (Python DSA Cheat Sheet)1. What is Backtracking?Backtracking is a systematic, algorithmic technique for solving combinatorial search problems by exploring a virtual decision tree using Depth-First Search (DFS).Whenever the algor
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: LO3Mmvda
+Title: How much time does VISA takes to roll out results after their interviews? (SDE 1) 
+Slug: how-much-time-does-visa-takes-to-roll-ou-eql5
+Article Type: DISCUSSION
+Posted: 2026-09-20 16:45:08 IST
+Updated: 2026-09-20 16:45:08 IST
+URL: https://leetcode.com/discuss/post/8531245/how-much-time-does-visa-takes-to-roll-ou-eql5/
+Author: 
+
+--- Summary ---
+I gave interview 2 weeks back but still didnt receive any communication from their HR neither got any mail. Is that a rejection in disguise?
+
+--- Tags ---
+  - Visa (visa) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: clqZUow0
+Title: Company-Wise LeetCode Interview Questions — Google | Meta | Amazon | Microsoft
+Slug: company-wise-leetcode-interview-question-dkcd
+Article Type: DISCUSSION
+Posted: 2026-09-20 15:28:57 IST
+Updated: 2026-09-20 15:28:57 IST
+URL: https://leetcode.com/discuss/post/8531139/company-wise-leetcode-interview-question-dkcd/
+Author: someone_taran
+
+--- Summary ---
+I have been collecting LeetCode questions that have been asked in interviews at major tech companies. I organized these into four sheets, one for each company.📌 Google📌 Meta (Facebook)📌 Amazon📌 MicrosoftThe goal is to make it easier to prepare compan
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Meta (facebook) [COMPANY]
+  - Microsoft (microsoft) [COMPANY]
+  - Amazon (amazon) [COMPANY]
+  - DSA (dsa) []
+  - Interview (interview) []
+  - DSA Resources (dsa-resources) []
+
+--- Reactions ---
+  UPVOTE: 9
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: sInjxOTY
+Title: Observation on LLM Models for Weekly Contest 520 || Claude Coded this Week 🥷🏻
+Slug: observation-on-llm-models-for-weekly-con-d1ye
+Article Type: DISCUSSION
+Posted: 2026-09-20 15:17:44 IST
+Updated: 2026-09-20 15:17:44 IST
+URL: https://leetcode.com/discuss/post/8531110/observation-on-llm-models-for-weekly-con-d1ye/
+Author: rahulrjaj
+
+--- Summary ---
+Unlike Weekly Contest 519 where models struggled under high algorithmic pressure, Contest 520 saw a strong recovery across the board, featuring 4 problems totaling 20 points. Here is how popular LLMs performed on the same 4 problems, each tested 5 ti
+
+--- Tags ---
+  - LeetCode (leetcode) [COMPANY]
+  - Contest (contest) [COMPANY]
+  - September LeetCoding Challenge (september-leetcoding-challenge) []
+  - weekly-contest (weekly-contest-2) []
+  - Leetcode Weekly Contest (leetcode-weekly-contest) []
+  - LLM (llm-2) []
+  - Weekly Contest 520 Solutions (weekly-contest-520-solutions) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #35
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vXtp4tE3
+Title: The Journey Continues
+Slug: the-journey-continues-by-anandv4rdhan-jhyf
+Article Type: DISCUSSION
+Posted: 2026-09-20 15:04:40 IST
+Updated: 2026-09-20 15:04:40 IST
+URL: https://leetcode.com/discuss/post/8531082/the-journey-continues-by-anandv4rdhan-jhyf/
+Author: anandv4rdhan
+
+--- Summary ---
+4 months later, back to DSA.A lot of things have changed since I started. I’ve forgotten some concepts, struggled with problems, and had to revisit the basics more than once.But that’s part of learning.
+Taking it slow, staying consistent, and enjoyin
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #36
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7dJ1uZsJ
+Title: Retrospective on Counting Intersecting Interval Pairs
+Slug: retrospective-on-counting-intersecting-i-vafj
+Article Type: DISCUSSION
+Posted: 2026-09-20 13:41:50 IST
+Updated: 2026-09-20 13:41:50 IST
+URL: https://leetcode.com/discuss/post/8530925/retrospective-on-counting-intersecting-i-vafj/
+Author: nenadBalaneskovic
+
+--- Summary ---
+🧵 Unified Discussion: Counting Intersecting Interval Pairs (Problems 4056 & 4057)When we look at 4056. Number of Intersecting Interval Pairs I and 4057. Number of Intersecting Interval Pairs II, we immediately notice that both problems revolve around
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #37
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 02xKNZp5
+Title: Microsoft swe intern interview
+Slug: microsoft-swe-intern-interview-by-juqle3-n5v2
+Article Type: DISCUSSION
+Posted: 2026-09-20 12:54:05 IST
+Updated: 2026-09-20 12:54:05 IST
+URL: https://leetcode.com/discuss/post/8530832/microsoft-swe-intern-interview-by-juqle3-n5v2/
+Author: JuqLE3tk32
+
+--- Summary ---
+I have a technical interview in a few days! Would love some tips and whether the microsoft section of leetcode is good to use to revise.
+
+--- Tags ---
+  - Microsoft (microsoft) [COMPANY]
+  - Interview (interview) []
+
