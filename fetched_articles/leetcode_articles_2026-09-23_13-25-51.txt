@@ -1,0 +1,1215 @@
+LeetCode Discuss - Latest 51 Articles
+Fetched on: 2026-09-23 13:25:51 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: P5tv2FyZ
+Title: looking for people to connect with who are genuinly  preparing for switch 
+Slug: looking-for-people-to-connect-with-who-a-9jn1
+Article Type: DISCUSSION
+Posted: 2026-09-23 12:45:18 IST
+Updated: 2026-09-23 12:46:26 IST
+URL: https://leetcode.com/discuss/post/8535788/looking-for-people-to-connect-with-who-a-9jn1/
+Author: asthachaurasia272006
+
+--- Summary ---
+i have a few months of experience and currently restarting my prepration for a job switch right now I am working on DSA system design and interview prep i want to build a small study community where we can discuss complex topics support each other to
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: tTrZz86X
+Title: Microsoft SDE-2 (L62) Interview Outcome, Needs Input
+Slug: need-input-on-microsoft-sde-2-l62-interv-xry2
+Article Type: DISCUSSION
+Posted: 2026-09-23 12:23:28 IST
+Updated: 2026-09-23 13:09:37 IST
+URL: https://leetcode.com/discuss/post/8535739/need-input-on-microsoft-sde-2-l62-interv-xry2/
+Author: 
+
+--- Summary ---
+Education: B.Tech (Tier-2 NIT)
+Experience: 5 years
+Company: Adobe
+Role: SDE-2
+I interviewed for a Microsoft SDE-2 (L62) role, with my first round on August 28th and the final (4th) round on September 10th. All the rounds went very positively, and I
+
+--- Tags ---
+  - Microsoft (microsoft) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: jpXQNKaJ
+Title: SQL Master Reference — Part 13
+Slug: sql-master-reference-part-13-by-krishna_-n19g
+Article Type: DISCUSSION
+Posted: 2026-09-23 11:52:51 IST
+Updated: 2026-09-23 11:52:51 IST
+URL: https://leetcode.com/discuss/post/8535686/sql-master-reference-part-13-by-krishna_-n19g/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SQL Master Reference — Part 13Cheat Sheets · Quick Reference · Master SQL Roadmap
+The ultimate quick-reference companion. Oracle SQL primary dialect. 🔶 = Oracle-only.
+Table of Contents
+SELECT Statement Cheat Sheet
+WHERE Clause Cheat Sheet
+JOIN Cheat
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: SDudyP0r
+Title: SQL Master Reference — Part 12
+Slug: sql-master-reference-part-12-by-krishna_-sx1p
+Article Type: DISCUSSION
+Posted: 2026-09-23 11:51:19 IST
+Updated: 2026-09-23 11:51:19 IST
+URL: https://leetcode.com/discuss/post/8535683/sql-master-reference-part-12-by-krishna_-sx1p/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SQL Master Reference — Part 12200 Practice Problems — Hints and Solutions
+All problems use the 12-table sample schema from Part 1.
+Quick Schema ReferenceEASY PROBLEMS (E1–E50)E1 — List all employees with their first name, last name, and salary in des
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: KgHP9Q7R
+Title: Minimum Cost Highway Coverage — DP + Heap Optimization (O(n log n))
+Slug: minimum-cost-highway-coverage-dp-heap-op-o9sp
+Article Type: DISCUSSION
+Posted: 2026-09-23 11:41:12 IST
+Updated: 2026-09-23 11:41:53 IST
+URL: https://leetcode.com/discuss/post/8535660/minimum-cost-highway-coverage-dp-heap-op-o9sp/
+Author: r4mbhakt
+
+--- Summary ---
+ProblemA highway has mile markers 0 to n-1. You're given range[] and cost[]:
+Activating a booster at marker i covers [i - range[i], i + range[i]] (clipped to valid bounds).
+range[i] = -1 means no booster can be placed there.
+Activating costs cost[i].
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1j124FFa
+Title: cisco interview round any callback?
+Slug: cisco-interview-round-any-callback-by-ar-mazd
+Article Type: DISCUSSION
+Posted: 2026-09-23 10:57:23 IST
+Updated: 2026-09-23 10:57:23 IST
+URL: https://leetcode.com/discuss/post/8535594/cisco-interview-round-any-callback-by-ar-mazd/
+Author: arushannn
+
+--- Summary ---
+Did anyone interviewing with cisco recieve any further update? (1-3yoe) webex team
+
+--- Tags ---
+  - Cisco (cisco) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: tvqGr6IF
+Title: Sharing my Interview Prep & some of the questions asked in the interviews
+Slug: sharing-my-interview-prep-some-of-the-qu-olv3
+Article Type: DISCUSSION
+Posted: 2026-09-23 10:49:05 IST
+Updated: 2026-09-23 10:49:05 IST
+URL: https://leetcode.com/discuss/post/8535579/sharing-my-interview-prep-some-of-the-qu-olv3/
+Author: nim0_d_loser
+
+--- Summary ---
+Hey guys,
+I know how the interviewing usually goes. I've been pretty active last year for job hunting. I'm sharing the questions that i was asked in some of the interviews that i gave last year. Check the website below
+https://reminiscent-troodon-d88
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: XpuyapWf
+Title: The Matrix Chain Multiplication (MCM) pattern | Interval DP
+Slug: the-matrix-chain-multiplication-mcm-patt-69ea
+Article Type: DISCUSSION
+Posted: 2026-09-23 10:38:43 IST
+Updated: 2026-09-23 10:44:36 IST
+URL: https://leetcode.com/discuss/post/8535563/the-matrix-chain-multiplication-mcm-patt-69ea/
+Author: sks_saurav
+
+--- Summary ---
+The Matrix Chain Multiplication (MCM) pattern often referred to generally as Interval DP solves problems where you need to combine or partition elements in an optimal way. In bottom-up (iterative) DP, the core challenge is ensuring that all smaller s
+
+--- Tags ---
+  - Dynamic Programming (dynamic-programming) [TOPIC]
+  - DSA (dsa) []
+  - DSA Patterns (dsa-patterns) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Mq4wxtOx
+Title: Caelius Consulting , SRMCEM, Lucknow Campus Hiring Experience | Application Developer Role
+Slug: caelius-consulting-srmcem-lucknow-campus-2rd7
+Article Type: DISCUSSION
+Posted: 2026-09-23 10:36:40 IST
+Updated: 2026-09-23 10:36:40 IST
+URL: https://leetcode.com/discuss/post/8535559/caelius-consulting-srmcem-lucknow-campus-2rd7/
+Author: Vishu_99
+
+--- Summary ---
+I recently appeared for the Caelius Consulting campus hiring process. Around 500 students applied, and I was shortlisted based on my resume.I cleared multiple rounds but was eventually rejected in the Technical Interview. Sharing my experience in det
+
+--- Tags ---
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Y6kvW8h2
+Title: Interview Experience — SDE2 Angel one
+Slug: interview-experience-sde2-angel-one-by-t-lpfz
+Article Type: DISCUSSION
+Posted: 2026-09-23 10:28:54 IST
+Updated: 2026-09-23 10:29:05 IST
+URL: https://leetcode.com/discuss/post/8535545/interview-experience-sde2-angel-one-by-t-lpfz/
+Author: 
+
+--- Summary ---
+Round 1: DSA
+Koko Eating Bananas
+Longest Palindromic Substring
+Decoding Number String to A-Z Characters — DPSolved all 3 problems.Result: ClearedRound 2: HLDDesign a Payment ServiceThe round went on for 1+ hour with several deep dives, including:Data
+
+--- Tags ---
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: s7BXKbeJ
+Title: Amazon : SWE New Grad 2026 USA: Interview Experience
+Slug: amazon-swe-new-grad-2026-usa-interview-e-oqe0
+Article Type: DISCUSSION
+Posted: 2026-09-23 09:53:01 IST
+Updated: 2026-09-23 09:53:01 IST
+URL: https://leetcode.com/discuss/post/8535500/amazon-swe-new-grad-2026-usa-interview-e-oqe0/
+Author: jk20
+
+--- Summary ---
+Role: SDE1, S3 Glacier (AWS)
+Location: Onsite, Seattle HQ
+Date: August 2026
+Outcome: RejectedFour rounds, each an hour, each split the same way: behavioural first, then technical.Round 1 (Bar Raiser). Leadership Principles the whole hour. No code.Rou
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: N3WeeLnp
+Title: Amazon OA cleared, recruiter response awaiting
+Slug: amazon-oa-cleared-recruiter-response-awa-yy7l
+Article Type: DISCUSSION
+Posted: 2026-09-23 09:36:44 IST
+Updated: 2026-09-23 09:36:44 IST
+URL: https://leetcode.com/discuss/post/8535484/amazon-oa-cleared-recruiter-response-awa-yy7l/
+Author: 
+
+--- Summary ---
+Hellooo,
+I recently gave the Amazon OA for an SDE-I position (1+ YOE). The assessment consisted of a Coding section, Behavioural assessment, and Work Style assessment.The Coding section had 2 questions:
+A DSA question on Strings — roughly easy/medium
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+  - amazon sde1 (amazon-sde1-2) []
+  - 1-2 YOE (1-2-yoe) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: X2xnfYKd
+Title: #python User Input "Do you want to continue?" Yes/No
+Slug: python-user-input-do-you-want-to-continu-5x2q
+Article Type: DISCUSSION
+Posted: 2026-09-23 05:25:59 IST
+Updated: 2026-09-23 05:25:59 IST
+URL: https://leetcode.com/discuss/post/8535296/python-user-input-do-you-want-to-continu-5x2q/
+Author: sLJ04uBURI
+
+--- Tags ---
+  - Python (python) [COMPANY]
+  - problem (problem-3) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: iE9GRToT
+Title: Recent Amazon India HLD & LLD Interview Questions
+Slug: recent-amazon-hld-lld-interview-question-vaff
+Article Type: DISCUSSION
+Posted: 2026-09-23 04:25:50 IST
+Updated: 2026-09-23 04:26:45 IST
+URL: https://leetcode.com/discuss/post/8535286/recent-amazon-hld-lld-interview-question-vaff/
+Author: 
+
+--- Summary ---
+Hi everyone,I have an upcoming Amazon SDE-3 interview at India and am looking to prepare specifically for the HLD and LLD rounds.Could anyone share any cumulative resource for recent Amazon HLD/LLD questions  encountered?Also, is there any platform/r
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8I4pcke0
+Title: Amazon SDE Internship OA 2027 Germany. 
+Slug: amazon-sde-internship-oa-2027-germany-by-678x
+Article Type: DISCUSSION
+Posted: 2026-09-23 03:31:11 IST
+Updated: 2026-09-23 03:31:11 IST
+URL: https://leetcode.com/discuss/post/8535267/amazon-sde-internship-oa-2027-germany-by-678x/
+Author: 
+
+--- Summary ---
+Hi people, I received OA for amazon internship. Do you guys have any idea on what topics are common on OA.Also how many rounds do they have for intern roles.
+And what quesitons are common.Thanks in advance!!!
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: hzbf2LPf
+Title: How I accidentally asked LeetCode for 40GB of RAM 💀
+Slug: how-i-accidentally-asked-leetcode-for-40-m74d
+Article Type: DISCUSSION
+Posted: 2026-09-23 01:43:50 IST
+Updated: 2026-09-23 01:43:50 IST
+URL: https://leetcode.com/discuss/post/8535200/how-i-accidentally-asked-leetcode-for-40-m74d/
+Author: Shub_3006
+
+--- Summary ---
+Almost crashed LeetCode servers today with a 40GB DP array! 😅 (OOM Killer to the rescue)So today what happened was I was doing this DP problem, and without thinking much I just declared int dp[102][10002][10002];. I hit submit, and instead of getting
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: bI8rTUoD
+Title: Infosys Interview Experience — 2 YOE
+Slug: infosys-interview-experience-2-yoe-by-ni-cpql
+Article Type: DISCUSSION
+Posted: 2026-09-23 00:32:45 IST
+Updated: 2026-09-23 00:32:45 IST
+URL: https://leetcode.com/discuss/post/8535106/infosys-interview-experience-2-yoe-by-ni-cpql/
+Author: Nithin2109
+
+--- Summary ---
+Infosys Interview Experience — 2 YOESharing my recent Infosys interview experience for candidates with around 2 years of experience.The interview mainly focused on my project, AWS architecture, Python, React, authentication, SQL, CI/CD, testing, and
+
+--- Tags ---
+  - Infosys (infosys) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 3VjdMYMA
+Title: Goldman Sachs SRE VP interview
+Slug: goldman-sachs-sre-vp-interview-by-chinny-gwen
+Article Type: DISCUSSION
+Posted: 2026-09-22 22:59:24 IST
+Updated: 2026-09-22 22:59:24 IST
+URL: https://leetcode.com/discuss/post/8534966/goldman-sachs-sre-vp-interview-by-chinny-gwen/
+Author: chinnyb
+
+--- Summary ---
+Hi All,I have an interview in few days for the SRE VP role, can someone please share the DSA/Coderpad questions that i should study? Any advices on how to pass this round will be highly appreciated
+
+--- Tags ---
+  - Goldman Sachs (goldman-sachs) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: G2R8FeYl
+Title: Google Interview Feedback — Should I Ask Recruiter?
+Slug: google-interview-feedback-should-i-ask-r-vqfx
+Article Type: DISCUSSION
+Posted: 2026-09-22 22:42:39 IST
+Updated: 2026-09-22 22:42:39 IST
+URL: https://leetcode.com/discuss/post/8534929/google-interview-feedback-should-i-ask-r-vqfx/
+Author: 
+
+--- Summary ---
+In a Google interview, I discussed my solution with the interviewer. He said it was optimal, I implemented it, and he confirmed it was optimal. He then gave a follow-up, which I solved and provided pseudocode plus time/space complexity.Afterward, I c
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: aUOinoH7
+Title: Teradata Interview for AI Engineer role
+Slug: teradata-interview-for-ai-engineer-role-7dwgw
+Article Type: DISCUSSION
+Posted: 2026-09-22 21:17:11 IST
+Updated: 2026-09-22 21:17:11 IST
+URL: https://leetcode.com/discuss/post/8534783/teradata-interview-for-ai-engineer-role-7dwgw/
+Author: 
+
+--- Summary ---
+Hi Everyone,I have an interview scheduled for Teradata for the position of AI Engineer.
+Can someone who has interviewed recently for Teradata , share there experience. What can I expect in the coding round and the design round?
+
+--- Tags ---
+  - Teradata (teradata) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: a3zJ91Bm
+Title: Staff-Level Interview Prep: Let’s Learn Together
+Slug: staff-level-interview-prep-lets-learn-to-7egp
+Article Type: DISCUSSION
+Posted: 2026-09-22 20:49:13 IST
+Updated: 2026-09-22 20:50:15 IST
+URL: https://leetcode.com/discuss/post/8534746/staff-level-interview-prep-lets-learn-to-7egp/
+Author: swatibansal019
+
+--- Summary ---
+Looking to connect with people who are interviewing for Staff-level roles to discuss interview experiences and feedback. Would love to learn from others, identify areas where I can improve, and also share my experiences to help others along the way.A
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: t2fybCPb
+Title: 🚀 Choosing My Full-Stack Path: MERN or Java?
+Slug: choosing-my-full-stack-path-mern-or-java-1bmj
+Article Type: DISCUSSION
+Posted: 2026-09-22 20:42:40 IST
+Updated: 2026-09-22 20:42:40 IST
+URL: https://leetcode.com/discuss/post/8534736/choosing-my-full-stack-path-mern-or-java-1bmj/
+Author: maniharanchary
+
+--- Summary ---
+Hey everyone! 👋I’m planning to start Full-Stack Development and I’m currently stuck between MERN and Java Full Stack. 🤔My main goals are to:
+• Learn through real-world projects 🛠️
+• Build a strong resume/portfolio 🚀
+• Prepare for campus placements &
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+  - HELP (help-2) []
+  - Need Help (need-help-2) []
+  - [Urgent Help] (urgent-help-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: TtXZz0qO
+Title: Postman | Senior Engineer 
+Slug: postman-senior-engineer-by-swatibansal01-45h8
+Article Type: DISCUSSION
+Posted: 2026-09-22 20:37:53 IST
+Updated: 2026-09-22 20:37:53 IST
+URL: https://leetcode.com/discuss/post/8534724/postman-senior-engineer-by-swatibansal01-45h8/
+Author: swatibansal019
+
+--- Summary ---
+Postman Interview Experience
+AI Coding Round — 60 min
+The problem was fairly abstract, with significant emphasis on understanding the requirements before coding.
+Spent roughly 25 minutes clarifying/understanding what was expected.
+Used the remaining
+
+--- Tags ---
+  - Postman (postman) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: SHyGeP4u
+Title: Expected salary range for pb health for 2 to 3.5 years of experience, backend??
+Slug: expected-salary-range-for-pb-health-for-hewzf
+Article Type: DISCUSSION
+Posted: 2026-09-22 19:57:31 IST
+Updated: 2026-09-22 19:57:31 IST
+URL: https://leetcode.com/discuss/post/8534665/expected-salary-range-for-pb-health-for-hewzf/
+Author: 
+
+--- Summary ---
+hi guys i want to know the work life balance and ctc expected for pb health at gurgaon location
+
+--- Tags ---
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WO1EWHpX
+Title: Looking for job in IT industry as fresher!!!
+Slug: looking-for-job-in-it-industry-as-freshe-xmsb
+Article Type: DISCUSSION
+Posted: 2026-09-22 19:41:44 IST
+Updated: 2026-09-22 19:41:44 IST
+URL: https://leetcode.com/discuss/post/8534643/looking-for-job-in-it-industry-as-freshe-xmsb/
+Author: FvDlwyVKwt
+
+--- Summary ---
+Hi, I am a tier three college student looking for job and i done my course on java full stack development which it completed how should i search for job and get interview calls as I apply there is no shortlisting or interview calls from company what
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: CX93glnp
+Title: How to Start a Career in Cloud Computing?
+Slug: how-to-start-a-career-in-cloud-computing-xglj
+Article Type: DISCUSSION
+Posted: 2026-09-22 19:33:35 IST
+Updated: 2026-09-22 19:33:35 IST
+URL: https://leetcode.com/discuss/post/8534629/how-to-start-a-career-in-cloud-computing-xglj/
+Author: ashutosh_xyz
+
+--- Summary ---
+I’m a CSE student specializing in Cloud Computing. What skills, technologies, certifications, and projects should I focus on to build a strong career in Cloud Computing? Also, which roles should I target as a fresher?
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7UqWrIRh
+Title: Meesho | SDE 1
+Slug: meesho-sde-1-by-anonymous_user-sf06
+Article Type: DISCUSSION
+Posted: 2026-09-22 19:18:04 IST
+Updated: 2026-09-22 19:19:53 IST
+URL: https://leetcode.com/discuss/post/8534609/meesho-sde-1-by-anonymous_user-sf06/
+Author: 
+
+--- Summary ---
+Meesho – SDE-1 (New Grad)
+Education: B.Tech (Tier-1 IIT)
+Experience: 0 years
+Prior Experience: Intern at Product-Based MNC
+Company: Meesho
+Role: SDE-1
+Location: Bangalore, India
+Compensation Breakdown:
+Base Salary: ₹22,00,000
+Relocation Bonus: ₹1,50,
+
+--- Tags ---
+  - Meesho (meesho) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: gXMMADgl
+Title: SQL Master Reference — Part 11
+Slug: sql-master-reference-part-11-by-krishna_-pjwk
+Article Type: DISCUSSION
+Posted: 2026-09-22 18:36:17 IST
+Updated: 2026-09-22 18:36:17 IST
+URL: https://leetcode.com/discuss/post/8534555/sql-master-reference-part-11-by-krishna_-pjwk/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SQL Master Reference — Part 11SQL Interview Problems — 100+ Questions with Detailed Answers
+Organized by difficulty. Every problem includes the question, the thinking process, and the SQL solution.
+Table of Contents
+Beginner Interview Questions (Q1–Q
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: GY08OeJZ
+Title: SQL Master Reference — Part 10
+Slug: sql-master-reference-part-10-by-krishna_-isz3
+Article Type: DISCUSSION
+Posted: 2026-09-22 18:35:52 IST
+Updated: 2026-09-22 18:35:52 IST
+URL: https://leetcode.com/discuss/post/8534554/sql-master-reference-part-10-by-krishna_-isz3/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SQL Master Reference — Part 10Advanced SQL Patterns — 50 Patterns with Multiple Solutions
+All examples use the sample schema from Part 1. Oracle SQL primary dialect.
+Table of Contents
+Nth Highest / Lowest (10 Approaches)
+Top-N Per Group
+Running Total
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: OiPnDKS4
+Title: SQL Master Reference — Part 9
+Slug: sql-master-reference-part-9-by-krishna_a-50u9
+Article Type: DISCUSSION
+Posted: 2026-09-22 18:35:28 IST
+Updated: 2026-09-22 18:35:28 IST
+URL: https://leetcode.com/discuss/post/8534553/sql-master-reference-part-9-by-krishna_a-50u9/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SQL Master Reference — Part 9PL/SQL — Blocks · Variables · Control Flow · Cursors · Procedures · Functions · Triggers · Exceptions · Packages
+PL/SQL is Oracle's procedural extension to SQL. 🔶 = Oracle-only.
+Table of Contents
+PL/SQL Block Structure
+Va
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: hzhhe6Uk
+Title: SQL Master Reference — Part 8
+Slug: sql-master-reference-part-8-by-krishna_a-qa8o
+Article Type: DISCUSSION
+Posted: 2026-09-22 18:35:03 IST
+Updated: 2026-09-22 18:35:03 IST
+URL: https://leetcode.com/discuss/post/8534550/sql-master-reference-part-8-by-krishna_a-qa8o/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SQL Master Reference — Part 8Oracle Advanced — Hierarchical · PIVOT · Views · Indexes · Sequences · DCL
+Oracle-specific features unless noted. 🔶 = Oracle-only.
+Table of Contents
+Hierarchical Queries — CONNECT BY
+Oracle PIVOT and UNPIVOT
+Views
+Materia
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: dGRN7pRT
+Title: SQL Master Reference — Part 7
+Slug: sql-master-reference-part-7-by-krishna_a-p207
+Article Type: DISCUSSION
+Posted: 2026-09-22 18:34:39 IST
+Updated: 2026-09-22 18:34:39 IST
+URL: https://leetcode.com/discuss/post/8534549/sql-master-reference-part-7-by-krishna_a-p207/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SQL Master Reference — Part 7SQL Functions — String · Numeric · Date/Time · NULL · CASE · DECODE
+Oracle SQL primary dialect. 🔶 = Oracle-specific.
+Table of Contents
+String Functions
+Regular Expression Functions
+Numeric Functions
+Date and Time Function
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: KI1nOGXQ
+Title: SQL Master Reference — Part 6
+Slug: sql-master-reference-part-6-by-krishna_a-dxdu
+Article Type: DISCUSSION
+Posted: 2026-09-22 18:34:11 IST
+Updated: 2026-09-22 18:34:11 IST
+URL: https://leetcode.com/discuss/post/8534547/sql-master-reference-part-6-by-krishna_a-dxdu/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SQL Master Reference — Part 6Window Functions — Complete Reference
+Window functions are among the most powerful and frequently tested SQL features.
+Oracle SQL primary dialect. 🔶 = Oracle-specific.
+Table of Contents
+What are Window Functions?
+OVER() C
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: s3qeTYMU
+Title: SQL Master Reference — Part 5
+Slug: sql-master-reference-part-5-by-krishna_a-tefu
+Article Type: DISCUSSION
+Posted: 2026-09-22 18:33:43 IST
+Updated: 2026-09-22 18:33:43 IST
+URL: https://leetcode.com/discuss/post/8534546/sql-master-reference-part-5-by-krishna_a-tefu/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SQL Master Reference — Part 5Aggregate Functions · GROUP BY · HAVING · Subqueries · CTEs · Set Operators
+Oracle SQL primary dialect. 🔶 = Oracle-specific.
+Table of Contents
+Aggregate Functions
+GROUP BY
+HAVING
+WHERE vs HAVING
+Conditional Aggregation
+Su
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #35
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 5FHAX8ZE
+Title: SQL Master Reference — Part 4
+Slug: sql-master-reference-part-4-by-krishna_a-5gyu
+Article Type: DISCUSSION
+Posted: 2026-09-22 18:33:14 IST
+Updated: 2026-09-22 18:33:14 IST
+URL: https://leetcode.com/discuss/post/8534545/sql-master-reference-part-4-by-krishna_a-5gyu/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SQL Master Reference — Part 4Joins — Complete Reference
+The most critical SQL topic for interviews and real-world use.
+Oracle SQL primary dialect. 🔶 = Oracle-specific.
+Table of Contents
+What is a JOIN?
+JOIN Decision Flowchart
+INNER JOIN
+LEFT JOIN (LE
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #36
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: fyvUY9gC
+Title: SQL Master Reference — Part 3
+Slug: sql-master-reference-part-3-by-krishna_a-etw2
+Article Type: DISCUSSION
+Posted: 2026-09-22 18:32:48 IST
+Updated: 2026-09-22 18:32:48 IST
+URL: https://leetcode.com/discuss/post/8534544/sql-master-reference-part-3-by-krishna_a-etw2/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SQL Master Reference — Part 3INSERT · UPDATE · DELETE · MERGE · Constraints · Transactions
+Oracle SQL primary dialect. 🔶 marks Oracle-specific syntax.
+Table of Contents
+INSERT
+UPDATE
+DELETE
+MERGE
+Constraints — Complete Reference
+Primary Key
+Foreign K
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #37
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: KjJsjlEn
+Title: SQL Master Reference — Part 2
+Slug: sql-master-reference-part-2-by-krishna_a-jhbq
+Article Type: DISCUSSION
+Posted: 2026-09-22 18:30:55 IST
+Updated: 2026-09-22 18:30:55 IST
+URL: https://leetcode.com/discuss/post/8534539/sql-master-reference-part-2-by-krishna_a-jhbq/
+Author: Krishna_Agarwal1
+
+--- Summary ---
+SQL Master Reference — Part 2SELECT · DISTINCT · WHERE · Operators · ORDER BY · Row Limiting
+All examples use the sample schema from Part 1. Oracle SQL is the primary dialect. 🔶 marks Oracle-specific behavior.
+Table of Contents
+SQL Execution Order
+SE
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #38
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: TRgh8NY4
+Title: Microsoft | Software Engineer | SDE1 | PPO | 2027
+Slug: microsoft-software-engineer-sde1-ppo-202-rm8e
+Article Type: DISCUSSION
+Posted: 2026-09-22 16:57:55 IST
+Updated: 2026-09-22 21:32:52 IST
+URL: https://leetcode.com/discuss/post/8534411/microsoft-software-engineer-sde1-ppo-202-rm8e/
+Author: 
+
+--- Summary ---
+Education: B.Tech CSE
+Prior Experience: 2 month Internship at Microsoft
+Date of the Offer: September 2026
+Company: Microsoft
+Title/Level: Software Engineer
+Base Salary: ₹18,50,000
+Relocation: upto $4,100 (based on location/distance)
+Signing Bonus: ₹
+
+--- Tags ---
+  - Microsoft (microsoft) [COMPANY]
+  - Compensation (compensation) []
+  - 2027 graduate (2027-graduate) []
+  - PPO (ppo-2) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #39
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: OwtLv1qR
+Title: Need study partner 
+Slug: need-study-partner-by-anonymous_user-16px
+Article Type: DISCUSSION
+Posted: 2026-09-22 16:48:57 IST
+Updated: 2026-09-22 16:48:57 IST
+URL: https://leetcode.com/discuss/post/8534400/need-study-partner-by-anonymous_user-16px/
+Author: 
+
+--- Summary ---
+Hi guys! I’m preparing for SDE 2 roles over the next couple of months and looking for someone to do mock interviews with.Are there any websites/platforms where I can find an interview partner, or would you recommend any other approach?
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #40
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Iv7ABOGj
+Title: When can I expect an offer from Natwest?
+Slug: when-can-i-expect-an-offer-from-natwest-tp6c1
+Article Type: DISCUSSION
+Posted: 2026-09-22 16:48:03 IST
+Updated: 2026-09-22 16:48:03 IST
+URL: https://leetcode.com/discuss/post/8534399/when-can-i-expect-an-offer-from-natwest-tp6c1/
+Author: 
+
+--- Summary ---
+I interviewed at Natwest about 2 weeks ago and the HR said they ll get back to me last Monday but nobody has reached out and they arent responding to my email follow ups as well.
+Is this normal?
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #41
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: YcQAv7tH
+Title: Adobe cooldown
+Slug: adobe-cooldown-by-anonymous_user-je99
+Article Type: DISCUSSION
+Posted: 2026-09-22 16:38:35 IST
+Updated: 2026-09-22 16:38:35 IST
+URL: https://leetcode.com/discuss/post/8534386/adobe-cooldown-by-anonymous_user-je99/
+Author: 
+
+--- Summary ---
+I gave Adobe Computer Scientist role interview. I failed the third round. The HR said"Please feel free to reapply for any suitable position available in the portal the respective recruiter will reach out to you.If, reapplying for the same position th
+
+--- Tags ---
+  - Adobe (adobe) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #42
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: S3eN0dvu
+Title: Booking Holdings | expectations | YOE 5+ Years| Sr Software Developer 
+Slug: booking-holdings-expectations-yoe-5-year-ivqa
+Article Type: DISCUSSION
+Posted: 2026-09-22 16:36:43 IST
+Updated: 2026-09-22 16:36:43 IST
+URL: https://leetcode.com/discuss/post/8534384/booking-holdings-expectations-yoe-5-year-ivqa/
+Author: 
+
+--- Summary ---
+Hi everyone,
+I have an interview scheduled with Booking Holdings with third party payroll.It is in-person expected to have 2-3 rounds at their office.
+Can someone help me with
+LLD question and expectations
+What are the most faq system design?
+Tips fo
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #43
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2rV8wJ4Y
+Title: Need Advice: I Understand Recursion but Struggle to Apply It
+Slug: need-advice-i-understand-recursion-but-s-5lo2
+Article Type: DISCUSSION
+Posted: 2026-09-22 16:15:54 IST
+Updated: 2026-09-22 16:15:54 IST
+URL: https://leetcode.com/discuss/post/8534358/need-advice-i-understand-recursion-but-s-5lo2/
+Author: vek08
+
+--- Summary ---
+I understand recursion conceptually, but I’m struggling to think recursively when solving a new problemHere’s what I’m facing:
+I understand how recursion works
+I understand base cases, recursive calls, call stack, and recursion flow
+I can understand
+
+--- Tags ---
+  - Recursion (recursion) [TOPIC]
+  - DSA (dsa) []
+  - HELP (help-2) []
+  - Need Help (need-help-2) []
+  - DSA Resources (dsa-resources) []
+  - [Urgent Help] (urgent-help-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #44
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: q6kHXXmw
+Title: PayPay | Backend Engineer | Interview Experience | Sepetember 2026
+Slug: paypay-backend-engineer-interview-experi-tlnk
+Article Type: DISCUSSION
+Posted: 2026-09-22 15:46:40 IST
+Updated: 2026-09-22 16:41:46 IST
+URL: https://leetcode.com/discuss/post/8534311/paypay-backend-engineer-interview-experi-tlnk/
+Author: Xshubham
+
+--- Summary ---
+Current
+25 LPA base
+4.3 YOEOA
+2 DSA questions.Round 1 - Technical Fitment round
+Some questions regarding my projects. Questions regarding kafka, paritions, backpressure etc. Some DB questions for isolation levels.
+1 DSA problem - next greatest elemen
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #45
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: oFgvzIGl
+Title: Beginner's Guide to Thinking Through Tree DFS (Refined)
+Slug: beginners-guide-to-thinking-through-tree-v8cj
+Article Type: DISCUSSION
+Posted: 2026-09-22 15:38:43 IST
+Updated: 2026-09-22 15:52:51 IST
+URL: https://leetcode.com/discuss/post/8534301/beginners-guide-to-thinking-through-tree-v8cj/
+Author: AnneOnymous
+
+--- Summary ---
+🌳 Beginner's Guide to Thinking Through Tree DFS📚 Previous Guides / References
+The 5 Questions I Ask Before Writing Any Bottom-Up Tree DFS
+Maximum Root-to-Leaf Path Sum — problem used as the running example.
+📘 ProblemGiven the root of a binary tree, r
+
+--- Tags ---
+  - Tree (tree) [TOPIC]
+  - Depth-First Search (depth-first-search) [TOPIC]
+  - Binary Tree (binary-tree) [TOPIC]
+  - DSA (dsa) []
+  - dfs (dfs-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #46
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: NoryJ3o4
+Title: Need advice 
+Slug: need-advice-by-samuel_kevin_yoseph_v-wftx
+Article Type: DISCUSSION
+Posted: 2026-09-22 15:28:17 IST
+Updated: 2026-09-22 15:28:17 IST
+URL: https://leetcode.com/discuss/post/8534288/need-advice-by-samuel_kevin_yoseph_v-wftx/
+Author: Samuel_Kevin_Yoseph_V
+
+--- Summary ---
+Guys, I'm new to solving coding problems, and I want to know what the basic stuff I need to learn before start solvingand also I'm preferring to solve the problem in Java
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #47
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vKWNEbo4
+Title: KPI Partners Data Engineer Hiring 
+Slug: kpi-partners-data-engineer-hiring-by-ano-ydqy
+Article Type: DISCUSSION
+Posted: 2026-09-22 15:23:05 IST
+Updated: 2026-09-22 15:23:05 IST
+URL: https://leetcode.com/discuss/post/8534279/kpi-partners-data-engineer-hiring-by-ano-ydqy/
+Author: 
+
+--- Summary ---
+Hey guys, quick question regarding the KPI Partners 300 Data Engineers drive. Has anyone here who applied received a call or a slot booking invite yet?
+Thanks!
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #48
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vXAUaOcU
+Title: Switching from Service to product
+Slug: switching-from-service-to-product-by-sam-s9q1
+Article Type: DISCUSSION
+Posted: 2026-09-22 14:51:00 IST
+Updated: 2026-09-22 14:51:16 IST
+URL: https://leetcode.com/discuss/post/8534249/switching-from-service-to-product-by-sam-s9q1/
+Author: 
+
+--- Summary ---
+On the bench at Capgemini (1 month in, SAP Integration track) ➡️ How to pivot to Core SWE?Hey everyone,I'm 1 month into Capgemini, tagged to SAP Integration, but currently sitting on the bench. My goal is core Software Engineering (Backend/Full-Stack
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #49
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4lLVawO0
+Title: Need Advice
+Slug: need-advice-by-ashish__6523-m0hd
+Article Type: DISCUSSION
+Posted: 2026-09-22 14:25:19 IST
+Updated: 2026-09-22 14:25:19 IST
+URL: https://leetcode.com/discuss/post/8534216/need-advice-by-ashish__6523-m0hd/
+Author: ashish__6523
+
+--- Summary ---
+Blinkit SDE1 (₹19.5 LPA fixed) vs Expedia SDE2 (₹27 LPA base) — Should I take Expedia or wait?Hi everyone,I’m looking for some advice on a career decision and would especially appreciate perspectives from people with similar experience.My background
+
+--- Tags ---
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #50
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: wplKtA7U
+Title: Software Engineer Google OA USA 2026
+Slug: software-engineer-google-oa-usa-2026-by-tgma9
+Article Type: DISCUSSION
+Posted: 2026-09-22 13:41:42 IST
+Updated: 2026-09-22 13:41:42 IST
+URL: https://leetcode.com/discuss/post/8534173/software-engineer-google-oa-usa-2026-by-tgma9/
+Author: 
+
+--- Summary ---
+Did anyone recently get an OA from google? I've heard they are hiring too many folks.If yes what does the hiring process look like for a role that has these kind requirements:Master's degree or PhD in Computer Science or related technical fields.
+2 y
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #51
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2USVRrub
+Title: Leetcode irritating Questions 🐍
+Slug: leetcode-irritating-questions-by-shiyobo-jslc
+Article Type: DISCUSSION
+Posted: 2026-09-22 12:56:58 IST
+Updated: 2026-09-22 12:56:58 IST
+URL: https://leetcode.com/discuss/post/8534136/leetcode-irritating-questions-by-shiyobo-jslc/
+Author: ShiYoBo
+
+--- Summary ---
+There are alot of irritating questions which seems very annoying but it changes the way u think , a new way to think !!! init relevant ?What's ur opinion on these ugly problems ?
+⁉️
+
+--- Tags ---
+  - DSA (dsa) []
+
