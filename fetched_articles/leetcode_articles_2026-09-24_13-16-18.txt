@@ -1,0 +1,778 @@
+LeetCode Discuss - Latest 31 Articles
+Fetched on: 2026-09-24 13:16:18 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4DFCX0zQ
+Title: Angel One SDE-2 Backend – System Design Round Preparation
+Slug: angel-one-sde-2-backend-system-design-ro-k3cw
+Article Type: DISCUSSION
+Posted: 2026-09-24 12:56:01 IST
+Updated: 2026-09-24 12:56:18 IST
+URL: https://leetcode.com/discuss/post/8537482/angel-one-sde-2-backend-system-design-ro-k3cw/
+Author: 
+
+--- Summary ---
+Hi everyone,I’m preparing for an SDE-2 Backend interview at Angel One and wanted to understand the system design round better from people who have recently interviewed there.I’ve gone through a few interview experiences and noticed that the system de
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 3MesdoWB
+Title: Apache Kafka Explained  | How Kafka REALLY Works Internally
+Slug: apache-kafka-explained-how-kafka-really-j7u3o
+Article Type: DISCUSSION
+Posted: 2026-09-24 11:59:23 IST
+Updated: 2026-09-24 11:59:23 IST
+URL: https://leetcode.com/discuss/post/8537376/apache-kafka-explained-how-kafka-really-j7u3o/
+Author: T9gfHvWbjM
+
+--- Summary ---
+Ever wondered what actually happens inside Apache Kafka? 🚀In this video, we break down Kafka from the ground up — starting with a real-world example of how a food delivery app like Zomato can use Kafka to share a delivery partner's live location at m
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6xpjtXwt
+Title: Walmart | Flipkart | Salesforce | Tekion | Everpure | P44 | IDFC First Bank Interview Experience
+Slug: walmart-flipkart-salesforce-tekion-everp-nbo7
+Article Type: DISCUSSION
+Posted: 2026-09-24 11:41:12 IST
+Updated: 2026-09-24 11:41:12 IST
+URL: https://leetcode.com/discuss/post/8537336/walmart-flipkart-salesforce-tekion-everp-nbo7/
+Author: 
+
+--- Summary ---
+Over the past 12 months, I have sat in dozens of interview, stared into countless Zoom screens, and put my heart on the line for several different companies. After a grueling year of pushing through the "no's," the tides finally turned. I successfull
+
+--- Tags ---
+  - Flipkart (flipkart) [COMPANY]
+  - Salesforce (salesforce) [COMPANY]
+  - Tekion (tekion) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: oi4QVmMy
+Title: Compensation of some offers I got in 1 month (SDE-2 : 3.5 Yeo)
+Slug: compensation-of-some-offers-i-got-in-1-m-5rp7
+Article Type: DISCUSSION
+Posted: 2026-09-24 11:24:21 IST
+Updated: 2026-09-24 11:24:21 IST
+URL: https://leetcode.com/discuss/post/8537309/compensation-of-some-offers-i-got-in-1-m-5rp7/
+Author: 
+
+--- Summary ---
+I wanted to share my recent interview journey and compensation offered
+(SDE-2 : 3.5 Yeo)My current compensation
+CTC: ₹20 LPA
+Fixed: ₹20 LPA
+Bonus: ₹0
+Location: Remote
+Role: SDE-1Offers / opportunities I receivedNielsenCTC: ₹28 LPA
+Fixed: ₹26 LPA
+Vari
+
+--- Tags ---
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: gyUqasRQ
+Title: JioStar | JioHotstar Internship Stipend | India
+Slug: jiostar-jiohotstar-internship-stipend-by-ck00
+Article Type: DISCUSSION
+Posted: 2026-09-24 11:08:15 IST
+Updated: 2026-09-24 11:09:34 IST
+URL: https://leetcode.com/discuss/post/8537281/jiostar-jiohotstar-internship-stipend-by-ck00/
+Author: 
+
+--- Summary ---
+JioStar | JioHotstar Internship Batch of 2027Stipend: ₹75,000 per month
+Selection Process: Approximately 3 rounds of interviews
+
+--- Tags ---
+  - Compensation (compensation) []
+  - JioStar (jiostar) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6a9uFYt0
+Title: 🧠 How to Approach a New LeetCode Problem — 5 Patterns to Look For
+Slug: how-to-approach-a-new-leetcode-problem-5-jhg2
+Article Type: DISCUSSION
+Posted: 2026-09-24 10:41:05 IST
+Updated: 2026-09-24 10:41:05 IST
+URL: https://leetcode.com/discuss/post/8537234/how-to-approach-a-new-leetcode-problem-5-jhg2/
+Author: Rahulkumar9709
+
+--- Summary ---
+Stuck on a LeetCode problem?Before looking at the solution, don't immediately ask:“What code should I write?”Ask:“What pattern is this problem hiding?”Here are 5 patterns I check first when approaching a new problem.1️⃣ “Do I need fast lookup?” → Has
+
+--- Tags ---
+  - LeetCode (leetcode) [COMPANY]
+  - DSA (dsa) []
+  - Algorithm (algorithm) []
+  - interview preparation help (interview-preparation-help) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7lZNxLID
+Title: Is solving 20 python problems in 1 month okay?
+Slug: is-solving-20-python-problems-in-1-month-rh5k
+Article Type: DISCUSSION
+Posted: 2026-09-24 10:02:02 IST
+Updated: 2026-09-24 10:02:02 IST
+URL: https://leetcode.com/discuss/post/8537186/is-solving-20-python-problems-in-1-month-rh5k/
+Author: Coderforcareer
+
+--- Summary ---
+What should be the benchmark for solving questions to steadily improve your python coding skills?
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: LVaSExUN
+Title: Fastest Way to reach Knight Badge 
+Slug: fastest-way-to-reach-knight-badge-by-som-qtby
+Article Type: DISCUSSION
+Posted: 2026-09-24 09:13:35 IST
+Updated: 2026-09-24 10:16:46 IST
+URL: https://leetcode.com/discuss/post/8537140/fastest-way-to-reach-knight-badge-by-som-qtby/
+Author: Som_07
+
+--- Summary ---
+Most people practicing on LeetCode are training in a way that guarantees a hard plateau around 1650 - 1750.You solve Q1 in 4 minutes, finish Q2 in 15 minutes, and then get completely bricked on Q3. Every single contest. You do another 50 random probl
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+  - LeetCode Tools (leetcode-tools) []
+  - Knight badge (knight-badge-2) []
+  - knight badge inconsistent  (knight-badge-inconsistent) []
+  - Leetcode Weekly Contest (leetcode-weekly-contest) []
+  - Tools & Resources (tools-resources) []
+  - Tools  (tools-2) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8TiZQWdi
+Title: DeepInfra ( Series B - AI Inference )  : SWE 2026 USA : Interview Experience
+Slug: deepinfra-series-b-ai-inference-swe-2026-l6pw
+Article Type: DISCUSSION
+Posted: 2026-09-24 06:45:18 IST
+Updated: 2026-09-24 06:45:18 IST
+URL: https://leetcode.com/discuss/post/8537018/deepinfra-series-b-ai-inference-swe-2026-l6pw/
+Author: jk20
+
+--- Summary ---
+Company: DeepInfra (Series B, AI inference)
+Role: SWE, Software Engineering, Inference
+Location: Rounds 1 to 3 remote, rounds 4 and 5 onsite in Palo Alto, CA
+Date: April 2026
+How it started: Cold application
+Outcome: Rejected, with feedbackThe loopRo
+
+--- Tags ---
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+  - Deepinfra (deepinfra) []
+  - ICPC (icpc-4) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0TLVxasW
+Title: Optiver OA questions 26/27 SWE
+Slug: optiver-oa-questions-2627-swe-by-damnwho-s2ev
+Article Type: DISCUSSION
+Posted: 2026-09-24 01:35:20 IST
+Updated: 2026-09-24 01:35:20 IST
+URL: https://leetcode.com/discuss/post/8536918/optiver-oa-questions-2627-swe-by-damnwho-s2ev/
+Author: damnwhosknho
+
+--- Summary ---
+Optiver OA questionshttps://optiveroa.netlify.app/
+
+--- Tags ---
+  - Optiver (optiver) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: HheqXU7B
+Title: Square Point online assessment
+Slug: square-point-online-assessment-by-ved9lr-2ct5
+Article Type: DISCUSSION
+Posted: 2026-09-24 00:31:25 IST
+Updated: 2026-09-24 00:31:25 IST
+URL: https://leetcode.com/discuss/post/8536851/square-point-online-assessment-by-ved9lr-2ct5/
+Author: VeD9lR0N9h
+
+--- Summary ---
+Hi everyone, I am a 4th year B.Tech student sitting in on campus sde placements. I have my online assessment for square point. Can someone tell me what questions to practice for cracking the oa?
+
+--- Tags ---
+  - Squarepoint Capital (squarepoint-capital) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: qycem1YQ
+Title: Teradata Online Assessment
+Slug: teradata-online-assessment-by-ved9lr0n9h-p6cl
+Article Type: DISCUSSION
+Posted: 2026-09-24 00:29:19 IST
+Updated: 2026-09-24 00:29:19 IST
+URL: https://leetcode.com/discuss/post/8536847/teradata-online-assessment-by-ved9lr0n9h-p6cl/
+Author: VeD9lR0N9h
+
+--- Summary ---
+Hi everyone, I am a 4th year B.Tech student sitting in on campus sde placements. I have my online assessment for Teradata. Can someone tell me what questions to practice for cracking the oa?
+
+--- Tags ---
+  - Teradata (teradata) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: JUBJHF1D
+Title: WORLD QUANT INTERVIEW
+Slug: world-quant-interview-by-sans_111-03ke
+Article Type: DISCUSSION
+Posted: 2026-09-23 23:22:35 IST
+Updated: 2026-09-23 23:23:22 IST
+URL: https://leetcode.com/discuss/post/8536750/world-quant-interview-by-sans_111-03ke/
+Author: 
+
+--- Summary ---
+Anyone had any recent experience for the Senior Engineer (5+ YOE) interview with World Quant ? Please Share.Thanks
+
+--- Tags ---
+  - WorldQuant (worldquant) [COMPANY]
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: YrLwjAgR
+Title: 11 LPA Infosys SP L1  — Should I Take It?
+Slug: 11-lpa-infosys-sp-l1-should-i-take-it-by-yvpq
+Article Type: DISCUSSION
+Posted: 2026-09-23 22:52:03 IST
+Updated: 2026-09-23 22:52:03 IST
+URL: https://leetcode.com/discuss/post/8536689/11-lpa-infosys-sp-l1-should-i-take-it-by-yvpq/
+Author: 
+
+--- Summary ---
+I’m a 4th-year student from a tier-3 college and recently received an Infosys SP L1 offer with an 11 LPA CTC.Should I take the offer?Also, what is the career growth like after joining Infosys SP L1? Can I use the experience to switch to better produc
+
+--- Tags ---
+  - Infosys (infosys) [COMPANY]
+  - Career (career) []
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: wQlHRDgH
+Title: Sedemac | Embedded Engineer Role | Graduate Level
+Slug: sedemac-embedded-engineer-role-graduate-46v1b
+Article Type: DISCUSSION
+Posted: 2026-09-23 22:01:26 IST
+Updated: 2026-09-23 22:01:40 IST
+URL: https://leetcode.com/discuss/post/8536603/sedemac-embedded-engineer-role-graduate-46v1b/
+Author: 
+
+--- Summary ---
+Education: B.Tech (Tier 1)
+Experience: Fresher
+Company: SEDEMAC
+Role: Engineer - Embedded Software
+Location: Pune
+Process: Aptitude + Technical OT + 2 PI rounds
+Compensation: CTC 1800000 INR
+Base: 1726300 INRProcess Structure1. Online AssessmentAptit
+
+--- Tags ---
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: xP38Vsz4
+Title: upGrad | Software Engineer | Work Culture Insights
+Slug: upgrad-software-engineer-work-culture-in-fgpr
+Article Type: DISCUSSION
+Posted: 2026-09-23 21:56:03 IST
+Updated: 2026-09-23 21:56:03 IST
+URL: https://leetcode.com/discuss/post/8536596/upgrad-software-engineer-work-culture-in-fgpr/
+Author: 
+
+--- Summary ---
+Does anyone have experience working at upGrad or know someone who does? I recently received a Software Engineer offer and would like to know more about the day to day work culture, management style, and growth opportunities before making a decision.
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: mEEpK2Fk
+Title: Tower Of Hanoi
+Slug: tower-of-hanoi-by-amityadav75100-pq90
+Article Type: DISCUSSION
+Posted: 2026-09-23 21:27:33 IST
+Updated: 2026-09-23 21:27:33 IST
+URL: https://leetcode.com/discuss/post/8536554/tower-of-hanoi-by-amityadav75100-pq90/
+Author: AmitYadav75100
+
+--- Summary ---
+Tower of HanoiYou are given an integer n representing the number of disks in the Tower of Hanoi.There are three rods:
+Source — the rod containing all n disks initially.
+Auxiliary — the temporary rod.
+Destination — the rod where all disks must be move
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: O4RXk2yb
+Title: 3rd Year CSE student with 200+ leetcode solved and a Full Stack internship:What I am still figuring?
+Slug: 3rd-year-cse-student-with-200-leetcode-s-hbrp
+Article Type: DISCUSSION
+Posted: 2026-09-23 21:20:21 IST
+Updated: 2026-09-23 21:21:21 IST
+URL: https://leetcode.com/discuss/post/8536539/3rd-year-cse-student-with-200-leetcode-s-hbrp/
+Author: Piyush_op
+
+--- Summary ---
+I'm Piyush, a third-year CSE student at SPPU, Pune (graduating 2027). I'd really value advice from working engineers, hiring managers, and anyone who has been through this process, because I want to make sure I'm spending the next year on the right t
+
+--- Tags ---
+  - Career (career) []
+  - internship advice (internship-advice) []
+  - #advice (advice-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: enkAbpTh
+Title: Okta SSE round!
+Slug: okta-sse-round-by-anonymous_user-ff69
+Article Type: DISCUSSION
+Posted: 2026-09-23 21:10:15 IST
+Updated: 2026-09-23 21:11:32 IST
+URL: https://leetcode.com/discuss/post/8536527/okta-sse-round-by-anonymous_user-ff69/
+Author: 
+
+--- Summary ---
+1st round (Coding / DSA)
+2nd Round (code review)
+3 Round (System design)
+4 Round (HM - Culture fit)Can someone recently went through this loop and can share what was asked in System Design round?#OKTA
+
+--- Tags ---
+  - Okta (okta) [COMPANY]
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: wmPkNg15
+Title: Groww SDE Intern Interview Experience
+Slug: groww-on-campus-interview-experience-by-irbv4
+Article Type: DISCUSSION
+Posted: 2026-09-23 20:49:46 IST
+Updated: 2026-09-24 12:22:21 IST
+URL: https://leetcode.com/discuss/post/8536485/groww-on-campus-interview-experience-by-irbv4/
+Author: Lavanya_426
+
+--- Summary ---
+Recently appeared for the Groww on-campus interviewRole: SDE (backend)
+College : VIT-AP
+The interview process had 3 rounds:
+Round 1 - DSA
+Round 2 - Projects + Core Subjects
+Round 3 - HR + System Design
+Here’s how each round went.Round 1 - DSADuration
+
+--- Tags ---
+  - Groww (groww) [COMPANY]
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: TiV6hoTo
+Title: Amazon SDE Intern Interview Experience | On-Campus | ₹1.3 Lakh/Month | 6M + PPO
+Slug: amazon-sde-intern-interview-experience-o-1c4x
+Article Type: DISCUSSION
+Posted: 2026-09-23 19:50:38 IST
+Updated: 2026-09-23 19:51:36 IST
+URL: https://leetcode.com/discuss/post/8536395/amazon-sde-intern-interview-experience-o-1c4x/
+Author: 
+
+--- Summary ---
+Stipend: ₹1.3 Lakh/monthOAThe Online Assessment consisted of:
+1 DSA question — Medium difficulty
+1 Code Repository-based question
+Behavioral questions
+Work Style Assessment
+Interview ProcessRound 1 — TechnicalThe round consisted of:2 DSA questions
+BF
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+  - SDE Intern (sde-intern-2) []
+  - amazon sde1 (amazon-sde1-2) []
+  - Software Engineering Intern (software-engineering-intern) []
+  - amazonintern (amazonintern-2) []
+  - #intern (intern-3) []
+  - amazon_intern (amazon-intern-2) []
+  - amazon_OA (amazon-oa-3) []
+
+--- Reactions ---
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: psaJjY7c
+Title: Do Good complanies even hire 2 yoe unknown startup person
+Slug: do-good-complanies-even-hire-2-yoe-unkno-2ruy
+Article Type: DISCUSSION
+Posted: 2026-09-23 18:23:17 IST
+Updated: 2026-09-23 18:23:17 IST
+URL: https://leetcode.com/discuss/post/8536273/do-good-complanies-even-hire-2-yoe-unkno-2ruy/
+Author: sachanritik1
+
+--- Summary ---
+Hi Guys,I have been struggling to get interviews becasuse -
+I work in unknown startup (lala comapany)
+I am fron tier 3 college
+I have 2+ yoe in fullstack - react, nodejs, postgres, typescriptPlease share your thoughts - should i even prepair for the
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Dr6Wq0he
+Title: MongoDB | expectations | 5 YOE | Application Engineer 
+Slug: mongodb-expectations-5-yoe-application-e-1dn8
+Article Type: DISCUSSION
+Posted: 2026-09-23 17:59:18 IST
+Updated: 2026-09-23 17:59:18 IST
+URL: https://leetcode.com/discuss/post/8536235/mongodb-expectations-5-yoe-application-e-1dn8/
+Author: 
+
+--- Summary ---
+Hi everyone,Anyone has interview experience with MongoDB for application engineer role.
+Please share FAQ LLD and HLD questions.
+Process details or any other tips/tricks.
+Thanks.
+
+--- Tags ---
+  - MongoDB (mongodb) [COMPANY]
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: GQtoykZi
+Title: Google Phone Screening 3YOE
+Slug: google-phone-screening-3yoe-by-anonymous-q16c
+Article Type: DISCUSSION
+Posted: 2026-09-23 17:51:53 IST
+Updated: 2026-09-23 17:51:53 IST
+URL: https://leetcode.com/discuss/post/8536227/google-phone-screening-3yoe-by-anonymous-q16c/
+Author: 
+
+--- Summary ---
+You are currently at (0,0) and the destination in (w-1,0) in a W*H grid with the following steps.
+(x+1,y)
+(x+1,y+1)
+(x+1,y-1)
+A. Count the number of ways to reach the destination.
+B. Count the number of ways to reach destination that passes through (
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: jlHtWKHD
+Title: Amazon Full Loop | SDE 2 | Reject
+Slug: amazon-full-loop-sde-2-reject-by-anonymo-19vv
+Article Type: DISCUSSION
+Posted: 2026-09-23 17:41:40 IST
+Updated: 2026-09-23 17:41:40 IST
+URL: https://leetcode.com/discuss/post/8536211/amazon-full-loop-sde-2-reject-by-anonymo-19vv/
+Author: 
+
+--- Summary ---
+I went through amazon full loop.Rounds:Round 1: DSA(Easy-Medium)
+Graph traversal based question. Was able to solve completely and reason through the extension.
+Round 2: DSA(Medium)
+LRU cache. Interviewer was probably busy in some other stuff. We did
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: XAxqzOoR
+Title: LeetCode 877 — Stone Game 
+Slug: leetcode-877-stone-game-by-krishna_12345-mmsn
+Article Type: DISCUSSION
+Posted: 2026-09-23 17:08:50 IST
+Updated: 2026-09-23 17:08:50 IST
+URL: https://leetcode.com/discuss/post/8536172/leetcode-877-stone-game-by-krishna_12345-mmsn/
+Author: Krishna_1234567
+
+--- Summary ---
+The key idea is that Alex always wins when the number of piles is even and the total number of stones is odd.Simple Python solution
+class Solution:
+def stoneGame(self, piles):
+return True
+Why?LeetCode 877 guarantees:-len(piles) is even
+-Total number
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nw1TXjOC
+Title: Amazon Hackon (SDE-Intern 10490515)
+Slug: amazon-hackon-sde-intern-10490515-by-nik-gq8o
+Article Type: DISCUSSION
+Posted: 2026-09-23 17:07:04 IST
+Updated: 2026-09-23 22:25:29 IST
+URL: https://leetcode.com/discuss/post/8536167/amazon-hackon-sde-intern-10490515-by-nik-gq8o/
+Author: nikhil404
+
+--- Summary ---
+Hello Everyone,I would like to share my experience of the interview process.So, we didn't qualify the hackon round, but I passed all the test cases.29 july:- received the interest form
+3 Aug:- recieved the Oa link
+4 Aug:- Completed the Oa, in 1st q a
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Career (career) []
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: jizSShfO
+Title: Staff Backend Engineer | Agoda | Bangkok | Rejected
+Slug: staff-backend-engineer-agoda-bangkok-rej-z3k7
+Article Type: DISCUSSION
+Posted: 2026-09-23 16:09:19 IST
+Updated: 2026-09-23 16:09:19 IST
+URL: https://leetcode.com/discuss/post/8536080/staff-backend-engineer-agoda-bangkok-rej-z3k7/
+Author: 
+
+--- Summary ---
+I went through an interview for Staff Engineer role at Agoda-Thailand. Interviewer was from Bangkok. I got the same question as : https://leetcode.com/discuss/post/2011096/faang-oa-work-scheduler-by-anonymous_use-187r/
+Unfortunately, I was not able t
+
+--- Tags ---
+  - Agoda (agoda) [COMPANY]
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 75lyRYlT
+Title: Coupa Pune | Senior Software Engineer | Interview Experience
+Slug: coupa-pune-senior-software-engineer-inte-u3zl
+Article Type: DISCUSSION
+Posted: 2026-09-23 15:28:19 IST
+Updated: 2026-09-23 15:38:23 IST
+URL: https://leetcode.com/discuss/post/8536004/coupa-pune-senior-software-engineer-inte-u3zl/
+Author: edusanketdk
+
+--- Summary ---
+I recently joined Coupa as a Senior Software Engineer for a Java + Python role. Despite having 3 years of experience applying for a position that required 5+ years, I managed to clear the process.💡 Key Takeaways & Screen Filtering Advice
+Volume & Spe
+
+--- Tags ---
+  - Coupa (coupa) [COMPANY]
+  - Career (career) []
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: QC6d4ihB
+Title: OneTrust | Senior Software Engineer (frontend) | 5 years | Bangalore | India
+Slug: onetrust-senior-software-engineer-fronte-pg08
+Article Type: DISCUSSION
+Posted: 2026-09-23 14:36:55 IST
+Updated: 2026-09-23 14:36:55 IST
+URL: https://leetcode.com/discuss/post/8535924/onetrust-senior-software-engineer-fronte-pg08/
+Author: shilvant
+
+--- Summary ---
+OneTrust | Senior Software Engineer (Frontend) | Round 2Experience - 5 years
+Topics: Coding standards, Javascript, Angular
+Interviewer - Senior staff engineerJavascript -
+Event loop
+Promise vs observables with coding
+debounce in javascript
+closure co
+
+--- Tags ---
+  - OneTrust (onetrust) [COMPANY]
+  - Career (career) []
+  - Frontend (frontend) []
+  - Bengaluru (bengaluru) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: P5tv2FyZ
+Title: looking for people to connect with who are genuinly  preparing for switch 
+Slug: looking-for-people-to-connect-with-who-a-9jn1
+Article Type: DISCUSSION
+Posted: 2026-09-23 12:45:18 IST
+Updated: 2026-09-23 12:46:26 IST
+URL: https://leetcode.com/discuss/post/8535788/looking-for-people-to-connect-with-who-a-9jn1/
+Author: asthachaurasia272006
+
+--- Summary ---
+i have a few months of experience and currently restarting my prepration for a job switch right now I am working on DSA system design and interview prep i want to build a small study community where we can discuss complex topics support each other to
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 4
+
