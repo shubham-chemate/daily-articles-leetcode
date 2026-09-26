@@ -1,0 +1,767 @@
+LeetCode Discuss - Latest 32 Articles
+Fetched on: 2026-09-26 13:27:45 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pcl45p8C
+Title: Trees All Patterns - With Solutions
+Slug: trees-all-patterns-with-solutions-by-che-74u8
+Article Type: DISCUSSION
+Posted: 2026-09-26 11:00:48 IST
+Updated: 2026-09-26 11:02:37 IST
+URL: https://leetcode.com/discuss/post/8540570/trees-all-patterns-with-solutions-by-che-74u8/
+Author: chennakt9
+
+--- Summary ---
+If you're preparing for FAANG-level interviews and want to master Trees end-to-end, this list is for you.For every new pattern, look at the solution for the first 1–2 questions. Once you understand the intuition and pattern, try solving the remaining
+
+--- Tags ---
+  - Tree (tree) [TOPIC]
+  - Binary Tree (binary-tree) [TOPIC]
+  - Career (career) []
+  - DP on Trees (dp-on-trees) []
+  - Interview (interview) []
+  - DSA Patterns (dsa-patterns) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: B5pciKvb
+Title: Amazon PV Commerce - Member Lifecycle Org, work culture? 
+Slug: amazon-pv-commerce-member-lifecycle-org-6jjg6
+Article Type: DISCUSSION
+Posted: 2026-09-26 10:01:31 IST
+Updated: 2026-09-26 10:01:31 IST
+URL: https://leetcode.com/discuss/post/8540496/amazon-pv-commerce-member-lifecycle-org-6jjg6/
+Author: 
+
+--- Summary ---
+This team provides Prime Video subscribers seamless control of their membership through clear and purposeful communication to maximize membership value.How is the work culture of this team? Anyone recently joined and interviewed for this org before?
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: UTP94Qra
+Title: How should I think about Brace Epansion II  before coding?
+Slug: how-should-i-think-about-brace-epansion-37umh
+Article Type: DISCUSSION
+Posted: 2026-09-26 09:18:49 IST
+Updated: 2026-09-26 09:18:49 IST
+URL: https://leetcode.com/discuss/post/8540441/how-should-i-think-about-brace-epansion-37umh/
+Author: SINKU_SINGH
+
+--- Summary ---
+I'm trying to solve Brace Expansion II, and I'm currently trying to understand the right way to think about the problem before jumping into the code.My current understanding is:
+
+{a,b} means OR / union
+
+
+{a,b}{c,d} means combine each possibility, lik
+
+--- Tags ---
+  - Recursion (recursion) [TOPIC]
+  - Algorithm (algorithm) []
+  - DSA Java (dsa-java) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: UkWRLoaX
+Title: To everyone still grinding in silence: Keep going. (Amazon SDE-1 Offer)
+Slug: to-everyone-still-grinding-in-silence-ke-vgza
+Article Type: DISCUSSION
+Posted: 2026-09-26 08:24:06 IST
+Updated: 2026-09-26 08:24:06 IST
+URL: https://leetcode.com/discuss/post/8540407/to-everyone-still-grinding-in-silence-ke-vgza/
+Author: 
+
+--- Summary ---
+“You solve one problem, and you solve the next one, and then the next.”For three years, zero interview calls, I kept learning, solving, applying, and trying.A lot of applications.
+A lot of silence.
+A lot of “No” without even getting an interview.Stil
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Career (career) []
+  - SDE 1 (sde-1-2) []
+  - offer (offer-2) []
+
+--- Reactions ---
+  UPVOTE: 9
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Y8KZCePk
+Title: Rapido — Lead Professional  | Interview Experience
+Slug: rapido-lead-professional-interview-exper-3akm
+Article Type: DISCUSSION
+Posted: 2026-09-26 08:07:39 IST
+Updated: 2026-09-26 08:08:22 IST
+URL: https://leetcode.com/discuss/post/8540395/rapido-lead-professional-interview-exper-3akm/
+Author: 
+
+--- Summary ---
+Rapido — Lead Professional I | Interview ExperienceCompany: Rapido
+Role: Lead Professional I
+Experience: 8+ Year
+Location: Bangalore
+Interview Type: All Virtual rounde one CTO(HM) round onsite
+Overall Process: Very Aligned (approx 1 month)Round 1 — [
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: QPIYEC6U
+Title: Cohere interview - Software Engineer
+Slug: cohere-interview-software-engineer-by-io-99fn
+Article Type: DISCUSSION
+Posted: 2026-09-26 06:26:25 IST
+Updated: 2026-09-26 06:26:25 IST
+URL: https://leetcode.com/discuss/post/8540322/cohere-interview-software-engineer-by-io-99fn/
+Author: ioanaT
+
+--- Summary ---
+Hi all, I'm interviewing with Cohere for a Software Engineer role. Has anyone been through the process recently? I'm curious how many rounds there are, what the coding and system design rounds look like, and how deep they go on LLMs. Is the coding ro
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vdHpCgmD
+Title: Using a Mac Mini M4 as an Always-On Home Server — What Would You Build?
+Slug: using-a-mac-mini-m4-as-an-always-on-home-pcmq
+Article Type: DISCUSSION
+Posted: 2026-09-26 01:26:52 IST
+Updated: 2026-09-26 01:26:52 IST
+URL: https://leetcode.com/discuss/post/8540210/using-a-mac-mini-m4-as-an-always-on-home-pcmq/
+Author: its_kundan
+
+--- Summary ---
+Hey everyone! 👋I recently started using my Mac Mini M4 as an always-on home server.Currently, I’m running my Discord bot on it, but I’m planning to turn it into a small personal development/home-lab server.🚀 Things I’m planning to run
+🤖 Ollama / Loca
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: AVUcd4z1
+Title: Capgemini Interview Rounds
+Slug: capgemini-interview-rounds-by-pratik667-0ktp
+Article Type: DISCUSSION
+Posted: 2026-09-26 01:03:09 IST
+Updated: 2026-09-26 01:03:09 IST
+URL: https://leetcode.com/discuss/post/8540191/capgemini-interview-rounds-by-pratik667-0ktp/
+Author: pratik667
+
+--- Summary ---
+𝗖𝗼𝗺𝗽𝗮𝗻𝘆: Capgemini
+𝗥𝗼𝗹𝗲: MERN Stack Developer
+𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲: 2–4 Years
+𝗦𝘁𝗮𝗰𝗸: React.js + Node.js + Express.js + MongoDB
+𝗛𝗶𝗿𝗶𝗻𝗴: LinkedIn Job Posting𝗥𝗼𝘂𝗻𝗱 𝟭 – 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁 & React.js• Explain hoisting in JavaScript with let, const and var
+• What is the dif
+
+--- Tags ---
+  - Capgemini (capgemini) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2HGnjlN3
+Title: Not Getting Interview Calls : Is It Just Me?
+Slug: not-getting-interview-calls-is-it-just-m-c9vf
+Article Type: DISCUSSION
+Posted: 2026-09-26 00:24:58 IST
+Updated: 2026-09-26 00:24:58 IST
+URL: https://leetcode.com/discuss/post/8540157/not-getting-interview-calls-is-it-just-m-c9vf/
+Author: 
+
+--- Summary ---
+Is anyone else struggling to get interview calls despite applying multiple times?I’ve applied to the same roles more than once, tried applying through referrals, tailored my resume, and still barely get responses.At this point, I’m genuinely wonderin
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pBMj61Tm
+Title: Agoda Staff Backend Interview Experience | 1-Day Fast Track
+Slug: agoda-staff-backend-interview-experience-g36h
+Article Type: DISCUSSION
+Posted: 2026-09-26 00:20:12 IST
+Updated: 2026-09-26 00:20:12 IST
+URL: https://leetcode.com/discuss/post/8540150/agoda-staff-backend-interview-experience-g36h/
+Author: 
+
+--- Summary ---
+Recently interviewed for Staff Software Engineer - Backend at Agoda through their 1-Day Fast Track process. Sharing the experience anonymously since I found the Platform round quite different from a normal system-design interview.Round 1: Coding & Al
+
+--- Tags ---
+  - Agoda (agoda) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: o3OPiQGZ
+Title: Final-year student from a Tier-3 college — looking for guidance 
+Slug: final-year-student-from-a-tier-3-college-fn2q
+Article Type: DISCUSSION
+Posted: 2026-09-25 23:34:25 IST
+Updated: 2026-09-25 23:34:25 IST
+URL: https://leetcode.com/discuss/post/8540085/final-year-student-from-a-tier-3-college-fn2q/
+Author: chiragbudhbaware
+
+--- Summary ---
+Hi everyone,I’m a final-year IT student from a Tier-3 college in India, and honestly, I feel a bit lost about my career preparation.I haven’t mastered DSA or development yet, and I’m not confident in any particular tech stack. I’ve explored different
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: TyrVL9bo
+Title: SAP FDE Role Offer
+Slug: sap-fde-role-offer-by-anonymous_user-348o
+Article Type: DISCUSSION
+Posted: 2026-09-25 23:33:51 IST
+Updated: 2026-09-25 23:34:31 IST
+URL: https://leetcode.com/discuss/post/8540084/sap-fde-role-offer-by-anonymous_user-348o/
+Author: 
+
+--- Summary ---
+Expecting an offer from SAP Labs for FDE ML Expert position. Currently working at Microsoft.Current TC: 1.3 Cr
+SAP offered Level: T4 (Highest level in T4 band)I want to understand about-
+SAP Culture (Benefits, Policies, WFH options, layoffs)
+Any Info
+
+--- Tags ---
+  - Microsoft (microsoft) [COMPANY]
+  - SAP (sap) [COMPANY]
+  - Career (career) []
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nMn6WLK1
+Title: Nugget by Zomato SDE-1 Interview Experience (August 2025)
+Slug: nugget-by-zomato-sde-1-interview-experie-bm4t
+Article Type: DISCUSSION
+Posted: 2026-09-25 23:28:49 IST
+Updated: 2026-09-25 23:28:49 IST
+URL: https://leetcode.com/discuss/post/8540075/nugget-by-zomato-sde-1-interview-experie-bm4t/
+Author: 
+
+--- Summary ---
+BackgroundExperience: 1 year 3 monthsCoding Practice: 800+ problems solved on LeetCode, Limited CPEducation: B.Tech in Non Circuital Branch, IITHow it StartedOn a random Sunday, I received a call from Nugget's HR. I had cold-emailed her earlier regar
+
+--- Tags ---
+  - Zomato (zomato) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: OARTEWfM
+Title: JPMorganChase OA
+Slug: jpmorganchase-oa-by-anonymous_user-0mow
+Article Type: DISCUSSION
+Posted: 2026-09-25 23:28:39 IST
+Updated: 2026-09-25 23:28:39 IST
+URL: https://leetcode.com/discuss/post/8540074/jpmorganchase-oa-by-anonymous_user-0mow/
+Author: 
+
+--- Summary ---
+Maximize Minimum Deployment DifficultyYou are given an integer array difficulty of length n, where difficulty[i] represents the difficulty of the i-th software module.You need to distribute all modules among three different servers.The distribution m
+
+--- Tags ---
+  - JPMorgan Chase (jpmorgan) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 9y2B60Gs
+Title: Seeking Urgent SDE2 Opportunity
+Slug: seeking-urgent-sde2-opportunity-by-anony-zirx
+Article Type: DISCUSSION
+Posted: 2026-09-25 22:52:09 IST
+Updated: 2026-09-25 22:52:09 IST
+URL: https://leetcode.com/discuss/post/8540014/seeking-urgent-sde2-opportunity-by-anony-zirx/
+Author: 
+
+--- Summary ---
+Looking for SDE2 / Software Engineer II Referrals | IndiaHi everyone,I'm currently exploring SDE2 / Software Engineer II opportunities in India, preferably Pune, Hyderabad, or remote.Profile:
+3+ years of experience
+SDE at Amazon
+Backend, distributed
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: NKAOzcKP
+Title: Mastercard AI Engineer Interview Experience (SWE-1)
+Slug: mastercard-ai-engineer-interview-experie-u5ak
+Article Type: DISCUSSION
+Posted: 2026-09-25 22:35:19 IST
+Updated: 2026-09-26 12:41:35 IST
+URL: https://leetcode.com/discuss/post/8539984/mastercard-ai-engineer-interview-experie-u5ak/
+Author: 
+
+--- Summary ---
+Current Ex:- 1Y 5M
+Current company- Product Based
+CTC offered 16L Base,2L Bonus
+Location PuneRecently interviewed for an AI Engineer role at Mastercard. Sharing my complete interview experience since it might be useful for anyone preparing for simila
+
+--- Tags ---
+  - Mastercard (mastercard) [COMPANY]
+  - Career (career) []
+  - Compensation (compensation) []
+  - Interview (interview) []
+  - Agentic AI (agentic-ai) []
+  - Model Context Protocol (MCP) (model-context-protocol-mcp) []
+  - GenAI (genai) []
+  - RAG (rag) []
+
+--- Reactions ---
+  UPVOTE: 9
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vWcsverN
+Title: Associate Platform Engineer role at Securonix
+Slug: associate-platform-engineer-role-at-secu-ywir
+Article Type: DISCUSSION
+Posted: 2026-09-25 21:05:01 IST
+Updated: 2026-09-25 21:05:01 IST
+URL: https://leetcode.com/discuss/post/8539854/associate-platform-engineer-role-at-secu-ywir/
+Author: 
+
+--- Summary ---
+Has anyone recently interviewed at Securonix for the Associate Platform Engineer role?If you’ve interviewed for this role recently, could you please share your experience? It would be really helpful. Thanks!
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: L5ygZsnS
+Title: Seeking for opportunity 
+Slug: seeking-for-opportunity-by-aditya_prarap-u5vt
+Article Type: DISCUSSION
+Posted: 2026-09-25 20:19:36 IST
+Updated: 2026-09-25 20:19:36 IST
+URL: https://leetcode.com/discuss/post/8539774/seeking-for-opportunity-by-aditya_prarap-u5vt/
+Author: Aditya_Prarap_Singh
+
+--- Summary ---
+Hi everyone!I am  Aditya Pratap Singh, a B.Tech CSE student currently looking for an SDE internship opportunity.I am passionate about problem-solving and have solved 700+ LeetCode problems, while continuously improving my DSA and coding skills. I als
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: PGF0pB9v
+Title: LLM Interview Questions I have Been Preparing Recently
+Slug: llm-interview-questions-i-have-been-prep-qv0z
+Article Type: DISCUSSION
+Posted: 2026-09-25 19:18:12 IST
+Updated: 2026-09-25 19:18:12 IST
+URL: https://leetcode.com/discuss/post/8539717/llm-interview-questions-i-have-been-prep-qv0z/
+Author: 
+
+--- Summary ---
+I’ve been preparing for LLM/GenAI interviews, and one thing I noticed is that the questions are moving beyond basic “What is a transformer?” type questions.A few areas that seem especially important:LLM Fundamentals
+Why do transformers use self-atten
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Databricks (databricks) [COMPANY]
+  - Career (career) []
+  - Machine Learning Engineer (machine-learning-engineer) []
+  - Interview (interview) []
+  - Anthropic (anthropic) [COMPANY]
+  - Agentic AI (agentic-ai) []
+  - AI/ML interview (ai-ml-interview) []
+
+--- Reactions ---
+  UPVOTE: 7
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nqLGQ5z9
+Title: Needs someone to revise DSA with
+Slug: needs-someone-to-revise-dsa-with-by-ss00-ih9b
+Article Type: DISCUSSION
+Posted: 2026-09-25 19:01:52 IST
+Updated: 2026-09-25 19:01:52 IST
+URL: https://leetcode.com/discuss/post/8539685/needs-someone-to-revise-dsa-with-by-ss00-ih9b/
+Author: ss0014nn
+
+--- Summary ---
+Hi
+I am a working professional, graduated in 2024, preparing for job switch. Although I have done DSA earlier but right now I am bit out of practice.I am looking for a study partner who is also revising DSA thoroughly and is willing to discuss on dai
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 9K1XRESs
+Title: 2nd Year CS(AI/ML) targeting FAANG and Top Product based companies. Roast me and my prep plan.
+Slug: 2nd-year-csaiml-targeting-faang-and-top-5eii1
+Article Type: DISCUSSION
+Posted: 2026-09-25 18:18:51 IST
+Updated: 2026-09-25 18:19:39 IST
+URL: https://leetcode.com/discuss/post/8539619/2nd-year-csaiml-targeting-faang-and-top-5eii1/
+Author: tanish1917
+
+--- Summary ---
+Hey everyone,I'm a 2nd year BTech CS (AI/ML) student from Tier 3 college in India with a clear goal — Top Product Based Companies by final year. Not dreaming, actively building toward it. Would love brutal, honest feedback from people who've been thr
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: P82JG0jH
+Title: 2nd Year CS student targeting FAANG. What should I learn next? Here's everything I've covered so far
+Slug: 2nd-year-cs-student-targeting-faang-what-mp26
+Article Type: DISCUSSION
+Posted: 2026-09-25 18:13:06 IST
+Updated: 2026-09-25 18:13:06 IST
+URL: https://leetcode.com/discuss/post/8539611/2nd-year-cs-student-targeting-faang-what-mp26/
+Author: tanish1917
+
+--- Summary ---
+Hey everyone,I'm a 2nd year BTech CS (AI/ML) student, Google L3 is my target by final year. Before asking what's next, here's exactly where I stand so you don't have to guess.
+I have completed 300+ questions in leetcode with contest rating of 1489.DS
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: GLFJevrs
+Title: Groww SDE-2 Interview Experience | 1.5 YOE | September 2026
+Slug: groww-sde-2-interview-experience-15-yoe-g5r4h
+Article Type: DISCUSSION
+Posted: 2026-09-25 17:30:33 IST
+Updated: 2026-09-25 17:32:08 IST
+URL: https://leetcode.com/discuss/post/8539548/groww-sde-2-interview-experience-15-yoe-g5r4h/
+Author: priyanshu_triv
+
+--- Summary ---
+Background: 1.5 YOE, 2024 batch
+Role: SDE-2Sharing my Groww SDE-2 interview experience.Round 1 — Machine CodingDuration: 1 hourThe interviewer joined around 10 minutes late.ProblemMy Solution
+Click to expand C++ solution
+#include<bits/stdc++.h>
+using
+
+--- Tags ---
+  - Groww (groww) [COMPANY]
+  - System Design (system-design) []
+  - Low Level Design (low-level-design) []
+  - High Level Design (high-level-design) []
+  - Interview (interview) []
+  - SDE2 (sde2-2) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DGMYKDhh
+Title: EightFold Ai senior Engineer
+Slug: eightfold-ai-senior-engineer-by-vj_t-3fou
+Article Type: DISCUSSION
+Posted: 2026-09-25 16:44:35 IST
+Updated: 2026-09-25 16:44:35 IST
+URL: https://leetcode.com/discuss/post/8539503/eightfold-ai-senior-engineer-by-vj_t-3fou/
+Author: vj_t
+
+--- Summary ---
+Eightfold AI — Senior Engineer Interview ExperienceRound 1: LLD — 90 minutes
+Implemented a Meeting Room Booking System with support for recurring bookings.
+Result: Strong HireRound 2: System Design + AI Coding
+The problem involved collecting a stream
+
+--- Tags ---
+  - Eightfold (eightfoldai) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WY7q8hBF
+Title: Disney  Product Software Engineer II - upcoming LLD round.
+Slug: disney-product-software-engineer-ii-upco-g26h
+Article Type: DISCUSSION
+Posted: 2026-09-25 16:42:50 IST
+Updated: 2026-09-25 16:42:50 IST
+URL: https://leetcode.com/discuss/post/8539502/disney-product-software-engineer-ii-upco-g26h/
+Author: 
+
+--- Summary ---
+Hi, has anyone given LLD round for Disney recently for Disney Ads team? Any idea what they ask in LLD rounds? Standard questions like parking lot type or specific to disney products?
+
+--- Tags ---
+  - Disney (disney) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: CUg4Mwjy
+Title: Everpure Mts-3 Interview Experience
+Slug: everpure-mts-3-interview-experience-by-v-l84o
+Article Type: DISCUSSION
+Posted: 2026-09-25 16:36:13 IST
+Updated: 2026-09-25 16:46:01 IST
+URL: https://leetcode.com/discuss/post/8539495/everpure-mts-3-interview-experience-by-v-l84o/
+Author: vj_t
+
+--- Summary ---
+I reached out to the recruiter regarding an opportunity, and here’s my interview experience:Round 1: Multithreading — Event Dispatcher
+Result: Strong Hire / HireRound 2: DSA — Data Structure Implementation
+Result: Strong HireAfter Round 2, the next t
+
+--- Tags ---
+  - Pure Storage (pure-storage) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+  - Everpure (everpure) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: h6v06Okn
+Title: Gitlab India interview for SSE role
+Slug: gitlab-india-interview-for-sse-role-by-a-445l
+Article Type: DISCUSSION
+Posted: 2026-09-25 16:25:07 IST
+Updated: 2026-09-25 16:25:07 IST
+URL: https://leetcode.com/discuss/post/8539489/gitlab-india-interview-for-sse-role-by-a-445l/
+Author: 
+
+--- Summary ---
+I have an upcoming interview with GitLab India.From what I understand, the initial round involves a HackerRank assessment with AI integration, and the coding needs to be done in Java.The AI-assisted interview/assessment format is new to me, so I’d re
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: MInpzHIX
+Title: Hackerrank 90 mins AI interview (Chakra AI interviewer)
+Slug: hackerrank-90-mins-ai-interview-chakra-a-fuc7
+Article Type: DISCUSSION
+Posted: 2026-09-25 16:22:20 IST
+Updated: 2026-09-25 16:22:35 IST
+URL: https://leetcode.com/discuss/post/8539486/hackerrank-90-mins-ai-interview-chakra-a-fuc7/
+Author: 
+
+--- Summary ---
+I have an upcoming 90-minute AI-driven interview with HackerRank for a Senior Software Engineer role.From what I understand, the interview is conducted entirely on the HackerRank platform, and it seems the interviewer itself may be AI-driven. This fo
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 81cv1moG
+Title: IndusInd Bank Management Associate – Interview Experience
+Slug: indusind-bank-management-associate-inter-s6ig
+Article Type: DISCUSSION
+Posted: 2026-09-25 16:10:50 IST
+Updated: 2026-09-25 16:10:50 IST
+URL: https://leetcode.com/discuss/post/8539468/indusind-bank-management-associate-inter-s6ig/
+Author: 
+
+--- Summary ---
+-Hi everyone,I have an upcoming interview for the IndusInd Bank – Management Associate (Analyst) role.If anyone has recently appeared for the IndusInd Bank interview/assessment, could you please share your experience?I would especially like to know:
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Df6v5CAI
+Title: 1116. Print Zero Even Odd | Go Solution Using Channels
+Slug: 1116-print-zero-even-odd-go-solution-usi-dwb6
+Article Type: DISCUSSION
+Posted: 2026-09-25 15:55:46 IST
+Updated: 2026-09-25 15:55:46 IST
+URL: https://leetcode.com/discuss/post/8539440/1116-print-zero-even-odd-go-solution-usi-dwb6/
+Author: Ishan_Shende
+
+--- Summary ---
+1116. Print Zero Even Odd — Go SolutionApproachWe need to coordinate three goroutines:
+zero() prints 0
+odd() prints odd numbers
+even() prints even numbers
+The required output is:0102030405...We can use three channels to control which goroutine is all
+
+--- Tags ---
+  - Solutions (solutions-3) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 9AYN6DeX
+Title: Siemens Healthineers Technical Intern Interview Experience 
+Slug: siemens-healthineers-technical-intern-in-n19l
+Article Type: DISCUSSION
+Posted: 2026-09-25 15:15:24 IST
+Updated: 2026-09-25 15:15:24 IST
+URL: https://leetcode.com/discuss/post/8539366/siemens-healthineers-technical-intern-in-n19l/
+Author: Suparn_nayak
+
+--- Summary ---
+I recently interviewed for a Technical Intern position at Siemens Healthineers and wanted to share my interview experience for candidates preparing for similar roles.«Disclaimer: This is based on my personal experience. The interview process, questio
+
+--- Tags ---
+  - Siemens (siemens) [COMPANY]
+  - Interview (interview) []
+  - #internship (internship-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Jr7C6zr6
+Title: Qualcomm Job Offer
+Slug: qualcomm-job-offer-by-anonymous_user-0ni2
+Article Type: DISCUSSION
+Posted: 2026-09-25 14:33:46 IST
+Updated: 2026-09-25 14:33:46 IST
+URL: https://leetcode.com/discuss/post/8539313/qualcomm-job-offer-by-anonymous_user-0ni2/
+Author: 
+
+--- Summary ---
+Current : 1 YOE
+Company : SRIB
+College : Tier 1 BTech.Being Offered as Engineer Role at Qualcomm India
+Compensation : Similar to MtechShould I take or try for more?
+
+--- Tags ---
+  - Qualcomm (qualcomm) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 1
+
