@@ -1,0 +1,1157 @@
+LeetCode Discuss - Latest 51 Articles
+Fetched on: 2026-09-30 14:25:29 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: IsNKJmAq
+Title: Manacher questions
+Slug: manacher-questions-by-o_1_brain-rxsu
+Article Type: DISCUSSION
+Posted: 2026-09-30 14:01:40 IST
+Updated: 2026-09-30 14:01:40 IST
+URL: https://leetcode.com/discuss/post/8548260/manacher-questions-by-o_1_brain-rxsu/
+Author: O_1_Brain
+
+--- Summary ---
+Just finished the Manacher Study Plan on LeetCode. 3/3 solved including two Hards 😎Honestly I don't get the hype. People act like O(n) Manacher's Algorithm is rocket science but you can literally just brute-force expand around the center and pray. Or
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: JYb16LBp
+Title: Checkout my Portfolio which is a Pokedex(I was the first one to make the topic portfolio lol)
+Slug: checkout-my-portfolio-which-is-a-pokedex-jnz5
+Article Type: DISCUSSION
+Posted: 2026-09-30 13:48:23 IST
+Updated: 2026-09-30 13:48:23 IST
+URL: https://leetcode.com/discuss/post/8548238/checkout-my-portfolio-which-is-a-pokedex-jnz5/
+Author: smresponsibilities
+
+--- Summary ---
+Just a small post so made a pokedex portfolio, add yourself in it thorough the add pokemon button.https://shivammahajan.com/Looking for offers right nowFull credit to Nitendo, Game freaks and Pokemon company. Assets belong to them not me.
+
+--- Tags ---
+  - Career (career) []
+  - Portfolio (portfolio-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Sk9NN65c
+Title: DOES DYNAMIC PROGRAMMING COMES UNDER PYTHON
+Slug: does-dynamic-programming-comes-under-pyt-cknc
+Article Type: DISCUSSION
+Posted: 2026-09-30 13:05:23 IST
+Updated: 2026-09-30 13:05:23 IST
+URL: https://leetcode.com/discuss/post/8548181/does-dynamic-programming-comes-under-pyt-cknc/
+Author: niraj2879
+
+--- Summary ---
+??
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: B81rthvF
+Title: Amazon SDE I – Guidance for Upcoming Interview
+Slug: amazon-sde-i-guidance-for-upcoming-inter-p84n
+Article Type: DISCUSSION
+Posted: 2026-09-30 12:56:41 IST
+Updated: 2026-09-30 13:01:10 IST
+URL: https://leetcode.com/discuss/post/8548167/amazon-sde-i-guidance-for-upcoming-inter-p84n/
+Author: 
+
+--- Summary ---
+Hi everyone,I recently cleared the Amazon SDE I Online Assessment (OA) and am preparing for the upcoming interview. I’m particularly looking for guidance from 2025/2026 graduates or candidates who have recently interviewed for SDE I at Amazon.I’m a 2
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+  - interview-prep (interview-prep-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: QrA2OLdO
+Title: Securonix. Staff Software Engineer Java/backend engineering
+Slug: securonix-staff-software-engineer-javaba-q6wk
+Article Type: DISCUSSION
+Posted: 2026-09-30 12:24:20 IST
+Updated: 2026-09-30 12:24:20 IST
+URL: https://leetcode.com/discuss/post/8548110/securonix-staff-software-engineer-javaba-q6wk/
+Author: BrianWillTrickYou
+
+--- Summary ---
+Round-1
+Code: Meeting SchedularRound-2
+System Design: Rate limiter
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 9CUiMTSt
+Title: Crowdstrike. Senior Software Backend Engineer(Auth)
+Slug: crowdstrike-senior-software-backend-engi-hobl
+Article Type: DISCUSSION
+Posted: 2026-09-30 12:22:38 IST
+Updated: 2026-09-30 12:22:38 IST
+URL: https://leetcode.com/discuss/post/8548109/crowdstrike-senior-software-backend-engi-hobl/
+Author: BrianWillTrickYou
+
+--- Tags ---
+  - CrowdStrike (crowdstrike) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4kTIqiAm
+Title: Senior Software Rust Amo France Interview Experience
+Slug: senior-software-rust-amo-france-intervie-tu8r
+Article Type: DISCUSSION
+Posted: 2026-09-30 12:17:56 IST
+Updated: 2026-09-30 12:17:56 IST
+URL: https://leetcode.com/discuss/post/8548103/senior-software-rust-amo-france-intervie-tu8r/
+Author: BrianWillTrickYou
+
+--- Summary ---
+Round-1 CodingWrite a custom iterator which parses a delimiter and creates strings using the same in c++Round-2 MultithreadingDesign a concurrent queue, where multiple producers, multiple consumers can read/write from itRound-3 System DesignDesign a
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: VKXNMq9l
+Title: Database Replication, Partitioning & Sharding — Explained in 25 Minutes 
+Slug: database-replication-partitioning-shardi-09fh
+Article Type: DISCUSSION
+Posted: 2026-09-30 12:14:28 IST
+Updated: 2026-09-30 12:14:28 IST
+URL: https://leetcode.com/discuss/post/8548097/database-replication-partitioning-shardi-09fh/
+Author: T9gfHvWbjM
+
+--- Summary ---
+In this video, we'll take a database from a simple single-server setup and progressively scale it using three fundamental database concepts:🔵 Replication — How multiple copies of a database help with read scaling and availability.🟢 Partitioning — Ho
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: CLLbBic3
+Title: Walt disney sde 2 , L1 interview help 
+Slug: walt-disney-sde-2-l1-interview-help-by-a-vo7t
+Article Type: DISCUSSION
+Posted: 2026-09-30 11:57:42 IST
+Updated: 2026-09-30 11:57:42 IST
+URL: https://leetcode.com/discuss/post/8548062/walt-disney-sde-2-l1-interview-help-by-a-vo7t/
+Author: 
+
+--- Summary ---
+Can someone please share interview experience for P3 level . I was told first round is HM round . can anyone share what was asked and is it all HLD? were there LLD rounds ?#Disney
+
+--- Tags ---
+  - Disney (disney) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WyQBP9Lu
+Title: Bug Maze: What's Your Coding Loadout?
+Slug: bug-maze-whats-your-coding-loadout-by-le-7bbv
+Article Type: DISCUSSION
+Posted: 2026-09-30 11:55:59 IST
+Updated: 2026-09-30 11:55:59 IST
+URL: https://leetcode.com/discuss/post/8548059/bug-maze-whats-your-coding-loadout-by-le-7bbv/
+Author: LeetCode
+
+--- Summary ---
+You wake up in a server room called Bug Maze.The screens are flashing.
+⚠️ SYSTEM ERROR
+A message appears:
+Welcome to the Coding Escape Challenge.
+No IDE.
+No search engine.
+No Copilot.
+You have:
+🎒 7 inventory slots
+🧠 6 skill points
+There are tools and
+
+--- Tags ---
+  - LeetCode (leetcode) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: BMPeINwg
+Title:  leetcode usability
+Slug: leetcode-usability-by-kurykage-1zmi
+Article Type: DISCUSSION
+Posted: 2026-09-30 11:45:39 IST
+Updated: 2026-09-30 11:45:39 IST
+URL: https://leetcode.com/discuss/post/8548039/leetcode-usability-by-kurykage-1zmi/
+Author: Kurykage
+
+--- Summary ---
+Im still new to coding. Im learning java still in fundamentals, i was wondering how can i use leetCode to boost my learning.
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: OUjA0asE
+Title: Adobe interview
+Slug: adobe-interview-by-anonymous_user-hslc
+Article Type: DISCUSSION
+Posted: 2026-09-30 11:42:56 IST
+Updated: 2026-09-30 11:42:56 IST
+URL: https://leetcode.com/discuss/post/8548036/adobe-interview-by-anonymous_user-hslc/
+Author: 
+
+--- Summary ---
+Hi All:I have been in the interview loop with Adobe from past 2 months.
+My last interview was for Job ID: R171349Does anybody here got hired for this role?
+I am not getting any response from the HR.#Adobe #interview #Adobe #FAANG
+
+--- Tags ---
+  - Adobe (adobe) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pBrSKKup
+Title:  ✅ LeetCode 1021 | Remove Outermost Parentheses | Stack | O(n) | C++
+Slug: leetcode-1021-remove-outermost-parenthes-ue5t
+Article Type: DISCUSSION
+Posted: 2026-09-30 11:28:49 IST
+Updated: 2026-09-30 11:28:49 IST
+URL: https://leetcode.com/discuss/post/8548008/leetcode-1021-remove-outermost-parenthes-ue5t/
+Author: shivankartiwari042
+
+--- Summary ---
+🧩 ProblemGiven a valid parentheses string s, split it into primitive valid parentheses strings and remove the outermost pair of parentheses from every primitive.Return the resulting string.Example 1Example 2💡 ApproachI use a stack of indices to ident
+
+--- Tags ---
+  - String (string) [TOPIC]
+  - Stack (stack) [TOPIC]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Dgs7VVD2
+Title: Title: Clean and Optimized Solution with Explanation | Time & Space Complexity
+Slug: title-clean-and-optimized-solution-with-f2ask
+Article Type: DISCUSSION
+Posted: 2026-09-30 05:56:58 IST
+Updated: 2026-09-30 05:56:58 IST
+URL: https://leetcode.com/discuss/post/8547696/title-clean-and-optimized-solution-with-f2ask/
+Author: Neeraj_Baghel
+
+--- Summary ---
+💡 Intuition
+The core idea behind this problem is to efficiently track and process the elements. Instead of relying on a slow brute-force approach, we can optimize the workflow by leveraging an optimal pattern (like Sliding Window, Two Pointers, or Ha
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: HZ43Gk2q
+Title: I solved 300+ problems, but still froze during interviews
+Slug: i-solved-300-problems-but-still-froze-du-fq8o
+Article Type: DISCUSSION
+Posted: 2026-09-30 03:49:46 IST
+Updated: 2026-09-30 03:49:46 IST
+URL: https://leetcode.com/discuss/post/8547632/i-solved-300-problems-but-still-froze-du-fq8o/
+Author: SleepyTT
+
+--- Summary ---
+Be honest: how many of the problems in your “Solved” list could you solve right now, from a blank editor, with someone watching?When I asked myself that, the answer was uncomfortable.I had solved 300+ problems. On paper, I thought I was ready.But in
+
+--- Tags ---
+  - Career (career) []
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+  - interview-prep (interview-prep-2) []
+  - InterviewPreparation (interviewpreparation-2) []
+
+--- Reactions ---
+  UPVOTE: 11
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2SWGZQfQ
+Title: Adobe FY27 Internship
+Slug: adobe-fy27-internship-by-neetishan25-x4lt
+Article Type: DISCUSSION
+Posted: 2026-09-30 02:01:30 IST
+Updated: 2026-09-30 02:01:30 IST
+URL: https://leetcode.com/discuss/post/8547573/adobe-fy27-internship-by-neetishan25-x4lt/
+Author: neetishan25
+
+--- Summary ---
+Has anyone here completed an Adobe Software Engineer Intern technical interview or a similar HackerRank interview that included a bug-fix question and a code-review question?
+
+--- Tags ---
+  - Adobe (adobe) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: gumDGbky
+Title: eBay | MTS-1 | Bangalore
+Slug: ebay-mts-1-bangalore-by-anonymous_user-5dkh
+Article Type: DISCUSSION
+Posted: 2026-09-30 01:24:48 IST
+Updated: 2026-09-30 01:24:48 IST
+URL: https://leetcode.com/discuss/post/8547534/ebay-mts-1-bangalore-by-anonymous_user-5dkh/
+Author: 
+
+--- Summary ---
+Education: B.Tech Non-CSE, Old IIT
+Years of Experience: 5 years, 3 months
+Prior Experience: SDE2 at Microsoft
+Previous CTC: 45 LPA
+Competing Offer: 40.4 base + 10% variableeBay's offer
+Salary: Rs. 52,00,000
+Stock bonus: USD 58,000 (4 years)
+Performan
+
+--- Tags ---
+  - eBay (ebay) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: hrSiNss5
+Title: Staff Software Engineer | Qualcomm | Interview Experience | Offer
+Slug: staff-software-engineer-qualcomm-intervi-dk1w
+Article Type: DISCUSSION
+Posted: 2026-09-30 00:57:22 IST
+Updated: 2026-09-30 00:57:22 IST
+URL: https://leetcode.com/discuss/post/8547494/staff-software-engineer-qualcomm-intervi-dk1w/
+Author: 
+
+--- Summary ---
+Background
+YOE: 12 Years
+Experienced: Backend Development
+Current Organization: Top Tier Service Based, Prior associated with top Investment Banking Organization
+Current Role: Senior Software Engineer (last 6 years)
+Offered Role: Staff Software Engin
+
+--- Tags ---
+  - Qualcomm (qualcomm) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 9
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: jDcFo4qx
+Title: System Design Resources for SDE-2
+Slug: system-design-resources-for-sde-2-by-ano-ae6o
+Article Type: DISCUSSION
+Posted: 2026-09-29 23:57:05 IST
+Updated: 2026-09-29 23:57:05 IST
+URL: https://leetcode.com/discuss/post/8547399/system-design-resources-for-sde-2-by-ano-ae6o/
+Author: 
+
+--- Summary ---
+Hi guys,I am here to share a few wonderful system design resources I've been referring for my interviews.
+The List :
+https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction
+https://pradyumnachippigiri.substack.com/
+https://www.yout
+
+--- Tags ---
+  - System Design (system-design) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 8
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: EXxo4geh
+Title: 🚀 Preparing for Software Developer Internships & Jobs — Looking for Your Valuable Advice!
+Slug: preparing-for-software-developer-interns-xswn
+Article Type: DISCUSSION
+Posted: 2026-09-29 22:19:51 IST
+Updated: 2026-09-29 22:19:51 IST
+URL: https://leetcode.com/discuss/post/8547181/preparing-for-software-developer-interns-xswn/
+Author: Golden_CSE45
+
+--- Summary ---
+Hello everyone! 👋I’m currently preparing for Software Developer internships and entry-level jobs, and I’d love to learn from people who have already gone through the process.I'm working on DSA and problem-solving through LeetCode.💡 What should a stud
+
+--- Tags ---
+  - LeetCode (leetcode) [COMPANY]
+  - Career (career) []
+  - DSA (dsa) []
+  - Data Structure (data-structure) []
+  - Interview (interview) []
+  - Data Structure and Algorithms (ds-and-algorithm) []
+  - Data Structures and Algorithms (data-structures-and-algorithms) []
+  - daily dsa session (daily-dsa-session) []
+  - DSA X LIFE (dsa-x-life) []
+  - OA | DSA | System / Logic (oa-dsa-system-logic) []
+  - Structured Query Language (structured-query-language) []
+  - DataScience (datascience-2) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: l0tRQLhN
+Title: Day 53 of My DSA Journey | Check if There Is a Valid Parentheses String Path
+Slug: day-53-of-my-dsa-journey-check-if-there-papa3
+Article Type: DISCUSSION
+Posted: 2026-09-29 22:13:52 IST
+Updated: 2026-09-29 22:13:52 IST
+URL: https://leetcode.com/discuss/post/8547166/day-53-of-my-dsa-journey-check-if-there-papa3/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 53 of my DSA journey, and I worked on Check if There Is a Valid Parentheses String Path.Today's problem combined grid traversal and parentheses validation.
+The challenge was to determine whether there exists a path from the top-left
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4LmKVKoX
+Title: Day 52 of My DSA Journey | Maximum Nesting Depth of the Parentheses
+Slug: day-52-of-my-dsa-journey-maximum-nesting-etd1
+Article Type: DISCUSSION
+Posted: 2026-09-29 22:12:01 IST
+Updated: 2026-09-29 22:12:01 IST
+URL: https://leetcode.com/discuss/post/8547162/day-52-of-my-dsa-journey-maximum-nesting-etd1/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 52 of my DSA journey, and I worked on Maximum Nesting Depth of the Parentheses.Today's problem focused on finding the maximum number of nested parentheses in a valid parentheses string.
+The key idea was to increase the current depth
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Ylwff7MW
+Title: Day 51 of My DSA Journey | Reverse Substrings Between Each Pair of Parentheses
+Slug: day-51-of-my-dsa-journey-reverse-substri-odi9
+Article Type: DISCUSSION
+Posted: 2026-09-29 22:11:18 IST
+Updated: 2026-09-29 22:11:18 IST
+URL: https://leetcode.com/discuss/post/8547159/day-51-of-my-dsa-journey-reverse-substri-odi9/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 51 of my DSA journey, and I worked on Reverse Substrings Between Each Pair of Parentheses.Today's problem focused on reversing every substring enclosed by a pair of parentheses, including handling nested parentheses.
+The key idea was
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZnkaWzjn
+Title: Day 50 of My DSA Journey | Evaluate the Bracket Pairs of a String
+Slug: day-50-of-my-dsa-journey-evaluate-the-br-ln6j
+Article Type: DISCUSSION
+Posted: 2026-09-29 22:10:26 IST
+Updated: 2026-09-29 22:10:26 IST
+URL: https://leetcode.com/discuss/post/8547157/day-50-of-my-dsa-journey-evaluate-the-br-ln6j/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 50 of my DSA journey, and I worked on Evaluate the Bracket Pairs of a String.Today's problem focused on replacing keys inside brackets with their corresponding values from a knowledge base.
+The key idea was to store the key-value pai
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ygCn3yEF
+Title: Day 49 of My DSA Journey | Brace Expansion II
+Slug: day-49-of-my-dsa-journey-brace-expansion-uc2u
+Article Type: DISCUSSION
+Posted: 2026-09-29 22:09:31 IST
+Updated: 2026-09-29 22:09:31 IST
+URL: https://leetcode.com/discuss/post/8547154/day-49-of-my-dsa-journey-brace-expansion-uc2u/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 49 of my DSA journey, and I worked on Brace Expansion II.Today's problem focused on parsing expressions containing braces, unions, and concatenations and generating all possible strings.
+The key challenge was correctly handling neste
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2VkHKwIX
+Title: PhonePe SDE-2 Backend Interview Experience — 4 Rounds
+Slug: phonepe-sde-2-backend-interview-experien-vcqt
+Article Type: DISCUSSION
+Posted: 2026-09-29 21:41:03 IST
+Updated: 2026-09-29 21:45:44 IST
+URL: https://leetcode.com/discuss/post/8547106/phonepe-sde-2-backend-interview-experien-vcqt/
+Author: 
+
+--- Summary ---
+I recently interviewed for an SDE-2 role at PhonePe. The process consisted of 4 rounds: Machine Coding/LLD, DSA, HLD, and Hiring Manager.Round 1 — Machine Coding / LLDThe first round was a machine coding assignment. I was given a problem around desig
+
+--- Tags ---
+  - PhonePe (phonepe) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 10
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: aJvHVIbr
+Title: Maximum Product Subarray | Brute Force to O(n) Prefix-Suffix
+Slug: maximum-product-subarray-brute-force-to-9cy9l
+Article Type: DISCUSSION
+Posted: 2026-09-29 21:34:24 IST
+Updated: 2026-09-29 21:34:24 IST
+URL: https://leetcode.com/discuss/post/8547094/maximum-product-subarray-brute-force-to-9cy9l/
+Author: shivankartiwari042
+
+--- Summary ---
+ProblemGiven an integer array nums, find a contiguous subarray that has the largest product and return that product.The subarray must contain at least one element.Example 1Example 2Example 3Approach 1: Brute ForceThe simplest approach is to consider
+
+--- Tags ---
+  - Array (array) [TOPIC]
+  - Prefix Sum (prefix-sum) [TOPIC]
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: lx1LUYO7
+Title: Day 48 of My DSA Journey | Smallest Index With Digit Sum Equal to Index
+Slug: day-48-of-my-dsa-journey-smallest-index-g002e
+Article Type: DISCUSSION
+Posted: 2026-09-29 21:27:32 IST
+Updated: 2026-09-29 21:27:32 IST
+URL: https://leetcode.com/discuss/post/8547080/day-48-of-my-dsa-journey-smallest-index-g002e/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 48 of my DSA journey, and I worked on Smallest Index With Digit Sum Equal to Index.Today's problem focused on finding the smallest index where the sum of the digits of the value at that index equals the index itself.What I Learned To
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZvgXQBVf
+Title: Day 47 of My DSA Journey | Minimum Operations to Reduce X to Zero
+Slug: day-47-of-my-dsa-journey-minimum-operati-zsoe
+Article Type: DISCUSSION
+Posted: 2026-09-29 20:46:02 IST
+Updated: 2026-09-29 20:46:02 IST
+URL: https://leetcode.com/discuss/post/8547019/day-47-of-my-dsa-journey-minimum-operati-zsoe/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 47 of my DSA journey, and I worked on Minimum Operations to Reduce X to Zero.The problem allows removing elements from either end of the array until their sum equals X.
+The key observation was to transform the problem into finding th
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Qt9mHVd0
+Title: Day 46 of My DSA Journey | Find X Value of Array II
+Slug: day-46-of-my-dsa-journey-find-x-value-of-dnw1
+Article Type: DISCUSSION
+Posted: 2026-09-29 20:45:04 IST
+Updated: 2026-09-29 20:45:04 IST
+URL: https://leetcode.com/discuss/post/8547018/day-46-of-my-dsa-journey-find-x-value-of-dnw1/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 46 of my DSA journey, and I worked on Find X Value of Array II.Today's problem extended the ideas from the previous problem and required handling the array operations efficiently for larger inputs.
+The main challenge was recognizing
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: r5D2OYuS
+Title: Day 45 of My DSA Journey | Find X Value of Array I
+Slug: day-45-of-my-dsa-journey-find-x-value-of-0mg3
+Article Type: DISCUSSION
+Posted: 2026-09-29 20:43:48 IST
+Updated: 2026-09-29 20:43:48 IST
+URL: https://leetcode.com/discuss/post/8547014/day-45-of-my-dsa-journey-find-x-value-of-0mg3/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 45 of my DSA journey, and I worked on Find X Value of Array I.Today's problem focused on repeatedly applying the required transformation to the array and determining the resulting X value.What I Learned Today
+How to carefully follow
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: LtBGK3K9
+Title: Day 44 of My DSA Journey | Reverse Degree of a String
+Slug: day-44-of-my-dsa-journey-reverse-degree-gfjuu
+Article Type: DISCUSSION
+Posted: 2026-09-29 20:42:58 IST
+Updated: 2026-09-29 20:42:58 IST
+URL: https://leetcode.com/discuss/post/8547010/day-44-of-my-dsa-journey-reverse-degree-gfjuu/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 44 of my DSA journey, and I worked on Reverse Degree of a String.Today's problem focused on calculating the reverse degree of a string by combining each character's reverse alphabetical value with its position.What I Learned Today
+Ho
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZCIruMrG
+Title: Day 43 of My DSA Journey | Maximum Number of Non-Overlapping Substrings
+Slug: day-43-of-my-dsa-journey-maximum-number-y2647
+Article Type: DISCUSSION
+Posted: 2026-09-29 20:42:13 IST
+Updated: 2026-09-29 20:42:13 IST
+URL: https://leetcode.com/discuss/post/8547008/day-43-of-my-dsa-journey-maximum-number-y2647/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 43 of my DSA journey, and I worked on Circle and Rectangle Overlapping.Today's problem focused on determining whether a circle and a rectangle overlap.The key observation was to find the closest point on the rectangle to the circle's
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: c43hD4Ph
+Title: Day 42 of My DSA Journey | Maximum Number of Non-Overlapping Substrings
+Slug: day-42-of-my-dsa-journey-maximum-number-uq7qx
+Article Type: DISCUSSION
+Posted: 2026-09-29 20:41:26 IST
+Updated: 2026-09-29 20:41:26 IST
+URL: https://leetcode.com/discuss/post/8547007/day-42-of-my-dsa-journey-maximum-number-uq7qx/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 42 of my DSA journey, and I worked on Maximum Number of Non-Overlapping Substrings.Today's problem focused on selecting the maximum number of non-overlapping substrings while satisfying the character occurrence constraints.The main c
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #35
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8bUA7MgU
+Title: Day 41 of My DSA Journey | Find Two Non-overlapping Sub-arrays Each With Target Sum
+Slug: day-41-of-my-dsa-journey-find-two-non-ov-f7r2
+Article Type: DISCUSSION
+Posted: 2026-09-29 20:40:39 IST
+Updated: 2026-09-29 20:40:39 IST
+URL: https://leetcode.com/discuss/post/8547004/day-41-of-my-dsa-journey-find-two-non-ov-f7r2/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 41 of my DSA journey, and I worked on Find Two Non-overlapping Sub-arrays Each With Target Sum.Today's problem focused on finding two non-overlapping subarrays whose sums equal a given target while minimizing their combined length.Th
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #36
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: f1gF4Yr7
+Title: Day 40 of My DSA Journey | Number of Sets of K Non-Overlapping Line Segments
+Slug: day-40-of-my-dsa-journey-number-of-sets-qlods
+Article Type: DISCUSSION
+Posted: 2026-09-29 20:39:47 IST
+Updated: 2026-09-29 20:39:47 IST
+URL: https://leetcode.com/discuss/post/8546999/day-40-of-my-dsa-journey-number-of-sets-qlods/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 40 of my DSA journey, and I worked on Number of Sets of K Non-Overlapping Line Segments.Today's problem focused on counting the number of ways to choose K non-overlapping line segments from a set of points.
+The problem introduced an
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #37
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: c8DwBNeT
+Title: Day 39 of My DSA Journey | Maximum Number of Non-overlapping Substrings
+Slug: day-39-of-my-dsa-journey-maximum-number-rh2tz
+Article Type: DISCUSSION
+Posted: 2026-09-29 20:38:50 IST
+Updated: 2026-09-29 20:38:50 IST
+URL: https://leetcode.com/discuss/post/8546996/day-39-of-my-dsa-journey-maximum-number-rh2tz/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 39 of my DSA journey, and I worked on Maximum Number of Non-overlapping Substrings.
+Today's problem focused on finding the maximum number of non-overlapping substrings that satisfy the required character constraints.The key idea was
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #38
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: sNSGUaGf
+Title: Day 38 of My DSA Journey | Rectangle Overlap
+Slug: day-38-of-my-dsa-journey-rectangle-overl-q9bw
+Article Type: DISCUSSION
+Posted: 2026-09-29 20:37:48 IST
+Updated: 2026-09-29 20:37:48 IST
+URL: https://leetcode.com/discuss/post/8546993/day-38-of-my-dsa-journey-rectangle-overl-q9bw/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 38 of my DSA journey, and I worked on Rectangle Overlap.
+Today's problem focused on determining whether two axis-aligned rectangles overlap.
+The key observation was to check whether the rectangles have a positive overlapping width an
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #39
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: rBhw7veR
+Title: JTG Frontend Engineer Interview Experience
+Slug: jtg-frontend-engineer-interview-experien-rcoe
+Article Type: DISCUSSION
+Posted: 2026-09-29 20:18:38 IST
+Updated: 2026-09-29 20:18:38 IST
+URL: https://leetcode.com/discuss/post/8546949/jtg-frontend-engineer-interview-experien-rcoe/
+Author: hateem_ansari_
+
+--- Summary ---
+JTG Frontend Engineer Interview Experience | College Assessment → Onsite → Machine Coding → PII recently appeared for the Frontend Engineer role at JTG (Josh Technology Group) through my college, and I thought I would share the complete interview exp
+
+--- Tags ---
+  - Josh Technology (josh-technology) [COMPANY]
+  - JTG (jtg) [COMPANY]
+  - Career (career) []
+  - Onsite (onsite) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #40
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: P89t0c0t
+Title: **Microsoft GCID Consultant - .NET  & AI Offer | Need Advice**
+Slug: microsoft-gcid-consultant-net-full-stack-8ipw
+Article Type: DISCUSSION
+Posted: 2026-09-29 20:09:30 IST
+Updated: 2026-09-29 20:18:49 IST
+URL: https://leetcode.com/discuss/post/8546930/microsoft-gcid-consultant-net-full-stack-8ipw/
+Author: 
+
+--- Summary ---
+5.5 YOE, currently MTS-2 Backend Developer at ~28 LPA fixed.Microsoft GCID offer: Consultant – .NET Full Stack & AI, L58, Hyderabad. 28L base + 4L joining bonus + $18K RSUs/4 yrs + 20% target variable + relocation.JD is technical (.NET/Azure/AI), but
+
+--- Tags ---
+  - Microsoft (microsoft) [COMPANY]
+  - Career (career) []
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #41
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 89eQlqO1
+Title: Amazon SDE-1 Interview Experience — 2026 (Selected)
+Slug: amazon-sde-1-interview-experience-2026-b-30gn
+Article Type: DISCUSSION
+Posted: 2026-09-29 19:40:39 IST
+Updated: 2026-09-29 20:40:10 IST
+URL: https://leetcode.com/discuss/post/8546875/amazon-sde-1-interview-experience-2026-b-30gn/
+Author: 
+
+--- Summary ---
+Amazon SDE-1 Interview Experience — 2026Sharing my recent Amazon SDE-1 interview experience. Hopefully this helps someone preparing for the process.Background & ExperienceI graduated in 2025.I worked at a service-based company for 6 months as an inte
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+  - amazon sde1 (amazon-sde1-2) []
+  - amazon_OA (amazon-oa-3) []
+
+--- Reactions ---
+  UPVOTE: 13
+
+════════════════════════════════════════════════════════════════════════════════
+Article #42
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: EHnAtA07
+Title: Count Inversions | Brute Force and Merge Sort Approach
+Slug: count-inversions-brute-force-and-merge-s-9mi0
+Article Type: DISCUSSION
+Posted: 2026-09-29 19:08:00 IST
+Updated: 2026-09-29 19:08:00 IST
+URL: https://leetcode.com/discuss/post/8546815/count-inversions-brute-force-and-merge-s-9mi0/
+Author: shivankartiwari042
+
+--- Summary ---
+ProblemGiven an array nums, count the number of inversions in the array.An inversion is a pair of indices (i, j) such that:ExampleThe inversions are:Therefore, the answer is:Approach 1: Brute ForceThe most straightforward approach is to check every p
+
+--- Tags ---
+  - Array (array) [TOPIC]
+  - Divide and Conquer (divide-and-conquer) [TOPIC]
+  - Recursion (recursion) [TOPIC]
+  - Sorting (sorting) [TOPIC]
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #43
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 5aqVkFuR
+Title: Amazon london interviews results
+Slug: amazon-london-interviews-results-by-musk-5ryi
+Article Type: DISCUSSION
+Posted: 2026-09-29 17:14:16 IST
+Updated: 2026-09-29 17:15:17 IST
+URL: https://leetcode.com/discuss/post/8546647/amazon-london-interviews-results-by-musk-5ryi/
+Author: muskan1503
+
+--- Summary ---
+hey i have recently given all the interviews of amazon london, after how much time does interview results come out? i know it says 5 buisness days , curently its been 5 days including saturday sundayhas anyone given amazon london interviews ? how was
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - London (london) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #44
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 3cadZtLi
+Title: STAR program at SAP indonesia
+Slug: star-program-at-sap-indonesia-by-manish_-xisj
+Article Type: DISCUSSION
+Posted: 2026-09-29 16:49:59 IST
+Updated: 2026-09-29 16:49:59 IST
+URL: https://leetcode.com/discuss/post/8546610/star-program-at-sap-indonesia-by-manish_-xisj/
+Author: Manish_R_Kalsariya
+
+--- Summary ---
+I have applied few days ago at SAP Indonesia for the STAR program.
+and recently my resume got shorlisted, HR approached me for some basic details. i am kind of confuse about how will be interview process, difficulty, what should i do...every guidance
+
+--- Tags ---
+  - SAP Labs (sap-labs) [COMPANY]
+  - Indonesia (indonesia) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #45
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1e5H9dqW
+Title: Best LeetCode topics for complete beginners?
+Slug: best-leetcode-topics-for-complete-beginn-28sb
+Article Type: DISCUSSION
+Posted: 2026-09-29 16:19:18 IST
+Updated: 2026-09-29 16:19:18 IST
+URL: https://leetcode.com/discuss/post/8546561/best-leetcode-topics-for-complete-beginn-28sb/
+Author: pracownia_tekstu
+
+--- Summary ---
+I’m new to coding interview problems and I’m trying to understand which topics are the most important at the beginning.
+My current plan is to start with:
+Arrays
+Strings
+Hash maps
+Basic sorting
+Binary search
+Would you change this order or add anything
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #46
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: MoplUvla
+Title: Beginner starting with LeetCode – what should I learn first?
+Slug: beginner-starting-with-leetcode-what-sho-haqs
+Article Type: DISCUSSION
+Posted: 2026-09-29 16:18:46 IST
+Updated: 2026-09-29 16:18:46 IST
+URL: https://leetcode.com/discuss/post/8546560/beginner-starting-with-leetcode-what-sho-haqs/
+Author: pracownia_tekstu
+
+--- Summary ---
+Hi everyone!
+I’m just getting started with LeetCode and learning the basics of algorithms and problem solving.
+I’d like to build a good foundation before moving on to harder problems.
+What topics would you recommend focusing on first? Arrays, strings
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #47
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: xOY1kgmt
+Title: Which Programming Language Is Best to Practice on LeetCode?
+Slug: which-programming-language-is-best-to-pr-3pjc
+Article Type: DISCUSSION
+Posted: 2026-09-29 16:11:11 IST
+Updated: 2026-09-29 16:11:11 IST
+URL: https://leetcode.com/discuss/post/8546550/which-programming-language-is-best-to-pr-3pjc/
+Author: Coderforcareer
+
+--- Summary ---
+Is LeetCode better for practicing all programming languages or what?
+
+--- Tags ---
+  - Career (career) []
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #48
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: fPxTwJZe
+Title: Staff software Engineer Linkedin round
+Slug: staff-software-engineer-linkedin-round-b-dieq
+Article Type: DISCUSSION
+Posted: 2026-09-29 15:29:44 IST
+Updated: 2026-09-29 15:29:44 IST
+URL: https://leetcode.com/discuss/post/8546494/staff-software-engineer-linkedin-round-b-dieq/
+Author: 
+
+--- Summary ---
+Hi,I have an upcoming interview. The first round is coding, and the second is coding with AI. Does anyone have an idea if they’re still asking DSA questions or more LLD-type problems?Any insights would be really helpful. Thanks!
+
+--- Tags ---
+  - LinkedIn (linkedin) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #49
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: PdOGpqls
+Title: walmart
+Slug: walmart-by-anonymous_user-iwot
+Article Type: DISCUSSION
+Posted: 2026-09-29 15:05:02 IST
+Updated: 2026-09-29 15:05:02 IST
+URL: https://leetcode.com/discuss/post/8546451/walmart-by-anonymous_user-iwot/
+Author: 
+
+--- Summary ---
+Has anyone got calls for Round 1 after completing the online assessment in walmart? Are they really ghosting candidates after the test?
+
+--- Tags ---
+  - Walmart Labs (walmart-labs) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #50
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WVaamZCM
+Title: hackerRank customer experience engineer 
+Slug: hackerrank-customer-experience-engineer-ankmr
+Article Type: DISCUSSION
+Posted: 2026-09-29 14:33:58 IST
+Updated: 2026-09-29 14:33:58 IST
+URL: https://leetcode.com/discuss/post/8546397/hackerrank-customer-experience-engineer-ankmr/
+Author: ChetanUppin
+
+--- Summary ---
+Anyone attended Hacker ranks cutomer experience engineer through an AI Chakra interview?
+
+--- Tags ---
+  - Interview (interview) []
+  - HackerRank (hackerrank-3) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #51
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kyPAd3B3
+Title: Moody's Bangalore | Software Engineer 
+Slug: moodys-bangalore-software-engineer-by-an-kkhz
+Article Type: DISCUSSION
+Posted: 2026-09-29 14:17:30 IST
+Updated: 2026-09-29 14:17:30 IST
+URL: https://leetcode.com/discuss/post/8546377/moodys-bangalore-software-engineer-by-an-kkhz/
+Author: 
+
+--- Summary ---
+Hi guys, I got an offer from Moody's for the Software Engineer role.I have 4yoe, Tier-3 college.Current comp: 18L fixed + 2L variableMoody's offer: 24 fixed + 11% bonusIs this a good offer or should I ask for more?
+Does anyone know the range of salar
+
+--- Tags ---
+  - Moody's (moodys) [COMPANY]
+  - Career (career) []
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 5
+
