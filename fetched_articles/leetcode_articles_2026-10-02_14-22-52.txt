@@ -1,0 +1,799 @@
+LeetCode Discuss - Latest 34 Articles
+Fetched on: 2026-10-02 14:22:52 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vYeQ67NR
+Title: Today's LeetCode Problem Reaction ‼️
+Slug: todays-leetcode-problem-reaction-by-shiy-n2o7
+Article Type: DISCUSSION
+Posted: 2026-10-02 13:50:00 IST
+Updated: 2026-10-02 13:50:00 IST
+URL: https://leetcode.com/discuss/post/8551603/todays-leetcode-problem-reaction-by-shiy-n2o7/
+Author: ShiYoBo
+
+--- Summary ---
+What was ur reaction on today's problem ?•😊
+•🙂
+•😒
+•😡
+Today's problem wasn't easy but it was an intresting one cuz i understood it !!
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 3Y2O79nZ
+Title: Microsoft Interview Experience | 3+ Years Experience | System Design, OOD & DSA | Rejected
+Slug: microsoft-interview-experience-3-years-e-emxk
+Article Type: DISCUSSION
+Posted: 2026-10-02 12:57:47 IST
+Updated: 2026-10-02 12:57:47 IST
+URL: https://leetcode.com/discuss/post/8551527/microsoft-interview-experience-3-years-e-emxk/
+Author: 
+
+--- Summary ---
+Sharing my Microsoft interview experience for a position requiring 3+ years of experience. The loop consisted of three interviews covering my background, system design, object-oriented design, and coding.Round 1: HR + Hiring Manager + System DesignTh
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pdKCE2im
+Title: What cout in c++ actually do ? 
+Slug: what-cout-in-c-actually-do-by-jaykape-6wy2
+Article Type: DISCUSSION
+Posted: 2026-10-02 11:58:43 IST
+Updated: 2026-10-02 11:58:43 IST
+URL: https://leetcode.com/discuss/post/8551424/what-cout-in-c-actually-do-by-jaykape-6wy2/
+Author: jaykape
+
+--- Summary ---
+I just encounter strange behaviour from using cout in cpp. What happen is that my code has a bug where I do int ops; instead to assign int ops = 0; But when I try cout >> "x1 = " >> x1 >> endl; it seems like it work properly as ops = 0. What's going
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: MQm15Bvq
+Title: Oracle | SDE-3 | Offer | Sept 2026
+Slug: oracle-sde-3-offer-sept-2026-by-anonymou-g9j5
+Article Type: DISCUSSION
+Posted: 2026-10-02 11:53:59 IST
+Updated: 2026-10-02 11:53:59 IST
+URL: https://leetcode.com/discuss/post/8551416/oracle-sde-3-offer-sept-2026-by-anonymou-g9j5/
+Author: 
+
+--- Summary ---
+Education: Tier 3
+Years of Experience: 4.5 YOE
+Previous Company: Fired From startup
+Current Comp: 35L All fixedRole: Senior Member of Technical Staff (SDE-3)
+Comp: 42L (Base)
+Variable: 10%
+Benifits: Standard Oracle Benefit
+RSUs: $90K Split in 4 years
+
+--- Tags ---
+  - Career (career) []
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 4
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: K7BPL5Js
+Title: System Design Interview Prep for Senior/Staff Software Engineers
+Slug: system-design-interview-prep-for-seniors-6cc2
+Article Type: DISCUSSION
+Posted: 2026-10-02 11:19:40 IST
+Updated: 2026-10-02 11:19:40 IST
+URL: https://leetcode.com/discuss/post/8551355/system-design-interview-prep-for-seniors-6cc2/
+Author: LeetCodeUser3
+
+--- Summary ---
+To fellow Senior and Staff Software Engineers,I’m a Senior Software Engineer preparing for Senior/Staff Software Engineering roles.I’d appreciate it if you could suggest some good websites, books, study materials, or other resources for preparing for
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7a3jybyG
+Title: Snorkel AI – Forward Deployed Engineer 30-Min Coding Interview
+Slug: snorkel-ai-forward-deployed-engineer-30-mhdoo
+Article Type: DISCUSSION
+Posted: 2026-10-02 11:01:37 IST
+Updated: 2026-10-02 11:01:37 IST
+URL: https://leetcode.com/discuss/post/8551326/snorkel-ai-forward-deployed-engineer-30-mhdoo/
+Author: jkat_295
+
+--- Summary ---
+Has anyone recently completed the 30-minute technical/coding interview for a Forward Deployed Engineer role at Snorkel AI?I have an upcoming interview and was told it may involve hands-on coding, prompt engineering, LLM calls/evaluation, or GenAI/NLP
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: xLY62XdF
+Title: Guidewire 60-Min Coding Round – Machine Learning Position
+Slug: guidewire-60-min-coding-round-machine-le-7lb3
+Article Type: DISCUSSION
+Posted: 2026-10-02 10:58:37 IST
+Updated: 2026-10-02 10:58:37 IST
+URL: https://leetcode.com/discuss/post/8551319/guidewire-60-min-coding-round-machine-le-7lb3/
+Author: jkat_295
+
+--- Summary ---
+Has anyone recently completed the 60-minute coding interview at Guidewire?I’m interviewing for a Machine Learning position, but I was told the coding round will include LeetCode-style questions rather than ML-specific coding.It would be really helpfu
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0R1pwgSQ
+Title: Amazon | SDE 2 | Offer 
+Slug: amazon-sde-2-offer-by-anonymous_user-8bte
+Article Type: DISCUSSION
+Posted: 2026-10-02 09:59:37 IST
+Updated: 2026-10-02 10:01:52 IST
+URL: https://leetcode.com/discuss/post/8551252/amazon-sde-2-offer-by-anonymous_user-8bte/
+Author: 
+
+--- Summary ---
+Education: B.E IT, Tier 2
+Years of Experience: 5
+Current Company : Startup
+Current Compensation : 35LPA (all Fixed)Date of the Offer: May, 2026
+Company: Amazon
+Title/Level: SDE 2
+Location: Bengaluru
+Base Pay: 46 LPA
+Signing Bonus Year 1: 19 L
+Signing
+
+--- Tags ---
+  - Career (career) []
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: KX6ot0ji
+Title: Word Climb — Arrange the Jumbled Words
+Slug: word-climb-arrange-the-jumbled-words-by-s5hta
+Article Type: DISCUSSION
+Posted: 2026-10-02 09:58:23 IST
+Updated: 2026-10-02 09:58:23 IST
+URL: https://leetcode.com/discuss/post/8551249/word-climb-arrange-the-jumbled-words-by-s5hta/
+Author: Mayank_Dev_13125
+
+--- Summary ---
+Word Climb — Arrange the Jumbled WordsI recently came across a word-chain puzzle and thought it could make an interesting algorithmic problem.Problem StatementYou are given an array words containing n distinct words in a jumbled order.Arrange all the
+
+--- Tags ---
+  - String (string) [TOPIC]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: iO4Xw9mp
+Title: Crack Top Tech AI/ML Jobs : The Ultimate Roadmap of tech-stack required 
+Slug: crack-top-tech-aiml-jobs-the-ultimate-ro-48aw
+Article Type: DISCUSSION
+Posted: 2026-10-02 08:35:50 IST
+Updated: 2026-10-02 08:37:29 IST
+URL: https://leetcode.com/discuss/post/8551182/crack-top-tech-aiml-jobs-the-ultimate-ro-48aw/
+Author: NIK00R
+
+--- Summary ---
+🎯 Introduction: Understanding the AI/ML Job Market in 2026With the rapid evolution of Artificial Intelligence, Generative AI, Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), and scalable ML infrastructure, the expectat
+
+--- Tags ---
+  - Placement (placement) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+  - Python ML (python-ml) []
+  - Agentic AI (agentic-ai) []
+  - #faang  (faang-3) []
+  - #maang  (maang-2) []
+  - AI/ML interview (ai-ml-interview) []
+  - Generative AI (generative-ai-2) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: MkhTVwsj
+Title: Looking for System Design resources for beginners
+Slug: looking-for-system-design-resources-for-bpkz5
+Article Type: DISCUSSION
+Posted: 2026-10-02 06:53:28 IST
+Updated: 2026-10-02 06:53:47 IST
+URL: https://leetcode.com/discuss/post/8551129/looking-for-system-design-resources-for-bpkz5/
+Author: 
+
+--- Summary ---
+Hi everyone,I’m a B.Tech CSE student preparing for software engineering interviews, and I want to start learning System Design from scratch.I’m currently looking for good resources that can help me build a strong foundation.I’ve found many resources
+
+--- Tags ---
+  - System Design (system-design) []
+  - Design Pattern (design-pattern) []
+  - Interview (interview) []
+  - System Design for Interviews and Beyond (system-design-for-interviews-and-beyond) []
+  - Low-Level System Design (low-level-system-design-2) []
+  - High-Level System Design (high-level-system-design-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Y45M3efH
+Title: need crucial advice
+Slug: need-crucial-advice-by-anonymous_user-swig
+Article Type: DISCUSSION
+Posted: 2026-10-02 03:34:16 IST
+Updated: 2026-10-02 03:34:16 IST
+URL: https://leetcode.com/discuss/post/8551055/need-crucial-advice-by-anonymous_user-swig/
+Author: 
+
+--- Summary ---
+#Compensation hi everyone I am 2025 mca passout still don't have job doing dsa daily full stack development (mern) learning now generative ai. but I don't able to get interview or shortlist my Resume what should I do I am feeling very depressed 😔 it'
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: LZgImz5q
+Title: How should a final-year student start learning system design (HLD-LLD)? Looking for roadmap and res.
+Slug: how-should-a-final-year-student-start-le-2dza
+Article Type: DISCUSSION
+Posted: 2026-10-02 03:22:50 IST
+Updated: 2026-10-02 03:22:50 IST
+URL: https://leetcode.com/discuss/post/8551050/how-should-a-final-year-student-start-le-2dza/
+Author: aadilahsan
+
+--- Summary ---
+Hi everyone,I'm a final-year CS student (MERN, Java, Python, SQL) and I want to learn system design properly, both HLD and LLD, not just for interviews. I don't know where to start and there are too many videos, books and courses out there.I've heard
+
+--- Tags ---
+  - System Design (system-design) []
+  - System Design for Interviews and Beyond (system-design-for-interviews-and-beyond) []
+  - system-design (system-design-2) []
+  - Low-Level System Design (low-level-system-design-2) []
+  - High-Level System Design (high-level-system-design-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: i83PFi53
+Title:  Finally achieved Knight on LeetCode! 
+Slug: finally-achieved-knight-on-leetcode-by-a-szls
+Article Type: DISCUSSION
+Posted: 2026-10-01 23:54:35 IST
+Updated: 2026-10-01 23:54:35 IST
+URL: https://leetcode.com/discuss/post/8550877/finally-achieved-knight-on-leetcode-by-a-szls/
+Author: 
+
+--- Summary ---
+A milestone that represents consistency, patience, and countless hours of learning and problem-solving.Having started as a beginner myself, I understand how challenging DSA can feel in the beginning. But one thing I've learned along the way is that
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1e2epysD
+Title: ZScaler Senior Staff Software Engineer — Interview Experience
+Slug: zscaler-senior-staff-software-engineer-i-pcka
+Article Type: DISCUSSION
+Posted: 2026-10-01 23:49:01 IST
+Updated: 2026-10-01 23:49:01 IST
+URL: https://leetcode.com/discuss/post/8550867/zscaler-senior-staff-software-engineer-i-pcka/
+Author: 
+
+--- Summary ---
+I recently went through the interview process for a Senior Staff Software Engineer role at Zscaler. I had read a few similar interview experiences beforehand, and unfortunately, my experience ended in a disappointing way.Here’s how the process went:
+
+--- Tags ---
+  - ZScaler (zscaler) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: oFTUV5V3
+Title: Need tips for system design preparation 
+Slug: need-tips-for-system-design-preparation-8pk8p
+Article Type: DISCUSSION
+Posted: 2026-10-01 23:27:30 IST
+Updated: 2026-10-01 23:27:30 IST
+URL: https://leetcode.com/discuss/post/8550835/need-tips-for-system-design-preparation-8pk8p/
+Author: 
+
+--- Summary ---
+Hello community, i need help in learning system design as i am a beginner so what things i need to keep in mind so that it become easy for me. Things to avoid and what is most important to consider ...
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: BKQTdtQ6
+Title: Theom MTS 1 Interview Experience
+Slug: theom-mts-1-interview-experience-by-anon-m7lh
+Article Type: DISCUSSION
+Posted: 2026-10-01 22:30:23 IST
+Updated: 2026-10-01 22:30:23 IST
+URL: https://leetcode.com/discuss/post/8550749/theom-mts-1-interview-experience-by-anon-m7lh/
+Author: 
+
+--- Summary ---
+Hi everyone,I have my interview loop for Theom – MTS 1 coming up next week and would really appreciate hearing from anyone who has recently gone through the interview process for this role.If you’ve interviewed for MTS 1 at Theom, could you please sh
+
+--- Tags ---
+  - Career (career) []
+  - interview experience (interview-experience) []
+  - System Design (system-design) []
+  - DSA (dsa) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: BQO9kCoE
+Title: Designing Search Autocomplete / Typeahead 
+Slug: designing-search-autocomplete-typeahead-rsid2
+Article Type: DISCUSSION
+Posted: 2026-10-01 22:20:45 IST
+Updated: 2026-10-01 22:20:45 IST
+URL: https://leetcode.com/discuss/post/8550733/designing-search-autocomplete-typeahead-rsid2/
+Author: Newton3010
+
+--- Summary ---
+Core (Top 3)
+Return top-k suggestions for a prefix - as the user types each character, return the 10 most relevant completions in under 100ms
+Rank by popularity and freshness - suggestions reflect both historical popularity and real-time trending que
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: tjUdXhfq
+Title: Knight Badge
+Slug: doubt-in-question-1824-by-shivalt-0nnm
+Article Type: DISCUSSION
+Posted: 2026-10-01 21:51:54 IST
+Updated: 2026-10-01 21:52:20 IST
+URL: https://leetcode.com/discuss/post/8550696/doubt-in-question-1824-by-shivalt-0nnm/
+Author: shivalt
+
+--- Summary ---
+hello everyone today i got the knight badge after completing the threshold for it just want a confirmation is the badge permanent or it may be taken if my rating falls below the threshold in the contest?
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: huePAKNZ
+Title: 🚀🔥 LeetCode Practice Update! 🔥🚀  
+Slug: leetcode-practice-update-by-neeraj_baghe-y903
+Article Type: DISCUSSION
+Posted: 2026-10-01 21:50:31 IST
+Updated: 2026-10-01 21:50:31 IST
+URL: https://leetcode.com/discuss/post/8550694/leetcode-practice-update-by-neeraj_baghe-y903/
+Author: Neeraj_Baghel
+
+--- Summary ---
+🧩 Solved 1614. Maximum Nesting Depth of the Parentheses 💻✨💡 What I learned:
+🔹 Tracking opening ( and closing ) brackets
+🔹 Maintaining the current depth 📊
+🔹 Finding the maximum depth reached 🎯
+🔹 Improving logical thinking 🧠⚡👨‍💻 One more problem solved
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ew6qWNdV
+Title: Walmart iOS interview call
+Slug: walmart-ios-interview-call-by-anonymous_-4n32
+Article Type: DISCUSSION
+Posted: 2026-10-01 21:39:38 IST
+Updated: 2026-10-01 21:39:38 IST
+URL: https://leetcode.com/discuss/post/8550675/walmart-ios-interview-call-by-anonymous_-4n32/
+Author: 
+
+--- Summary ---
+Recently got interview call for iOS SWE-3(IN3) (walmart chennai)can anyone share their experience of recent walmart invertview for ios developer
+
+--- Tags ---
+  - Walmart Labs (walmart-labs) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: aG7X8XhM
+Title: Amazon SDE-I Intern Interview Experience | September 2026 | On Campus
+Slug: amazon-sde-i-intern-interview-experience-0gxv
+Article Type: DISCUSSION
+Posted: 2026-10-01 21:31:39 IST
+Updated: 2026-10-01 21:31:39 IST
+URL: https://leetcode.com/discuss/post/8550664/amazon-sde-i-intern-interview-experience-0gxv/
+Author: kushaalshyam
+
+--- Summary ---
+Firstly, we had an Online Assesment (OA) on Hackerrank with the following format:
+1 DSA Question
+Minimum Total Cost to Make Array Non-DecreasingYou are given an integer array nums of length n.In one operation, you choose a contiguous segment nums[l..
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: hHUg5XdK
+Title: How to tackle OOD class-implementation problems in live coding rounds, and where to practice?
+Slug: how-to-tackle-ood-class-implementation-p-28dk
+Article Type: DISCUSSION
+Posted: 2026-10-01 21:25:30 IST
+Updated: 2026-10-01 21:25:30 IST
+URL: https://leetcode.com/discuss/post/8550654/how-to-tackle-ood-class-implementation-p-28dk/
+Author: _pravinn
+
+--- Summary ---
+I practice LeetCode DSA in Java, but OOD-style coding problems are where I get stuck. I mean live rounds where you're given a class skeleton and implement working code across multiple parts, like a shopping cart with checkout or implementing an inter
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: a83DW5NJ
+Title: Google L3 Interview | Phone Screen | Chances
+Slug: google-l3-interview-phone-screen-chances-8xik
+Article Type: DISCUSSION
+Posted: 2026-10-01 20:56:11 IST
+Updated: 2026-10-01 20:56:11 IST
+URL: https://leetcode.com/discuss/post/8550611/google-l3-interview-phone-screen-chances-8xik/
+Author: 
+
+--- Summary ---
+Had my Google L3 phone screen (~45 mins) and wanted some honest feedback on my chances of moving to onsite.InterviewStarted with 2–3 questions about AI usage in coding — when I use AI-generated code, when I don't, and how I verify it. I answered that
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Snyn2g82
+Title: 100 days of LeetCode. Done.
+Slug: 100-days-of-leetcode-done-by-ssanskar9-muf1
+Article Type: DISCUSSION
+Posted: 2026-10-01 20:54:11 IST
+Updated: 2026-10-01 20:54:11 IST
+URL: https://leetcode.com/discuss/post/8550606/100-days-of-leetcode-done-by-ssanskar9-muf1/
+Author: ssanskar9
+
+--- Summary ---
+I honestly didn't expect that 100 days of solving problems would change the way I think about them as much as it did.When I started, my approach was pretty simple: read the problem, start coding, get stuck, and then spend a lot of time figuring out w
+
+--- Tags ---
+  - LeetCode (leetcode) [COMPANY]
+  - DSA (dsa) []
+  - Problem Solving (problem-solving-2) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: fOfR8O5B
+Title: Day 55 of My DSA Journey | Valid Parentheses
+Slug: day-55-of-my-dsa-journey-valid-parenthes-mu77
+Article Type: DISCUSSION
+Posted: 2026-10-01 20:39:16 IST
+Updated: 2026-10-01 20:39:16 IST
+URL: https://leetcode.com/discuss/post/8550575/day-55-of-my-dsa-journey-valid-parenthes-mu77/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 55 of my DSA journey, and I worked on Valid Parentheses.Today's problem focused on determining whether a string containing different types of brackets is valid and properly balanced.
+The key idea was to use a Stack to keep track of o
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Yq066fRm
+Title: ₹20L Remote vs ₹31L Base Senior AI Engineer — What would you choose for long-term career growth?
+Slug: rs20l-remote-vs-rs31l-base-senior-ai-eng-mdwl
+Article Type: DISCUSSION
+Posted: 2026-10-01 19:32:24 IST
+Updated: 2026-10-01 19:32:24 IST
+URL: https://leetcode.com/discuss/post/8550456/rs20l-remote-vs-rs31l-base-senior-ai-eng-mdwl/
+Author: 
+
+--- Summary ---
+Hi everyone,
+I’m currently a Software Engineer II / Backend & Full Stack Engineer with 4+ years of experience.I currently have:
+₹20L base + ₹2L bonus = ₹22L CTC
+Fully remote
+Strong experience in Java, Spring Boot, microservices, AWS, Kafka, distribut
+
+--- Tags ---
+  - Career (career) []
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: i6k6nW08
+Title: Google L3 India – Waiting for Virtual Interview Result
+Slug: google-l3-india-waiting-for-virtual-inte-vcj1
+Article Type: DISCUSSION
+Posted: 2026-10-01 17:54:32 IST
+Updated: 2026-10-01 17:55:15 IST
+URL: https://leetcode.com/discuss/post/8550312/google-l3-india-waiting-for-virtual-inte-vcj1/
+Author: 
+
+--- Summary ---
+Hi everyone,I recently interviewed for a Google L3 SDE role in India and wanted to understand if my timeline is normal or if anyone has experienced something similar.My process so far:
+Completed the initial assessment
+Completed 2 virtual rounds (DSA
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0zlrwbmW
+Title: District by Zomato | SDE-1 | R-1 | Interview Experience
+Slug: district-by-zomato-sde-1-r-1-interview-e-chtp
+Article Type: DISCUSSION
+Posted: 2026-10-01 16:54:32 IST
+Updated: 2026-10-01 16:54:32 IST
+URL: https://leetcode.com/discuss/post/8550229/district-by-zomato-sde-1-r-1-interview-e-chtp/
+Author: 
+
+--- Summary ---
+Company: District by Zomato
+Role: Backend Engineer / SDE-1
+Location: Gurgaon
+Experience: 0 (1 year of internship experience)Round 1 – DSA + Backend~1 hourStarted with a sliding window problem:
+Given an integer array and k, find the longest contiguous
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: uP2RmQOV
+Title: Nvidia vs Atlassian | 10 Y Experience |Help me decide 
+Slug: nvidia-vs-atlassian-10-y-experience-help-p0qq
+Article Type: DISCUSSION
+Posted: 2026-10-01 16:08:56 IST
+Updated: 2026-10-01 16:08:56 IST
+URL: https://leetcode.com/discuss/post/8550170/nvidia-vs-atlassian-10-y-experience-help-p0qq/
+Author: 
+
+--- Summary ---
+YOE: 10 years
+Location: Bengaluru
+Current CTC: 84.14 L fixed and 15 lpa RSUNVIDIA: Sr Platform Engineer, IC4
+Fixed: ₹56L + retirals
+RSU: ₹1Cr / 4 years, front-loaded
+JB: expected ₹5–10L
+Total: 96 L without JB
+ESPP
+WFH role
+Team: AI Enablement & Proce
+
+--- Tags ---
+  - Nvidia (nvidia) [COMPANY]
+  - Atlassian (atlassian) [COMPANY]
+  - Career (career) []
+  - Compensation (compensation) []
+  - #faang  (faang-3) []
+  - #maang  (maang-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: EmOxTwhL
+Title: NVIDIA vs Atlassian | India | 10 YOE | Help me decide
+Slug: nvidia-vs-atlassian-india-10-yoe-help-me-ec2t
+Article Type: DISCUSSION
+Posted: 2026-10-01 16:06:43 IST
+Updated: 2026-10-01 16:06:43 IST
+URL: https://leetcode.com/discuss/post/8550164/nvidia-vs-atlassian-india-10-yoe-help-me-ec2t/
+Author: 
+
+--- Summary ---
+#Compensation YOE: 10 years Location: Bengaluru Current CTC: 84.14 L fixed and 15 lpa RSU NVIDIA: Sr Platform Engineer, IC4 Fixed: ₹56L + retirals RSU: ₹1Cr / 4 years, front-loaded JB: expected ₹5–10L Total: 96 L without JB ESPP WFH role Team: AI Ena
+
+--- Tags ---
+  - Career (career) []
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: YRMomzF0
+Title: Need honest career advice
+Slug: need-honest-career-advice-by-ansh20-6iz6
+Article Type: DISCUSSION
+Posted: 2026-10-01 15:08:15 IST
+Updated: 2026-10-01 15:08:15 IST
+URL: https://leetcode.com/discuss/post/8550088/need-honest-career-advice-by-ansh20-6iz6/
+Author: Ansh20
+
+--- Summary ---
+I’m currently looking for a job and would like some honest feedback on my resume and overall career direction.A bit of context: I’m a B.Tech graduate from a Tier-3 college with a non-CS background, and I’m currently trying to build my career through
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: aZ5QIh0P
+Title: Need SDE-1/2 prep advice from great engineers
+Slug: need-sde-12-prep-advice-from-great-engin-4fsz
+Article Type: DISCUSSION
+Posted: 2026-10-01 14:52:55 IST
+Updated: 2026-10-01 14:53:56 IST
+URL: https://leetcode.com/discuss/post/8550066/need-sde-12-prep-advice-from-great-engin-4fsz/
+Author: 
+
+--- Summary ---
+Guys, I need some advice from people who have cracked SDE-1/2 interviews.I’m currently working as a Java Developer in Hyderabad and preparing for product-based SDE-1 roles, targeting around 15–25 LPA CTC.I’ve solved 300+ LeetCode problems and know th
+
+--- Tags ---
+  - Career (career) []
+  - System Design (system-design) []
+  - SDE (sde) []
+  - DSA (dsa) []
+  - Interview (interview) []
+  - SDE1 (sde1-2) []
+  - Problem Solving (problem-solving-2) []
+  - Leetcode Community (leetcode-community-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: wRXQfPUs
+Title: Amazon Screen Interview Experience - L5
+Slug: amazon-screen-interview-experience-l5-by-84e1
+Article Type: DISCUSSION
+Posted: 2026-10-01 14:32:08 IST
+Updated: 2026-10-02 12:50:58 IST
+URL: https://leetcode.com/discuss/post/8550034/amazon-screen-interview-experience-l5-by-84e1/
+Author: 
+
+--- Summary ---
+YOE: 3years.
+I recently interviewed with Amazon. The interview was 1 hour divided into three parts:
+
+Introductions
+The interviewer started by introducing herself, then asked me to introduce myself and briefly describe my background and experience.
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 6
+
