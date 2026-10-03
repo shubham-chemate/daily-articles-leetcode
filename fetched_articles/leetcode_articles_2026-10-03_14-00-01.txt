@@ -1,0 +1,770 @@
+LeetCode Discuss - Latest 31 Articles
+Fetched on: 2026-10-03 14:00:01 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: gt1yPvuv
+Title: Day 56 of My DSA Journey | Generate Parentheses
+Slug: day-56-of-my-dsa-journey-generate-parent-fy68
+Article Type: DISCUSSION
+Posted: 2026-10-03 12:01:54 IST
+Updated: 2026-10-03 12:01:54 IST
+URL: https://leetcode.com/discuss/post/8553107/day-56-of-my-dsa-journey-generate-parent-fy68/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 56 of my DSA journey, and I worked on Generate Parentheses.Today's problem focused on generating all combinations of n pairs of valid parentheses.The key idea was to use Backtracking while keeping track of the number of opening and c
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: LQUoyLdG
+Title: Share | Using regex to solve daily preblem(2026/10/03)
+Slug: share-using-regex-to-solve-daily-preblem-8r8l
+Article Type: DISCUSSION
+Posted: 2026-10-03 10:25:06 IST
+Updated: 2026-10-03 11:26:39 IST
+URL: https://leetcode.com/discuss/post/8552962/share-using-regex-to-solve-daily-preblem-8r8l/
+Author: regexdev
+
+--- Summary ---
+32. Longest Valid Parentheses32. Longest Valid ParenthesesThe principle is very simple. It uses a feature of C# balancing groups:
+(?'1'exp1)abc(?'2-1'exp2)
+In this construct, Group #2 captures the content between exp1 and exp2, which is abc. This pro
+
+--- Tags ---
+  - LeetCode (leetcode) [COMPANY]
+  - C# (csharp) []
+  - trending (trending-2) []
+  - problem (problem-3) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: uXtNR0dx
+Title: First-year literature student with a question about FAANG careers.
+Slug: first-year-literature-student-with-a-que-o79d
+Article Type: DISCUSSION
+Posted: 2026-10-03 09:57:25 IST
+Updated: 2026-10-03 09:57:25 IST
+URL: https://leetcode.com/discuss/post/8552922/first-year-literature-student-with-a-que-o79d/
+Author: 
+
+--- Summary ---
+#Career #Jobsearch I'm a first-year literature student who recently started learning to code. If I master algorithms, achieve a high rating on Codeforces, master system design, and build a strong foundation in computer science, would I have a chance 
+
+--- Tags ---
+  - Career (career) []
+  - Jobsearch (jobsearch-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: E0Yq0T8V
+Title: Netapp |  (Aug 2026) |  round 1 |  HM : 
+Slug: netapp-aug-2026-round-1-hm-by-avi4each-d40o
+Article Type: DISCUSSION
+Posted: 2026-10-03 09:39:54 IST
+Updated: 2026-10-03 09:40:25 IST
+URL: https://leetcode.com/discuss/post/8552896/netapp-aug-2026-round-1-hm-by-avi4each-d40o/
+Author: 
+
+--- Summary ---
+Round1:
+Step by step work on any issue from end to end.
+how you implement multithreading and how you are working on it.
+atomic variable and mutex, race condition.
+Resume Deep Dive.
+how yo use AI in your work, you vs AI .
+AI in your work.
+Any negative
+
+--- Tags ---
+  - NetApp (netapp) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Wt7YIf29
+Title: Sapiens|(july /2026)| Round 1 | bengaluru:
+Slug: sapiensjuly-2026-round-1-bengaluru-by-an-jbxy
+Article Type: DISCUSSION
+Posted: 2026-10-03 09:35:41 IST
+Updated: 2026-10-03 09:35:41 IST
+URL: https://leetcode.com/discuss/post/8552892/sapiensjuly-2026-round-1-bengaluru-by-an-jbxy/
+Author: 
+
+--- Summary ---
+Round 1:
+
+End to end any one feature that you have developed or worked on.
+STL, which to use where.(Map and set)
+How will you approach any new feature requirment, and where to add it.
+GDB debugger
+Move constructor, copy constructor examples, assignm
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: IshOz87S
+Title: Google (August 2026) | Virtual |
+Slug: google-august-2026-virtual-by-avi4each-nmck
+Article Type: DISCUSSION
+Posted: 2026-10-03 09:30:30 IST
+Updated: 2026-10-03 09:31:29 IST
+URL: https://leetcode.com/discuss/post/8552887/google-august-2026-virtual-by-avi4each-nmck/
+Author: 
+
+--- Summary ---
+>  Screening round :Problem Statement:
+Rat's Safest Path:
+You are given an N × N grid where each cell is either land(1) or water (0). A rat starts at a given source cell (sx, sy) and must reach a target cell (tx, ty) by moving one step at a time in t
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Jz8Je8NB
+Title: AMD (August 2026)  | EDA tools | all same day scheduled |
+Slug: amd-august-2026-eda-tools-all-same-day-s-pc76
+Article Type: DISCUSSION
+Posted: 2026-10-03 09:21:57 IST
+Updated: 2026-10-03 09:21:57 IST
+URL: https://leetcode.com/discuss/post/8552868/amd-august-2026-eda-tools-all-same-day-s-pc76/
+Author: 
+
+--- Summary ---
+EDA tools development team,
+Round 1  |Stupid interviewer| :
+Introduction , asked about Devops team experience,
+const variable vs static variable,
+what is databases how to fetch quickly from large set of data,
+RB tree,
+Trie,
+Jenkins and its plugin ,
+h
+
+--- Tags ---
+  - AMD (amd) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 74Ios2nK
+Title: Micron(June/2026) | CAD Engineer (Python, Devops/ML & EDA tools) | rejected
+Slug: micronjune2026-cad-engineer-python-devop-83j2
+Article Type: DISCUSSION
+Posted: 2026-10-03 09:10:35 IST
+Updated: 2026-10-03 09:10:55 IST
+URL: https://leetcode.com/discuss/post/8552856/micronjune2026-cad-engineer-python-devop-83j2/
+Author: 
+
+--- Summary ---
+Micron(June/2026),
+Round 1:
+
+Introduction, why you are looking for change.
+Explain more about your current and previous team.
+explained more about the  work profile: Role you are interviewing for - CAD Engineer (Python, Devops/ML & EDA tools)
+Which d
+
+--- Tags ---
+  - Micron Technology (micron) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: fIrA1ZDj
+Title: Arista Networks Interview Experience | Round 1 (C++) |
+Slug: arista-networks-interview-experience-rou-jx6q
+Article Type: DISCUSSION
+Posted: 2026-10-03 09:04:28 IST
+Updated: 2026-10-03 09:05:03 IST
+URL: https://leetcode.com/discuss/post/8552849/arista-networks-interview-experience-rou-jx6q/
+Author: 
+
+--- Summary ---
+Arista Networks, 1st round: May 2026:  in complete c++
+**Round 1 : **asked 2 debugging questions, and follow up to correct it:
+a)https://leetcode.com/discuss/post/7243710/arista-network-interview-experience-by-a-j093/b) output based on object and dec
+
+--- Tags ---
+  - Arista Networks (arista-networks) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Vr1yGXNT
+Title: Accenture Technical Interview (5th Oct, India Campus, 4.5–11 LPA) — Need Recent Interview Experience
+Slug: accenture-technical-interview-5th-oct-in-ov03
+Article Type: DISCUSSION
+Posted: 2026-10-03 05:16:12 IST
+Updated: 2026-10-03 05:16:12 IST
+URL: https://leetcode.com/discuss/post/8552710/accenture-technical-interview-5th-oct-in-ov03/
+Author: aadilahsan
+
+--- Summary ---
+Hi everyone, I have my Accenture technical interview scheduled for October 5th under campus hiring (4.5–11 LPA band, India). I've already cleared the application screening, the online technical/cognitive/behavioral assessment, and the verbal communic
+
+--- Tags ---
+  - Accenture (accenture) [COMPANY]
+  - Career (career) []
+  - interview question (interview-question) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: S5fNxSr3
+Title: Greedy Bitwise Question for Amazon SDE 1 OA, was completely stumped lol
+Slug: greedy-bitwise-question-for-amazon-sde-1-bzy3
+Article Type: DISCUSSION
+Posted: 2026-10-03 04:43:42 IST
+Updated: 2026-10-03 04:43:42 IST
+URL: https://leetcode.com/discuss/post/8552696/greedy-bitwise-question-for-amazon-sde-1-bzy3/
+Author: 
+
+--- Summary ---
+I had an amazon SDE 1 OA which followed the 1 DSA question + 1 AI-Assisted Coding Repo Question. The coding repo questions was very easy, however the DSA one was unattemptable for me. Partly due to me never doing a bit manipulation sum in my lifeQues
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1oSM9BsA
+Title: Powerday at CapitalOne
+Slug: powerday-at-capitalone-by-pallavijoshi02-by03
+Article Type: DISCUSSION
+Posted: 2026-10-03 04:10:06 IST
+Updated: 2026-10-03 04:10:06 IST
+URL: https://leetcode.com/discuss/post/8552676/powerday-at-capitalone-by-pallavijoshi02-by03/
+Author: PallaviJoshi02
+
+--- Summary ---
+Hi, looking for some insights on system design part of the technical interview for PowerDay. Here are the parts of prepping email/pointers from the recruiter:"In the System Design focused Technical Interview, there is a specific working problem that
+
+--- Tags ---
+  - Capital One (capital-one) [COMPANY]
+  - Interview (interview) []
+  - powerday (powerday-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: k5Fn1155
+Title: Dell Technologies : Software Engineer Internship (Fall 2025) USA : Interview Experience
+Slug: dell-technologies-software-engineer-inte-ikwb
+Article Type: DISCUSSION
+Posted: 2026-10-03 02:42:34 IST
+Updated: 2026-10-03 02:43:02 IST
+URL: https://leetcode.com/discuss/post/8552648/dell-technologies-software-engineer-inte-ikwb/
+Author: jk20
+
+--- Summary ---
+Company: Dell Technologies
+Team: Office of the CTO (OCTO), AI Dev
+Role: Software Engineer Graduate Co-op
+Location: Massachusetts. Virtual loop
+Date: March 2025
+How it started: Cold application
+Outcome: Offer. Accepted, for Fall 2025The loopFour round
+
+--- Tags ---
+  - Dell (dell) [COMPANY]
+  - Career (career) []
+  - interview experience (interview-experience) []
+  - Algorithm (algorithm) []
+  - Interview (interview) []
+  - AI Coding (ai-coding) []
+  - interview-prep (interview-prep-2) []
+  - InterviewPreparation (interviewpreparation-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: EEycYoZi
+Title: Akamai Interview Guidance
+Slug: akamai-interview-guidance-by-user4650h-dnzl
+Article Type: DISCUSSION
+Posted: 2026-10-03 02:08:55 IST
+Updated: 2026-10-03 02:12:08 IST
+URL: https://leetcode.com/discuss/post/8552628/akamai-interview-guidance-by-user4650h-dnzl/
+Author: user4650H
+
+--- Summary ---
+Has anyone recently given interview for akamai software engineer (0-2ys exp)? What do they ask in first round? it was scheduled with interviewer on hackerrank? please give some insights here
+
+--- Tags ---
+  - Akamai (akamai) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: cGKKNMz7
+Title: SDET Interview at Apple ASE
+Slug: sdet-interview-at-apple-ase-by-anonymous-av1k
+Article Type: DISCUSSION
+Posted: 2026-10-03 01:54:54 IST
+Updated: 2026-10-03 01:54:54 IST
+URL: https://leetcode.com/discuss/post/8552624/sdet-interview-at-apple-ase-by-anonymous-av1k/
+Author: 
+
+--- Summary ---
+What to expect from SDET phone screen round at Apple ASE org?How are SDET interviews at Apple different from SDE ones. Can anyone share real experiences or any tips to help me prepare for upcoming SDET phone screen
+
+--- Tags ---
+  - Apple (apple) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Ate0OyLU
+Title: Cisco: Round 2 Managerial Round
+Slug: cisco-round-2-managerial-round-by-abcd_1-hpeh
+Article Type: DISCUSSION
+Posted: 2026-10-02 23:04:24 IST
+Updated: 2026-10-02 23:04:24 IST
+URL: https://leetcode.com/discuss/post/8552448/cisco-round-2-managerial-round-by-abcd_1-hpeh/
+Author: abcd_1212
+
+--- Summary ---
+I interviewed for the Software Engineer role at Cisco in September. I had R1 with Senior Architect Lead and then attended the manager round. It went on for about 1 hr 10 mins(not DSA or System design) but was mostly about the prev work experience in
+
+--- Tags ---
+  - Cisco (cisco) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: xIsL2lPU
+Title: Longest Palindrome | Python | HashMap Approach
+Slug: longest-palindrome-python-hashmap-approa-upcb
+Article Type: DISCUSSION
+Posted: 2026-10-02 22:11:28 IST
+Updated: 2026-10-02 22:11:28 IST
+URL: https://leetcode.com/discuss/post/8552365/longest-palindrome-python-hashmap-approa-upcb/
+Author: SK__11
+
+--- Summary ---
+ApproachWe count the frequency of each character.For every character, the largest even number of occurrences can be
+used to construct the two sides of a palindrome.If there is any character with an odd frequency, we can place one
+such character in th
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: XzGlW7Qo
+Title: Career Advice for switching to good PBC
+Slug: career-advice-for-switching-to-good-pbc-1ywbt
+Article Type: DISCUSSION
+Posted: 2026-10-02 21:57:25 IST
+Updated: 2026-10-02 22:24:06 IST
+URL: https://leetcode.com/discuss/post/8552343/career-advice-for-switching-to-good-pbc-1ywbt/
+Author: 
+
+--- Summary ---
+PLEASE DON'T IGNORE POST READING. I WOULD REALLY APPRECIATE, ANY INFORMAL/FORMAL ADVICE. Hello all, I am writing this with very heavy heart. I am a SDE from MAANG wiith 2 YOE there and before that I used to work in a service based company for 2 years
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 10
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: CssbmIMo
+Title: Amazon SDE II (L5) vs DocuSign P3 
+Slug: amazon-sde-ii-l5-vs-docusign-p3-by-anony-1bft
+Article Type: DISCUSSION
+Posted: 2026-10-02 21:55:50 IST
+Updated: 2026-10-02 21:55:50 IST
+URL: https://leetcode.com/discuss/post/8552341/amazon-sde-ii-l5-vs-docusign-p3-by-anony-1bft/
+Author: 
+
+--- Summary ---
+Years of Experience: 5
+Prior Experience: Backend systems at a Indian fintechOffer 1: Amazon — SDE II (L5), Groceries
+Base: 50L
+Sign-on: ~17L (yr 1), ~13L (yr 2)
+RSU: ~34L over 4 years (5/15/40/40 style backloaded vest)
+TC: ~68L for yrs 1-2, dropping
+
+--- Tags ---
+  - Career (career) []
+  - Compensation (compensation) []
+  - Offer Comparison (offer-comparison-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0eJt9DrU
+Title: How are developers preparing for AI certifications alongside coding?
+Slug: how-are-developers-preparing-for-ai-cert-0nv1
+Article Type: DISCUSSION
+Posted: 2026-10-02 21:27:44 IST
+Updated: 2026-10-02 21:27:44 IST
+URL: https://leetcode.com/discuss/post/8552289/how-are-developers-preparing-for-ai-cert-0nv1/
+Author: samnickk39
+
+--- Summary ---
+I've recently started exploring AI certifications alongside my coding practice, particularly the Claude Certified Associate – Foundations (CCAO-F).I'm curious how other developers are approaching AI certifications while continuing to practice program
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: xpybb8Z6
+Title: DSA vs AI/LLMs - What should a 2027 CSE student actually prioritize?
+Slug: dsa-vs-aillms-what-should-a-2027-cse-stu-04i2
+Article Type: DISCUSSION
+Posted: 2026-10-02 21:03:00 IST
+Updated: 2026-10-02 21:03:00 IST
+URL: https://leetcode.com/discuss/post/8552254/dsa-vs-aillms-what-should-a-2027-cse-stu-04i2/
+Author: DEULDnuhBM
+
+--- Summary ---
+As a 2027 CSE student, I'm finding it increasingly difficult to decide where to spend my time.On one side, there's DSA and competitive programming - problem solving, algorithms, contests, and interview preparation.On the other, there's AI/LLMs, full-
+
+--- Tags ---
+  - Career (career) []
+  - DSA (dsa) []
+  - AI Coding (ai-coding) []
+  - learn (learn-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: I9FJQTEI
+Title: What are the  all requirements for knight Badge?
+Slug: what-are-the-all-requirements-for-knight-hpog
+Article Type: DISCUSSION
+Posted: 2026-10-02 20:39:13 IST
+Updated: 2026-10-02 20:39:13 IST
+URL: https://leetcode.com/discuss/post/8552213/what-are-the-all-requirements-for-knight-hpog/
+Author: guptadevansh-001
+
+--- Summary ---
+Few days ago  my contest rating crossed 1600 score ,but I didn't  recived Knight badge , I searched online , it says you need to be in top 25 %.I am confused now in which category top 25%.
+top 25 % in contest .
+top 25 in global contest ranking.
+other
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6ry2xT8H
+Title: Should I switch to Java just for machine coding rounds, even though I work in low-level C++?
+Slug: should-i-switch-to-java-just-for-machine-664m
+Article Type: DISCUSSION
+Posted: 2026-10-02 20:03:30 IST
+Updated: 2026-10-02 21:25:00 IST
+URL: https://leetcode.com/discuss/post/8552145/should-i-switch-to-java-just-for-machine-664m/
+Author: 
+
+--- Summary ---
+I work in low-level C++ and I'm prepping to move into a product-based company, open to either C++ or Java/Spring Boot roles. My confusion is specifically about machine coding/LLD rounds — most places seem to default-expect Java there even when the la
+
+--- Tags ---
+  - Technical Interview (technical-interview) [COMPANY]
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+  - interview-prep (interview-prep-2) []
+  - #faang  (faang-3) []
+  - #maang  (maang-2) []
+  - InterviewPreparation (interviewpreparation-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: B9dhKPyB
+Title: Level up your software development! New OMSCS Software Study Guides Available!
+Slug: level-up-your-software-development-new-o-rx3j
+Article Type: DISCUSSION
+Posted: 2026-10-02 19:09:11 IST
+Updated: 2026-10-02 19:09:11 IST
+URL: https://leetcode.com/discuss/post/8552049/level-up-your-software-development-new-o-rx3j/
+Author: PGendotti
+
+--- Summary ---
+Hello,I have just completed the first edition of my course notes for two graduate school courses at Georgia Tech that cover system thinking and design in depth. The courses are CS 6210: Advanced Operating Systems (AOS) and CS 6310: Software Architect
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ejOE6mHz
+Title: Optimus Solutions SDE Intern Interview Experience — OOPS, SQL, DSA, Projects | Not Selected
+Slug: optimus-solutions-sde-intern-interview-e-lw6c
+Article Type: DISCUSSION
+Posted: 2026-10-02 19:03:28 IST
+Updated: 2026-10-02 19:03:28 IST
+URL: https://leetcode.com/discuss/post/8552042/optimus-solutions-sde-intern-interview-e-lw6c/
+Author: sonamnarula2005
+
+--- Summary ---
+I Didn't Get Selected at Optimus Solutions. Here's the Full Interview Experience.Girls-Only Hiring Drive | Noida
+Company: Optimus Solutions
+Role: SDE Intern
+Drive: Girls-Only Drive
+Location: Noida
+Mode: In-person
+Shortlist: 16 girls out of 207 girls
+
+--- Tags ---
+  - Technical Interview (technical-interview) [COMPANY]
+  - Career (career) []
+  - interview experience (interview-experience) []
+  - On campus (on-campus) []
+  - Interview (interview) []
+  - SDE Intern (sde-intern-2) []
+  - internship advice (internship-advice) []
+  - interview preparation help (interview-preparation-help) []
+
+--- Reactions ---
+  UPVOTE: 7
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8KCU6ffB
+Title: FDE Interviews
+Slug: fde-interviews-by-hozrifai-ppbn
+Article Type: DISCUSSION
+Posted: 2026-10-02 18:48:48 IST
+Updated: 2026-10-02 18:48:48 IST
+URL: https://leetcode.com/discuss/post/8552017/fde-interviews-by-hozrifai-ppbn/
+Author: hozrifai
+
+--- Summary ---
+Hi,May I ask if anyone have interviewed for FDE Position in Salesforce?Please share your experience and what type of questions have you had.Thanks
+
+--- Tags ---
+  - Salesforce (salesforce) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7MXsKuxN
+Title: Oracle Screening Round: Experience: 5 years | Role: IC3 | Location: Bangalore
+Slug: oracle-screening-round-experience-5-year-92zh
+Article Type: DISCUSSION
+Posted: 2026-10-02 18:41:19 IST
+Updated: 2026-10-02 18:41:19 IST
+URL: https://leetcode.com/discuss/post/8552004/oracle-screening-round-experience-5-year-92zh/
+Author: 
+
+--- Summary ---
+A recruiter messaged me on LinkedIn,  I shared my resume, and got invited a week later.
+The interviewer began by explaining the agenda and how the round would proceed. He then gave a short introduction about himself: he works on Oracle Health, on a p
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: AtZCOm5m
+Title: Doubts regarding the Space Complexity
+Slug: doubts-regarding-the-space-complexity-by-17qr
+Article Type: DISCUSSION
+Posted: 2026-10-02 18:21:25 IST
+Updated: 2026-10-02 18:21:25 IST
+URL: https://leetcode.com/discuss/post/8551962/doubts-regarding-the-space-complexity-by-17qr/
+Author: ZvlVTJVz5l
+
+--- Summary ---
+Hey folks! I have a doubt regarding Space Complexity.I was solving LeetCode #905 (Sort Array By Parity) and wrote this Java solution:class Solution {
+public int[] sortArrayByParity(int[] nums) {
+int n = nums.length;
+int ans[] = new int[n];
+int idx =
+
+--- Tags ---
+  - Need Help (need-help-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: cO0iAqgR
+Title: Google | L4 | Software Engineer | India | Aug 2026 | Reject
+Slug: google-l4-software-engineer-india-aug-20-zgn1
+Article Type: DISCUSSION
+Posted: 2026-10-02 17:13:53 IST
+Updated: 2026-10-02 17:21:55 IST
+URL: https://leetcode.com/discuss/post/8551877/google-l4-software-engineer-india-aug-20-zgn1/
+Author: 
+
+--- Summary ---
+🚀 Google L4 Software Engineer Interview Experience💼 Experience: 3+ years👨‍💻 Current Role: Software Engineer at FAANG, India🎓 Education: B.Tech, CS, India📝 ApplicationI randomly reached out to a recruiter on LinkedIn, and she scheduled a call with me.
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - India (india) []
+  - Interview (interview) []
+  - L4 (l4-2) []
+
+--- Reactions ---
+  UPVOTE: 10
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: dArl4Pvd
+Title: Atlassian Technical Screen
+Slug: atlassian-technical-screen-by-anonymous_-dse8
+Article Type: DISCUSSION
+Posted: 2026-10-02 16:10:03 IST
+Updated: 2026-10-02 16:10:03 IST
+URL: https://leetcode.com/discuss/post/8551791/atlassian-technical-screen-by-anonymous_-dse8/
+Author: 
+
+--- Summary ---
+HI
+Has Anyone recently given Atlassian Technical Screen Round.
+I was told it will be 20 min coding and 15 min HLD discussion.
+Any one know what type of questions they are asking
+
+--- Tags ---
+  - Atlassian (atlassian) [COMPANY]
+  - interview experience (interview-experience) []
+  - interview question (interview-question) []
+  - Interview (interview) []
+  - interview-prep (interview-prep-2) []
+  - Interview stages (interview-stages) []
+  - InterviewPreparation (interviewpreparation-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vYeQ67NR
+Title: Today's LeetCode Problem Reaction ‼️
+Slug: todays-leetcode-problem-reaction-by-shiy-n2o7
+Article Type: DISCUSSION
+Posted: 2026-10-02 13:50:00 IST
+Updated: 2026-10-02 13:50:00 IST
+URL: https://leetcode.com/discuss/post/8551603/todays-leetcode-problem-reaction-by-shiy-n2o7/
+Author: ShiYoBo
+
+--- Summary ---
+What was ur reaction on today's problem ?•😊
+•🙂
+•😒
+•😡
+Today's problem wasn't easy but it was an intresting one cuz i understood it !!
+
+--- Reactions ---
+  THUMBS_DOWN: 0
+
