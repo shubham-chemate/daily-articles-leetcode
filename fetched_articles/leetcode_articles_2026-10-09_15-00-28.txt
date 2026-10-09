@@ -1,0 +1,1025 @@
+LeetCode Discuss - Latest 46 Articles
+Fetched on: 2026-10-09 15:00:28 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8jTefCbJ
+Title: Recursion & Backtracking: From Brute-Force Search to Intelligent State-Space Exploration
+Slug: mastering-recursion-and-backtracking-sto-g9ng
+Article Type: DISCUSSION
+Posted: 2026-10-09 14:36:43 IST
+Updated: 2026-10-09 14:48:53 IST
+URL: https://leetcode.com/discuss/post/8564074/mastering-recursion-and-backtracking-sto-g9ng/
+Author: Shreyash-Desai
+
+--- Summary ---
+One of the defining differences between an average problem solver and a strong algorithmic thinker is the ability to reason about a search space.Recursion provides a mechanism for exploring smaller subproblems. Backtracking provides a systematic fram
+
+--- Tags ---
+  - Backtracking (backtracking) [TOPIC]
+  - Recursion (recursion) [TOPIC]
+  - DSA (dsa) []
+  - Problem Solving (problem-solving-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8CWt0oPN
+Title: Avathon | SDE 2 | Full Stack Software Engineer | India | July 2026 | Ghosted
+Slug: avathon-sde-2-full-stack-software-engine-9deu
+Article Type: DISCUSSION
+Posted: 2026-10-09 13:56:30 IST
+Updated: 2026-10-09 14:11:22 IST
+URL: https://leetcode.com/discuss/post/8564014/avathon-sde-2-full-stack-software-engine-9deu/
+Author: 
+
+--- Summary ---
+🚀 Avathon SDE 2 Interview Experience💼 Experience: 3 years 3 months👨‍💻 Current Role: Software Engineer at a FAANG company in India🎓 Education: B.Tech, CS, Tier 1, India💰 Current Compensation: ₹33 LPA📝 ApplicationI found about that role on LinkedIn and
+
+--- Tags ---
+  - Full Stack (full-stack) []
+  - Interview (interview) []
+  - SDE 2 (sde-2-3) []
+  - avathon (avathon-3) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: yARr0fDV
+Title: AI-Powered Software Development: How AI Is Changing the SDLC
+Slug: ai-powered-software-development-how-ai-i-lnt7
+Article Type: DISCUSSION
+Posted: 2026-10-09 13:36:45 IST
+Updated: 2026-10-09 13:36:45 IST
+URL: https://leetcode.com/discuss/post/8563989/ai-powered-software-development-how-ai-i-lnt7/
+Author: the_tisa
+
+--- Summary ---
+AI-Powered Software Development: How AI Is Changing the SDLCArtificial intelligence is transforming how businesses build, test, deploy, and maintain software. From generating code to identifying bugs and automating repetitive tasks, AI-powered tools
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: xNzHm3sG
+Title: eBay Interviews
+Slug: ebay-interviews-by-anonymous_user-6pva
+Article Type: DISCUSSION
+Posted: 2026-10-09 13:16:12 IST
+Updated: 2026-10-09 13:17:35 IST
+URL: https://leetcode.com/discuss/post/8563968/ebay-interviews-by-anonymous_user-6pva/
+Author: 
+
+--- Summary ---
+Did anyone interview with eBay recently and cleared all the rounds. Recruiter mentioned that it's positive feedbacks and will receive offer letter, still ended up getting rejected at end? Does eBay always respects verbal confirmation of an offer or h
+
+--- Tags ---
+  - eBay (ebay) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ewaB09Om
+Title: Beginner in Graphs | Need Some Guidance
+Slug: beginner-in-graphs-need-some-guidance-by-1whj
+Article Type: DISCUSSION
+Posted: 2026-10-09 13:11:09 IST
+Updated: 2026-10-09 13:26:12 IST
+URL: https://leetcode.com/discuss/post/8563959/beginner-in-graphs-need-some-guidance-by-1whj/
+Author: ranjan_22054204
+
+--- Summary ---
+Hey everyone!I'm currently learning Graphs in Java and want to build a really strong understanding of graph concepts and problem-solving.I've learned BFS, DFS, cycle detection in both directed and undirected graphs using BFS/DFS, topological sorting,
+
+--- Tags ---
+  - Depth-First Search (depth-first-search) [TOPIC]
+  - Graph Theory (graph) [TOPIC]
+  - Directed Acyclic Graph (directed-acyclic-graph) []
+  - Graph Coloring (graph-coloring) []
+  - DSA (dsa) []
+  - Graph Theory (graph-theory) []
+  - Bipartite Graph (bipartite-graph) []
+  - graph (graph-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: KPVS8wR9
+Title: Recursion Clicked When I Drew the Call Tree | Part 2: Branches, Returns, Backtracking
+Slug: recursion-clicked-when-i-drew-the-call-t-7dg2
+Article Type: DISCUSSION
+Posted: 2026-10-09 12:40:05 IST
+Updated: 2026-10-09 12:40:05 IST
+URL: https://leetcode.com/discuss/post/8563921/recursion-clicked-when-i-drew-the-call-t-7dg2/
+Author: va-run-6626
+
+--- Summary ---
+Recursion clicked when I drew the call tree — Part 2In Part 1, I explained how mathematical induction helped me reason about one recursive call: define the promise, handle the base case, assume a smaller call works, and build the current answer. But
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: KMvVMLrs
+Title: Recursion Clicked When I Understood Induction | Part 1: Base Case, Hypothesis, Step
+Slug: recursion-clicked-when-i-understood-indu-0ors
+Article Type: DISCUSSION
+Posted: 2026-10-09 12:38:31 IST
+Updated: 2026-10-09 12:41:12 IST
+URL: https://leetcode.com/discuss/post/8563918/recursion-clicked-when-i-understood-indu-0ors/
+Author: va-run-6626
+
+--- Summary ---
+Recursion clicked when I understood induction — Part 1I used to trace every recursive call in my head and lose track of what was returning. Mathematical induction gave me a cleaner way to think. A recursive function makes a promise: if I can solve a
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0TMuGwei
+Title: Upcoming Interview 
+Slug: upcoming-interview-by-karthikmohan7639-qldy
+Article Type: DISCUSSION
+Posted: 2026-10-09 12:27:22 IST
+Updated: 2026-10-09 12:27:22 IST
+URL: https://leetcode.com/discuss/post/8563891/upcoming-interview-by-karthikmohan7639-qldy/
+Author: karthikmohan7639
+
+--- Summary ---
+What dsa topics I should practice for mountblue technologies interview?
+I have done 120+ hackerrank problems that of easy level problems will that be enough
+please give me suggestions or previously asked patterns and what it would be like the work cu
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4l8sUKpj
+Title: Changing trends on hiring 
+Slug: changing-trends-on-hiring-by-karthikmoha-2kwz
+Article Type: DISCUSSION
+Posted: 2026-10-09 12:21:58 IST
+Updated: 2026-10-09 12:21:58 IST
+URL: https://leetcode.com/discuss/post/8563882/changing-trends-on-hiring-by-karthikmoha-2kwz/
+Author: karthikmohan7639
+
+--- Summary ---
+Recently the companies started to hire the people who can use AI efficiently to do the task who has the knowledge on codebase but need not write the entire codebase Will these be hereafter new trend orelse the conditions will change in future need to
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: OXRR7Z68
+Title: Need some help
+Slug: need-some-help-by-erikliu69-1sbl
+Article Type: DISCUSSION
+Posted: 2026-10-09 12:16:06 IST
+Updated: 2026-10-09 12:16:06 IST
+URL: https://leetcode.com/discuss/post/8563871/need-some-help-by-erikliu69-1sbl/
+Author: ERIKLIU69
+
+--- Reactions ---
+  UPVOTE: 1
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6eHQms7b
+Title: Advice Regarding changing scenario of interview preparation . Project section of leetcode ...
+Slug: advice-regarding-changing-scenario-of-in-euz7
+Article Type: DISCUSSION
+Posted: 2026-10-09 11:18:22 IST
+Updated: 2026-10-09 11:18:22 IST
+URL: https://leetcode.com/discuss/post/8563797/advice-regarding-changing-scenario-of-in-euz7/
+Author: Ritvik_shekhar
+
+--- Summary ---
+Hi I need guidance from the community. How is this interview preparation changing. I am seeing that format of OA is changing. What I saw that some companies like BNY/Amazon etc are giving dsa + fixing backend code. So what should be my now preperatio
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: gvqAtZko
+Title: Upcoming Interview: D. E. Shaw Screening Round
+Slug: upcoming-interview-d-e-shaw-screening-ro-xrpo
+Article Type: DISCUSSION
+Posted: 2026-10-09 10:55:21 IST
+Updated: 2026-10-09 10:55:21 IST
+URL: https://leetcode.com/discuss/post/8563745/upcoming-interview-d-e-shaw-screening-ro-xrpo/
+Author: 
+
+--- Summary ---
+Hi everyone!
+Has anyone recently appeared for the D. E. Shaw Software Engineer screening round in India?
+I'd love to hear about your recent interview experience, particularly:
+DSA: What kind of problems were asked, and what was the difficulty level?
+
+--- Tags ---
+  - DE Shaw (de-shaw) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Q7zXkKQ6
+Title: Upcoming Interviews 
+Slug: upcoming-interviews-by-enigma_309-l21m
+Article Type: DISCUSSION
+Posted: 2026-10-09 09:49:44 IST
+Updated: 2026-10-09 09:49:44 IST
+URL: https://leetcode.com/discuss/post/8563653/upcoming-interviews-by-enigma_309-l21m/
+Author: enigma_309
+
+--- Summary ---
+Hi Community,I have an upcoming interview(CoderPad) at MongoDB.
+Seeking your help in preparation plese share your experiences or references.
+
+--- Tags ---
+  - MongoDB (mongodb) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: jN4J3oBO
+Title: Backend developers: what is one backend problem you wish there was a good open-source solution for?
+Slug: backend-developers-what-is-one-backend-p-1mmd
+Article Type: DISCUSSION
+Posted: 2026-10-09 09:45:42 IST
+Updated: 2026-10-09 09:45:42 IST
+URL: https://leetcode.com/discuss/post/8563646/backend-developers-what-is-one-backend-p-1mmd/
+Author: 
+
+--- Summary ---
+I'm looking for a backend-focused project to work on, but I don't want to build another generic CRUD app.I'd like to build something that:solves a real developer problem
+has an API/SDK that other projects can use
+can be self-hosted
+is useful enough t
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Yy3YLzds
+Title: LeetCode 54 – Understanding Spiral Traversal
+Slug: leetcode-54-understanding-spiral-travers-6726
+Article Type: DISCUSSION
+Posted: 2026-10-09 09:28:26 IST
+Updated: 2026-10-09 09:28:26 IST
+URL: https://leetcode.com/discuss/post/8563625/leetcode-54-understanding-spiral-travers-6726/
+Author: bhartibohra27
+
+--- Summary ---
+Solved Spiral Matrix today!The main challenge was traversing the matrix in clockwise spiral order without repeating any elements. I used four boundaries: top, bottom, left, and right to move through the matrix layer by layer.This problem helped me pr
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: zOsS7sXO
+Title: Has Anyone Actually Gotten a Job Offer Because of Their LeetCode Profile ⁉️
+Slug: has-anyone-actually-gotten-a-job-offer-b-8jt3
+Article Type: DISCUSSION
+Posted: 2026-10-09 08:21:44 IST
+Updated: 2026-10-09 08:21:44 IST
+URL: https://leetcode.com/discuss/post/8563567/has-anyone-actually-gotten-a-job-offer-b-8jt3/
+Author: ShiYoBo
+
+--- Summary ---
+I've noticed that some people have impressive contest ratings, thousands of solved problems, and years of consistent activity on LeetCode.It makes me curious whether recruiters actually pay attention to these profiles.Has a recruiter ever contacted y
+
+--- Tags ---
+  - LeetCode (leetcode) [COMPANY]
+  - Career (career) []
+  - Leetcode Community (leetcode-community-2) []
+  - Programming (programming-2) []
+  - job (job-2) []
+  - Leetcode Team (leetcode-team-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: F6FjZNzT
+Title: Has Anyone Here Landed an Internship Because of Their GitHub Contributions ⁉️
+Slug: has-anyone-here-landed-an-internship-bec-khy2
+Article Type: DISCUSSION
+Posted: 2026-10-09 08:20:22 IST
+Updated: 2026-10-09 08:20:22 IST
+URL: https://leetcode.com/discuss/post/8563566/has-anyone-here-landed-an-internship-bec-khy2/
+Author: ShiYoBo
+
+--- Summary ---
+I've seen developers say that contributing to open source helped them get noticed by companies, sometimes without even applying traditionally.I'm curious whether anyone here has actually experienced this.Did a recruiter discover your GitHub, or did y
+
+--- Tags ---
+  - Github (github) [COMPANY]
+  - Career (career) []
+  - job (job-2) []
+  - Open Source Project (open-source-project) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: EkIPgyoB
+Title: Has Anyone Here Built a Product That People Actually Use ⁉️
+Slug: has-anyone-here-built-a-product-that-peo-gh2t
+Article Type: DISCUSSION
+Posted: 2026-10-09 08:17:06 IST
+Updated: 2026-10-09 08:17:06 IST
+URL: https://leetcode.com/discuss/post/8563559/has-anyone-here-built-a-product-that-peo-gh2t/
+Author: ShiYoBo
+
+--- Summary ---
+I'm curious about developers who went beyond coding projects and actually launched something.Not necessarily a million-dollar startup. Even a small tool with 50–100 real users would be interesting.If you've built and launched your own product:
+What d
+
+--- Tags ---
+  - LeetCode (leetcode) [COMPANY]
+  - Leetcode Community (leetcode-community-2) []
+  - Programming (programming-2) []
+  - Leetcode Team (leetcode-team-2) []
+  - Open Source Project (open-source-project) []
+  - Tools  (tools-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4dA158dJ
+Title: What's the Most Insane Project You've Seen a Student Build ⁉️
+Slug: whats-the-most-insane-project-youve-seen-gvzw
+Article Type: DISCUSSION
+Posted: 2026-10-09 08:15:50 IST
+Updated: 2026-10-09 08:15:50 IST
+URL: https://leetcode.com/discuss/post/8563558/whats-the-most-insane-project-youve-seen-gvzw/
+Author: ShiYoBo
+
+--- Summary ---
+I'm not talking about another Netflix clone, weather app, or basic CRUD project.I'm curious about students who are building genuinely interesting things.Maybe someone built their own operating system, compiler, database engine, programming language,
+
+--- Tags ---
+  - LeetCode (leetcode) [COMPANY]
+  - Programming (programming-2) []
+  - Leetcode Team (leetcode-team-2) []
+  - Open Source Project (open-source-project) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: MbJ95My9
+Title: TikTok MLE Intern technical interview
+Slug: tiktok-mle-intern-technical-interview-by-2eds
+Article Type: DISCUSSION
+Posted: 2026-10-09 07:22:40 IST
+Updated: 2026-10-09 07:22:40 IST
+URL: https://leetcode.com/discuss/post/8563517/tiktok-mle-intern-technical-interview-by-2eds/
+Author: 
+
+--- Summary ---
+I have a technical interview for the data search/visual search team in less than a week, any advice (problems, topics, concepts to study)?
+
+--- Tags ---
+  - TikTok (tiktok) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: rQthAzk8
+Title: 1,324 Solved, Guardian at 2166: What My Own Data Taught Me
+Slug: 1324-solved-guardian-at-2166-what-my-own-ltqo
+Article Type: DISCUSSION
+Posted: 2026-10-09 07:03:23 IST
+Updated: 2026-10-09 07:03:23 IST
+URL: https://leetcode.com/discuss/post/8563505/1324-solved-guardian-at-2166-what-my-own-ltqo/
+Author: Sagargupta1610
+
+--- Summary ---
+I went back through five years of my own LeetCode data. Three numbers changed how I practice and how I write: the Q3 rating effect, when solution posts get read, and why multi-language code wins.
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: uVOqaTgL
+Title: How should I prepare for SDE internships without an AI background?
+Slug: how-should-i-prepare-for-sde-internships-p1dp
+Article Type: DISCUSSION
+Posted: 2026-10-09 03:53:13 IST
+Updated: 2026-10-09 03:53:13 IST
+URL: https://leetcode.com/discuss/post/8563432/how-should-i-prepare-for-sde-internships-p1dp/
+Author: heygaurav
+
+--- Summary ---
+IM Currently preparing for software development engineering (SDE) internships and want to understand how to prepare effectively.My main focus is on DSA, problem-solving, and software development, but I don't have a strong AI/ML background. I'm unsure
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: iiwtI1qF
+Title: Redis Deep Dive: Architecture, Memory Management & Persistence Guide
+Slug: redis-deep-dive-architecture-memory-mana-3z7w
+Article Type: DISCUSSION
+Posted: 2026-10-09 03:17:30 IST
+Updated: 2026-10-09 03:17:30 IST
+URL: https://leetcode.com/discuss/post/8563423/redis-deep-dive-architecture-memory-mana-3z7w/
+Author: ankit_prabhavak
+
+--- Summary ---
+Redis Deep Dive Revision Notes1. Core Concept & High-Level Architecture
+Definition: An in-memory key-value store engineered for ultra-low latency and extreme throughput by keeping all active datasets in RAM rather than on disk.
+Primary Role: Operates
+
+--- Tags ---
+  - Database (database) [TOPIC]
+  - System Design (system-design) []
+  - Backend (backend) []
+  - DevOps (devops) []
+  - Redis (redis-3) []
+  - Architecture  (architecture-2) []
+  - Caching  (caching-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: klCScrQ1
+Title: Anyone recently had Atlassian Browser coding and AI round.. Need help on this.
+Slug: anyone-recently-had-atlassian-browser-co-j31p
+Article Type: DISCUSSION
+Posted: 2026-10-09 02:27:44 IST
+Updated: 2026-10-09 02:48:14 IST
+URL: https://leetcode.com/discuss/post/8563397/anyone-recently-had-atlassian-browser-co-j31p/
+Author: 
+
+--- Summary ---
+Anyone recently had Atlassian Browser coding and AI round.. i wanted to know what is the interview format and expectation.
+
+--- Tags ---
+  - Atlassian (atlassian) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kYm9qUWQ
+Title: 🤖 The 10 Best Large Language Models for Developers
+Slug: the-10-best-large-language-models-for-de-2i71
+Article Type: DISCUSSION
+Posted: 2026-10-09 01:16:11 IST
+Updated: 2026-10-09 01:16:11 IST
+URL: https://leetcode.com/discuss/post/8563337/the-10-best-large-language-models-for-de-2i71/
+Author: Him_Kasera
+
+--- Summary ---
+The LLM landscape is changing extremely fast. Instead of simply asking “Which model is the biggest?”, a better question is:
+Which model is best for the task I actually want to build?
+Different models are optimized for different use cases — conversati
+
+--- Tags ---
+  - AI Coding (ai-coding) []
+  - LLM (llm-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DWFRtyQl
+Title: Infosys Interview scheduled - need some guidance
+Slug: infosys-interview-scheduled-need-some-gu-un1q
+Article Type: DISCUSSION
+Posted: 2026-10-09 00:54:42 IST
+Updated: 2026-10-09 00:54:42 IST
+URL: https://leetcode.com/discuss/post/8563317/infosys-interview-scheduled-need-some-gu-un1q/
+Author: 
+
+--- Summary ---
+Hi Recently its my infosys interview for (Java FSD, 2-3 years exp)anyone suggests any specific pattern of questions or some guidance,
+would be really helpful.
+
+--- Tags ---
+  - Infosys (infosys) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vE3NnwlW
+Title: How to optimized this problem in space complexity term's?
+Slug: how-to-optimized-this-problem-in-space-c-20rn
+Article Type: DISCUSSION
+Posted: 2026-10-08 23:57:35 IST
+Updated: 2026-10-08 23:57:35 IST
+URL: https://leetcode.com/discuss/post/8563257/how-to-optimized-this-problem-in-space-c-20rn/
+Author: JAYESH_THAR_14
+
+--- Summary ---
+``
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: undjRDBw
+Title: Okta Staff Engineer Interview Experience - Sept 2026 - Rejected (Ghosted)
+Slug: okta-staff-engineer-interview-experience-jxvy
+Article Type: DISCUSSION
+Posted: 2026-10-08 23:37:51 IST
+Updated: 2026-10-08 23:37:51 IST
+URL: https://leetcode.com/discuss/post/8563231/okta-staff-engineer-interview-experience-jxvy/
+Author: 
+
+--- Summary ---
+YoE: 9
+Current CTC: 70 LPAI was contacted by Okta recruiter about opening for a staff engineer role and they mentioned an expected budget about 90 LPA, for which I accepted after some hesitation.Rounds:
+Project discussion (30 mins) + DSA Question (Ne
+
+--- Tags ---
+  - Okta (okta) [COMPANY]
+  - Staff (staff) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0R7cYc0p
+Title: anyone got removed from waitlist for google ai builder cup ? 
+Slug: anyone-got-removed-from-waitlist-for-goo-q5rk
+Article Type: DISCUSSION
+Posted: 2026-10-08 22:56:36 IST
+Updated: 2026-10-08 22:56:36 IST
+URL: https://leetcode.com/discuss/post/8563140/anyone-got-removed-from-waitlist-for-goo-q5rk/
+Author: 
+
+--- Summary ---
+anyone got removed from waitlist for google ai builder cup ? I have been currently in waitlist
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZqVLpqB5
+Title: Laid Off | 10 Years of Mobile App Development Experience | Looking for FAANG DSA Interview Questions
+Slug: laid-off-10-years-of-mobile-app-developm-o54p
+Article Type: DISCUSSION
+Posted: 2026-10-08 22:21:22 IST
+Updated: 2026-10-08 22:21:22 IST
+URL: https://leetcode.com/discuss/post/8563080/laid-off-10-years-of-mobile-app-developm-o54p/
+Author: 
+
+--- Summary ---
+Hi everyone,I have around 10 years of experience in mobile app development, primarily as an iOS developer, and was recently laid off.I haven't attended any interviews in the last 2–3 years, so I'm not sure what the current interview trends and expect
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: X4lXMkF9
+Title: What actually helped you improve at DSA?
+Slug: what-actually-helped-you-improve-at-dsa-mjg39
+Article Type: DISCUSSION
+Posted: 2026-10-08 22:20:58 IST
+Updated: 2026-10-08 22:20:58 IST
+URL: https://leetcode.com/discuss/post/8563079/what-actually-helped-you-improve-at-dsa-mjg39/
+Author: Pranavv31
+
+--- Summary ---
+I’m currently learning DSA and I’ve noticed something:
+understanding a solution is much easier than solving the problem from scratch.
+For beginners, what helped you improve the most?
+A) Solve 2–3 problems daily
+B) Focus on one topic at a time
+C) Try
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vB7bqMdu
+Title: Mock Interviews?
+Slug: mock-interviews-by-krisalay-mgd2
+Article Type: DISCUSSION
+Posted: 2026-10-08 20:59:05 IST
+Updated: 2026-10-08 20:59:05 IST
+URL: https://leetcode.com/discuss/post/8562975/mock-interviews-by-krisalay-mgd2/
+Author: krisalay
+
+--- Summary ---
+Hi everyone, I am providing mock interviews for people prepping for DSA/LLD/System-Design. Anyone interested, comment or dm.
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7kYCARaS
+Title: how to start leetcode from basics and solve problems for hours ????
+Slug: how-to-start-leetcode-from-basics-and-so-vy9l
+Article Type: DISCUSSION
+Posted: 2026-10-08 20:51:55 IST
+Updated: 2026-10-08 20:51:55 IST
+URL: https://leetcode.com/discuss/post/8562960/how-to-start-leetcode-from-basics-and-so-vy9l/
+Author: nishantx1
+
+--- Summary ---
+im a begginer and i wanna know how to use leetcode so i can sharp my coding skills and yeah  create things
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: qCHLToen
+Title: Juspay Hackerearth Assessment Response.
+Slug: juspay-hackerearth-assessment-response-b-bg83
+Article Type: DISCUSSION
+Posted: 2026-10-08 19:25:48 IST
+Updated: 2026-10-08 19:25:48 IST
+URL: https://leetcode.com/discuss/post/8562808/juspay-hackerearth-assessment-response-b-bg83/
+Author: 
+
+--- Summary ---
+Does anyone got any response from juspay for online assessment which was held around September 19th and 20th on hackerearth ????
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #35
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: HDdq1Miw
+Title: Solved 1491. Average Salary Excluding the Minimum and Maximum Salary.
+Slug: solved-1491-average-salary-excluding-the-9re1
+Article Type: DISCUSSION
+Posted: 2026-10-08 18:56:39 IST
+Updated: 2026-10-08 18:56:39 IST
+URL: https://leetcode.com/discuss/post/8562768/solved-1491-average-salary-excluding-the-9re1/
+Author: bhartibohra27
+
+--- Summary ---
+This question looked simple at first, but the testcase confused me for a while. I had to carefully check the sum, minimum, maximum, and average calculation. A simple problem, but a good reminder to verify every step.Overall, a nice problem for practi
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #36
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: QRmAJmd1
+Title: Need Help Regarding Weekly Rewards
+Slug: need-help-regarding-weekly-rewards-by-an-z2t1
+Article Type: DISCUSSION
+Posted: 2026-10-08 18:26:23 IST
+Updated: 2026-10-08 18:26:23 IST
+URL: https://leetcode.com/discuss/post/8562727/need-help-regarding-weekly-rewards-by-an-z2t1/
+Author: 
+
+--- Summary ---
+Hi everyone,I participated in Contest and secured Rank 5. I wanted to ask about the rewards for the contest.I haven't received any email regarding the reward yet. Does anyone know when LeetCode usually sends the reward email or what the process is fo
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+  - Need Help (need-help-2) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #37
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7jIH5F69
+Title: Looking for solutions: The K-th Surviving Universe (custom problem, no one has solved it yet) ‼️
+Slug: looking-for-solutions-the-k-th-surviving-0260
+Article Type: DISCUSSION
+Posted: 2026-10-08 18:20:03 IST
+Updated: 2026-10-08 18:20:03 IST
+URL: https://leetcode.com/discuss/post/8562719/looking-for-solutions-the-k-th-surviving-0260/
+Author: ShiYoBo
+
+--- Summary ---
+The K-th Surviving UniverseYou are given an integer n, an integer array weights, and a 2D integer array operations.There are n binary variables, labeled from 1 to n. Each variable can contain either 0 or 1.The cost of an assignment is defined as:cost
+
+════════════════════════════════════════════════════════════════════════════════
+Article #38
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kDZ9TMxW
+Title: Looking for solutions: Grounded Web (custom problem, no one has solved it yet) ‼️
+Slug: looking-for-solutions-grounded-web-custo-mdwz
+Article Type: DISCUSSION
+Posted: 2026-10-08 18:16:32 IST
+Updated: 2026-10-08 18:16:32 IST
+URL: https://leetcode.com/discuss/post/8562713/looking-for-solutions-grounded-web-custo-mdwz/
+Author: ShiYoBo
+
+--- Summary ---
+3999. Grounded Web HardYou are given an integer n and a 2D integer array edges describing an undirected multigraph with vertices labeled from 0 to n - 1. Each edges[i] = [ui, vi] is one physical edge. Self-loops (ui == vi) and repeated edges are allo
+
+--- Tags ---
+  - Graph Theory (graph) [TOPIC]
+  - LeetCode (leetcode) [COMPANY]
+  - DSA (dsa) []
+  - Problem Solving (problem-solving-2) []
+  - question (question-3) []
+  - Leetcode Community (leetcode-community-2) []
+  - graph (graph-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #39
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ljMutVgt
+Title: Amazon SDE-II Interview — How Would You Evaluate This Coding Round?
+Slug: amazon-sde-ii-interview-how-would-you-ev-7q6c
+Article Type: DISCUSSION
+Posted: 2026-10-08 17:58:13 IST
+Updated: 2026-10-08 21:35:20 IST
+URL: https://leetcode.com/discuss/post/8562685/amazon-sde-ii-interview-how-would-you-ev-7q6c/
+Author: Dhruthi_leetcode
+
+--- Summary ---
+Amazon SDE-II Technical Interview — Looking for Honest Feedback on My Coding RoundI recently had an SDE-II technical interview and would appreciate honest opinions from people who have interviewed at Amazon or similar companies.I was given two coding
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #40
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: t18Wtprd
+Title: Second Shortest Distance in a Grid - Easy Version
+Slug: second-shortest-distance-in-a-grid-easy-5tp10
+Article Type: DISCUSSION
+Posted: 2026-10-08 17:52:53 IST
+Updated: 2026-10-08 17:52:53 IST
+URL: https://leetcode.com/discuss/post/8562677/second-shortest-distance-in-a-grid-easy-5tp10/
+Author: Adham0X1Star
+
+--- Summary ---
+Statement(summary)Ramy is heading to work, but the shortest route is too crowded. Help him find the second shortest distinct distance to his destination.You are given an n × m grid:
+. represents an open cell.
+# represents a blocked cell.
+Start at the
+
+--- Tags ---
+  - C++ (cpp) []
+  - Java (java) []
+  - Python3 (python3) []
+  - Data Structure and Algorithms (ds-and-algorithm) []
+  - learning (learning-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #41
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: iBZuB8Um
+Title: Zomato | SDE 1 | Gurgaon | Compensation 
+Slug: zomato-sde-1-gurgaon-compensation-by-ano-in2o
+Article Type: DISCUSSION
+Posted: 2026-10-08 16:54:24 IST
+Updated: 2026-10-08 16:54:24 IST
+URL: https://leetcode.com/discuss/post/8562604/zomato-sde-1-gurgaon-compensation-by-ano-in2o/
+Author: 
+
+--- Summary ---
+Education: B.Tech from Tier 2
+Years of Experience: 1+
+Prior Experience: Product based companyCompany: Zomato
+Title/Level: SDE1
+Location: Gurgaon, IndiaBase Salary: 27L INR
+Minimum Bonus :-
+1st year - 5L INR
+2nd year - 7L INRTotal comp :-
+1st year: 32
+
+--- Tags ---
+  - Zomato (zomato) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #42
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Nb6mjC5e
+Title: MoneyView | Software Engineer  | Bangalore 
+Slug: moneyview-software-engineer-bangalore-by-bzqn
+Article Type: DISCUSSION
+Posted: 2026-10-08 16:51:22 IST
+Updated: 2026-10-08 16:51:22 IST
+URL: https://leetcode.com/discuss/post/8562599/moneyview-software-engineer-bangalore-by-bzqn/
+Author: 
+
+--- Summary ---
+Writting this experince after few months of interview process.Current Position: Staff
+Location: BangaloreThis was for a relatively new role that MoneyView was hiring for.Round 1 — System Design / LLD
+The first 20–30 minutes were spent discussing my p
+
+--- Tags ---
+  - Moneyview (moneyview) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #43
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: VkmzJNXn
+Title:  graduated in 2023, non-traditional background — need genuine advice on transitioning into tech
+Slug: graduated-in-2023-non-traditional-backgr-uv93
+Article Type: DISCUSSION
+Posted: 2026-10-08 15:55:32 IST
+Updated: 2026-10-08 15:56:18 IST
+URL: https://leetcode.com/discuss/post/8562535/graduated-in-2023-non-traditional-backgr-uv93/
+Author: Koollias
+
+--- Summary ---
+25.5 years old, graduated in 2023, non-traditional background — need genuine advice on transitioning into techI’m 25.5 years old and graduated in 2023 with a CSE degree from a college affiliated with GGSIPU.My career path has been very unconventional
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #44
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WKEf5gW4
+Title: Anyone Participated in a Hackathon Recently? What Was the Experience REALLY Like?
+Slug: anyone-participated-in-a-hackathon-recen-jz2m
+Article Type: DISCUSSION
+Posted: 2026-10-08 15:23:41 IST
+Updated: 2026-10-08 15:23:41 IST
+URL: https://leetcode.com/discuss/post/8562498/anyone-participated-in-a-hackathon-recen-jz2m/
+Author: ShiYoBo
+
+--- Summary ---
+I've been getting increasingly interested in hackathons, especially events organized by companies like Google, Microsoft, Amazon, and other major tech organizations.But I'm curious about what actually happens beyond the announcements, prizes, and win
+
+--- Tags ---
+  - LeetCode (leetcode) [COMPANY]
+  - Career (career) []
+  - hackathon A (hackathon-a) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #45
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: yvAzqIpq
+Title: No interviews, no rejection, no feedback — how do you keep going?
+Slug: no-interviews-no-rejection-no-feedback-h-ytau
+Article Type: DISCUSSION
+Posted: 2026-10-08 15:22:16 IST
+Updated: 2026-10-08 15:22:16 IST
+URL: https://leetcode.com/discuss/post/8562495/no-interviews-no-rejection-no-feedback-h-ytau/
+Author: 
+
+--- Summary ---
+Previous post: https://leetcode.com/discuss/post/8558709/2-yoe-300-400-job-applications-150-cold-jcrbu/I want to ask something honestly. How do you guys keep yourself motivated during a long job search when you are not even getting interviews?It has
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #46
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: PoZgoS1S
+Title: Has Anyone Here Actually Interviewed at Google, Apple, Microsoft, or Meta?
+Slug: has-anyone-here-actually-interviewed-at-ptmdw
+Article Type: DISCUSSION
+Posted: 2026-10-08 14:26:45 IST
+Updated: 2026-10-08 14:26:45 IST
+URL: https://leetcode.com/discuss/post/8562426/has-anyone-here-actually-interviewed-at-ptmdw/
+Author: ShiYoBo
+
+--- Summary ---
+I'm genuinely curious about what the interview experience is like at these companies.We hear a lot about their difficult technical interviews, but rarely about what actually happens throughout the process.If you've interviewed at any of these compani
+
+--- Tags ---
+  - LeetCode (leetcode) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+  - Leetcode Community (leetcode-community-2) []
+  - Product based company (product-based-company-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
