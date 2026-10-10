@@ -1,0 +1,795 @@
+LeetCode Discuss - Latest 35 Articles
+Fetched on: 2026-10-10 14:22:14 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: fKni63YX
+Title: IBH for Recursion: A Deep Dive with 779. K-th Symbol in Grammar
+Slug: ibh-for-recursion-a-deep-dive-with-779-k-ezh0
+Article Type: DISCUSSION
+Posted: 2026-10-10 13:57:42 IST
+Updated: 2026-10-10 13:57:42 IST
+URL: https://leetcode.com/discuss/post/8565445/ibh-for-recursion-a-deep-dive-with-779-k-ezh0/
+Author: va-run-6626
+
+--- Summary ---
+Yesterday I wrote Part 1: how induction helped me understand recursion and Part 2: why I draw recursion trees. Those posts introduced the idea. This one works through a complete LeetCode problem slowly enough to show exactly where the base case, hypo
+
+--- Tags ---
+  - Recursion (recursion) [TOPIC]
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: RQqxdcN1
+Title: I don't understand why anyone would just copy-paste the solutions.
+Slug: i-dont-understand-why-anyone-would-just-xshfr
+Article Type: DISCUSSION
+Posted: 2026-10-10 13:15:07 IST
+Updated: 2026-10-10 13:15:07 IST
+URL: https://leetcode.com/discuss/post/8565398/i-dont-understand-why-anyone-would-just-xshfr/
+Author: amanicorn
+
+--- Summary ---
+The number of people who just copy-paste solutions to POTD questions here is insane. I don't understand what they get out of it. Doesn't copy-pasting solutions just to make your profile look all green make you feel worse than not being able to solve
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: W0WCN0Xo
+Title: Two Offer Comparison From Big Company Cars24 vs Google Operation Center
+Slug: two-offer-comparison-from-big-company-ca-pif8
+Article Type: DISCUSSION
+Posted: 2026-10-10 12:45:57 IST
+Updated: 2026-10-10 12:45:57 IST
+URL: https://leetcode.com/discuss/post/8565358/two-offer-comparison-from-big-company-ca-pif8/
+Author: vishwassaini25
+
+--- Summary ---
+so basically i have two offers right now,
+GOC - 12LPA (81K inhand) , position - developer specialist
+Cars24 - 18LPA (1.4lakh inhand) , position - react native developer.I am very much confused here,
+GOC has 6 months probation and cars24 have 0 probat
+
+--- Tags ---
+  - Career (career) []
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: F7mzPRzF
+Title: 400+ LeetCode Problems Solved 🚀 | Consistency Beats Talent
+Slug: 400-leetcode-problems-solved-consistency-2ni9
+Article Type: DISCUSSION
+Posted: 2026-10-10 12:27:35 IST
+Updated: 2026-10-10 12:27:35 IST
+URL: https://leetcode.com/discuss/post/8565328/400-leetcode-problems-solved-consistency-2ni9/
+Author: AKSH82005
+
+--- Summary ---
+430+ LeetCode Problems Solved 🚀 | Consistency Beats TalentToday, I’m happy to share that I’ve officially crossed 430+ problems on LeetCode! 🎯
+When I started, I thought solving problems was mainly about knowing the right algorithm. But along the way,
+
+--- Tags ---
+  - coding (coding) [COMPANY]
+  - DSA (dsa) []
+  - Debugging Journey (debugging-journey) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: phkoadMP
+Title: Amazon SDE Internship Interview Experience | OA + Technical Rounds | Rejected
+Slug: amazon-sde-internship-interview-experien-vzvo
+Article Type: DISCUSSION
+Posted: 2026-10-10 12:12:54 IST
+Updated: 2026-10-10 14:03:11 IST
+URL: https://leetcode.com/discuss/post/8565302/amazon-sde-internship-interview-experien-vzvo/
+Author: pranathi5555
+
+--- Summary ---
+Amazon SDE Internship Interview Experience | OA + Technical Rounds | RejectedHi everyone! 👋I wanted to share my Amazon interview experience from around five months ago. Although I didn't make it through the process, I hope this experience helps other
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - SDE (sde) []
+  - DSA (dsa) []
+  - Interview (interview) []
+  - SDE Intern (sde-intern-2) []
+  - internship advice (internship-advice) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: hiMRf95E
+Title: 🔥 Easy Java Solution | No StringBuilder | Beats the Duplicates in One Pass! | 1047 
+Slug: easy-java-solution-no-stringbuilder-beat-vvjv
+Article Type: DISCUSSION
+Posted: 2026-10-10 11:36:16 IST
+Updated: 2026-10-10 11:36:16 IST
+URL: https://leetcode.com/discuss/post/8565240/easy-java-solution-no-stringbuilder-beat-vvjv/
+Author: Farhan_Islam_Rafid
+
+--- Summary ---
+IntuitionWhen solving problems involving adjacent matching elements (such as bracket matching or removing adjacent duplicates like "abbaca" → "ca"), a stack data structure is the natural choice. We only ever need to look at the most recently added ch
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: a1Lj8Yqb
+Title: SDE2 || Fampay
+Slug: sde2-fampay-by-anonymous_user-3psj
+Article Type: DISCUSSION
+Posted: 2026-10-10 11:15:37 IST
+Updated: 2026-10-10 11:15:37 IST
+URL: https://leetcode.com/discuss/post/8565206/sde2-fampay-by-anonymous_user-3psj/
+Author: 
+
+--- Summary ---
+Hi leetcode family, I recently interviewed for sde-2 position at fampay(bangalore) and got offered 30lpa
+breakdown:
+26 fixed
+4 lakh worth esops.
+I dont have any other offer but feel this is little low as I have 4yr of experience at a top fintech comp
+
+--- Tags ---
+  - Career (career) []
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: rjoWL5aV
+Title: Is Top-Down DP Enough for Interviews, or Should I Learn Bottom-Up Too?
+Slug: is-top-down-dp-enough-for-interviews-or-uktpe
+Article Type: DISCUSSION
+Posted: 2026-10-10 10:46:35 IST
+Updated: 2026-10-10 10:46:35 IST
+URL: https://leetcode.com/discuss/post/8565164/is-top-down-dp-enough-for-interviews-or-uktpe/
+Author: ranjan_22054204
+
+--- Summary ---
+Hey everyone!I've been learning Dynamic Programming, and the approach I'm most comfortable with is recursion + memoization (Top-Down DP).Whenever I solve a DP problem, I usually start with recursion, understand the logic, convert it into memoization,
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 14RpeXnz
+Title: InMobi CTC 55 LPA OA QUESTIONS 2026
+Slug: inmobi-ctc-55-lpa-oa-questions-2026-by-y-nax7
+Article Type: DISCUSSION
+Posted: 2026-10-10 10:03:37 IST
+Updated: 2026-10-10 10:03:37 IST
+URL: https://leetcode.com/discuss/post/8565124/inmobi-ctc-55-lpa-oa-questions-2026-by-y-nax7/
+Author: yashoct568
+
+--- Summary ---
+Hi Everyone, Recently I gave Inmobi online assessment for the profile of SDE I, I found the questions quite unique so sharing them for the community here :
+There was a long story which I don't remember, but here is the gist of the question as I remem
+
+--- Tags ---
+  - InMobi (inmobi) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: LsJP4Ai7
+Title: Accepted code vs. code I'd actually want to debug
+Slug: accepted-code-vs-code-id-actually-want-t-x1vv
+Article Type: DISCUSSION
+Posted: 2026-10-10 09:56:10 IST
+Updated: 2026-10-10 09:56:10 IST
+URL: https://leetcode.com/discuss/post/8565114/accepted-code-vs-code-id-actually-want-t-x1vv/
+Author: rishabh049
+
+--- Summary ---
+Was looking at the Longest Substring Without Repeating Characters problem and thought about how much we try to shorten our solutions.You can write it like this:Or write it like this:Both are the same algorithm, with the same time and space complexity
+
+--- Tags ---
+  - DSA (dsa) []
+  - general-discussion (general-discussion) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nbKIxrxA
+Title: Sliding Window Maximum (3 Approaches & Java Code)
+Slug: sliding-window-maximum-3-approaches-java-lvbg
+Article Type: DISCUSSION
+Posted: 2026-10-10 08:05:44 IST
+Updated: 2026-10-10 08:05:44 IST
+URL: https://leetcode.com/discuss/post/8565050/sliding-window-maximum-3-approaches-java-lvbg/
+Author: curiousToLearn
+
+--- Summary ---
+In this video, I have explained 3 different approaches, starting with the basic solution and gradually moving toward the optimized approach.Understand the logic, analyze time complexity, and see how to implement each approach in Java.
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: LdBqjyDO
+Title: HPE SWE Intern Question
+Slug: hpe-swe-intern-question-by-3vbsrei3zz-n7cq
+Article Type: DISCUSSION
+Posted: 2026-10-10 06:53:02 IST
+Updated: 2026-10-10 06:53:02 IST
+URL: https://leetcode.com/discuss/post/8565019/hpe-swe-intern-question-by-3vbsrei3zz-n7cq/
+Author: 3VbSREI3ZZ
+
+--- Summary ---
+Does anyone know what the kinds of question HPE asks with HackerRank for a SWE Intern role?
+
+--- Tags ---
+  - HPE (hpe) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Gm3Kp9b4
+Title: Amazon OA Experience - 9 October, 2026
+Slug: amazon-oa-experience-9-october-2026-by-r-9907
+Article Type: DISCUSSION
+Posted: 2026-10-10 01:40:58 IST
+Updated: 2026-10-10 01:40:58 IST
+URL: https://leetcode.com/discuss/post/8564893/amazon-oa-experience-9-october-2026-by-r-9907/
+Author: rohitpkkumar
+
+--- Summary ---
+I recently gave the Amazon OA, and I want to share my experience with the new format.
+DSA Question
+The question was the same as Maximum Coins From K Consecutive Bags, I just need to add Modulo at last but rest is the same, but with a different scenar
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Interview (interview) []
+  - amazon_OA (amazon-oa-3) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Gd46BXsZ
+Title: 365 Days on LeetCode! One Year of Showing Up
+Slug: 365-days-on-leetcode-one-year-of-showing-8m6y
+Article Type: DISCUSSION
+Posted: 2026-10-10 00:30:31 IST
+Updated: 2026-10-10 00:30:31 IST
+URL: https://leetcode.com/discuss/post/8564840/365-days-on-leetcode-one-year-of-showing-8m6y/
+Author: anjaligupta016
+
+--- Summary ---
+I earned my 365 Days badge on LeetCode, and honestly, it feels special!
+One thing DSA has taught me is that consistency matters. Not every problem is easy, and not every solution comes to mind immediately. There are days when debugging takes longer t
+
+--- Tags ---
+  - Career (career) []
+  - Leetcode badge (leetcode-badge-2) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: RRkEJ7tx
+Title: Preparing for My First System Design Interview — Need Guidance!
+Slug: preparing-for-my-first-system-design-int-ljqi
+Article Type: DISCUSSION
+Posted: 2026-10-10 00:24:59 IST
+Updated: 2026-10-10 00:24:59 IST
+URL: https://leetcode.com/discuss/post/8564834/preparing-for-my-first-system-design-int-ljqi/
+Author: pranathi5555
+
+--- Summary ---
+Title: Preparing for My First System Design Interview — Need Guidance!Hi everyone!I’m preparing for my first system design interview, and I’m not entirely sure how to approach the preparation. I have been practicing DSA, but system design is relative
+
+--- Tags ---
+  - Career (career) []
+  - System Design (system-design) []
+  - Interview (interview) []
+  - System Design for Interviews and Beyond (system-design-for-interviews-and-beyond) []
+  - system Desing (system-desing) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: aaVbJYmL
+Title: Which problem had the biggest “brute force to optimal” aha moment for you?
+Slug: which-problem-had-the-biggest-brute-forc-0jmd
+Article Type: DISCUSSION
+Posted: 2026-10-09 23:40:09 IST
+Updated: 2026-10-09 23:40:09 IST
+URL: https://leetcode.com/discuss/post/8564784/which-problem-had-the-biggest-brute-forc-0jmd/
+Author: Raj_verma147
+
+--- Summary ---
+Share a problem where you first solved it with brute force and then discovered an optimal approach that blew your mind (Sliding Window, Monotonic Stack, etc.). Please mention the problem name and the difference between both approaches.
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: rD1NNIEQ
+Title: Day 63 of My DSA Journey | Minimum Insertions to Balance a Parentheses String
+Slug: day-63-of-my-dsa-journey-minimum-inserti-yu25
+Article Type: DISCUSSION
+Posted: 2026-10-09 23:17:43 IST
+Updated: 2026-10-09 23:17:43 IST
+URL: https://leetcode.com/discuss/post/8564753/day-63-of-my-dsa-journey-minimum-inserti-yu25/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 63 of my DSA journey, and I worked on Minimum Insertions to Balance a Parentheses String.Today's problem focused on finding the minimum number of insertions required to make a parentheses string valid, where every opening parenthesis
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: sJZxrz9o
+Title: Google L4 Interview Experience Date October 5th 2026
+Slug: google-l4-interview-experience-date-octo-iq9r
+Article Type: DISCUSSION
+Posted: 2026-10-09 23:02:00 IST
+Updated: 2026-10-09 23:02:00 IST
+URL: https://leetcode.com/discuss/post/8564735/google-l4-interview-experience-date-octo-iq9r/
+Author: 
+
+--- Summary ---
+Google L4 SWE Interview Experience — Rejected After Technical and Googliness Rounds (October 2026)Hi everyone,I wanted to share my recent Google L4 SWE interview experience and get some feedback from the community.Interview Timeline
+September 2026: C
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - India (india) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Ey9OUhmF
+Title: MSFT offer evaluation L62
+Slug: msft-offer-evaluation-l62-by-anonymous_u-wlsb
+Article Type: DISCUSSION
+Posted: 2026-10-09 22:56:37 IST
+Updated: 2026-10-09 22:56:37 IST
+URL: https://leetcode.com/discuss/post/8564727/msft-offer-evaluation-l62-by-anonymous_u-wlsb/
+Author: 
+
+--- Summary ---
+Recieved MSFT SWE2 offer recently for Azure team.Current SDE1 at Faang (you probably know which XD).
+Current TC: 31LPA , 4.5 yoeOffer is:Base:38LPA
+JB:4+2LPA
+Bonus: 3.8LPA
+Stocks:100kUSD
+TC: 70LPA (first year) 2nd year 68LPAI told HR ok for this, but
+
+--- Tags ---
+  - Microsoft (microsoft) [COMPANY]
+  - Career (career) []
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pxw0eyvE
+Title: 🧠 LeetCode Problem Discussion: Brute Force vs Optimal Approach
+Slug: leetcode-problem-discussion-brute-force-c0iz4
+Article Type: DISCUSSION
+Posted: 2026-10-09 22:37:37 IST
+Updated: 2026-10-09 22:37:37 IST
+URL: https://leetcode.com/discuss/post/8564692/leetcode-problem-discussion-brute-force-c0iz4/
+Author: SatyamGupta16
+
+--- Summary ---
+Hey LeetCoders! 👋
+When solving a LeetCode problem, we often start with a brute-force solution. It helps us understand the problem, but can we make our solution more efficient?
+🚀 Let's Discuss: Brute Force vs. Optimal Approach
+Consider the following p
+
+--- Tags ---
+  - DSA (dsa) []
+  - Array, Hash Table (array-hash-table) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: blm9roZa
+Title: 🧠 LeetCode Problem Discussion: Brute Force vs Optimal Approach
+Slug: leetcode-problem-discussion-brute-force-dcn9n
+Article Type: DISCUSSION
+Posted: 2026-10-09 22:37:05 IST
+Updated: 2026-10-09 22:37:05 IST
+URL: https://leetcode.com/discuss/post/8564691/leetcode-problem-discussion-brute-force-dcn9n/
+Author: SatyamGupta16
+
+--- Summary ---
+Hey LeetCoders! 👋
+When solving a LeetCode problem, we often start with a brute-force solution. It helps us understand the problem, but can we make our solution more efficient?
+🚀 Let's Discuss: Brute Force vs. Optimal Approach
+Consider the following p
+
+--- Tags ---
+  - DSA (dsa) []
+  - Array, Hash Table (array-hash-table) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0oF9SuhX
+Title: Someone just solved a Hard Problem in 2-3 min in contest and I'm still reading for the second time.
+Slug: someone-just-solved-a-hard-problem-in-2-gbw30
+Article Type: DISCUSSION
+Posted: 2026-10-09 22:36:42 IST
+Updated: 2026-10-09 22:36:42 IST
+URL: https://leetcode.com/discuss/post/8564689/someone-just-solved-a-hard-problem-in-2-gbw30/
+Author: SumitKilaniya
+
+--- Summary ---
+Contest cheaters vs. people who actually want to grow as codersI haven't attended a single coding contest yet.I've only watched from outside. And honestly, scrolling through the leaderboards does something weird to your head. Someone solves a Hard in
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WlDAM4Hh
+Title: From grinding DSA in college to feeling lost in my career — need some genuine advice
+Slug: from-grinding-dsa-in-college-to-feeling-9ibr1
+Article Type: DISCUSSION
+Posted: 2026-10-09 22:17:17 IST
+Updated: 2026-10-09 22:17:17 IST
+URL: https://leetcode.com/discuss/post/8564651/from-grinding-dsa-in-college-to-feeling-9ibr1/
+Author: keshavagarwal1234
+
+--- Summary ---
+Hey everyone,I'm writing this because lately I've been feeling a little lost, and I wanted to hear from people who have been through something similar.I'm 21, a 2026 CS and Data Science graduate from a tier-3 college in India. For most of my college
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ffleEAGd
+Title: Day 62 of My DSA Journey | Remove Outermost Parentheses
+Slug: day-62-of-my-dsa-journey-remove-outermos-kd8w
+Article Type: DISCUSSION
+Posted: 2026-10-09 21:11:32 IST
+Updated: 2026-10-09 21:11:32 IST
+URL: https://leetcode.com/discuss/post/8564557/day-62-of-my-dsa-journey-remove-outermos-kd8w/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 62 of my DSA journey, and I worked on Remove Outermost Parentheses.Today's problem focused on removing the outermost parentheses from every primitive valid parentheses substring while keeping the remaining structure intact.The key id
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: GHv5SgXx
+Title: Amazon L5 SDE 2 Phone interview
+Slug: amazon-l5-sde-2-phone-interview-by-anony-v0o8
+Article Type: DISCUSSION
+Posted: 2026-10-09 20:23:56 IST
+Updated: 2026-10-09 20:23:56 IST
+URL: https://leetcode.com/discuss/post/8564500/amazon-l5-sde-2-phone-interview-by-anony-v0o8/
+Author: 
+
+--- Summary ---
+Merge Intervalshttps://leetcode.com/problems/merge-intervals
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Zfarr2Nd
+Title: I have build A mini Prototype of An Application form using html in my Learning phase
+Slug: i-have-build-a-mini-prototype-of-an-appl-s8bh
+Article Type: DISCUSSION
+Posted: 2026-10-09 20:12:24 IST
+Updated: 2026-10-09 20:12:24 IST
+URL: https://leetcode.com/discuss/post/8564490/i-have-build-a-mini-prototype-of-an-appl-s8bh/
+Author: harshbavaskar
+
+--- Summary ---
+https://drive.google.com/file/d/1Gvjhf6wd0q6N33FsJVqRkntl6naEj0rN/view?usp=drivesdk
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: aZ8Z56W5
+Title: Dsa Interview asked in chennai product based companies for anthony
+Slug: dsa-interview-asked-in-chennai-product-b-8u9u
+Article Type: DISCUSSION
+Posted: 2026-10-09 18:49:53 IST
+Updated: 2026-10-10 11:09:15 IST
+URL: https://leetcode.com/discuss/post/8564397/dsa-interview-asked-in-chennai-product-b-8u9u/
+Author: elavarasan92
+
+--- Summary ---
+Array Hash Table Binary Search Depth-First Search Breadth-First Search Graph Theory Sliding Window Binary Tree DSAThese are the problems faced by my junior anthony during interviews in chennai india1. Array & Two Pointers / Sliding WindowDescription:
+
+--- Tags ---
+  - DSA (dsa) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: qRxgMVhE
+Title: Getting my old spark back!!
+Slug: getting-my-old-spark-back-by-amanicorn-l6us
+Article Type: DISCUSSION
+Posted: 2026-10-09 18:24:32 IST
+Updated: 2026-10-09 18:24:32 IST
+URL: https://leetcode.com/discuss/post/8564365/getting-my-old-spark-back-by-amanicorn-l6us/
+Author: amanicorn
+
+--- Summary ---
+Solved 5 quality questions today after a long time. Feels like the old times. Missed this version of me. BTW, the feeling after you solve a good DP question >>>>>
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZC9DEjxn
+Title: can any , good guy help a fresher , what a prepration kit for indian it companies package >=10lpa.
+Slug: can-any-good-guy-help-a-fresher-what-a-p-20jm
+Article Type: DISCUSSION
+Posted: 2026-10-09 18:01:14 IST
+Updated: 2026-10-09 18:01:14 IST
+URL: https://leetcode.com/discuss/post/8564341/can-any-good-guy-help-a-fresher-what-a-p-20jm/
+Author: 
+
+--- Summary ---
+i need tips-trick or roadmap that any good person or experience person can provide to me as his small brother .If you were starting your preparation from scratch today, what roadmap would you follow over the next 3–6 months?Any practical tips, recomm
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DOTV9DB4
+Title: Two facts that contradict each other, and what I'm doing about it before placements
+Slug: two-facts-that-contradict-each-other-and-e0zj
+Article Type: DISCUSSION
+Posted: 2026-10-09 17:53:50 IST
+Updated: 2026-10-09 17:53:50 IST
+URL: https://leetcode.com/discuss/post/8564332/two-facts-that-contradict-each-other-and-e0zj/
+Author: SumitKilaniya
+
+--- Summary ---
+Two things I read this week don't fit together.Thing 1: Meta has moved toward interviews where you can use AI, and they judge how you prompt it, review its code and debug it. TCS's CHRO said 60% of their FY26 fresher hires were AI-skilled, up from 10
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WrAm0b4X
+Title: Infosys on campus OA -> SE+DSE  Interview
+Slug: infosys-on-campusnoa-sedse-interview-by-wesn5
+Article Type: DISCUSSION
+Posted: 2026-10-09 17:36:47 IST
+Updated: 2026-10-09 19:14:13 IST
+URL: https://leetcode.com/discuss/post/8564309/infosys-on-campusnoa-sedse-interview-by-wesn5/
+Author: CodeYogic
+
+--- Summary ---
+The Online Assessment part
+Infosys's on campus oa -> gave it on 17th sept , interviews were to be taken on 18th , but were postponed.
+I solved 1.5 problems out of 4 (any 3 were to be done).
+problems came in sets , some got extremely hard sets, some g
+
+--- Tags ---
+  - Infosys (infosys) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: SgOQDeEL
+Title: Looking for Suitable Bitmask & Bitmask DP Problems.
+Slug: looking-for-suitable-bitmask-bitmask-dp-bhppv
+Article Type: DISCUSSION
+Posted: 2026-10-09 16:47:47 IST
+Updated: 2026-10-09 16:47:47 IST
+URL: https://leetcode.com/discuss/post/8564255/looking-for-suitable-bitmask-bitmask-dp-bhppv/
+Author: Isha_khoud
+
+--- Summary ---
+I'm currently learning Bitmasking and Bitmask DP and looking for a structured list of problems to practice, progressing from easy to medium difficulty.I've noticed that many bitmask problems on LeetCode tend to be medium-to-hard or hard, and I am str
+
+--- Tags ---
+  - Dynamic Programming (dynamic-programming) [TOPIC]
+  - Bitmask (bitmask) [TOPIC]
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Ft8qjlqW
+Title: Is LeetCode Dead in 2026 ? 🥶What Meta, TCS & AI Startups Are Actually Saying ?😨
+Slug: is-leetcode-dead-in-2026-what-meta-tcs-a-too5
+Article Type: DISCUSSION
+Posted: 2026-10-09 16:13:41 IST
+Updated: 2026-10-09 16:13:41 IST
+URL: https://leetcode.com/discuss/post/8564203/is-leetcode-dead-in-2026-what-meta-tcs-a-too5/
+Author: SumitKilaniya
+
+--- Summary ---
+🔥 "AI can solve LeetCode in 5 seconds. So why am I still grinding it?"Everyone keeps telling me LeetCode is dead.I'm a student preparing for off-campus placements, so before spending the next 80 days on it, I checked what's actually happening in hiri
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 3
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: hwwQpN3e
+Title:  O(n) Time, O(1) Space | Easy Code | 1541. Greedy Java Solution 
+Slug: on-time-o1-space-easy-code-1541-greedy-j-gphm
+Article Type: DISCUSSION
+Posted: 2026-10-09 15:09:19 IST
+Updated: 2026-10-09 15:09:19 IST
+URL: https://leetcode.com/discuss/post/8564116/on-time-o1-space-easy-code-1541-greedy-j-gphm/
+Author: Farhan_Islam_Rafid
+
+--- Summary ---
+IntuitionThe problem requires us to balance a string where every open parenthesis '(' must be matched with exactly two consecutive right parentheses '))'.Instead of manipulating the string, we can greedily keep track of how many right parentheses ) w
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #35
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8jTefCbJ
+Title: Recursion & Backtracking: From Brute-Force Search to Intelligent State-Space Exploration
+Slug: mastering-recursion-and-backtracking-sto-g9ng
+Article Type: DISCUSSION
+Posted: 2026-10-09 14:36:43 IST
+Updated: 2026-10-09 14:48:53 IST
+URL: https://leetcode.com/discuss/post/8564074/mastering-recursion-and-backtracking-sto-g9ng/
+Author: Shreyash-Desai
+
+--- Summary ---
+One of the defining differences between an average problem solver and a strong algorithmic thinker is the ability to reason about a search space.Recursion provides a mechanism for exploring smaller subproblems. Backtracking provides a systematic fram
+
+--- Tags ---
+  - Backtracking (backtracking) [TOPIC]
+  - Recursion (recursion) [TOPIC]
+  - DSA (dsa) []
+  - Problem Solving (problem-solving-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
