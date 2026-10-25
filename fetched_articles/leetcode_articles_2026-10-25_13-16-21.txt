@@ -1,0 +1,959 @@
+LeetCode Discuss - Latest 41 Articles
+Fetched on: 2026-10-25 13:16:21 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: D6Yd5EjB
+Title: Cars24 Interview Experience | Backend Dev | Walk in Drive | Gurugram office
+Slug: cars24-interview-experience-backend-dev-1dltz
+Article Type: DISCUSSION
+Posted: 2026-10-25 12:07:39 IST
+Updated: 2026-10-25 12:07:39 IST
+URL: https://leetcode.com/discuss/post/8587863/cars24-interview-experience-backend-dev-1dltz/
+Author: 
+
+--- Summary ---
+HR Posted a walk-in drive on linkedin, i applied from there, got the confirmation mail 5 days before the scheduled date, It was for 2-5 YOE employees, for positions SDE1-SDE3.about 100 candidates came there, there was scheduled total 3 Rounds,
+Interv
+
+--- Tags ---
+  - CARS24 (cars24) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: s5hKpJbb
+Title: My friend got into google by solving this 150 leetcode questions 😎
+Slug: my-friend-got-into-google-by-solving-thi-bn3w
+Article Type: DISCUSSION
+Posted: 2026-10-25 11:36:02 IST
+Updated: 2026-10-25 11:36:02 IST
+URL: https://leetcode.com/discuss/post/8587818/my-friend-got-into-google-by-solving-thi-bn3w/
+Author: jayanta6546
+
+--- Summary ---
+Google SWE Interview Preparation - 150 Leetcode Questions
+Don't forget to read the disclaimers and verdicts.
+Dad knows the interviewer
+Two Sum
+Contains Duplicate
+Valid Anagram
+Group Anagrams
+Top K Frequent Elements
+Product of Array Except Self
+Longes
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vFy5zTXC
+Title: How Netflix moved 15+ PB to cheap storage (disk usage 80% → 7%) | System Design breakdown
+Slug: how-netflix-moved-15-pb-to-cheap-storage-sfpd
+Article Type: DISCUSSION
+Posted: 2026-10-25 11:02:07 IST
+Updated: 2026-10-25 11:02:07 IST
+URL: https://leetcode.com/discuss/post/8587768/how-netflix-moved-15-pb-to-cheap-storage-sfpd/
+Author: hashiram4
+
+--- Summary ---
+🎥 Prefer video? I made 2-part breakdown:
+Part 1: Hot vs cold storage, Kafka + Flink, bloom filters
+Part 2: Reading straight from Cassandra backups
+Source: Netflix TechBlog: TimeSeries Tiered Storage JourneyThe problemNetflix stores petabytes of time-
+
+--- Tags ---
+  - system-design (system-design-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kSeF39m2
+Title: Nielsen - Intern + PPO | Oncampus Online Assessment 
+Slug: nielsen-intern-ppo-oncampus-online-asses-bi8z
+Article Type: DISCUSSION
+Posted: 2026-10-25 10:20:01 IST
+Updated: 2026-10-25 10:20:01 IST
+URL: https://leetcode.com/discuss/post/8587703/nielsen-intern-ppo-oncampus-online-asses-bi8z/
+Author: 
+
+--- Summary ---
+Two Coding Problems: Perfect Squares Matching a Pattern & Special Binary Tree TraversalTopics: Binary Search, Number Theory, Recursion, Binary Search Trees, Tree Traversal, Sorting, Strings.Problem 1: Find All Perfect Squares Matching a PatternProble
+
+--- Tags ---
+  - Nielsen (nielsen) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Qp042h82
+Title: Design Patterns with Java #1: introduction
+Slug: design-patterns-with-java-1-introduction-n33r
+Article Type: DISCUSSION
+Posted: 2026-10-25 09:41:52 IST
+Updated: 2026-10-25 09:41:52 IST
+URL: https://leetcode.com/discuss/post/8587616/design-patterns-with-java-1-introduction-n33r/
+Author: Adham0X1Star
+
+--- Summary ---
+This Series Introduced By Eng.Adham Ahmed
+Why study this book?Writing working code is only part of building software. When requirements change, we need code that's still easy to understand, extend, and maintain.Design patterns help us recognize recu
+
+--- Tags ---
+  - Design Pattern (design-pattern) []
+  - Data Structure and Algorithms (ds-and-algorithm) []
+  - learning (learning-2) []
+  - patterns (patterns-2) []
+  - Design Pattern Java (design-pattern-java) []
+
+--- Reactions ---
+  UPVOTE: 3
+  THUMBS_DOWN: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1euZ6jlC
+Title: 🏆 Weekly Contest 525
+Slug: weekly-contest-525-by-leetcode-t0bi
+Article Type: DISCUSSION
+Posted: 2026-10-25 09:30:09 IST
+Updated: 2026-10-25 09:30:09 IST
+URL: https://leetcode.com/discuss/post/8587553/weekly-contest-525-by-leetcode-t0bi/
+Author: LeetCode
+
+--- Summary ---
+Welcome to Weekly Contest 525! Feel free to share and post your contest experience here! You can also view the rankings for the contest. Links to the individual
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Pmejtn6z
+Title: LeetCode 1254 | Number of Closed Islands | Simple DFS Solution in C++ | O(m × n)
+Slug: leetcode-1254-number-of-closed-islands-s-uv5o
+Article Type: DISCUSSION
+Posted: 2026-10-25 09:19:54 IST
+Updated: 2026-10-25 09:19:54 IST
+URL: https://leetcode.com/discuss/post/8587546/leetcode-1254-number-of-closed-islands-s-uv5o/
+Author: DanishSammani
+
+--- Summary ---
+Approach: Depth-First Search (DFS)IntuitionA closed island is a connected group of land cells (0) that does not touch the boundary of the grid.We use DFS to explore every connected land region. If any cell in the region goes outside the grid, that is
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7lODvujO
+Title: solved my 400th leetcode (damhappy)
+Slug: solved-my-400th-leetcode-damhappy-by-ryu-83uu
+Article Type: DISCUSSION
+Posted: 2026-10-25 02:23:53 IST
+Updated: 2026-10-25 02:23:53 IST
+URL: https://leetcode.com/discuss/post/8587346/solved-my-400th-leetcode-damhappy-by-ryu-83uu/
+Author: Ryuuu_
+
+--- Summary ---
+hello there.I am trying to be showup daily and that led to an almost 365 day streak.and today I solved my 400th leetcode. Still even after all this months I don't have a month-badge . its cause I wana earn it by solving all questions by myself. soo i
+
+--- Tags ---
+  -  Milestone (milestone-2) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nW35xbYk
+Title: My Analysis of Biweekly Contest 194
+Slug: my-analysis-of-biweekly-contest-194-by-m-gn23
+Article Type: DISCUSSION
+Posted: 2026-10-25 01:27:39 IST
+Updated: 2026-10-25 01:27:39 IST
+URL: https://leetcode.com/discuss/post/8587306/my-analysis-of-biweekly-contest-194-by-m-gn23/
+Author: MOHD_SHAMOON_04
+
+--- Summary ---
+Biweekly Contest 194 Analysis:Number of users who solved Question-X:
+20,671 users solved Question 1
+16,032 users solved Question 2
+7,004 users solved Question 3
+1,811 users solved Question 4
+Number of users who solved 'X' amount of Question:
+10,596 u
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: rhjbCpw0
+Title: Product Based Switch
+Slug: product-based-switch-by-vermavaibhav561-k6i4
+Article Type: DISCUSSION
+Posted: 2026-10-25 01:06:07 IST
+Updated: 2026-10-25 01:06:07 IST
+URL: https://leetcode.com/discuss/post/8587282/product-based-switch-by-vermavaibhav561-k6i4/
+Author: vermavaibhav561
+
+--- Summary ---
+Hi guys, I am a 2026 cse grad, currently interning at a service based company from January of 2026, I am not satisfied with my current job since I was hired as a campus recruit for Fullstack development but the work is closer to non-tech. I have been
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: JKIf4eZ7
+Title: Where do you guys read engineering blogs?
+Slug: where-do-you-guys-read-engineering-blogs-2fba
+Article Type: DISCUSSION
+Posted: 2026-10-25 00:59:48 IST
+Updated: 2026-10-25 00:59:48 IST
+URL: https://leetcode.com/discuss/post/8587278/where-do-you-guys-read-engineering-blogs-2fba/
+Author: rinkumahajan
+
+--- Summary ---
+Where do you guys read engineering blogs?I've been trying to read more technical blogs about how companies build and scale systems.There are some really good write-ups from companies like Uber, Netflix, Stripe and others, but they're spread across di
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: OD07Unl4
+Title: CARS24 | Backend Engineer 2 | Interview Experience | Rejected
+Slug: cars24-backend-engineer-2-interview-expe-rik5
+Article Type: DISCUSSION
+Posted: 2026-10-25 00:33:10 IST
+Updated: 2026-10-25 00:33:10 IST
+URL: https://leetcode.com/discuss/post/8587257/cars24-backend-engineer-2-interview-expe-rik5/
+Author: 
+
+--- Summary ---
+Round 1 - DSA
+Daily Temperatures - https://leetcode.com/problems/daily-temperatures/description/
+LRU - https://leetcode.com/problems/lru-cache/
+Round 2 - System DesignDesign a lead allocation system.Given - Call Agents and their capacity and regions
+
+--- Tags ---
+  - CARS24 (cars24) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: XpdsNVWu
+Title: Amber ASDE Full Stack Interview Experience | 1.4 YOE
+Slug: amber-asde-full-stack-interview-experien-ehid
+Article Type: DISCUSSION
+Posted: 2026-10-25 00:19:48 IST
+Updated: 2026-10-25 00:20:11 IST
+URL: https://leetcode.com/discuss/post/8587242/amber-asde-full-stack-interview-experien-ehid/
+Author: ankitp_05_11
+
+--- Summary ---
+Hi everyone! Sharing my interview experience for the ASDE role at Amber.Round 1: JavaScript + Machine Coding
+Basic introduction and questions about my experience.
+JavaScript: var, let, const, hoisting, and Temporal Dead Zone.
+Promise-based output que
+
+--- Tags ---
+  - SDE (sde) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nvt5PARZ
+Title: I have second round of IBM ASE role 
+Slug: i-have-second-round-of-ibm-ase-role-by-d-z7ck
+Article Type: DISCUSSION
+Posted: 2026-10-25 00:07:53 IST
+Updated: 2026-10-25 00:07:53 IST
+URL: https://leetcode.com/discuss/post/8587221/i-have-second-round-of-ibm-ase-role-by-d-z7ck/
+Author: deepeshmeena0600
+
+--- Summary ---
+Can someone help me how to prepare for this and which kind of question are going to ask in this roundthanks
+
+--- Tags ---
+  - IBM (ibm) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: miBSLlP0
+Title: Was waiting for it !!!! Prime Agent: A Self-Improving RLM Harness
+Slug: was-waiting-for-it-prime-agent-a-self-im-sk14
+Article Type: DISCUSSION
+Posted: 2026-10-24 23:35:22 IST
+Updated: 2026-10-24 23:36:30 IST
+URL: https://leetcode.com/discuss/post/8587163/was-waiting-for-it-prime-agent-a-self-im-sk14/
+Author: mahoraga337
+
+--- Summary ---
+Today i was scrolling through twitter and i stumbled across this paper about the agent which will have efficieint impact on  the the ai agent improve in many ways by implementing the RLM and conceptual harness and autonomus orchestrationhere's the li
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6TZwAHKm
+Title: Looking for Interview practice
+Slug: looking-for-interview-practice-by-mak3-ygsn
+Article Type: DISCUSSION
+Posted: 2026-10-24 22:36:16 IST
+Updated: 2026-10-24 22:36:16 IST
+URL: https://leetcode.com/discuss/post/8587051/looking-for-interview-practice-by-mak3-ygsn/
+Author: Mak3
+
+--- Summary ---
+I have 3+ years of exp looking to have some system design talks
+
+--- Tags ---
+  - Career (career) []
+  - System Design (system-design) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: D4A3eeof
+Title: My first contest – Biweekly 194 (3/4 as a beginner)
+Slug: my-first-contest-biweekly-194-34-as-a-be-akom
+Article Type: DISCUSSION
+Posted: 2026-10-24 22:04:17 IST
+Updated: 2026-10-24 22:04:17 IST
+URL: https://leetcode.com/discuss/post/8586994/my-first-contest-biweekly-194-34-as-a-be-akom/
+Author: vandana_kumari26
+
+--- Summary ---
+This was my first LeetCode contest! As a beginner I was a bit slow to get going. I solved 3 out of 4, but only after a lot of thinking, a lot of time and a few wrong submissions along the way. Still, I'm happy I got through 3.The shocking part was th
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: rJfhb4gB
+Title: Amazon SDE-1 Intern OA tomorrow — what should I expect?
+Slug: amazon-sde-1-intern-oa-tomorrow-what-sho-ucqf
+Article Type: DISCUSSION
+Posted: 2026-10-24 22:04:08 IST
+Updated: 2026-10-24 22:04:08 IST
+URL: https://leetcode.com/discuss/post/8586993/amazon-sde-1-intern-oa-tomorrow-what-sho-ucqf/
+Author: Aditya_Prarap_Singh
+
+--- Summary ---
+Hi everyone! 👋I have my Amazon SDE-1 Intern Online Assessment tomorrow, and I just received the assessment details.The OA has:
+100 min Coding Challenge — 2 problems
+
+1 traditional coding problem
+1 coding problem in a repository environment with an AI
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: fmz10yPM
+Title: Biweekly Contest 194 — My Approach to All 4 Problems (Python + Intuition)
+Slug: biweekly-contest-194-my-approach-to-all-5wbnm
+Article Type: DISCUSSION
+Posted: 2026-10-24 21:54:19 IST
+Updated: 2026-10-24 21:54:19 IST
+URL: https://leetcode.com/discuss/post/8586968/biweekly-contest-194-my-approach-to-all-5wbnm/
+Author: chiragsharma15
+
+--- Summary ---
+Hi everyone!I wanted to share my approaches to the four problems from LeetCode Biweekly Contest 194. I have tried to keep the explanations beginner-friendly, focusing on the intuition behind each solution rather than just sharing code.All solutions a
+
+--- Tags ---
+  - LeetCode (leetcode) [COMPANY]
+  - Contest (contest) [COMPANY]
+  - Python (python) [COMPANY]
+  - Python3 (python3) []
+  - Intuition (intuition-2) []
+  - biweekly contest 194 (biweekly-contest-194) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: sIoZcxbj
+Title: Title: Joining Infosys in an L1 Role — Need Advice on Career Growth and Moving into AI/ML
+Slug: title-joining-infosys-in-an-l1-role-need-ubem
+Article Type: DISCUSSION
+Posted: 2026-10-24 21:35:01 IST
+Updated: 2026-10-24 22:48:20 IST
+URL: https://leetcode.com/discuss/post/8586886/title-joining-infosys-in-an-l1-role-need-ubem/
+Author: chiragsharma15
+
+--- Summary ---
+Hi everyone!I’ll be joining Infosys in an L1 role(Specialist Programmer), and I’m looking for some guidance from people who have experience working in the IT industry, especially those who have transitioned into AI/ML.I’m interested in building a lon
+
+--- Tags ---
+  - Infosys (infosys) [COMPANY]
+  - Career (career) []
+  - onboarding (onboarding-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: obHfFWv0
+Title: Day 78 of My DSA Journey | Count Days Spent Together
+Slug: day-78-of-my-dsa-journey-count-days-spen-zxxu
+Article Type: DISCUSSION
+Posted: 2026-10-24 21:32:38 IST
+Updated: 2026-10-24 21:32:38 IST
+URL: https://leetcode.com/discuss/post/8586870/day-78-of-my-dsa-journey-count-days-spen-zxxu/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 78 of my DSA journey, and I solved Count Days Spent Together (LeetCode 2409).The problem involves finding the number of days two people spend together based on their arrival and departure dates. The key is to calculate the overlap be
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DCakyPwf
+Title: 🏆 Biweekly Contest 194
+Slug: biweekly-contest-194-by-leetcode-w0b1
+Article Type: DISCUSSION
+Posted: 2026-10-24 21:30:11 IST
+Updated: 2026-10-24 21:30:11 IST
+URL: https://leetcode.com/discuss/post/8586861/biweekly-contest-194-by-leetcode-w0b1/
+Author: LeetCode
+
+--- Summary ---
+Welcome to Biweekly Contest 194! Feel free to share and post your contest experience here! You can also view the rankings for the contest. Links to the individu
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ROMKbmGT
+Title: AI can solve LeetCode, So what exactly are we preparing for now? 
+Slug: ai-can-solve-leetcode-so-what-exactly-ar-e7a5
+Article Type: DISCUSSION
+Posted: 2026-10-24 21:17:16 IST
+Updated: 2026-10-24 21:18:23 IST
+URL: https://leetcode.com/discuss/post/8586841/ai-can-solve-leetcode-so-what-exactly-ar-e7a5/
+Author: varun_kumar_s
+
+--- Summary ---
+AI can solve coding problems, explain DSA, debug code, and even build projects.Meanwhile, developers are still grinding LeetCode, collecting badges, and preparing for coding rounds.The irony?We’re competing with AI on coding, and competing with thous
+
+--- Tags ---
+  - LeetCode (leetcode) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+  - Job Search (job-search-2) []
+  - Leetcode Community (leetcode-community-2) []
+  - Programming (programming-2) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nunT6u73
+Title: Biweekly Contest 194 result:
+Slug: biweekly-contest-194-result-by-loki742-xexp
+Article Type: DISCUSSION
+Posted: 2026-10-24 21:07:15 IST
+Updated: 2026-10-24 21:07:15 IST
+URL: https://leetcode.com/discuss/post/8586832/biweekly-contest-194-result-by-loki742-xexp/
+Author: Loki742
+
+--- Summary ---
+Another contest, another learning curve 📈Biweekly Contest 194 result:
+🔹 Global Rank: 2895 (Top ~10%)
+🔹 Problems Solved: 3/4
+🔹 Finish Time: 39:31Every contest sharpens my problem-solving speed and accuracy. Now to upsolve Q4 and come back stronger nex
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: lMAUhBZW
+Title: My name is Prajum Patel I m from 1st year student at tier3 collage in It branch .
+Slug: my-name-is-prajum-patel-i-m-from-1st-yea-af4g
+Article Type: DISCUSSION
+Posted: 2026-10-24 20:09:15 IST
+Updated: 2026-10-24 20:09:15 IST
+URL: https://leetcode.com/discuss/post/8586758/my-name-is-prajum-patel-i-m-from-1st-yea-af4g/
+Author: prajum__Patel0291
+
+--- Summary ---
+Currenttly my focus to understand DSA concept and I also solve daily one problem of DSA question on leetcode . I have started to solving DSA ques before 2 months ago . I have covered basic concepts like :Array ,vectors , STL in c++ ,Two pointer appro
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: yLN9l2Fw
+Title: 📦 Amazon Is Bringing Smart Glasses to Delivery Drivers. Can You Catch a Duplicate Package Scan?
+Slug: amazon-is-bringing-smart-glasses-to-deli-c3m7
+Article Type: DISCUSSION
+Posted: 2026-10-24 19:45:43 IST
+Updated: 2026-10-24 19:45:43 IST
+URL: https://leetcode.com/discuss/post/8586725/amazon-is-bringing-smart-glasses-to-deli-c3m7/
+Author: suryaxe
+
+--- Summary ---
+📦 Amazon Is Bringing Smart Glasses to Delivery Drivers. Can You Catch a Duplicate Package Scan?Here's an interesting fact I recently discovered. 👀Amazon plans to deploy 5,000 smart delivery glasses in 2026, with a goal of expanding to more than 20,00
+
+--- Tags ---
+  - Array (array) [TOPIC]
+  - Hash Table (hash-table) [TOPIC]
+  - Amazon (amazon) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Io2xj6Bs
+Title: 500+ Applications, No Interviews. Whom Should I Blame?
+Slug: 500-applications-no-interviews-whom-shou-lwjg
+Article Type: DISCUSSION
+Posted: 2026-10-24 19:06:42 IST
+Updated: 2026-10-24 19:06:42 IST
+URL: https://leetcode.com/discuss/post/8586682/500-applications-no-interviews-whom-shou-lwjg/
+Author: 
+
+--- Summary ---
+For the past week, I haven't been learning anything or making any real progress. I'm just applying for jobs, and for the last 2–3 days, even that has become difficult. I keep overthinking, panicking, and feeling demotivated every hour.It's been a mon
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 7
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: fVfgPf9W
+Title: The Ultimate System Design Resource Thread (Sharing & Seeking Notes)
+Slug: the-ultimate-system-design-resource-thre-ssop
+Article Type: DISCUSSION
+Posted: 2026-10-24 17:45:08 IST
+Updated: 2026-10-24 17:45:08 IST
+URL: https://leetcode.com/discuss/post/8586582/the-ultimate-system-design-resource-thre-ssop/
+Author: Lankakgf
+
+--- Summary ---
+Hello everyone! I am diving deep into System Design interviews and wanted to create a master thread for study materials. To kick things off, here are the universally recommended resources I have gathered so far:
+
+--- Tags ---
+  - System Design (system-design) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: L5D6CunV
+Title: Yellow.ai Interview Experience | DSA, DBMS & System Design
+Slug: yellowai-interview-experience-dsa-dbms-s-jwya
+Article Type: DISCUSSION
+Posted: 2026-10-24 17:32:59 IST
+Updated: 2026-10-24 17:37:40 IST
+URL: https://leetcode.com/discuss/post/8586568/yellowai-interview-experience-dsa-dbms-s-jwya/
+Author: whiff
+
+--- Summary ---
+Hello everyone,Profile:
+YOE: Close to 2 years
+Current Company: Product-based company
+Sharing my recent interview experience with Yellow.ai.I was contacted by their recruiter, and after a brief discussion about my experience and preferences, two inter
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: L5SNmgtb
+Title: IBM On-Campus Interview  Round 2 Coding Questions (2026)
+Slug: ibm-on-campus-interview-round-2-coding-q-jfth
+Article Type: DISCUSSION
+Posted: 2026-10-24 17:21:15 IST
+Updated: 2026-10-24 17:21:15 IST
+URL: https://leetcode.com/discuss/post/8586551/ibm-on-campus-interview-round-2-coding-q-jfth/
+Author: vinay_sandeep
+
+--- Summary ---
+Hi everyone!IBM recently visited our college for on-campus placements. I cleared Round 1 and have been shortlisted for Round 2, the coding assessment, which reportedly consists of two coding questions.Has anyone recently completed the IBM on-campus h
+
+--- Tags ---
+  - IBM (ibm) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 3hrnlSun
+Title: LeetCode 2409 | Simple C++ Solution Using Cumulative Days (Prefix Sum)
+Slug: leetcode-2409-simple-c-solution-using-cu-gehk
+Article Type: DISCUSSION
+Posted: 2026-10-24 17:07:55 IST
+Updated: 2026-10-24 17:07:55 IST
+URL: https://leetcode.com/discuss/post/8586535/leetcode-2409-simple-c-solution-using-cu-gehk/
+Author: DanishSammani
+
+--- Summary ---
+Approach: Prefix Sum of Days (C++)IntuitionInstead of comparing dates month by month, we can convert each date into a day number of the year. This makes it easy to calculate the overlapping days between Alice's and Bob's stay.Approach
+
+Store the numb
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8WhjH8GY
+Title: Straive FTE Hiring | Data Analyst | SQL Question | On-Campus
+Slug: straive-fte-hiring-data-analyst-sql-ques-585t
+Article Type: DISCUSSION
+Posted: 2026-10-24 17:07:01 IST
+Updated: 2026-10-24 17:07:01 IST
+URL: https://leetcode.com/discuss/post/8586531/straive-fte-hiring-data-analyst-sql-ques-585t/
+Author: AdiRaptor1224
+
+--- Summary ---
+I'd recently given the Straive OA for the role of Data Analyst as part of it's on-campus FTE drive for the same role, and I'd thought I'd share the question for anyone preparing for this role in the future.Problem DescriptionGiven two tables, Employe
+
+--- Tags ---
+  - Database (database) [TOPIC]
+  - Online Assessment (online-assessment) []
+  - interview question (interview-question) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #33
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Y8FjrPm0
+Title: Morgan Stanley - Round 1 (DSA + Scenario base ) - cleared 
+Slug: morgan-stanley-round-1-dsa-scenario-base-zwfi
+Article Type: DISCUSSION
+Posted: 2026-10-24 16:17:27 IST
+Updated: 2026-10-25 12:49:26 IST
+URL: https://leetcode.com/discuss/post/8586457/morgan-stanley-round-1-dsa-scenario-base-zwfi/
+Author: 
+
+--- Summary ---
+The interview lasted for about 1.5 hours. I have clered the hackrank test after that I got invited for round 1. I have 6+ years of experianceIntroduction
+Started of introduction
+The interviewer asked me to walk through the High leval architecture at
+
+--- Tags ---
+  - Dynamic Programming (dynamic-programming) [TOPIC]
+  - Morgan Stanley (morgan-stanley) [COMPANY]
+  - Interview (interview) []
+  - 2D Matrix (2d-matrix-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #34
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 9hdxyHqz
+Title: Amazon | SDE Intern | Round 2 | Full Interview Breakdown
+Slug: amazon-sde-intern-round-2-full-interview-h0ao
+Article Type: DISCUSSION
+Posted: 2026-10-24 16:11:38 IST
+Updated: 2026-10-24 16:11:38 IST
+URL: https://leetcode.com/discuss/post/8586447/amazon-sde-intern-round-2-full-interview-h0ao/
+Author: rjmdhiraj
+
+--- Summary ---
+Round AttributeDetailsCompany & RoleAmazon — SDE InternRoundTechnical Round 2 (60 Minutes)Core TopicsGreedy / Priority Queue, LLM Reliability in Production, Design Patterns, SOLID, Behavioral (STAR)Part 1: DSA Coding QuestionProblem StatementGiven a
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Technical Interview (technical-interview) [COMPANY]
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+  - amazon_intern (amazon-intern-2) []
+
+--- Reactions ---
+  UPVOTE: 7
+
+════════════════════════════════════════════════════════════════════════════════
+Article #35
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: f6ES5Wsg
+Title: Microsoft Offer  - L 62 - Hyd - 5 YOE
+Slug: microsoft-offer-l-62-hyd-5-yoe-by-anonym-z22r
+Article Type: DISCUSSION
+Posted: 2026-10-24 16:02:21 IST
+Updated: 2026-10-24 16:21:25 IST
+URL: https://leetcode.com/discuss/post/8586437/microsoft-offer-l-62-hyd-5-yoe-by-anonym-z22r/
+Author: 
+
+--- Summary ---
+Prev: Amazon - SDE 2 - Blr - (TC: ~ 64LPA)
+Yoe : 5 yearsMicrosoft offer:Base: 40L
+Joining Bonuse: 5L (1st year) + 3L (2nd year)
+Performance bonus: (0-20)%
+Stocks: 100k USD vested evenly in 4 years.
+Relocation: not provided.1st year comp: 40 + 5 + 4 (
+
+--- Tags ---
+  - Microsoft (microsoft) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #36
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: U872rxDw
+Title: The 6 most asked system design interview questions.
+Slug: the-6-most-asked-system-design-interview-hmjt
+Article Type: DISCUSSION
+Posted: 2026-10-24 14:52:34 IST
+Updated: 2026-10-24 14:52:34 IST
+URL: https://leetcode.com/discuss/post/8586347/the-6-most-asked-system-design-interview-hmjt/
+Author: GautamCodes24
+
+--- Summary ---
+If you only prepare six system design questions, They’re the most repeated questions in interview-experience posts here on LeetCode, and each one teaches a pattern you’ll reuse in every other design:Rate limiter — token buckets, Redis, and what happe
+
+--- Tags ---
+  - System Design (system-design) []
+  - Interview (interview) []
+  - system-design (system-design-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #37
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: M9Pij8ZK
+Title: Atlassian — Management round interview questions? (P40, Backend SWE II)
+Slug: atlassian-management-round-interview-que-hu0h
+Article Type: DISCUSSION
+Posted: 2026-10-24 14:43:14 IST
+Updated: 2026-10-24 14:44:15 IST
+URL: https://leetcode.com/discuss/post/8586336/atlassian-management-round-interview-que-hu0h/
+Author: 
+
+--- Summary ---
+Location: Remote, India
+Years of Experience: 3Y 4months
+A recruiter reached out and started the interview process.I have already completed the following rounds -
+Technical Screening - DSA + System Design (45mins)
+Round 1: DSA (1 hour)
+Round 2: AI-Ena
+
+--- Tags ---
+  - Atlassian (atlassian) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+  - P40 (p40) []
+  - Backend SWE2 (backend-swe2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #38
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: LW7jU6CH
+Title: Nike SDE 3 Interview
+Slug: nike-sde-3-interview-by-anonymous_user-xgbr
+Article Type: DISCUSSION
+Posted: 2026-10-24 14:29:10 IST
+Updated: 2026-10-24 14:29:10 IST
+URL: https://leetcode.com/discuss/post/8586321/nike-sde-3-interview-by-anonymous_user-xgbr/
+Author: 
+
+--- Summary ---
+Round 1 (Bar raiser):
+Binary Search DSA question
+Java basics and streams based questions
+AWS questions like prod scenarios and when to use SQS vs SNS and CI/CD process
+Springboot basics like how @transactional works and other questions
+Round 2 : Atte
+
+--- Tags ---
+  - Nike (nike) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #39
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: FlH2JhxL
+Title: Rubrik Interview: System Coding + Algo Coding (C++) | Sample Questions
+Slug: rubrik-interview-system-coding-algo-codi-ajwc
+Article Type: DISCUSSION
+Posted: 2026-10-24 14:22:37 IST
+Updated: 2026-10-24 14:23:33 IST
+URL: https://leetcode.com/discuss/post/8586313/rubrik-interview-system-coding-algo-codi-ajwc/
+Author: 
+
+--- Summary ---
+Hi everyone,I have an upcoming Rubrik interview with System Coding and Algorithm Coding rounds. for swe1, The recruiter mentioned that everything needs to be implemented from scratch, without libraries.For those who interviewed recently:What exactly
+
+--- Tags ---
+  - Rubrik (rubrik) [COMPANY]
+  - Multithreading (multithreading) []
+  - Interview (interview) []
+  - system-design (system-design-2) []
+  - algocoding (algocoding) []
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #40
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: jPoirYn0
+Title: What is your methdology to slove problems?
+Slug: what-is-your-methdology-to-slove-problem-enkg
+Article Type: DISCUSSION
+Posted: 2026-10-24 14:16:07 IST
+Updated: 2026-10-24 14:16:07 IST
+URL: https://leetcode.com/discuss/post/8586305/what-is-your-methdology-to-slove-problem-enkg/
+Author: kururu1995
+
+--- Summary ---
+Tell me in short sentance what it your way to solve prblem if you already know programming basics?
+
+════════════════════════════════════════════════════════════════════════════════
+Article #41
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 5QWXlklc
+Title: Google | Assessment
+Slug: google-assessment-by-anonymous_user-fixx
+Article Type: DISCUSSION
+Posted: 2026-10-24 13:02:46 IST
+Updated: 2026-10-24 13:02:46 IST
+URL: https://leetcode.com/discuss/post/8586227/google-assessment-by-anonymous_user-fixx/
+Author: 
+
+--- Summary ---
+Is completing the Google Online Assessment (OA) even worth it? Has anyone actually received an interview call after completing it?Genuinely curious because it feels frustrating to put in the time and effort to complete the assessment, only to hear no
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Career (career) []
+
