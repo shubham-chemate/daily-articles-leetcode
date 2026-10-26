@@ -1,0 +1,619 @@
+LeetCode Discuss - Latest 26 Articles
+Fetched on: 2026-10-26 13:32:59 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: OgIC803R
+Title: Optimal Decision Under Unknown Weights
+Slug: optimal-decision-under-unknown-weights-b-fyej
+Article Type: DISCUSSION
+Posted: 2026-10-26 12:59:08 IST
+Updated: 2026-10-26 12:59:08 IST
+URL: https://leetcode.com/discuss/post/8589397/optimal-decision-under-unknown-weights-b-fyej/
+Author: shanmalik735
+
+--- Summary ---
+A buyer wants to purchase two items: a plastic crate and an apple carton.The buyer offers a fixed payment of ₹1000 for each item, assuming that each item weighs 1000 grams.However, the actual weight of each item is unknown to both the buyer and the s
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8VYxSwH9
+Title: No interviews for the past month
+Slug: no-interviews-for-the-past-month-by-anon-w14e
+Article Type: DISCUSSION
+Posted: 2026-10-26 12:54:04 IST
+Updated: 2026-10-26 12:54:04 IST
+URL: https://leetcode.com/discuss/post/8589391/no-interviews-for-the-past-month-by-anon-w14e/
+Author: 
+
+--- Summary ---
+I have been preparing for the past few months. I did get a few interviews initially. But now i am getting 0 interviews, neither any OAs. Can someone help me? Its been over a month since i have heard back from anywhere.
+Any method that might work for
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZhRLjMER
+Title: TODAYS POTD 3619
+Slug: todays-potd-3619-by-auratalks-kigc
+Article Type: DISCUSSION
+Posted: 2026-10-26 10:57:04 IST
+Updated: 2026-10-26 10:57:04 IST
+URL: https://leetcode.com/discuss/post/8589253/todays-potd-3619-by-auratalks-kigc/
+Author: auratalks
+
+--- Summary ---
+class Solution {
+public:};my approach is to visit all non zero and not visited nodes and then count the sum of all those nodes
+so i created a visited vector which track whcih node is visted or not and sum variable count the sum of all relevant nodes
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8PJ9hCaC
+Title: GCP infra team
+Slug: gcp-infra-team-by-anonymous_user-9sdy
+Article Type: DISCUSSION
+Posted: 2026-10-26 10:48:15 IST
+Updated: 2026-10-26 10:48:34 IST
+URL: https://leetcode.com/discuss/post/8589236/gcp-infra-team-by-anonymous_user-9sdy/
+Author: 
+
+--- Summary ---
+Has anyone interviewed with GCP infra teams in the recent times? I am preparing for Google interview, can you pls let me know what questions to practice and the SD questions?
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: xVU59kiN
+Title: C3.Ai upcoming interview for Software engineer (Customer support) role 
+Slug: c3ai-upcoming-interview-for-software-eng-rq3d
+Article Type: DISCUSSION
+Posted: 2026-10-26 10:22:26 IST
+Updated: 2026-10-26 10:22:42 IST
+URL: https://leetcode.com/discuss/post/8589210/c3ai-upcoming-interview-for-software-eng-rq3d/
+Author: 
+
+--- Summary ---
+Hey anyone have any experience interviewing with C3.ai .It will be really helpful if any one can share their interview experience.Thanks
+
+--- Tags ---
+  - C3.ai (c3-ai) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: KbMAe2nX
+Title: Uber SSE | Rippling SSE
+Slug: uber-sse-rippling-sse-by-anonymous_user-1mwj
+Article Type: DISCUSSION
+Posted: 2026-10-26 10:08:12 IST
+Updated: 2026-10-26 10:20:26 IST
+URL: https://leetcode.com/discuss/post/8589190/uber-sse-rippling-sse-by-anonymous_user-1mwj/
+Author: 
+
+--- Summary ---
+Education: B.Tech Tier 3
+Years of Experience: 7
+Prior Experience: Flipkart SSEUber
+Title/Level: Senior Software Engineer (L5a)
+Location: Bengaluru
+Salary: Rs 70,00,000
+Annual Bonus: Rs 15,00,000
+Stock bonus: 80k Front loaded (35% first year)
+PF: 4,00
+
+--- Tags ---
+  - Uber (uber) [COMPANY]
+  - Rippling (rippling) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: yAvc7d6A
+Title: Amazon OA (SDE-1 Intern) 
+Slug: amazon-oa-sde-1-intern-by-khushi123muria-16qz
+Article Type: DISCUSSION
+Posted: 2026-10-26 09:53:41 IST
+Updated: 2026-10-26 10:57:15 IST
+URL: https://leetcode.com/discuss/post/8589174/amazon-oa-sde-1-intern-by-khushi123muria-16qz/
+Author: 
+
+--- Summary ---
+Hey everyone!I took the Amazon assessment yesterday and wanted to share my experience with the community.
+Coding Question – Finding the Minimum Cost
+longest consecutive sequence of equal values.It required careful analysis of the problem statement, e
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Interview (interview) []
+  - OA (oa-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: dslNBVvg
+Title: 50+ LPA Cracked in 2 Months of Prep: Walmart, Apple & Morgan Stanley Interview Experience
+Slug: 50-lpa-cracked-in-2-months-of-prep-walma-ick3
+Article Type: DISCUSSION
+Posted: 2026-10-26 09:07:46 IST
+Updated: 2026-10-26 09:07:46 IST
+URL: https://leetcode.com/discuss/post/8589126/50-lpa-cracked-in-2-months-of-prep-walma-ick3/
+Author: Pramod3496
+
+--- Summary ---
+Sharing my interview experiences anonymously to help others preparing for SDE roles.Walmart (5 rounds)
+Round 1 & 2: DSASubset Sum (Dynamic Programming)
+Another DP problem
+The focus was on problem-solving approach and coding.Round 3: LLDDesign and imp
+
+--- Tags ---
+  - Apple (apple) [COMPANY]
+  - Morgan Stanley (morgan-stanley) [COMPANY]
+  - Walmart Labs (walmart-labs) [COMPANY]
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nK6Spsdp
+Title: Cohesity Mts-2 Compensation
+Slug: cohesity-mts-2-compensation-by-vj_t-8o3f
+Article Type: DISCUSSION
+Posted: 2026-10-26 07:25:23 IST
+Updated: 2026-10-26 07:25:23 IST
+URL: https://leetcode.com/discuss/post/8589058/cohesity-mts-2-compensation-by-vj_t-8o3f/
+Author: vj_t
+
+--- Summary ---
+Base:36LPA
+Bonus: 8% of base salary
+Stock Unit: 2200 unit for 3 year worth 17lakhs per year
+Recruiter Told me its the max range for Mts-2
+Rejected this OfferCohesity Interview Experience: https://leetcode.com/discuss/post/8584602/cohesity-mts-2-role-
+
+--- Tags ---
+  - Cohesity (cohesity) [COMPANY]
+  - interview experience (interview-experience) []
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: R6lXlMiN
+Title: Notion SWE
+Slug: notion-swe-by-archdevil-mts5
+Article Type: DISCUSSION
+Posted: 2026-10-26 03:02:31 IST
+Updated: 2026-10-26 03:20:08 IST
+URL: https://leetcode.com/discuss/post/8588962/notion-swe-by-archdevil-mts5/
+Author: archdevil
+
+--- Summary ---
+YoE: 4.5 years
+Current Company: Salesforce
+Current TC: 44LPAOffer from Notion
+Base: 40L (PF extra)
+JB: 3.1L
+RSU: 21L
+ESOP: 5.5L
+Allowances: 1.68LCatch: Company is not listed yet so stocks are paper moneyFirst Year TC Including PF:
+~ 73L
+
+--- Tags ---
+  - Notion (notion) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: jOpFgkL1
+Title: Grafana Labs Backend Engineer Interview Experience
+Slug: grafana-labs-backend-engineer-interview-1knte
+Article Type: DISCUSSION
+Posted: 2026-10-26 01:55:55 IST
+Updated: 2026-10-26 01:55:55 IST
+URL: https://leetcode.com/discuss/post/8588930/grafana-labs-backend-engineer-interview-1knte/
+Author: whyiamregisteredhere
+
+--- Summary ---
+Hi everyone!I have an HR screening with Grafana Labs next week and would love to hear from anyone who has recently gone through their backend engineering interview process.I've heard that Grafana tends to move quickly through interviews, so I don't e
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: a3lq7Wug
+Title: Amazon  SDE-1 Intern OA Experience🫪
+Slug: amazon-sde-1-intern-oa-experience-by-adi-vhx3
+Article Type: DISCUSSION
+Posted: 2026-10-26 01:29:34 IST
+Updated: 2026-10-26 01:29:34 IST
+URL: https://leetcode.com/discuss/post/8588913/amazon-sde-1-intern-oa-experience-by-adi-vhx3/
+Author: Aditya_Prarap_Singh
+
+--- Summary ---
+I recently appeared for an Amazon SDE-I Intern OA, and I wanted to share my experience, especially the coding sections, because the second question was quite different from a typical LeetCode problem.Q1 — Binary String ProblemThe first question was e
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: tiLlTrUC
+Title: job switch from service based to product based company
+Slug: job-switch-from-service-based-to-product-7v4p
+Article Type: DISCUSSION
+Posted: 2026-10-25 23:54:27 IST
+Updated: 2026-10-25 23:54:27 IST
+URL: https://leetcode.com/discuss/post/8588802/job-switch-from-service-based-to-product-7v4p/
+Author: AmitDewal
+
+--- Summary ---
+#Career I have been doing job in indian it mnc mainly java springboot I want to get into product based company I am non-cs degree guy i started leetcode 150 question series any suggestions guys
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: gEKqDruO
+Title: Job Switch Advice
+Slug: job-switch-advice-by-caussis_clay-2h2w
+Article Type: DISCUSSION
+Posted: 2026-10-25 23:21:30 IST
+Updated: 2026-10-25 23:21:30 IST
+URL: https://leetcode.com/discuss/post/8588749/job-switch-advice-by-caussis_clay-2h2w/
+Author: caussis_clay
+
+--- Summary ---
+Hi Guys, I am a software Engineer 2 with +2 YOE. I've hit a ceiling in my current job doing the same tasks every day and feel it's time to switch. I'm feeling quite overwhelmed by how much there is to prepare across DSA, System Design, and AI. Can an
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ahvn67Qm
+Title: Day 79 of My DSA Journey | Number of Closed Islands
+Slug: day-79-of-my-dsa-journey-number-of-close-2jmo
+Article Type: DISCUSSION
+Posted: 2026-10-25 21:59:35 IST
+Updated: 2026-10-25 21:59:35 IST
+URL: https://leetcode.com/discuss/post/8588624/day-79-of-my-dsa-journey-number-of-close-2jmo/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marked Day 79 of my DSA journey, and I solved Number of Closed Islands (LeetCode 1254).This problem focuses on finding the number of closed islands in a grid. An island is considered closed if all its land cells are surrounded by water and none
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: E5fwyUr3
+Title: Google | Meta | Amazon | Microsoft —  Company-Wise LeetCode Interview Questions
+Slug: google-meta-amazon-microsoft-company-wis-gvh3
+Article Type: DISCUSSION
+Posted: 2026-10-25 21:42:49 IST
+Updated: 2026-10-25 21:42:49 IST
+URL: https://leetcode.com/discuss/post/8588604/google-meta-amazon-microsoft-company-wis-gvh3/
+Author: someone_taran
+
+--- Summary ---
+I have been collecting LeetCode questions that have been asked in interviews at major tech companies. I organized these into four sheets, one for each company.📌 Google📌 Meta (Facebook)📌 Amazon📌 MicrosoftThe goal is to make it easier to prepare compan
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Meta (facebook) [COMPANY]
+  - Microsoft (microsoft) [COMPANY]
+  - Amazon (amazon) [COMPANY]
+  - DSA (dsa) []
+  - Interview (interview) []
+  - DSA Resources (dsa-resources) []
+
+--- Reactions ---
+  UPVOTE: 18
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Nu4a2gCu
+Title: Indian Fresher Starter Pack || Degree Completed, Life Still Buffering
+Slug: indian-fresher-starter-pack-degree-compl-v9db
+Article Type: DISCUSSION
+Posted: 2026-10-25 19:41:47 IST
+Updated: 2026-10-25 19:41:47 IST
+URL: https://leetcode.com/discuss/post/8588466/indian-fresher-starter-pack-degree-compl-v9db/
+Author: 
+
+--- Summary ---
+Average college student. No IIT tag. No 9.5 CGPA. Just dreams and a laptop.4 years of engineering later:
+100+ applications sent.
+2 coding questions solved on LeetCode today.
+15 YouTube tabs open for “Roadmap to SDE.”
+Parents asking, “Any job updates?
+
+--- Tags ---
+  - LeetCode (leetcode) [COMPANY]
+  - Placement (placement) [COMPANY]
+  - Career (career) []
+  - Job Search (job-search-2) []
+  - Fresher (fresher-2) []
+
+--- Reactions ---
+  UPVOTE: 8
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Xojg84L4
+Title: Amazon SDE2 Interviews - London
+Slug: amazon-sde2-interviews-london-by-anonymo-571q
+Article Type: DISCUSSION
+Posted: 2026-10-25 19:15:05 IST
+Updated: 2026-10-25 19:15:05 IST
+URL: https://leetcode.com/discuss/post/8588429/amazon-sde2-interviews-london-by-anonymo-571q/
+Author: 
+
+--- Summary ---
+I have full loops scheduled for Amazon and one of the round mentioned is Data Structures and Algorithms and other round mentioned is Problem Solving. Anyone who has given the loop recently and can tell me what type of problem can I expect or practice
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: XhTVhcfc
+Title: Bombed my Amazon SDE 2 Interview
+Slug: bombed-my-amazon-sde-2-interview-by-pax_-k9ja
+Article Type: DISCUSSION
+Posted: 2026-10-25 18:57:19 IST
+Updated: 2026-10-25 18:57:19 IST
+URL: https://leetcode.com/discuss/post/8588393/bombed-my-amazon-sde-2-interview-by-pax_-k9ja/
+Author: pax_luminis
+
+--- Summary ---
+Hi Everyone,I recently completed my amazon interview and though I know the solutions for the DSA problems that were given, I had a hard time explaining that to the interviewer and then approaching the problem in a way it is easy for the interviewer t
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: K6obK9g3
+Title: How Do Freshers Get Jobs in Big Companies Without Referrals?
+Slug: how-do-freshers-get-jobs-in-big-companie-l86c
+Article Type: DISCUSSION
+Posted: 2026-10-25 16:54:03 IST
+Updated: 2026-10-25 16:54:03 IST
+URL: https://leetcode.com/discuss/post/8588254/how-do-freshers-get-jobs-in-big-companie-l86c/
+Author: Prajjwal_Raut143
+
+--- Summary ---
+Hello everyone!I am a fresher and currently preparing for software engineering and AI/ML roles. I have solved many LeetCode problems and am continuously improving my problem-solving skills.However, I have one question that I would like to ask experie
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: orm635f3
+Title: Microsoft GCID Consultant - .NET & AI Offer | Need Advice
+Slug: microsoft-gcid-consultant-net-ai-offer-n-qfc3
+Article Type: DISCUSSION
+Posted: 2026-10-25 16:51:17 IST
+Updated: 2026-10-25 16:57:08 IST
+URL: https://leetcode.com/discuss/post/8588248/microsoft-gcid-consultant-net-ai-offer-n-qfc3/
+Author: 
+
+--- Summary ---
+5.5 YOE, currently MTS-2 Backend Developer at ~28 LPA fixed.Microsoft GCID offer: Consultant – .NET Full Stack & AI, L59, Hyderabad. 28L base + 4L joining bonus + $18K RSUs/4 yrs + 20% target variable + relocation.JD is technical (.NET/Azure/AI), but
+
+--- Tags ---
+  - Microsoft (microsoft) [COMPANY]
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: rY0IKURz
+Title: Late stage startup vs Qualcomm
+Slug: late-stage-startup-vs-qualcomm-by-anonym-fcbp
+Article Type: DISCUSSION
+Posted: 2026-10-25 14:22:55 IST
+Updated: 2026-10-25 18:54:22 IST
+URL: https://leetcode.com/discuss/post/8588065/late-stage-startup-vs-qualcomm-by-anonym-fcbp/
+Author: 
+
+--- Summary ---
+Hi,
+I'm from Tier 3 college with 5.5 years of experience.Currently in big MNC with CTC : 28.8L (26L + 2.8L(bonus))
+Late Stage Startup (Valuation more than $10B, On Series G)Offer :
+Base : 45L + 6.2L(other benefits) = 51.2L
+Bonus : 3.8L
+Equity : $48k
+
+--- Tags ---
+  - Qualcomm (qualcomm) [COMPANY]
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: dE5c1ggg
+Title: My Analysis of Weekly Contest 525
+Slug: my-analysis-of-weekly-contest-525-by-moh-5186
+Article Type: DISCUSSION
+Posted: 2026-10-25 14:00:03 IST
+Updated: 2026-10-25 14:00:03 IST
+URL: https://leetcode.com/discuss/post/8588048/my-analysis-of-weekly-contest-525-by-moh-5186/
+Author: MOHD_SHAMOON_04
+
+--- Summary ---
+Weekly Contest 525 Analysis:Number of users who solved Question-X:
+22,168 users solved Question 1
+14,063 users solved Question 2
+6,995 users solved Question 3
+916 users solved Question 4
+Number of users who solved 'X' amount of Question:
+10,750 users
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 1
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: EBScU7JD
+Title: Celebal Technologies: Data Scientist Interview Experience — OA + Interview(On-campus)
+Slug: celebal-technologies-data-scientist-inte-xak3
+Article Type: DISCUSSION
+Posted: 2026-10-25 13:54:16 IST
+Updated: 2026-10-25 13:54:16 IST
+URL: https://leetcode.com/discuss/post/8588037/celebal-technologies-data-scientist-inte-xak3/
+Author: thecoderwithhat
+
+--- Summary ---
+Data Scientist Interview Experience — OA + InterviewHey everyone, sharing my recent experience with a Data Scientist hiring process. Posting this mainly to help people preparing for similar roles.Round 1 — Resume ShortlistingThe process started with
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: THfdfL5A
+Title: Python Beginners: Do You Struggle More With Syntax or Logic?
+Slug: python-beginners-do-you-struggle-more-wi-sw0i
+Article Type: DISCUSSION
+Posted: 2026-10-25 13:44:54 IST
+Updated: 2026-10-25 13:44:54 IST
+URL: https://leetcode.com/discuss/post/8588022/python-beginners-do-you-struggle-more-wi-sw0i/
+Author: SamirDhanegave02
+
+--- Summary ---
+Hey everyone!I'm learning Python and recently started practising problems on LeetCode.One thing I'm realizing is that knowing the syntax isn't enough. Sometimes, understanding how to approach a problem is the real challenge.
+I'm curious about other l
+
+--- Tags ---
+  - coding (coding) [COMPANY]
+  - Python (python) [COMPANY]
+  - learning (learning-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: D6Yd5EjB
+Title: Cars24 Interview Experience | Backend Dev | Walk in Drive | Gurugram office
+Slug: cars24-interview-experience-backend-dev-1dltz
+Article Type: DISCUSSION
+Posted: 2026-10-25 12:07:39 IST
+Updated: 2026-10-25 12:07:39 IST
+URL: https://leetcode.com/discuss/post/8587863/cars24-interview-experience-backend-dev-1dltz/
+Author: 
+
+--- Summary ---
+HR Posted a walk-in drive on linkedin, i applied from there, got the confirmation mail 5 days before the scheduled date, It was for 2-5 YOE employees, for positions SDE1-SDE3.about 100 candidates came there, there was scheduled total 3 Rounds,
+Interv
+
+--- Tags ---
+  - CARS24 (cars24) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
