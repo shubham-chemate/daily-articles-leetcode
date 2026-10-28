@@ -1,0 +1,618 @@
+LeetCode Discuss - Latest 28 Articles
+Fetched on: 2026-10-28 14:24:50 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: or1FN41C
+Title: TWO POINTERS - PATTERNS AND TEMPLATES
+Slug: two-pointers-patterns-and-templates-by-d-zlck
+Article Type: DISCUSSION
+Posted: 2026-10-28 13:52:27 IST
+Updated: 2026-10-28 13:52:27 IST
+URL: https://leetcode.com/discuss/post/8592296/two-pointers-patterns-and-templates-by-d-zlck/
+Author: DMad19
+
+--- Summary ---
+Two Pointers : Four Reusable PatternsTwo pointers - using two positions to avoid repeatedly scanning the same data. The pointers need not enclose a window: they may move toward each other, advance through separate sequences, or move at different spee
+
+--- Tags ---
+  - Two Pointers (two-pointers) [TOPIC]
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 2bAmnEv6
+Title: Third-Year CSE Student Targeting SWE Roles — Looking for Guidance on Off-Campus Opportunities
+Slug: third-year-cse-student-targeting-swe-rol-r4h6
+Article Type: DISCUSSION
+Posted: 2026-10-28 13:51:49 IST
+Updated: 2026-10-28 13:51:49 IST
+URL: https://leetcode.com/discuss/post/8592293/third-year-cse-student-targeting-swe-rol-r4h6/
+Author: aakashkumar2005
+
+--- Summary ---
+Hello everyone! ,I'm a third-year B.Tech Computer Science student, and my goal is to become a Software Engineer (SWE) at a good product-based company.I'm consistently working on DSA and solving problems on LeetCode. Alongside DSA, I'm building projec
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Q1Tg3Q6M
+Title: Is This Skill Set Enough for Fresher SDE Roles in 2026?
+Slug: is-this-skill-set-enough-for-fresher-sde-1c7p
+Article Type: DISCUSSION
+Posted: 2026-10-28 12:43:12 IST
+Updated: 2026-10-28 12:43:12 IST
+URL: https://leetcode.com/discuss/post/8592228/is-this-skill-set-enough-for-fresher-sde-1c7p/
+Author: kartikgaudofficial
+
+--- Summary ---
+Hi everyone,I am a final-year student preparing for fresher SDE roles. I’m focusing on the following skills:DSA + C++: Solving problems independently and explaining approaches.JavaScript: Promises, async/await, closures, arrays, objects, and error ha
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Z5KnDlHh
+Title: [UPDATE] ON BugNik (Repository Questions) requesting feedback
+Slug: update-on-bugnik-repository-questions-re-y1cf
+Article Type: DISCUSSION
+Posted: 2026-10-28 11:41:19 IST
+Updated: 2026-10-28 11:41:19 IST
+URL: https://leetcode.com/discuss/post/8592156/update-on-bugnik-repository-questions-re-y1cf/
+Author: pradeep_504
+
+--- Summary ---
+Bugik Platform UpdateI’m happy to share an update on Bugik!When I first launched Bugik, it started with C++ and Spring Boot. I’m now expanding the platform to include more technologies to help students prepare for technical interviews and online asse
+
+--- Tags ---
+  - Career (career) []
+  - OA (oa-2) []
+  - amazon_OA (amazon-oa-3) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: HgNtH4yH
+Title: Digital Ocean | Senior Software Engineer 2 | ~ 8 YOE
+Slug: digital-ocean-senior-software-engineer-2-gyo0
+Article Type: DISCUSSION
+Posted: 2026-10-28 11:21:39 IST
+Updated: 2026-10-28 11:49:49 IST
+URL: https://leetcode.com/discuss/post/8592135/digital-ocean-senior-software-engineer-2-gyo0/
+Author: 
+
+--- Summary ---
+CurrentBase - 48
+RSU - 15 LPATotal - 63 LPAOfferCompany - DigitalOcean
+Base -  59 LPA
+Bonus/Variable - 7 LPA
+RSU - 15 Lakhs per year approxTotal - 81 CTCDo you think its a good offer ?
+How is digitalocean in terms of engineering work and other aspect
+
+--- Tags ---
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 8
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: yDcxE8Sa
+Title: Kotak Mahindra Bank | SDE 2 Offer Evaluation | Lowball & 90 Days Notice Dilemma
+Slug: kotak-mahindra-bank-sde-offer-evaluation-s4wk
+Article Type: DISCUSSION
+Posted: 2026-10-28 09:32:36 IST
+Updated: 2026-10-28 09:59:37 IST
+URL: https://leetcode.com/discuss/post/8592052/kotak-mahindra-bank-sde-offer-evaluation-s4wk/
+Author: 
+
+--- Summary ---
+Hey folks,Looking for genuine reviews on Kotak’s engineering division and advice on navigating this offer.Details:YOE: ~3 YearsCurrent TC: 16 LPA (14.5 Base + 1.5 Variable)Offered Comp: 22 Base + 2 Variable (No JB / deferred component)Offered TC: 24
+
+--- Tags ---
+  - Compensation (compensation) []
+  - Kotak Mahindra Bank (kotak-mahindra-bank) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: S1KXDdCV
+Title: Help Needed!!!, Cleared BNP Paribas Walk-in for Senior Java Developer (Chennai), Next Steps When??
+Slug: cleared-bnp-paribas-walk-in-for-senior-j-jn64
+Article Type: DISCUSSION
+Posted: 2026-10-28 09:17:17 IST
+Updated: 2026-10-28 11:21:39 IST
+URL: https://leetcode.com/discuss/post/8592039/cleared-bnp-paribas-walk-in-for-senior-j-jn64/
+Author: 
+
+--- Summary ---
+Hey everyone,I attended a walk-in interview for a Senior Java Developer role at BNP Paribas (Chennai location) this past Saturday, October 24th.I cleared both technical rounds and had a brief HR discussion regarding my location preferences, notice pe
+
+--- Tags ---
+  - BNP Paribas (bnp-paribas) [COMPANY]
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: at28pr0p
+Title: Salesforce MTS Interview Experience + Compensation Negotiation — Bengaluru (~3 YOE)
+Slug: salesforce-mts-interview-experience-comp-3bhz
+Article Type: DISCUSSION
+Posted: 2026-10-28 08:25:37 IST
+Updated: 2026-10-28 08:25:37 IST
+URL: https://leetcode.com/discuss/post/8591998/salesforce-mts-interview-experience-comp-3bhz/
+Author: 
+
+--- Summary ---
+Hey folks, just sharing my experience interviewing for an MTS role at Salesforce.I completed the OA around 3 months ago, and the interview process started around 1.5 months ago.The process involved:2 DSA rounds1 Hiring Manager round - Req im being in
+
+--- Tags ---
+  - Salesforce (salesforce) [COMPANY]
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: MJ0atQGl
+Title: HELP ME PLEASE!!!
+Slug: help-me-please-by-christojoseph46-zcu1
+Article Type: DISCUSSION
+Posted: 2026-10-28 08:19:05 IST
+Updated: 2026-10-28 08:19:05 IST
+URL: https://leetcode.com/discuss/post/8591991/help-me-please-by-christojoseph46-zcu1/
+Author: christojoseph46
+
+--- Summary ---
+i have inductions coming for gdsc and i want to apply for embedded systems and cp .i am a 2nd year student with very basic understanding of c and python . help me find problems that would help me . projects would also be helpfull....
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: NiBJMgH3
+Title: Forward Deployed Engineer
+Slug: forward-deployed-engineer-by-mohammed_ta-h9au
+Article Type: DISCUSSION
+Posted: 2026-10-28 03:46:21 IST
+Updated: 2026-10-28 03:46:21 IST
+URL: https://leetcode.com/discuss/post/8591874/forward-deployed-engineer-by-mohammed_ta-h9au/
+Author: Mohammed_Tauheed_Khan
+
+--- Summary ---
+Preparing for an FDE (Forward Deployed Engineer) assessment made me realize something important about the software engineering industry in 2026.Being good at DSA is valuable, but engineering today requires much more than solving coding problems.FDE r
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: fcWzH5uT
+Title: HELP MEE
+Slug: help-mee-by-vedansh2108-pcl8
+Article Type: DISCUSSION
+Posted: 2026-10-28 02:24:09 IST
+Updated: 2026-10-28 02:24:09 IST
+URL: https://leetcode.com/discuss/post/8591835/help-mee-by-vedansh2108-pcl8/
+Author: Vedansh2108
+
+--- Summary ---
+Hey guys, for the past 2 years all I have been studying is DSA, and I have a little knowledge of basics of CS fundamentals.
+I have an interview coming up so I want to know what else do I need to study in 2026 to ace a technical interview as a fresher
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: g1ShzOIc
+Title: show result
+Slug: show-result-by-justveer-xv8b
+Article Type: DISCUSSION
+Posted: 2026-10-28 00:50:27 IST
+Updated: 2026-10-28 00:50:27 IST
+URL: https://leetcode.com/discuss/post/8591777/show-result-by-justveer-xv8b/
+Author: justveer
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: UhFRpFz7
+Title: Are We Actually Learning DSA or Just Remembering Solutions ⁉️
+Slug: are-we-actually-learning-dsa-or-just-rem-896w
+Article Type: DISCUSSION
+Posted: 2026-10-27 23:52:29 IST
+Updated: 2026-10-27 23:52:29 IST
+URL: https://leetcode.com/discuss/post/8591713/are-we-actually-learning-dsa-or-just-rem-896w/
+Author: ShiYoBo
+
+--- Summary ---
+You solve a LeetCode problem, understand the algorithm, and even implement it without help.A week later, you attempt the same problem and get stuck again.If you genuinely understood the solution, why is it so difficult to reproduce?Is solving hundred
+
+--- Tags ---
+  - LeetCode (leetcode) [COMPANY]
+  - Problem Solving (problem-solving-2) []
+  - Leetcode Community (leetcode-community-2) []
+  - problem (problem-3) []
+  - Leetcode Team (leetcode-team-2) []
+  - Leetcoding (leetcoding-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: HgDepUNG
+Title: Understanding a Solution ≠ Solving the Problem ‼️
+Slug: understanding-a-solution-solving-the-pro-1zpa
+Article Type: DISCUSSION
+Posted: 2026-10-27 23:51:23 IST
+Updated: 2026-10-27 23:51:23 IST
+URL: https://leetcode.com/discuss/post/8591710/understanding-a-solution-solving-the-pro-1zpa/
+Author: ShiYoBo
+
+--- Summary ---
+Have you ever struggled with a LeetCode problem for 40 minutes, then looked at the solution and understood it in just 2 minutes?The algorithm makes perfect sense once you see it. But somehow, you couldn't think of it yourself.Why is recognizing a cor
+
+--- Tags ---
+  - LeetCode (leetcode) [COMPANY]
+  - Problem Solving (problem-solving-2) []
+  - Leetcode Community (leetcode-community-2) []
+  - problem (problem-3) []
+  - Leetcode Team (leetcode-team-2) []
+  - Leetcoding (leetcoding-2) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 9VFnlSUz
+Title: SDE-2 Low-Level Design (LLD): Working Machine-Coding vs. Pure OOAD/Whiteboarding in FAANG?
+Slug: sde-2-low-level-design-lld-working-machi-r49h
+Article Type: DISCUSSION
+Posted: 2026-10-27 23:47:59 IST
+Updated: 2026-10-27 23:47:59 IST
+URL: https://leetcode.com/discuss/post/8591704/sde-2-low-level-design-lld-working-machi-r49h/
+Author: 
+
+--- Summary ---
+Hey everyone,Prepping for SDE-2 backend loops and seeing conflicting advice on how 45-60 minute LLD rounds are evaluated today:Pure OOAD / Whiteboarding: Focus is on domain modeling, design patterns, SOLID principles, and clean class/API skeletons. F
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: yulh2yZY
+Title: Backtracking all questions single template
+Slug: backtracking-all-questions-single-templa-3qy3
+Article Type: DISCUSSION
+Posted: 2026-10-27 23:19:06 IST
+Updated: 2026-10-27 23:19:06 IST
+URL: https://leetcode.com/discuss/post/8591646/backtracking-all-questions-single-templa-3qy3/
+Author: akshay_gupta_7
+
+--- Summary ---
+Keep an avialble box class which will give you and put back an iteam, that's it.SubsetSumSubsetSum 2PermutationPermutations 2Combination Sum 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: FIsBySzP
+Title: Learning to Think Beyond Just Writing Code
+Slug: learning-to-think-beyond-just-writing-co-y422
+Article Type: DISCUSSION
+Posted: 2026-10-27 22:25:44 IST
+Updated: 2026-10-27 22:25:44 IST
+URL: https://leetcode.com/discuss/post/8591576/learning-to-think-beyond-just-writing-co-y422/
+Author: Sachit_kohli
+
+--- Summary ---
+Hey everyone!While practicing DSA, I've realized that solving a problem is not just about getting the correct answer. It's also about understanding why a particular approach works and how we can improve it.Earlier, I used to focus mainly on writing c
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: xZNoxBlp
+Title: Have anyone felt like ability to code is dropped in an interview?
+Slug: have-anyone-felt-like-ability-to-code-is-7u75
+Article Type: DISCUSSION
+Posted: 2026-10-27 20:57:09 IST
+Updated: 2026-10-27 20:57:35 IST
+URL: https://leetcode.com/discuss/post/8591448/have-anyone-felt-like-ability-to-code-is-7u75/
+Author: jaykape
+
+--- Summary ---
+Hi, recently I've been in an interview. I'm pretty confident so I didnt try to prepare for explaining while coding. But when the day comes, it seems like the same medium problem that I've done easily become unsolvable. Eventually I did that, but if I
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: TxcMVQAN
+Title: Day 81 of My DSA Journey | Create Grid With Exactly One Path
+Slug: day-81-of-my-dsa-journey-create-grid-wit-lb0w
+Article Type: DISCUSSION
+Posted: 2026-10-27 20:55:21 IST
+Updated: 2026-10-27 20:55:21 IST
+URL: https://leetcode.com/discuss/post/8591444/day-81-of-my-dsa-journey-create-grid-wit-lb0w/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marks Day 81 of my DSA journey, and I solved Create Grid With Exactly One Path (LeetCode 3963).This problem focuses on constructing a grid that contains exactly one valid path between the required points. It challenged me to think carefully abo
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1nthjch5
+Title: Samsung R&D Institute Noida | R&D Summer Intern | Noida
+Slug: samsung-rd-institute-noida-rd-summer-int-7oks
+Article Type: DISCUSSION
+Posted: 2026-10-27 19:49:00 IST
+Updated: 2026-10-27 19:49:31 IST
+URL: https://leetcode.com/discuss/post/8591354/samsung-rd-institute-noida-rd-summer-int-7oks/
+Author: ritesh_xyz_bbsr
+
+--- Summary ---
+Education: B.Tech CSE, IIT (BHU) Varanasi (2028 batch)
+Years of Experience: 0
+Prior Experience: No prior internship; exploratory research project on quantum ML (VQCs) under a professor
+Date of the Offer: September 2026 (on-campus selection; formal o
+
+--- Tags ---
+  - Samsung (samsung) [COMPANY]
+  - Compensation (compensation) []
+  - NOIDA (noida-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: wArbwzTC
+Title: Flipkart SDE 3 Backend (Agentic AI) Machine Coding Round – 28th October
+Slug: flipkart-sde-3-backend-agentic-ai-machin-v9hy
+Article Type: DISCUSSION
+Posted: 2026-10-27 19:33:26 IST
+Updated: 2026-10-27 19:33:26 IST
+URL: https://leetcode.com/discuss/post/8591335/flipkart-sde-3-backend-agentic-ai-machin-v9hy/
+Author: 
+
+--- Summary ---
+Hi everyone,I came across a hiring drive for Flipkart SDE 3 – Backend Engineer (4.5 to 7.6 years of experience), where Agentic AI experience is required.The announcement mentions that shortlisted candidates will receive an email invitation for a virt
+
+--- Tags ---
+  - Flipkart (flipkart) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: xBgKvIY1
+Title: Google FDE Onsite Interview | ₹95Lakhs CTC | Bombed the DSA Round!! 
+Slug: google-fde-onsite-interview-rs95lakhs-ct-6ou0
+Article Type: DISCUSSION
+Posted: 2026-10-27 18:56:53 IST
+Updated: 2026-10-27 19:57:29 IST
+URL: https://leetcode.com/discuss/post/8591289/google-fde-onsite-interview-rs95lakhs-ct-6ou0/
+Author: 
+
+--- Summary ---
+You are given "N" cities. There are "M" roads - each of the "M" roads connects two different cities directly.When you go by a car from city 'x' to city 'y' via any one of the "M" roads - it costs you 1kg of fuel.Car starts from the 'source' city and
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: i40FgjBO
+Title: Crowdstrike India | Engineer II 
+Slug: crowdstrike-india-engineer-ii-by-anonymo-5u67
+Article Type: DISCUSSION
+Posted: 2026-10-27 18:09:53 IST
+Updated: 2026-10-27 18:09:53 IST
+URL: https://leetcode.com/discuss/post/8591226/crowdstrike-india-engineer-ii-by-anonymo-5u67/
+Author: 
+
+--- Summary ---
+Anyone given crowdstrike interview recently or applied and about to give interviews ?
+
+--- Tags ---
+  - CrowdStrike (crowdstrike) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: mr2Z46zs
+Title: Amazon SDE2 interview onsite experience - good experience, no offer
+Slug: amazon-sde2-interview-onsite-experience-n8bnl
+Article Type: DISCUSSION
+Posted: 2026-10-27 17:51:11 IST
+Updated: 2026-10-27 17:51:11 IST
+URL: https://leetcode.com/discuss/post/8591208/amazon-sde2-interview-onsite-experience-n8bnl/
+Author: 
+
+--- Summary ---
+Recently had my 4 onsite interviews for SDE 2 at Amazon. Not too difficult interview.Strengths:
+Strong DSA and customer obsession storiesGrowth Areas:
+System design and OOPS, bit unlucky with oops interviewer I think.
+I know where I lacked in system
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: NSjVXM8T
+Title: Booking Holdings - SE2
+Slug: booking-holdings-se2-by-nandypk10-nhy6
+Article Type: DISCUSSION
+Posted: 2026-10-27 17:06:46 IST
+Updated: 2026-10-27 17:06:46 IST
+URL: https://leetcode.com/discuss/post/8591165/booking-holdings-se2-by-nandypk10-nhy6/
+Author: nandypk10
+
+--- Summary ---
+Anyone recently appeared for interview with Booking Holdings for SE2 ?
+Did you get call from the recruiter after system design round ?
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4jwmfjIK
+Title: ANZ | Bengaluru | Engineer 4 | Accepted
+Slug: anz-bengaluru-engineer-4-accepted-by-ano-6gug
+Article Type: DISCUSSION
+Posted: 2026-10-27 16:08:08 IST
+Updated: 2026-10-27 16:08:08 IST
+URL: https://leetcode.com/discuss/post/8591103/anz-bengaluru-engineer-4-accepted-by-ano-6gug/
+Author: 
+
+--- Summary ---
+Education: B.Tech Tier 3 ENTC
+YoE: 3.4 years
+Current Company: FinTech (World's Largest Derivatives Exchange)
+Current TC: 22.5LPAOffer from ANZ Bengaluru
+Role - Engineer 4
+Base: 28L
+JB: 0
+RSU: 0
+Bonus: 5 % of Base
+Allowances: 3LFirst Year TC Including
+
+--- Tags ---
+  - ANZ (anz) [COMPANY]
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: o5GgmKFF
+Title: [URGENT]: FAANG SDE-1 to Cisco Grade 8 SDE — Compensation & Career Advice Needed (India)
+Slug: urgent-faang-sde-1-to-cisco-grade-8-sde-qrcg0
+Article Type: DISCUSSION
+Posted: 2026-10-27 14:57:46 IST
+Updated: 2026-10-27 14:57:46 IST
+URL: https://leetcode.com/discuss/post/8591049/urgent-faang-sde-1-to-cisco-grade-8-sde-qrcg0/
+Author: 
+
+--- Summary ---
+Hi everyone!I’m currently working as an SDE-1(~2.5 YOE) at a FAANG company and have received an offer from Cisco for a Grade 8 SDE role in India. I’m evaluating whether to make the switch and would really appreciate your advice!I’d love your insights
+
+--- Tags ---
+  - Cisco (cisco) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: NX5shMPL
+Title: Count Primes – Java TLE for n = 1500000
+Slug: count-primes-java-tle-for-n-1500000-by-d-gksy
+Article Type: DISCUSSION
+Posted: 2026-10-27 13:30:45 IST
+Updated: 2026-10-27 13:30:45 IST
+URL: https://leetcode.com/discuss/post/8590972/count-primes-java-tle-for-n-1500000-by-d-gksy/
+Author: DivyaAmaresh
+
+--- Summary ---
+My Java solution works for smaller inputs, but it gets Time Limit Exceeded (TLE) for n = 1500000.I want to optimize my existing code while keeping my approach and variable names as much as possible.Could someone explain which part of my code is causi
+
+--- Reactions ---
+  UPVOTE: 1
+
