@@ -1,0 +1,363 @@
+LeetCode Discuss - Latest 17 Articles
+Fetched on: 2026-11-06 15:14:46 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: LQQ7WRaR
+Title: why are we still grinding LeetCode when ai can solve most of these in seconds ?is DSA still worth it
+Slug: why-are-we-still-grinding-leetcode-when-54zen
+Article Type: DISCUSSION
+Posted: 2026-11-06 13:50:01 IST
+Updated: 2026-11-06 13:51:07 IST
+URL: https://leetcode.com/discuss/post/8603494/why-are-we-still-grinding-leetcode-when-54zen/
+Author: asurathereaper
+
+--- Summary ---
+Not trying to start a flame war, I genuinely want to understand this.I’ve been grinding LeetCode for a few months. And lately I’ve noticed that I can paste a medium into ChatGPT or Claude and get a working solution, an explanation, and the complexity
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: uslJhkzw
+Title: Coding Round-Implement a CD command
+Slug: coding-round-implement-a-cd-command-by-b-z9uf
+Article Type: DISCUSSION
+Posted: 2026-11-06 13:43:40 IST
+Updated: 2026-11-06 13:43:40 IST
+URL: https://leetcode.com/discuss/post/8603489/coding-round-implement-a-cd-command-by-b-z9uf/
+Author: Betamumma
+
+--- Summary ---
+I stumbled upon this OpenAI interview question and found it quite interesting.Implement a Unix-style cd() function that returns the final normalized absolute path after navigation, handling . , .., repeated slashes, and edge cases.Example:Plain Text
+
+--- Tags ---
+  - OpenAI (openai) [COMPANY]
+  - Interview (interview) []
+  - interview-prep (interview-prep-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: wyS8TO3n
+Title: UiPath SWE 2 offer 
+Slug: uipath-swe-2-offer-by-anonymous_user-anpl
+Article Type: DISCUSSION
+Posted: 2026-11-06 13:21:34 IST
+Updated: 2026-11-06 13:21:34 IST
+URL: https://leetcode.com/discuss/post/8603473/uipath-swe-2-offer-by-anonymous_user-anpl/
+Author: 
+
+--- Summary ---
+year of experience - 3 yearsbase - 45 lpa
+bonus - 4.5 lpastocks - 100k dollars vested over 4 years
+
+--- Tags ---
+  - UiPath (uipath) [COMPANY]
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pRfXMtX3
+Title: Why Do Developers Keep Starting New Projects Instead of Finishing Existing Ones?
+Slug: why-do-developers-keep-starting-new-proj-h5lb
+Article Type: DISCUSSION
+Posted: 2026-11-06 12:14:24 IST
+Updated: 2026-11-06 12:14:24 IST
+URL: https://leetcode.com/discuss/post/8603414/why-do-developers-keep-starting-new-proj-h5lb/
+Author: ammar_ahmad06
+
+--- Summary ---
+I've noticed something interesting in the developer community, especially among people learning programming and AI.We love starting new projects.A new framework comes out, we want to try it. A new AI model gets released, we start building something a
+
+--- Tags ---
+  - Career (career) []
+  - learning (learning-2) []
+  - #software engineering (software-engineering-2) []
+  - Programming (programming-2) []
+  - experience (experience-2) []
+  - Discussion (discussion-2) []
+  - projects (projects-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: BDOV2Cng
+Title: DBMS & SQL: A Deep Dive into Database Fundamentals, Query Execution, and Real-World Engineering 
+Slug: dbms-sql-a-deep-dive-into-database-funda-dk89
+Article Type: DISCUSSION
+Posted: 2026-11-06 12:11:45 IST
+Updated: 2026-11-06 12:11:45 IST
+URL: https://leetcode.com/discuss/post/8603411/dbms-sql-a-deep-dive-into-database-funda-dk89/
+Author: Ibrahim--leetcode
+
+--- Summary ---
+Is Your Database Ready for 10 Million Users?Every successful software product eventually faces a critical challenge: managing growing amounts of data without sacrificing performance, reliability, or consistency.Choosing a database is easy. Designing
+
+--- Tags ---
+  - Database (database) [TOPIC]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DL0mrsSI
+Title: HR rejection hurts more than breakups. 🥲
+Slug: hr-rejection-hurts-more-than-breakups-by-xj7t
+Article Type: DISCUSSION
+Posted: 2026-11-06 05:36:33 IST
+Updated: 2026-11-06 05:37:03 IST
+URL: https://leetcode.com/discuss/post/8603170/hr-rejection-hurts-more-than-breakups-by-xj7t/
+Author: 
+
+--- Summary ---
+XYZ Campus placement Interview Experience | AI/ML Role | Rejected After HRRecently attended XYZ's campus hiring process for the AI/ML role. Unfortunately, got rejected after reaching the final HR round. Sharing my experience for future candidates.Rec
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: oZ9G35XN
+Title: IBM Senior Cloud & AI Engineer | Bengaluru | Ghosted
+Slug: ibm-cloud-ai-engineer-bengaluru-ghosted-o6nna
+Article Type: DISCUSSION
+Posted: 2026-11-06 00:03:47 IST
+Updated: 2026-11-06 00:04:01 IST
+URL: https://leetcode.com/discuss/post/8603010/ibm-cloud-ai-engineer-bengaluru-ghosted-o6nna/
+Author: 
+
+--- Summary ---
+Hey everyone,So I had interview for senior cloud and AI engineer. Basically they did initial HR screening.Post that I had two technical rounds. First round basically had discussion with a senior guy. Discussion was around k8s and RAG. Also there was
+
+--- Tags ---
+  - IBM (ibm) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kpIJC65r
+Title: ZoomInfo: Senior Software Engineer
+Slug: zoominfo-senior-software-engineer-by-ano-jbqh
+Article Type: DISCUSSION
+Posted: 2026-11-05 23:56:16 IST
+Updated: 2026-11-05 23:57:27 IST
+URL: https://leetcode.com/discuss/post/8603001/zoominfo-senior-software-engineer-by-ano-jbqh/
+Author: 
+
+--- Summary ---
+Anyone interviewed for ZoomInfo recently for US locations. Please share hiring manager and technical interview experiences
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Q6K0N2qe
+Title: Solving 300 random LeetCode problems won't necessarily make you interview-ready.
+Slug: solving-300-random-leetcode-problems-won-fsrw
+Article Type: DISCUSSION
+Posted: 2026-11-05 23:37:43 IST
+Updated: 2026-11-05 23:37:43 IST
+URL: https://leetcode.com/discuss/post/8602985/solving-300-random-leetcode-problems-won-fsrw/
+Author: SFTEWk4YLU
+
+--- Summary ---
+What matters more is recognising the pattern behind a problem and knowing which approach to apply. 👇If you're preparing for software engineering interviews, start connecting DSA topics with the problem-solving techniques commonly used in them.Here's
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: L3gBdeJn
+Title: Competitive Programming vs Engineering: Are They Really the Same?
+Slug: competitive-programming-vs-engineering-a-x4yj
+Article Type: DISCUSSION
+Posted: 2026-11-05 23:31:06 IST
+Updated: 2026-11-05 23:31:06 IST
+URL: https://leetcode.com/discuss/post/8602976/competitive-programming-vs-engineering-a-x4yj/
+Author: HeroHarshit
+
+--- Summary ---
+As students learning programming, many of us spend hours solving problems on platforms like LeetCode. We learn different algorithms, explore data structures, and try to improve our problem-solving skills.But recently, I started thinking about somethi
+
+--- Tags ---
+  - General Discussion (general-discussion-2) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: gwxEgq7z
+Title: Day 90 of My DSA Journey | Find the Distance Value Between Two Arrays
+Slug: day-90-of-my-dsa-journey-find-the-distan-ptr0
+Article Type: DISCUSSION
+Posted: 2026-11-05 22:56:15 IST
+Updated: 2026-11-05 22:56:15 IST
+URL: https://leetcode.com/discuss/post/8602943/day-90-of-my-dsa-journey-find-the-distan-ptr0/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marks Day 90 of my DSA journey! I solved Find the Distance Value Between Two Arrays (LeetCode 1385).The problem focuses on counting elements in the first array that have an absolute difference greater than a given value (d) from every element i
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: NagCAx3N
+Title: Upcoming coding interview at Omnissa for Software Engineer - C# .net
+Slug: upcoming-coding-interview-at-omnissa-for-sdp9
+Article Type: DISCUSSION
+Posted: 2026-11-05 22:10:23 IST
+Updated: 2026-11-05 22:10:23 IST
+URL: https://leetcode.com/discuss/post/8602895/upcoming-coding-interview-at-omnissa-for-sdp9/
+Author: 
+
+--- Summary ---
+Hi I have an upcoming round at Omnissa for Software Engineer - C# .net
+They said it would be a coding round. Mix of LLD and DSA.Did anyone give any recent interviews at Omnissa? Can you tell me what type of questions were asked.
+What should I prepare
+
+--- Tags ---
+  - Interview (interview) []
+  - Omnissa (omnissa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: zmrnPMGq
+Title: How to prepare for Databricks Software Engineer New Grad interviews? (Berlin, 2027)
+Slug: how-to-prepare-for-databricks-software-e-am94
+Article Type: DISCUSSION
+Posted: 2026-11-05 21:54:30 IST
+Updated: 2026-11-05 21:56:17 IST
+URL: https://leetcode.com/discuss/post/8602881/how-to-prepare-for-databricks-software-e-am94/
+Author: 
+
+--- Summary ---
+Hi everyone,I have an upcoming interview process for the Software Engineer - New Grad (2027 Start) - Berlin position at Databricks, and I wanted to ask anyone who has gone through the interview process or has experience with similar roles for some ad
+
+--- Tags ---
+  - Databricks (databricks) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: JxCl3LxF
+Title: 💡 Today's SQL Challenge: Can you solve this without a JOIN?
+Slug: todays-sql-challenge-can-you-solve-this-efavl
+Article Type: DISCUSSION
+Posted: 2026-11-05 20:05:11 IST
+Updated: 2026-11-05 20:05:11 IST
+URL: https://leetcode.com/discuss/post/8602783/todays-sql-challenge-can-you-solve-this-efavl/
+Author: corsal2006
+
+--- Summary ---
+Let's test your SQL fundamentals!You have a table called Employee:idnamesalary1Rahul500002Amit650003Neha500004Riya800005Karan65000Question: Write a MySQL query to find employees who share the same salary.A small challenge:
+No JOINs.
+Try using GROUP B
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: XoDo0nQp
+Title:  OpenAI-Style BFS Question
+Slug: openai-style-bfs-question-by-betamumma-8x3t
+Article Type: DISCUSSION
+Posted: 2026-11-05 18:46:36 IST
+Updated: 2026-11-05 18:46:36 IST
+URL: https://leetcode.com/discuss/post/8602704/openai-style-bfs-question-by-betamumma-8x3t/
+Author: Betamumma
+
+--- Summary ---
+Found this interesting problem while browsing an OpenAI question bank discussion.Problem: Given a grid where:X = Infected plant
+. = Healthy plantEvery day, an infected plant infects all 8 neighboring cells.Return the number of days until the grid rea
+
+--- Tags ---
+  - OpenAI (openai) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4H2250vs
+Title: Day 2 of my coding Journey with Problem Number 1385
+Slug: day-2-of-my-coding-journey-with-problem-0c5d2
+Article Type: DISCUSSION
+Posted: 2026-11-05 18:12:49 IST
+Updated: 2026-11-05 18:12:49 IST
+URL: https://leetcode.com/discuss/post/8602676/day-2-of-my-coding-journey-with-problem-0c5d2/
+Author: 25A31A4274
+
+--- Summary ---
+Day 2 of My Coding JourneyProblem: 1385 – Find the Distance Value Between Two ArraysToday, I solved a problem that helped me understand an interesting concept: Binary Search.There are two main steps involved in the solution:1. Sorting MethodFirst, we
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: volz2uSE
+Title: Infosys In-Person Coding Assessment on 12th November – Need Preparation Guidance
+Slug: infosys-in-person-coding-assessment-on-1-ketn
+Article Type: DISCUSSION
+Posted: 2026-11-05 15:12:13 IST
+Updated: 2026-11-05 15:12:28 IST
+URL: https://leetcode.com/discuss/post/8602526/infosys-in-person-coding-assessment-on-1-ketn/
+Author: 
+
+--- Summary ---
+Hi everyone!I have my Infosys In-Person Coding Assessment on 12th November 2026 for the Specialist Programmer / Digital Specialist Engineer recruitment process.I would really appreciate guidance from people who have recently attended and successfully
+
+--- Tags ---
+  - Infosys (infosys) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
