@@ -1,0 +1,399 @@
+LeetCode Discuss - Latest 18 Articles
+Fetched on: 2026-11-09 15:40:04 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: GWuPv2ad
+Title: What you learn from Leetcode 
+Slug: what-you-learn-from-leetcode-by-golden_c-jgz2
+Article Type: DISCUSSION
+Posted: 2026-11-09 14:50:24 IST
+Updated: 2026-11-09 14:50:24 IST
+URL: https://leetcode.com/discuss/post/8606639/what-you-learn-from-leetcode-by-golden_c-jgz2/
+Author: Golden_CSE45
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ikXMyYxM
+Title: How to Crack FAANG as a Tier-3 College Student?
+Slug: how-to-crack-faang-as-a-tier-3-college-s-1epl
+Article Type: DISCUSSION
+Posted: 2026-11-09 13:40:16 IST
+Updated: 2026-11-09 13:40:16 IST
+URL: https://leetcode.com/discuss/post/8606589/how-to-crack-faang-as-a-tier-3-college-s-1epl/
+Author: JockeyJunior
+
+--- Summary ---
+Second-year Tier-3 college student targeting Google, Microsoft, Amazon through off-campus placements. What should my roadmap look like?I'm currently in my second year of CSE (AI & ML) at a Tier-3 college.My long-term goal is to secure an SDE role at
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0dozWFNb
+Title: 🍂 Thanksgiving Sale Is Now Live
+Slug: thanksgiving-sale-is-now-live-by-leetcod-lx5l
+Article Type: DISCUSSION
+Posted: 2026-11-09 13:30:31 IST
+Updated: 2026-11-09 13:30:31 IST
+URL: https://leetcode.com/discuss/post/8606573/thanksgiving-sale-is-now-live-by-leetcod-lx5l/
+Author: LeetCode
+
+--- Summary ---
+Hi LeetCoders! 👋Thanksgiving is a time to appreciate how far we've come and look ahead to what's next. If sharpening your coding skills is on your list, here's a little something to help you along the way.Get LeetCode Premium for just $129, a $30 sav
+
+--- Tags ---
+  - LeetCode (leetcode) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: d7ahSgZ3
+Title: Tableau to Power BI Migration: Best approach for translating LOD expressions to DAX?  
+Slug: tableau-to-power-bi-migration-best-appro-uf3r
+Article Type: DISCUSSION
+Posted: 2026-11-09 12:36:24 IST
+Updated: 2026-11-09 12:36:24 IST
+URL: https://leetcode.com/discuss/post/8606506/tableau-to-power-bi-migration-best-appro-uf3r/
+Author: Msk9vqdNQr
+
+--- Summary ---
+Hey LeetCode community,Our engineering team is currently working through a large-scale reporting infrastructure migration, moving legacy dashboards from Tableau over to Power BI.While straightforward table mappings are easy, we are running into perfo
+
+--- Tags ---
+  - general-discussion (general-discussion) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: MxR5BIvM
+Title: Anthropic's Image Processor Coding Question
+Slug: anthropics-image-processor-coding-questi-egyd
+Article Type: DISCUSSION
+Posted: 2026-11-09 10:35:07 IST
+Updated: 2026-11-09 10:35:07 IST
+URL: https://leetcode.com/discuss/post/8606387/anthropics-image-processor-coding-questi-egyd/
+Author: Betamumma
+
+--- Summary ---
+Thought I'd share an interesting interview question I found while preparing.Image Processor DesignSupport: Submit, Status, Result, Cancel
+Start with a single worker + FIFO queue
+Then scale to multiple workers using a thread poolKey focus: job lifecyc
+
+--- Tags ---
+  - Interview (interview) []
+  - Anthropic (anthropic) [COMPANY]
+  - interview-prep (interview-prep-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: TFfs6U1g
+Title: JPMC || SDE-2
+Slug: jpmc-sde-ii-by-anonymous_user-w9ik
+Article Type: DISCUSSION
+Posted: 2026-11-09 09:49:27 IST
+Updated: 2026-11-09 09:49:43 IST
+URL: https://leetcode.com/discuss/post/8606357/jpmc-sde-ii-by-anonymous_user-w9ik/
+Author: 
+
+--- Summary ---
+Finally received an offer from JPMC! 🎉After 2.8 years of experience, 18 company interviews, and 4 offers over the last 15 months, I have finally received an offer from JPMorgan Chase & Co. (JPMC)!My Background:
+Education: Tier 3 University
+Experience
+
+--- Tags ---
+  - JPMorgan Chase (jpmorgan) [COMPANY]
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 22
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: itHwWxCL
+Title: Preparing for Amazon SDE Internship 
+Slug: preparing-for-amazon-sde-internship-by-h-4dps
+Article Type: DISCUSSION
+Posted: 2026-11-09 04:30:19 IST
+Updated: 2026-11-09 04:30:19 IST
+URL: https://leetcode.com/discuss/post/8606231/preparing-for-amazon-sde-internship-by-h-4dps/
+Author: heygaurav
+
+--- Summary ---
+I'm currently a college student, and one of my biggest goals is to get an SDE internship at Amazon. before next year (Can i)I've started taking my preparation seriously. I'm working on algorithm(i watch all algo videos), learning system design (where
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DPohbm6C
+Title: I'm Looking forward FDE interview exprience and coding round question @palentire
+Slug: im-looking-forward-fde-interview-exprien-0xl2
+Article Type: DISCUSSION
+Posted: 2026-11-09 03:48:13 IST
+Updated: 2026-11-09 03:48:13 IST
+URL: https://leetcode.com/discuss/post/8606216/im-looking-forward-fde-interview-exprien-0xl2/
+Author: heygaurav
+
+--- Summary ---
+Hi everyone,
+I'm preparing for the Palantir FDE interview and would like to know about the interview experience and the types of coding questions asked in the coding round.
+Any recent interview experiences or guidance would be greatly appreciated.
+an
+
+--- Tags ---
+  - Palantir (palantir) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: SndR2oxo
+Title: Motorola vs Lowe's India vs Nagarro vs Deloitte
+Slug: motorola-vs-lowes-india-vs-nagarro-vs-de-3dvl
+Article Type: DISCUSSION
+Posted: 2026-11-09 02:38:23 IST
+Updated: 2026-11-09 02:38:23 IST
+URL: https://leetcode.com/discuss/post/8606193/motorola-vs-lowes-india-vs-nagarro-vs-de-3dvl/
+Author: 
+
+--- Summary ---
+Hi leetcoders, I'm currently in a confusion among these offersMy profile :YOE : 3.10
+ROLE : SDE at retail based start up bangalore
+current LPA : 10.9 FIXED
+Tech stack : Backend Java Springboot**Deloitte USI : **Offered: 15.5 FIXED + 1L Joining Bonus
+
+--- Tags ---
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 5MsdX19d
+Title:  eBay Search Ranking – Berlin | Interview Experience & Preparation Guidance Needed
+Slug: ebay-search-ranking-berlin-interview-exp-7x2s
+Article Type: DISCUSSION
+Posted: 2026-11-09 02:18:06 IST
+Updated: 2026-11-09 02:20:06 IST
+URL: https://leetcode.com/discuss/post/8606187/ebay-search-ranking-berlin-interview-exp-7x2s/
+Author: 
+
+--- Summary ---
+Hi everyone,I recently started interviewing for a Software Engineer role in the Search Ranking team at eBay, based in Berlin. I'm currently based in the Netherlands.During my conversation with the recruiter, I was informed that the interview process
+
+--- Tags ---
+  - eBay (ebay) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Uk0zi0vB
+Title: Be honest: Are we learning algorithms, or just memorizing patterns?
+Slug: be-honest-are-we-learning-algorithms-or-63vfy
+Article Type: DISCUSSION
+Posted: 2026-11-09 00:59:18 IST
+Updated: 2026-11-09 00:59:18 IST
+URL: https://leetcode.com/discuss/post/8606124/be-honest-are-we-learning-algorithms-or-63vfy/
+Author: Deadcode66
+
+--- Summary ---
+Be honest: Are we learning algorithms, or just memorizing patterns?I’ve been thinking about this while practicing LeetCode.Sometimes I can solve a problem almost immediately because I recognize the pattern. Maybe it’s sliding window, binary search, t
+
+--- Reactions ---
+  UPVOTE: 2
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: BfVqCRA8
+Title: Day-1: Minimum Absolute Difference | Sorting + Single Pass
+Slug: minimum-absolute-difference-sorting-sing-wo21
+Article Type: DISCUSSION
+Posted: 2026-11-08 22:27:54 IST
+Updated: 2026-11-08 22:29:08 IST
+URL: https://leetcode.com/discuss/post/8606016/minimum-absolute-difference-sorting-sing-wo21/
+Author: Rahat_Hussain
+
+--- Summary ---
+Day-01:Hi, everyone today i have solved Minimum absolute difference problem by using sorting and in single pass.Here is the solution link!https://leetcode.com/problems/minimum-absolute-difference/solutions/8606013/minimum-absolute-difference-sorting-
+
+--- Tags ---
+  - Sorting (sorting) [TOPIC]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: it4A7iZS
+Title: How useful is coding in future cybersecurity?
+Slug: how-useful-is-coding-in-future-cybersecu-zcsb
+Article Type: DISCUSSION
+Posted: 2026-11-08 21:40:48 IST
+Updated: 2026-11-08 21:40:48 IST
+URL: https://leetcode.com/discuss/post/8605984/how-useful-is-coding-in-future-cybersecu-zcsb/
+Author: csgremy
+
+--- Summary ---
+So im a first year in CS cybersecurity, wanna know how important is coding in cybersecurity with the emergence of ai and all, other than concept understanding is coding used at all anywhere?
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: A9fj3YgB
+Title: Printing Sub Sequences [ Recursion ] Covers Most of Problems
+Slug: printing-sub-sequences-recursion-covers-auqky
+Article Type: DISCUSSION
+Posted: 2026-11-08 18:02:58 IST
+Updated: 2026-11-08 18:05:54 IST
+URL: https://leetcode.com/discuss/post/8605827/printing-sub-sequences-recursion-covers-auqky/
+Author: pavanpadavala2005
+
+--- Summary ---
+For getting SubSquence of an array we can use the Recursion to do in O(2^N) time complexity
+
+
+Here we use a technique of Pick and Not Pick technique to iterate recurively to get All the Possible SubSequences
+
+--- Tags ---
+  - Dynamic Programming (dynamic-programming) [TOPIC]
+  - Recursion (recursion) [TOPIC]
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: EpyMTP8R
+Title: Pick & Not Pick [ Recursion ] Pattern Covers Most of Problems
+Slug: pick-not-pick-recursion-pattern-covers-m-bv4r
+Article Type: DISCUSSION
+Posted: 2026-11-08 18:02:40 IST
+Updated: 2026-11-08 18:02:40 IST
+URL: https://leetcode.com/discuss/post/8605826/pick-not-pick-recursion-pattern-covers-m-bv4r/
+Author: pavanpadavala2005
+
+--- Tags ---
+  - Dynamic Programming (dynamic-programming) [TOPIC]
+  - Backtracking (backtracking) [TOPIC]
+  - Recursion (recursion) [TOPIC]
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: piYSNdMB
+Title:  Agoda | SDE-2 (SSE) | Bangkok | Offer
+Slug: agoda-sde-2-sse-bangkok-offer-by-anonymo-yeaj
+Article Type: DISCUSSION
+Posted: 2026-11-08 16:03:12 IST
+Updated: 2026-11-08 16:03:12 IST
+URL: https://leetcode.com/discuss/post/8605740/agoda-sde-2-sse-bangkok-offer-by-anonymo-yeaj/
+Author: 
+
+--- Summary ---
+Agoda | SDE-2 (SSE) | Bangkok | OfferStatus: B.Tech, 4 YOE, Backend / GenAI
+Position: Senior Software Engineer (SDE-2) at Agoda
+Location: Bangkok, Thailand (applied from India)
+Verdict: Selected ✅Sharing my Agoda Bangkok SDE-2 interview experience, s
+
+--- Tags ---
+  - Agoda (agoda) [COMPANY]
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 9
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8G2sBTNs
+Title: LeetCode Weekly Contest 527 | 3/4 Solved | Python 3 Approaches
+Slug: leetcode-weekly-contest-527-34-solved-py-9lfk
+Article Type: DISCUSSION
+Posted: 2026-11-08 16:02:14 IST
+Updated: 2026-11-08 16:02:14 IST
+URL: https://leetcode.com/discuss/post/8605738/leetcode-weekly-contest-527-34-solved-py-9lfk/
+Author: c8IIP8pUdz
+
+--- Summary ---
+Hello everyone!Had a great learning experience in LeetCode Weekly Contest 527!I managed to solve 3 out of 4 problems during the contest. The contest covered some interesting concepts, including Two Pointers, Frequency Hash Maps, Greedy Observations,
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: SXdKzWMk
+Title: Online Assessments are changing, Are we preparing for the right things?
+Slug: online-assessments-are-changing-are-we-p-vftf
+Article Type: DISCUSSION
+Posted: 2026-11-08 14:44:06 IST
+Updated: 2026-11-08 14:44:06 IST
+URL: https://leetcode.com/discuss/post/8605661/online-assessments-are-changing-are-we-p-vftf/
+Author: varun_kumar_s
+
+--- Summary ---
+Recently attended an online assessment, and I noticed something different from the usual OA pattern.Earlier, most assessments followed a familiar structure:
+MCQs (CS fundamentals, aptitude, etc.)
+1–2 DSA coding questions.
+But this time, there were tw
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+  - Job Search (job-search-2) []
+  - Programming (programming-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
