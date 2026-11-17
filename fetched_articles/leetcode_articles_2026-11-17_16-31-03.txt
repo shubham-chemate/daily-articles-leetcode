@@ -1,0 +1,535 @@
+LeetCode Discuss - Latest 24 Articles
+Fetched on: 2026-11-17 16:31:03 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: xlFGfs92
+Title: Tips and utilities for migrating Crystal Reports (.rpt) to Power BI?
+Slug: tips-and-utilities-for-migrating-crystal-srvp
+Article Type: DISCUSSION
+Posted: 2026-11-17 16:11:03 IST
+Updated: 2026-11-17 16:11:03 IST
+URL: https://leetcode.com/discuss/post/8615738/tips-and-utilities-for-migrating-crystal-srvp/
+Author: Msk9vqdNQr
+
+--- Summary ---
+Hi everyone,We are moving a batch of old Crystal Reports (.rpt) over to Power BI and trying to figure out the cleanest way to tackle it.For anyone who has done this before:Did you pull out the SQL commands, formulas, and layouts manually, or are ther
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Pq8GNpyP
+Title: LLD & System Design — Where to Start? 🤷‍♀️
+Slug: lld-system-design-where-to-start-by-anki-jsbf
+Article Type: DISCUSSION
+Posted: 2026-11-17 14:34:19 IST
+Updated: 2026-11-17 14:34:19 IST
+URL: https://leetcode.com/discuss/post/8615680/lld-system-design-where-to-start-by-anki-jsbf/
+Author: ankit2885
+
+--- Summary ---
+I'm seeing a lot of buzz around LLD and System Design in my college lately.Can someone share a good roadmap to get started, along with recommended resources?
+
+--- Tags ---
+  - system-design (system-design-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: TeLoFnOE
+Title: Target (Engineer L4 - Virtualization) interview
+Slug: target-engineer-l4-virtualization-interv-e1lt
+Article Type: DISCUSSION
+Posted: 2026-11-17 14:09:34 IST
+Updated: 2026-11-17 15:17:52 IST
+URL: https://leetcode.com/discuss/post/8615662/target-engineer-l4-virtualization-interv-e1lt/
+Author: 
+
+--- Summary ---
+Hi everyone,I have an upcoming interview at Target India (Bengaluru) for the Engineer – Virtualization (L4) role.The recruiter mentioned around 3 rounds: DSA, System Design, and Hiring Manager. However, since this is an infrastructure-focused role, I
+
+--- Tags ---
+  - Target (target) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: jbYU6VdS
+Title: Kotak Mahindra Bank | SDE-2 | Round 3 
+Slug: kotak-mahindra-bank-sde-2-round-3-by-6np-hjd6
+Article Type: DISCUSSION
+Posted: 2026-11-17 10:43:05 IST
+Updated: 2026-11-17 10:43:05 IST
+URL: https://leetcode.com/discuss/post/8615463/kotak-mahindra-bank-sde-2-round-3-by-6np-hjd6/
+Author: 6NPQo57mII
+
+--- Summary ---
+The round started with a brief introduction, followed by questions about my previous work experience and the projects I had worked on.The interviewer then picked an API from my past experience and asked me to design its LLD. The discussion focused on
+
+--- Tags ---
+  - Interview (interview) []
+  - Kotak Mahindra Bank (kotak-mahindra-bank) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vrVHNemt
+Title: 🎉 I got selected at LTIMindtree!
+Slug: i-got-selected-at-ltimindtree-by-shivmor-8xbg
+Article Type: DISCUSSION
+Posted: 2026-11-17 09:07:00 IST
+Updated: 2026-11-17 09:07:00 IST
+URL: https://leetcode.com/discuss/post/8615370/i-got-selected-at-ltimindtree-by-shivmor-8xbg/
+Author: shivmore8215
+
+--- Summary ---
+After weeks of preparation, practice, and a lot of patience, I'm thrilled to share that I've been selected at LTIMindtree (2027 batch). 🚀This community, and the habit of solving problems consistently, played a big part in getting here. I wanted to gi
+
+--- Tags ---
+  - LTIMindtree (lti) [COMPANY]
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 11
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 9bq4toJj
+Title: Google L5 AI/ML onsite: anyone had the DSA/“ML System Architecture” round recently?
+Slug: google-l5-aiml-onsite-anyone-had-the-dsa-ryad
+Article Type: DISCUSSION
+Posted: 2026-11-17 05:32:25 IST
+Updated: 2026-11-17 05:32:25 IST
+URL: https://leetcode.com/discuss/post/8615264/google-l5-aiml-onsite-anyone-had-the-dsa-ryad/
+Author: 
+
+--- Summary ---
+Hi all, Senior SWE, AI/ML (L5) role in the US. My onsite is two in-person rounds:
+Programming, DSA interview (45 min, no AI)
+L5 ML System Architecture (60 min). (Ranking & Recommendation Systems (Ads/RecSys))
+I've found almost nothing public about th
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pTWiJ2yK
+Title: Explain o(n) and o(1) simplefy?
+Slug: explain-on-and-o1-simplefy-by-officialyo-z711
+Article Type: DISCUSSION
+Posted: 2026-11-17 04:00:12 IST
+Updated: 2026-11-17 04:00:12 IST
+URL: https://leetcode.com/discuss/post/8615256/explain-on-and-o1-simplefy-by-officialyo-z711/
+Author: officialyoussef
+
+--- Summary ---
+explain o(n) and o(1) simplefy?I speak about O(n) and O(1)
+I explain O(constant)
+the effect on the how can be exmple to understand how that be effectswe have array 8 bytes ,start address on 0x100 --> 0x108
+calculate by that formula
+ address[i] = base
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 8H1S975n
+Title:  Which Companies Should I Target for Off-Campus Placements as a 7th Sem IT Student?
+Slug: which-companies-should-i-target-for-off-ftf37
+Article Type: DISCUSSION
+Posted: 2026-11-17 03:23:09 IST
+Updated: 2026-11-17 03:23:09 IST
+URL: https://leetcode.com/discuss/post/8615248/which-companies-should-i-target-for-off-ftf37/
+Author: 
+
+--- Summary ---
+Hi everyone,I'm currently in my 7th semester of B.Tech in Information Technology at a state government engineering college. Unfortunately, my college will not be conducting on-campus placements this year, so I'll have to rely entirely on off-campus o
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pqKjGXu0
+Title:  5 Problem-Solving Techniques Every Beginner Programmer Should Understand
+Slug: 5-problem-solving-techniques-every-begin-3jmr
+Article Type: DISCUSSION
+Posted: 2026-11-17 02:07:08 IST
+Updated: 2026-11-17 02:07:08 IST
+URL: https://leetcode.com/discuss/post/8615232/5-problem-solving-techniques-every-begin-3jmr/
+Author: miamipub
+
+--- Summary ---
+Learning programming is not just about understanding syntax or memorizing different functions. The real challenge is learning how to approach a problem, break it into smaller steps, and find an efficient solution.Many beginners struggle not because t
+
+--- Tags ---
+  - Problem Solving (problem-solving-2) []
+  - Beginner side (beginner-side) []
+  - fusion technique (fusion-technique) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1qjM6Sau
+Title: Apple GSE Interview Coming Up (What to expect)
+Slug: apple-gse-interview-coming-up-what-to-ex-ft0m
+Article Type: DISCUSSION
+Posted: 2026-11-17 01:45:28 IST
+Updated: 2026-11-17 01:46:51 IST
+URL: https://leetcode.com/discuss/post/8615218/apple-gse-interview-coming-up-what-to-ex-ft0m/
+Author: 
+
+--- Summary ---
+Hello,I have an upcoming 45 minute interview for Software Engineer, G&A Solutions Engineering (GSE) in Austin Texas. I'm assuming this is the screening round as I haven't had any previous interviews at Apple. Any ideas on what to expect? Is it true t
+
+--- Tags ---
+  - Apple (apple) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: g70GLnig
+Title: Adobe Forward Deployed Engineering Interview
+Slug: adobe-forward-deployed-engineering-inter-xghr
+Article Type: DISCUSSION
+Posted: 2026-11-17 01:40:09 IST
+Updated: 2026-11-17 01:40:09 IST
+URL: https://leetcode.com/discuss/post/8615215/adobe-forward-deployed-engineering-inter-xghr/
+Author: 
+
+--- Summary ---
+Has anyone interviewed with Adobe for an FDE role, I was told there was an AI Assisted Engineering section via Hackerrank and then some scenario based technical engineering but not sure what this is actually like, any advice would be appreciated. Tha
+
+--- Tags ---
+  - Adobe (adobe) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Sgd9yc2V
+Title: [Urgent] Walmart | SSE | Offer Evaluation | 6 YOE
+Slug: walmart-sse-offer-evaluation-6-yoe-by-an-y8k7
+Article Type: DISCUSSION
+Posted: 2026-11-17 00:46:23 IST
+Updated: 2026-11-17 10:09:38 IST
+URL: https://leetcode.com/discuss/post/8615175/walmart-sse-offer-evaluation-6-yoe-by-an-y8k7/
+Author: 
+
+--- Summary ---
+I recently received an offer from Walmart Global Tech for an SSE position in Bangalore. Current Compensation (Remote): CTC: ~44 LPA - Fixed: 40 LPA - Variable: ~4 LPA Offer Breakdown: - YOE: 6+ - Fixed: 45 LPA - Variable: 8 LPA (performance-based) - 
+
+--- Tags ---
+  - Walmart Labs (walmart-labs) [COMPANY]
+  - Wallmart (wallmart) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: zhm3XHHg
+Title: Paytm Interview Experience | 3 Rounds | SDE | Resume-Based + DSA + System Design
+Slug: paytm-interview-experience-3-rounds-sde-vl9cd
+Article Type: DISCUSSION
+Posted: 2026-11-17 00:37:11 IST
+Updated: 2026-11-17 00:37:11 IST
+URL: https://leetcode.com/discuss/post/8615170/paytm-interview-experience-3-rounds-sde-vl9cd/
+Author: sahil060204
+
+--- Summary ---
+I recently went through the Paytm interview process, which consisted of 3 interview rounds. Fortunately, I received an offer from Paytm with a 30% hike on my current salary + ₹80,000 joining bonus.I wanted to share my experience here because I know h
+
+--- Tags ---
+  - Paytm (paytm) [COMPANY]
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: qcwI3lyc
+Title: D.E. Shaw
+Slug: de-shaw-by-dxfq7cd5wr-q45s
+Article Type: DISCUSSION
+Posted: 2026-11-16 22:24:54 IST
+Updated: 2026-11-16 22:24:54 IST
+URL: https://leetcode.com/discuss/post/8615035/de-shaw-by-dxfq7cd5wr-q45s/
+Author: dxfq7Cd5wr
+
+--- Summary ---
+I have an upcoming interview for the Software Engineer (SMTS) role at De Shaw, Hyderabad based role.If anyone has recently appeared for the interview or has gone through the process, I would really appreciate it if you could share your experience or
+
+--- Tags ---
+  - DE Shaw (de-shaw) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0DqMYLR3
+Title: IBM ASE round 2 on nov 23
+Slug: ibm-ase-round-2-on-nov-23-by-anonymous_u-ajx8
+Article Type: DISCUSSION
+Posted: 2026-11-16 22:19:06 IST
+Updated: 2026-11-16 22:19:28 IST
+URL: https://leetcode.com/discuss/post/8615032/ibm-ase-round-2-on-nov-23-by-anonymous_u-ajx8/
+Author: 
+
+--- Summary ---
+i have my ibm coding round 2 ,  idk what to prepare at this point , solved around 500 problems still looking choped at OAs , anyone attended plz tell what to prepare.1.dsa code (specific topics i need to focus on ?)
+2.spring boot debugging (would be
+
+--- Tags ---
+  - IBM (ibm) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: FA4Ewm0X
+Title: 💡 10 Ways to Find an Approach to Any DSA Problem (As a Beginner)
+Slug: 10-ways-to-find-an-approach-to-any-dsa-p-x4ah
+Article Type: DISCUSSION
+Posted: 2026-11-16 22:18:30 IST
+Updated: 2026-11-16 22:18:30 IST
+URL: https://leetcode.com/discuss/post/8615030/10-ways-to-find-an-approach-to-any-dsa-p-x4ah/
+Author: kashishmishra21
+
+--- Summary ---
+💡 10 Ways to Find an Approach to Any DSA Problem (As a Beginner)When I started solving DSA problems, the biggest challenge wasn't writing code.It was figuring out: "Where do I even start?" 😅Here are 10 things that can help beginners build their probl
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7EYu84ob
+Title: A Tricky Test Case for Search in Rotated Sorted Array II (Handling Duplicates)
+Slug: a-tricky-test-case-for-search-in-rotated-v7gw
+Article Type: DISCUSSION
+Posted: 2026-11-16 21:33:24 IST
+Updated: 2026-11-16 21:33:24 IST
+URL: https://leetcode.com/discuss/post/8614965/a-tricky-test-case-for-search-in-rotated-v7gw/
+Author: Eddard_Stark1947
+
+--- Summary ---
+I came across an interesting edge case while solving Search in Rotated Sorted Array II.I wanted to share this test case because it highlights an important mistake that can happen when handling duplicates in a rotated sorted array.Test CaseExpected Ou
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: c0z3QZXq
+Title: 🚀 Are We Becoming Better Programmers or Just Better at Using AI? | The Future of DSA
+Slug: are-we-becoming-better-programmers-or-ju-6hk8
+Article Type: DISCUSSION
+Posted: 2026-11-16 21:05:22 IST
+Updated: 2026-11-16 21:05:22 IST
+URL: https://leetcode.com/discuss/post/8614917/are-we-becoming-better-programmers-or-ju-6hk8/
+Author: Muhammad_Hamza_Gulzar
+
+--- Summary ---
+🚀 Learning DSA in the AI Era: Are We Becoming Better Programmers or Just Better at Using AI?Hey LeetCoders! 👋I'm currently at the beginning of my Computer Science journey, learning programming and practicing problem-solving on LeetCode.Recently, I've
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 3ZYj9TxT
+Title: Day 102 of My DSA Journey | Calculate Digit Sum of a String
+Slug: day-102-of-my-dsa-journey-calculate-digi-em74
+Article Type: DISCUSSION
+Posted: 2026-11-16 21:02:42 IST
+Updated: 2026-11-16 21:02:42 IST
+URL: https://leetcode.com/discuss/post/8614913/day-102-of-my-dsa-journey-calculate-digi-em74/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marks Day 102 of my DSA journey, and I solved Calculate Digit Sum of a String (LeetCode 2243).This problem involves repeatedly dividing a string into groups of a given size, calculating the sum of the digits in each group, and building a new st
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: boLyM48m
+Title: RAG interview: "Right chunk at rank 12, not top 3." Hybrid search + reranking (AI engineer prep)
+Slug: rag-interview-right-chunk-at-rank-12-not-3nxi
+Article Type: DISCUSSION
+Posted: 2026-11-16 19:57:02 IST
+Updated: 2026-11-16 19:57:02 IST
+URL: https://leetcode.com/discuss/post/8614833/rag-interview-right-chunk-at-rank-12-not-3nxi/
+Author: 
+
+--- Summary ---
+A common follow-up in RAG rounds: "Your retriever finds the right chunk, but at rank 12, and you only pass the top 3 to the model. What do you do?" Saying "add a reranker" is the start of a good answer, not all of it.Clarify first
+How big is the corp
+
+--- Tags ---
+  - System Design (system-design) []
+  - Interview (interview) []
+  - AI/ML interview (ai-ml-interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1xF65cGW
+Title: How do you learn DSA in 2026: patterns, problem count, or something else? 🤔
+Slug: how-do-you-learn-dsa-in-2026-patterns-pr-48nl
+Article Type: DISCUSSION
+Posted: 2026-11-16 18:42:10 IST
+Updated: 2026-11-16 18:42:10 IST
+URL: https://leetcode.com/discuss/post/8614766/how-do-you-learn-dsa-in-2026-patterns-pr-48nl/
+Author: Sachit_kohli
+
+--- Summary ---
+BodyHi everyone! 👋I'm still early in my DSA journey and building projects alongside it (React + TypeScript right now). I'd like to hear how you practice, since there seem to be many conflicting opinions.Questions for the community
+Patterns vs. volume
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vIh5pqsu
+Title: Infosys SP/DSE questions
+Slug: infosys-spdse-questions-by-saisudhanv200-1e7k
+Article Type: DISCUSSION
+Posted: 2026-11-16 16:49:57 IST
+Updated: 2026-11-16 16:49:57 IST
+URL: https://leetcode.com/discuss/post/8614664/infosys-spdse-questions-by-saisudhanv200-1e7k/
+Author: saisudhanv2004
+
+--- Summary ---
+I've Infosys SP/DSE exam on 29 November, what are the patterns of qs that are coming, especially the first 2 qs, is it enough to prepare from Leetcode? Pls tell those who have recently given the exam
+
+--- Tags ---
+  - Infosys (infosys) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: OTlOYIW0
+Title: Flipkart GRiD 8.0 | Round 3 Experience
+Slug: flipkart-grid-80-round-3-experience-by-y-a6d2
+Article Type: DISCUSSION
+Posted: 2026-11-16 16:39:16 IST
+Updated: 2026-11-16 16:40:16 IST
+URL: https://leetcode.com/discuss/post/8614652/flipkart-grid-80-round-3-experience-by-y-a6d2/
+Author: Yugen_jr_847
+
+--- Summary ---
+Solved All Problems, But Couldn't Make It ThroughRecently, I participated in Flipkart GRiD 8.0 and successfully completed the Round 3 assessment. Unfortunately, I didn't make it to the next stage.Assessment ExperienceThe questions were considerably h
+
+--- Tags ---
+  - Flipkart (flipkart) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: bXrALm8X
+Title: Swiggy SDE-2 Interview Oct - 2026
+Slug: swiggy-sde-2-interview-oct-2026-by-anony-zzxy
+Article Type: DISCUSSION
+Posted: 2026-11-16 15:19:17 IST
+Updated: 2026-11-16 15:27:16 IST
+URL: https://leetcode.com/discuss/post/8614565/swiggy-sde-2-interview-oct-2026-by-anony-zzxy/
+Author: 
+
+--- Summary ---
+Has anyone heard back from the recruiter regarding selection or rejection after completing the Round 3 (LLD) interview at Swiggy?
+
+--- Tags ---
+  - Swiggy (swiggy) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
