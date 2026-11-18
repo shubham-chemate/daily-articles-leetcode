@@ -1,0 +1,728 @@
+LeetCode Discuss - Latest 32 Articles
+Fetched on: 2026-11-18 16:05:44 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: fUAunA3J
+Title: Knapsack DP – 10 Patterns You Should Know
+Slug: knapsack-varients-by-prnv_reddy-vhgw
+Article Type: DISCUSSION
+Posted: 2026-11-18 15:54:05 IST
+Updated: 2026-11-18 15:54:27 IST
+URL: https://leetcode.com/discuss/post/8616837/knapsack-varients-by-prnv_reddy-vhgw/
+Author: prnv_reddy
+
+--- Summary ---
+Knapsack DP has several variations. The key is to identify what you're selecting, whether items can be reused, and what you're optimising or counting.Here's a quick reference of the patterns and their corresponding LeetCode problems:1. 0/1 Knapsack
+E
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: O6fKqmYD
+Title: Not getting interview calls 
+Slug: not-getting-interview-calls-by-vjgtet7f7-c7ao
+Article Type: DISCUSSION
+Posted: 2026-11-18 15:27:07 IST
+Updated: 2026-11-18 15:27:07 IST
+URL: https://leetcode.com/discuss/post/8616811/not-getting-interview-calls-by-vjgtet7f7-c7ao/
+Author: VJgTET7F7F
+
+--- Summary ---
+hi i have 6 years of experience but doesnt have PF account in any of previous orgnazination i am not getting any interview calls can anyone help me with that ? or guide me what should i changeMy Technical SkillsFrontend: React.js, JavaScript, TypeScr
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: meFYVhaz
+Title: Preparation Tips for Microsoft Security Research Intern – Coding Round
+Slug: preparation-tips-for-microsoft-security-ultov
+Article Type: DISCUSSION
+Posted: 2026-11-18 15:06:49 IST
+Updated: 2026-11-18 15:07:24 IST
+URL: https://leetcode.com/discuss/post/8616800/preparation-tips-for-microsoft-security-ultov/
+Author: MananModi88
+
+--- Summary ---
+Hi everyone!I have an upcoming interview for the Security Research Intern position at Microsoft and would appreciate some guidance on the coding round.Could anyone who has appeared for a similar interview or has experience with Microsoft's hiring pro
+
+--- Tags ---
+  - Microsoft (microsoft) [COMPANY]
+  - Interview (interview) []
+  - #internship (internship-2) []
+  - interview-prep (interview-prep-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: CkYBR3NM
+Title:  What are the most important SQL concepts to master for coding interviews
+Slug: what-are-the-most-important-sql-concepts-f58u
+Article Type: DISCUSSION
+Posted: 2026-11-18 14:38:51 IST
+Updated: 2026-11-18 14:38:51 IST
+URL: https://leetcode.com/discuss/post/8616765/what-are-the-most-important-sql-concepts-f58u/
+Author: Prajwal_Esha
+
+--- Summary ---
+Hi everyone!I'm currently practising SQL problems on LeetCode and want to improve my problem-solving skills.I'd like to know:Which SQL topics are most important for technical interviews?Should I focus more on JOINs, subqueries, window functions, or C
+
+--- Tags ---
+  - Database (database) [TOPIC]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: z6rstzQ6
+Title: Which Tech Companies Have the Most Difficult Coding Interviews ⁉️
+Slug: which-tech-companies-have-the-most-diffi-5ukk
+Article Type: DISCUSSION
+Posted: 2026-11-18 13:32:34 IST
+Updated: 2026-11-18 13:32:34 IST
+URL: https://leetcode.com/discuss/post/8616697/which-tech-companies-have-the-most-diffi-5ukk/
+Author: ShiYoBo
+
+--- Summary ---
+Google, Meta, Amazon, Microsoft, and several trading firms are known for challenging technical interviews, but the difficulty seems to vary significantly between companies and even teams.I'm curious whether the hardest interviews are actually about a
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Meta (facebook) [COMPANY]
+  - Microsoft (microsoft) [COMPANY]
+  - Amazon (amazon) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: XczZeVTW
+Title: Which Tech Companies Actually Have Strong Engineering Cultures ⁉️
+Slug: which-tech-companies-actually-have-stron-9z4l
+Article Type: DISCUSSION
+Posted: 2026-11-18 13:31:51 IST
+Updated: 2026-11-18 13:31:51 IST
+URL: https://leetcode.com/discuss/post/8616696/which-tech-companies-actually-have-stron-9z4l/
+Author: ShiYoBo
+
+--- Summary ---
+Companies like Google, Microsoft, Amazon, and Meta are often discussed in terms of salaries, interviews, and prestige. But there's much less discussion about what engineering work inside these companies is actually like.I'm interested in companies wh
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Meta (facebook) [COMPANY]
+  - Microsoft (microsoft) [COMPANY]
+  - Amazon (amazon) [COMPANY]
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: y0sfo0WV
+Title: Agent loops & tool calling: 10 interview questions with short model answers (AI engineer prep)
+Slug: agent-loops-tool-calling-10-interview-qu-0kzh
+Article Type: DISCUSSION
+Posted: 2026-11-18 13:27:48 IST
+Updated: 2026-11-18 13:27:48 IST
+URL: https://leetcode.com/discuss/post/8616689/agent-loops-tool-calling-10-interview-qu-0kzh/
+Author: 
+
+--- Summary ---
+Once you say "the LLM calls tools" in an agentic AI round, the follow-ups go deeper: how does the loop stop, what happens when a tool fails, which actions need a human? Here are 10 questions to practice, each with a short model answer. Use them as st
+
+--- Tags ---
+  - Interview (interview) []
+  - Agentic AI (agentic-ai) []
+  - AI/ML interview (ai-ml-interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: JPuakA8N
+Title: Which offer would be better Epam vs Deloitte 
+Slug: which-offer-would-be-better-epam-vs-delo-qte7
+Article Type: DISCUSSION
+Posted: 2026-11-18 13:16:24 IST
+Updated: 2026-11-18 13:16:24 IST
+URL: https://leetcode.com/discuss/post/8616683/which-offer-would-be-better-epam-vs-delo-qte7/
+Author: 
+
+--- Summary ---
+Hi Community,
+Currently holding 2 offers pls suggest which is better.
+Current ctc -- 13lpa
+Tech stack -- Java backend(6yoe)
+Deloitte offer -- 21lpa + 10% variable
+Epam -- 25 lpa all fixed received after client interview (DBS).
+My preference Epam due
+
+--- Tags ---
+  - Deloitte (deloitte) [COMPANY]
+  - EPAM Systems (epam-systems) [COMPANY]
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: MvmhPKP5
+Title: SDE-1 Interview Rejection: Looking for Honest Technical Feedback on My Job Scheduler Implementation
+Slug: sde-1-interview-rejection-looking-for-ho-muww
+Article Type: DISCUSSION
+Posted: 2026-11-18 12:46:58 IST
+Updated: 2026-11-18 12:46:58 IST
+URL: https://leetcode.com/discuss/post/8616653/sde-1-interview-rejection-looking-for-ho-muww/
+Author: aniec25
+
+--- Summary ---
+Seeking genuine feedback on my SDE-1 interview experience.Recently, I interviewed for an SDE-1 role where I was asked to implement an in-memory job scheduler for an e-commerce platform.The requirements were:
+schedule(jobId, payload, executeAt) – Sche
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: bolOezVY
+Title: Short of Time? Wanna Master Trees ?? Follow this
+Slug: short-of-time-wanna-master-trees-follow-8rqsd
+Article Type: DISCUSSION
+Posted: 2026-11-18 11:56:26 IST
+Updated: 2026-11-18 11:56:26 IST
+URL: https://leetcode.com/discuss/post/8616590/short-of-time-wanna-master-trees-follow-8rqsd/
+Author: Nikhil-Sachan
+
+--- Summary ---
+🌳 Struggling with Binary Trees in DSA interviews? Here's your pattern-wise roadmap to master themDont just solve understand crux of problemHere is a structured roadmap covering the most important Binary Tree patterns.1️⃣ Basic Tree Traversals
+• Inord
+
+--- Tags ---
+  - Binary Search Tree (binary-search-tree) [TOPIC]
+  - Binary Tree (binary-tree) [TOPIC]
+  - DSA (dsa) []
+  - interview-prep (interview-prep-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: z18NZPxa
+Title: Safe Security SDE-I Interview Experience | 2 Technical Rounds | Rejected
+Slug: safe-security-sde-i-interview-experience-5uxw
+Article Type: DISCUSSION
+Posted: 2026-11-18 11:09:08 IST
+Updated: 2026-11-18 11:18:25 IST
+URL: https://leetcode.com/discuss/post/8616547/safe-security-sde-i-interview-experience-5uxw/
+Author: 
+
+--- Summary ---
+Company: Safe Security
+Role: Software Development Engineer I (SDE-I)
+Interview Process: HR Screening + 2 Technical Rounds
+Final Result: RejectedI recently interviewed for the SDE-I position at Safe Security. Although I cleared the initial screening a
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: La5TJqip
+Title: Charta Health - Senior SWE Interview Experience | Aug 2026
+Slug: charta-health-senior-swe-interview-exper-h8f4
+Article Type: DISCUSSION
+Posted: 2026-11-18 09:49:32 IST
+Updated: 2026-11-18 09:49:32 IST
+URL: https://leetcode.com/discuss/post/8616474/charta-health-senior-swe-interview-exper-h8f4/
+Author: whartonite
+
+--- Summary ---
+I just recently completed the full interview loop for the Senior Software Engineer role at Charta Health. The full loop took about a month but I unfortunately did not get an offer from them.Round 1: Virtual CodingThey asked me to solve Insert Delete
+
+--- Tags ---
+  - interview experience (interview-experience) []
+  - Onsite (onsite) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: cNhXUeq3
+Title: Seeking Guidance from the developer community
+Slug: seeking-guidance-from-the-developer-comm-p5l7
+Article Type: DISCUSSION
+Posted: 2026-11-18 09:02:55 IST
+Updated: 2026-11-18 09:02:55 IST
+URL: https://leetcode.com/discuss/post/8616438/seeking-guidance-from-the-developer-comm-p5l7/
+Author: MyselfPawan
+
+--- Summary ---
+Seeking Guidance from the Developer Community – Need Advice on Starting My Software CareerHello everyone,I am a 2024 graduate, and I currently have around a 2-year career gap. Unfortunately, I haven't been able to secure a job or internship since com
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6pqbPwuy
+Title: AWS Dublin vs Atlassian India
+Slug: aws-dublin-vs-atlassian-india-by-anonymo-9nln
+Article Type: DISCUSSION
+Posted: 2026-11-18 08:52:39 IST
+Updated: 2026-11-18 08:52:39 IST
+URL: https://leetcode.com/discuss/post/8616431/aws-dublin-vs-atlassian-india-by-anonymo-9nln/
+Author: 
+
+--- Summary ---
+#Career #Compensation #Amazon #Atlassian #Dublin #India #AWS Hi, I am close to receiving offers from these 2 companies. I wanted your opinions on this! So I am interested in moving to Dublin, but I think the Atlassian offer would be hard to reject, b
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Atlassian (atlassian) [COMPANY]
+  - India (india) []
+  - Compensation (compensation) []
+  - Dublin (dublin) []
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: BChTlUHB
+Title: AWS Dublin SDE 1 Expected Compensation
+Slug: aws-dublin-sde-1-expected-compensation-b-r8tm
+Article Type: DISCUSSION
+Posted: 2026-11-18 08:45:38 IST
+Updated: 2026-11-18 08:45:38 IST
+URL: https://leetcode.com/discuss/post/8616424/aws-dublin-sde-1-expected-compensation-b-r8tm/
+Author: 
+
+--- Summary ---
+#Compensation #Career #AWS #Amazon #Dublin Hello, I am expecting an offer from AWS Dublin from SDE 1 role. I want to know, what is the top for the compensation range of SDE 1 at AWS Dublin. I did my research and believe this is what they offer, but w
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Compensation (compensation) []
+  - Dublin (dublin) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: eOYwIPhQ
+Title: Amazon SDE I Intern Interview Experience (2027 Batch) | Selected 🎉 | OA + Technical Interview
+Slug: amazon-sde-i-intern-interview-experience-7002
+Article Type: DISCUSSION
+Posted: 2026-11-18 06:21:14 IST
+Updated: 2026-11-18 10:54:32 IST
+URL: https://leetcode.com/discuss/post/8616351/amazon-sde-i-intern-interview-experience-7002/
+Author: 
+
+--- Summary ---
+Amazon SDE I Intern Interview Experience (2027 Batch) | Selected 🎉 | OA + Technical InterviewHi everyone!I'm happy to share that I have been selected for the Amazon SDE I Intern role (2027 Batch)!I wanted to share my interview experience to help othe
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: r8GNxidh
+Title: Please share your exp for mts 1 at Nutanix
+Slug: please-share-your-exp-for-mts-1-at-nutan-5do9
+Article Type: DISCUSSION
+Posted: 2026-11-18 03:19:03 IST
+Updated: 2026-11-18 03:19:03 IST
+URL: https://leetcode.com/discuss/post/8616302/please-share-your-exp-for-mts-1-at-nutan-5do9/
+Author: 
+
+--- Summary ---
+Hi everyone! I have an upcoming interview for the MTS 1 role at Nutanix. Could anyone who has recently interviewed share what to expect in the system design round(2nd round ) and hiring manager round (3rd )? What topics or questions should I focus on
+
+--- Tags ---
+  - Nutanix (nutanix) [COMPANY]
+  - System Design (system-design) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: XZlJHVYl
+Title: Tips To Stay Consistent 
+Slug: tips-to-stay-consistent-by-suriya_01-qzp4
+Article Type: DISCUSSION
+Posted: 2026-11-18 01:17:21 IST
+Updated: 2026-11-18 01:17:21 IST
+URL: https://leetcode.com/discuss/post/8616250/tips-to-stay-consistent-by-suriya_01-qzp4/
+Author: Suriya_01
+
+--- Summary ---
+Any Tips to Stay Consistent in this coding, I came across many profiles having streaks.I'm wondering How peoples maintaining their streaks.As a newbie what should i do?
+
+--- Tags ---
+  - Motivation (motivation-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: H7Zj3KSc
+Title: Handling rapid keydown/keyup events without input lag in JavaScript
+Slug: handling-rapid-keydownkeyup-events-witho-olte
+Article Type: DISCUSSION
+Posted: 2026-11-18 00:22:31 IST
+Updated: 2026-11-18 00:22:31 IST
+URL: https://leetcode.com/discuss/post/8616216/handling-rapid-keydownkeyup-events-witho-olte/
+Author: playspacebargames
+
+--- Summary ---
+// Input state tracking used on https://playspacebarclicker.com/
+let isPressed = false;
+let count = 0;document.addEventListener('keydown', (e) => {
+if (e.code === 'Space' && !isPressed) {
+e.preventDefault(); // Prevents page scrolling on Spacebar pre
+
+--- Tags ---
+  - General Discussion (general-discussion-2) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: XShwO4Gc
+Title: Google FDE + CPSE (GenAI) packets: has anyone been team matched with regular SWE teams?
+Slug: google-fde-cpse-genai-packets-has-anyone-e1ft
+Article Type: DISCUSSION
+Posted: 2026-11-18 00:17:45 IST
+Updated: 2026-11-18 00:18:08 IST
+URL: https://leetcode.com/discuss/post/8616215/google-fde-cpse-genai-packets-has-anyone-e1ft/
+Author: 
+
+--- Summary ---
+I cleared Google’s GenAI interviews for two roles at L4:
+Forward Deployed Engineer (cleared HC; my referrer saw it listed under the SWE job family)
+Customer Partner Solutions Engineer (CPSE)
+Across the two loops my interviews covered:DSA coding (1 ro
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: gIyo2XdI
+Title: GOOGLE SWE II FEEDBACK 
+Slug: google-swe-ii-feedback-by-anonymous_user-nais
+Article Type: DISCUSSION
+Posted: 2026-11-17 23:46:48 IST
+Updated: 2026-11-17 23:46:48 IST
+URL: https://leetcode.com/discuss/post/8616186/google-swe-ii-feedback-by-anonymous_user-nais/
+Author: 
+
+--- Summary ---
+I recently completed my Google SWE interview loop and wanted to get some opinions on how this overall packet might be viewed.My rough self-assessment:
+Virtual DSA Phone Screen: Strong Hire / Hire
+Googleyness Round: Positive
+Onsite 1: Lean Hire / Lean
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: JpsaO4xK
+Title: How do you actually practice System Design for interviews?
+Slug: how-do-you-actually-practice-system-desi-kdj8
+Article Type: DISCUSSION
+Posted: 2026-11-17 22:58:50 IST
+Updated: 2026-11-17 22:58:50 IST
+URL: https://leetcode.com/discuss/post/8616135/how-do-you-actually-practice-system-desi-kdj8/
+Author: ayush2448
+
+--- Summary ---
+How do you actually practice System Design for interviews?Most of us practise DSA by solving problems on LeetCode.But when it comes to System Design, the learning process is quite different.Reading about Redis, Kafka, Load Balancers and Databases is
+
+--- Tags ---
+  - System Design (system-design) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: NU1GmAhN
+Title: [Offer] Amazon SDE-2 (L5) Hyderabad vs. Current Microsoft SDE-2 | Dilemma
+Slug: offer-amazon-sde-2-l5-hyderabad-vs-curre-7cli
+Article Type: DISCUSSION
+Posted: 2026-11-17 22:46:50 IST
+Updated: 2026-11-17 22:49:09 IST
+URL: https://leetcode.com/discuss/post/8616120/offer-amazon-sde-2-l5-hyderabad-vs-curre-7cli/
+Author: 
+
+--- Summary ---
+Education: B.Tech CSE (Tier 1 / NIT)
+Years of Experience: ~3.5 Years (Previously at a top FinTech, currently at Microsoft)Current Title: SDE-2 at Microsoft
+Date of the Offer: November 2026
+Company: Amazon
+Title/Level: SDE-2 (L5)
+Location: HyderabadCu
+
+--- Tags ---
+  - Microsoft (microsoft) [COMPANY]
+  - Amazon (amazon) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vYOF0UGb
+Title: Day 103 of My DSA Journey | Minimum Changes to Make K Semi-palindromes
+Slug: day-103-of-my-dsa-journey-minimum-change-qn00
+Article Type: DISCUSSION
+Posted: 2026-11-17 21:59:05 IST
+Updated: 2026-11-17 21:59:05 IST
+URL: https://leetcode.com/discuss/post/8616063/day-103-of-my-dsa-journey-minimum-change-qn00/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marks Day 103 of my DSA journey, and I solved Minimum Changes to Make K Semi-palindromes (LeetCode 2911).This problem focuses on dividing a string into exactly k non-empty substrings and finding the minimum number of character changes required
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZxGjy5dh
+Title:  EPAM Systems Interview Experience | Campus Placement | Internship
+Slug: epam-systems-interview-experience-campus-uztx
+Article Type: DISCUSSION
+Posted: 2026-11-17 21:35:17 IST
+Updated: 2026-11-17 21:35:17 IST
+URL: https://leetcode.com/discuss/post/8616039/epam-systems-interview-experience-campus-uztx/
+Author: 
+
+--- Summary ---
+EPAM Systems visited our campus for recruitment, offering an internship opportunity with a performance-based PPO.The selection process consisted of four rounds: Online Assessment, Group Discussion, Technical Interview, and HR Interview.Here is my com
+
+--- Tags ---
+  - EPAM Systems (epam-systems) [COMPANY]
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: rQBjvJES
+Title: Beyond editorial, submission, testcases, and approach.
+Slug: beyond-editorial-submission-testcases-an-9qqj
+Article Type: DISCUSSION
+Posted: 2026-11-17 21:22:20 IST
+Updated: 2026-11-17 21:22:20 IST
+URL: https://leetcode.com/discuss/post/8616022/beyond-editorial-submission-testcases-an-9qqj/
+Author: Jeevan_Roy_J
+
+--- Summary ---
+Did you ever go beyond editorial, implementation, and submission?Finding where the solution could be useful? or Helpful?I don't solve for the sake of test cases.I imagine myself solving something bigger than LeetCode.I solved a classic problem and ex
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: MGHa6o2K
+Title: Swapped the approach of one problem with another ;)
+Slug: swapped-the-approach-of-one-problem-with-1fuk
+Article Type: DISCUSSION
+Posted: 2026-11-17 21:06:39 IST
+Updated: 2026-11-17 21:06:39 IST
+URL: https://leetcode.com/discuss/post/8616008/swapped-the-approach-of-one-problem-with-1fuk/
+Author: Jeevan_Roy_J
+
+--- Summary ---
+Let me share what I did today.Yesterday, I solved the adjacent duplicates (problem no 1047) using a stack.The problem no itself caught my eye. A strangely attention-seeking number.Today, I was recalling the algorithm. Running the approach simulation
+
+--- Tags ---
+  - learning (learning-2) []
+  - Python implementation (python-implementation-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: bvhcrApa
+Title: Google Hiring Assesment - Passed
+Slug: google-hiring-assesment-passed-by-anonym-xybk
+Article Type: DISCUSSION
+Posted: 2026-11-17 21:05:46 IST
+Updated: 2026-11-17 21:10:13 IST
+URL: https://leetcode.com/discuss/post/8616007/google-hiring-assesment-passed-by-anonym-xybk/
+Author: 
+
+--- Summary ---
+Hi all,A few weeks ago I got a referral from a googler and later applied for a SWE role, a few days later got the Google Hiring Assesment(GHA) which I was to complete within 4 days , I did  the GHA  and passed but its been weeks  now and i'vent heard
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Career (career) []
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DfyAjQYE
+Title: advice
+Slug: advice-by-thunder15-dru5
+Article Type: DISCUSSION
+Posted: 2026-11-17 20:48:29 IST
+Updated: 2026-11-17 20:48:29 IST
+URL: https://leetcode.com/discuss/post/8615992/advice-by-thunder15-dru5/
+Author: Thunder15
+
+--- Summary ---
+i am a btech 1st year student in cse i have just completed c language
+what should i do next should i practice problems or learn something else ,if i should do problems then from where.
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: NnRTPPG7
+Title: PhonePe (SDE 3-5 Years) Offer Review
+Slug: phonepe-sde-3-5-years-offer-review-by-an-4v66
+Article Type: DISCUSSION
+Posted: 2026-11-17 18:53:02 IST
+Updated: 2026-11-17 18:53:02 IST
+URL: https://leetcode.com/discuss/post/8615888/phonepe-sde-3-5-years-offer-review-by-an-4v66/
+Author: 
+
+--- Summary ---
+Offer details:
+Fixed: 38L
+ESOPS: 35L over 4 years
+Joining Bonus: 5LCurrent Comp (SDE 2 at Top MNC):
+Fixed: 30L (due for ~15% appraisal in Jan'27)
+Bonus: ~9-10LYoE: 4.5 yearsAm I being low balled? Have seen PhonePe offer over 42L base to candidates wi
+
+--- Tags ---
+  - PhonePe (phonepe) [COMPANY]
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: koGoAu7X
+Title: Confused
+Slug: confused-by-prajwal-jd-be7x
+Article Type: DISCUSSION
+Posted: 2026-11-17 17:19:46 IST
+Updated: 2026-11-17 17:19:46 IST
+URL: https://leetcode.com/discuss/post/8615801/confused-by-prajwal-jd-be7x/
+Author: Prajwal-jd
+
+--- Summary ---
+I have been working at a company where I’ve had very little opportunity or exposure to good coding practices and challenging technical work.I’m quite good at MERN stack development, but I’m not sure how far I can go when it comes to DSA. Honestly, I’
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #32
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: xlFGfs92
+Title: Tips and utilities for migrating Crystal Reports (.rpt) to Power BI?
+Slug: tips-and-utilities-for-migrating-crystal-srvp
+Article Type: DISCUSSION
+Posted: 2026-11-17 16:11:03 IST
+Updated: 2026-11-17 16:11:03 IST
+URL: https://leetcode.com/discuss/post/8615738/tips-and-utilities-for-migrating-crystal-srvp/
+Author: Msk9vqdNQr
+
+--- Summary ---
+Hi everyone,We are moving a batch of old Crystal Reports (.rpt) over to Power BI and trying to figure out the cleanest way to tackle it.For anyone who has done this before:Did you pull out the SQL commands, formulas, and layouts manually, or are ther
+
