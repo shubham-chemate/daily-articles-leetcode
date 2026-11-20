@@ -1,0 +1,673 @@
+LeetCode Discuss - Latest 28 Articles
+Fetched on: 2026-11-20 15:51:12 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pX9ig2k4
+Title: SDE-2 Kotak hit or miss?
+Slug: sde-2-kotak-hit-or-miss-by-anonymous_use-kiif
+Article Type: DISCUSSION
+Posted: 2026-11-20 15:02:04 IST
+Updated: 2026-11-20 15:02:04 IST
+URL: https://leetcode.com/discuss/post/8618875/sde-2-kotak-hit-or-miss-by-anonymous_use-kiif/
+Author: 
+
+--- Summary ---
+Current TC:
+46 Base
+10-20 USD stocks3.4 YOEPrev Exp: Unicorm startupsGot offer from kotak:48 Base
+2L Joining bonus
+5L variableCurrently no other offers but actively looking because I am laid off. Would like to know how is work culture there at kotak.
+
+--- Tags ---
+  - Compensation (compensation) []
+  - Kotak Mahindra Bank (kotak-mahindra-bank) [COMPANY]
+
+--- Reactions ---
+  THUMBS_DOWN: 0
+  UPVOTE: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Of95wP53
+Title: Red - Black Tree Part - 1
+Slug: red-black-tree-part-1-by-pavanpadavala20-0gmz
+Article Type: DISCUSSION
+Posted: 2026-11-20 12:15:50 IST
+Updated: 2026-11-20 12:15:50 IST
+URL: https://leetcode.com/discuss/post/8618762/red-black-tree-part-1-by-pavanpadavala20-0gmz/
+Author: pavanpadavala2005
+
+--- Summary ---
+Self-Balancing Binary Search TreeBST that uses node coloring and rotation rules to maintain balance and ensure efficient operations.Time ComplexityOperationAverage / Worst CaseSearchO(log N)InsertionO(log N)DeletionO(log N)Insertion Fix-Up Cases
+Case
+
+--- Tags ---
+  - Tree (tree) [TOPIC]
+  - Binary Search Tree (binary-search-tree) [TOPIC]
+  - Red–Black Tree (red-black-tree) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: QF4Y7LRx
+Title: AVL Tree Part - 1
+Slug: avl-tree-part-1-by-pavanpadavala2005-pdg0
+Article Type: DISCUSSION
+Posted: 2026-11-20 12:05:40 IST
+Updated: 2026-11-20 12:05:40 IST
+URL: https://leetcode.com/discuss/post/8618754/avl-tree-part-1-by-pavanpadavala2005-pdg0/
+Author: pavanpadavala2005
+
+--- Summary ---
+Self-Balancing Binary Search TreeTime ComplexityOperationAverage / Worst CaseSearchO(log N)InsertionO(log N)DeletionO(log N)Rotation Types
+LL: Right Rotation
+RR: Left Rotation
+LR: Left Rotation + Right Rotation
+RL: Right Rotation + Left Rotation
+
+--- Tags ---
+  - Tree (tree) [TOPIC]
+  - Binary Search Tree (binary-search-tree) [TOPIC]
+  - AVL Tree (avl-tree) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nwAo3Din
+Title: ServiceNow | SSE (IC3) | Bengaluru | Offer
+Slug: servicenow-sse-ic3-bengaluru-offer-by-an-otc8
+Article Type: DISCUSSION
+Posted: 2026-11-20 11:44:38 IST
+Updated: 2026-11-20 11:46:20 IST
+URL: https://leetcode.com/discuss/post/8618733/servicenow-sse-ic3-bengaluru-offer-by-an-otc8/
+Author: 
+
+--- Summary ---
+Candidate profileExperience: 6 years
+Current title: Software Engineer 3
+Current compensation: ₹31 LPA base + 10% variable
+Current organization: PBCServiceNow offerTitle: Senior Software Engineer (IC3)
+Location: Bengaluru
+Fixed compensation: ₹40 LPA
+V
+
+--- Tags ---
+  - ServiceNow (servicenow) [COMPANY]
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: JbBLaMNh
+Title: Backtracking Explained Visually: Choose, Explore, Un-choose (Subsets + 4-Queens + Template)
+Slug: backtracking-explained-visually-choose-e-tol9
+Article Type: DISCUSSION
+Posted: 2026-11-20 11:03:32 IST
+Updated: 2026-11-20 11:03:32 IST
+URL: https://leetcode.com/discuss/post/8618695/backtracking-explained-visually-choose-e-tol9/
+Author: gunjan07133
+
+--- Summary ---
+Backtracking is just DFS over choices. Almost every backtracking problem follows the same 3 steps:
+Choose an option
+Explore deeper (recurse)
+Un-choose and try the next one
+What the animation shows
+Subsets of [1,2,3]: one DFS visits [] → [1] → [1,2] →
+
+--- Tags ---
+  - Backtracking (backtracking) [TOPIC]
+  - Depth-First Search (depth-first-search) [TOPIC]
+  - Recursion (recursion) [TOPIC]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0gesXAky
+Title: Gitlab should i join ? 
+Slug: gitlab-should-i-join-by-anonymous_user-ir1m
+Article Type: DISCUSSION
+Posted: 2026-11-20 10:21:16 IST
+Updated: 2026-11-20 10:21:16 IST
+URL: https://leetcode.com/discuss/post/8618670/gitlab-should-i-join-by-anonymous_user-ir1m/
+Author: 
+
+--- Summary ---
+Current Company : Fintech
+Base 2700000
+Stocks 15K$ per year
+Bonus : 10%Gitlab
+Base 5000000
+Stocks 9K$ per year
+Bonus : 10%Should i join gitlab , how is the work culture there
+
+--- Tags ---
+  - Compensation (compensation) []
+  - gitlab (gitlab-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: BFvOk1IA
+Title: Got completely cooked in Amazon recent OA.
+Slug: got-completely-cooked-in-amazon-recent-o-t2a4
+Article Type: DISCUSSION
+Posted: 2026-11-20 03:24:58 IST
+Updated: 2026-11-20 03:24:58 IST
+URL: https://leetcode.com/discuss/post/8618475/got-completely-cooked-in-amazon-recent-o-t2a4/
+Author: 
+
+--- Summary ---
+Today's Amazon OA was quite an experience.The trial test went pretty smoothly. I solved the question in around 7-8 minutes, so I went into the actual OA feeling fairly confident.Then came a completely different beast.There was a Hard string problem.
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: f4Z3N3IG
+Title: Does a Referral Actually Help at Google or Microsoft ⁉️
+Slug: does-a-referral-actually-help-at-google-84se6
+Article Type: DISCUSSION
+Posted: 2026-11-20 03:17:15 IST
+Updated: 2026-11-20 03:17:15 IST
+URL: https://leetcode.com/discuss/post/8618471/does-a-referral-actually-help-at-google-84se6/
+Author: ShiYoBo
+
+--- Summary ---
+I've seen candidates with strong DSA skills, solid projects, and decent resumes struggle to get interview calls, while others seem to get shortlisted through employee referrals.I'm curious how much difference a referral actually makes at companies li
+
+--- Reactions ---
+  UPVOTE: 2
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: xjzqXAqW
+Title: Solved Both Coding Questions, Still Rejected ⁉️
+Slug: solved-both-coding-questions-still-rejec-fkpb
+Article Type: DISCUSSION
+Posted: 2026-11-20 03:16:22 IST
+Updated: 2026-11-20 03:16:22 IST
+URL: https://leetcode.com/discuss/post/8618470/solved-both-coding-questions-still-rejec-fkpb/
+Author: ShiYoBo
+
+--- Summary ---
+I've come across interview experiences where candidates solved both DSA questions, explained their approaches, and discussed time complexity, but still received a rejection.I understand that getting an Accepted solution doesn't automatically mean pas
+
+--- Reactions ---
+  UPVOTE: 1
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: rq162mV1
+Title:  Why Don't Companies Share Interview Feedback ⁉️
+Slug: why-dont-companies-share-interview-feedb-triu
+Article Type: DISCUSSION
+Posted: 2026-11-20 03:14:53 IST
+Updated: 2026-11-20 03:14:53 IST
+URL: https://leetcode.com/discuss/post/8618468/why-dont-companies-share-interview-feedb-triu/
+Author: ShiYoBo
+
+--- Summary ---
+You spend weeks preparing for a technical interview, complete multiple coding rounds, and sometimes even solve every question. Then you receive a generic rejection email with no explanation of what went wrong.I understand that companies interview hun
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: eNAjN3v5
+Title: Why Do Junior Developer Jobs Require Experience ⁉️
+Slug: why-do-junior-developer-jobs-require-exp-dz6h
+Article Type: DISCUSSION
+Posted: 2026-11-20 03:13:29 IST
+Updated: 2026-11-20 03:13:29 IST
+URL: https://leetcode.com/discuss/post/8618466/why-do-junior-developer-jobs-require-exp-dz6h/
+Author: ShiYoBo
+
+--- Summary ---
+I've noticed that many entry-level software engineering positions ask for 1–3 years of experience, even though they're supposedly meant for people starting their careers.Students spend years learning programming, practicing DSA, and building projects
+
+--- Reactions ---
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: KKGgrAwY
+Title: Is GitHub Becoming More Important Than a Resume ⁉️
+Slug: is-github-becoming-more-important-than-a-nkb9
+Article Type: DISCUSSION
+Posted: 2026-11-20 03:12:47 IST
+Updated: 2026-11-20 03:12:47 IST
+URL: https://leetcode.com/discuss/post/8618465/is-github-becoming-more-important-than-a-nkb9/
+Author: ShiYoBo
+
+--- Summary ---
+A resume can list programming languages, frameworks, and projects, but it doesn't always show how someone actually writes code.GitHub, on the other hand, can reveal how a developer structures projects, handles bugs, writes documentation, and maintain
+
+--- Reactions ---
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 812PBY1S
+Title: Cred interview | Freshers | Swe
+Slug: cred-interview-freshers-swe-by-anonymous-1rx7
+Article Type: DISCUSSION
+Posted: 2026-11-20 01:45:00 IST
+Updated: 2026-11-20 01:45:00 IST
+URL: https://leetcode.com/discuss/post/8618432/cred-interview-freshers-swe-by-anonymous-1rx7/
+Author: 
+
+--- Summary ---
+Can anyone who has given cred interview for software role guide me on the number of rounds are there and what they ask in that?
+
+--- Tags ---
+  - CRED (cred) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 7StMWOeA
+Title: Hackathons
+Slug: hackathons-by-rubyb-jjny
+Article Type: DISCUSSION
+Posted: 2026-11-19 23:54:08 IST
+Updated: 2026-11-19 23:55:18 IST
+URL: https://leetcode.com/discuss/post/8618346/hackathons-by-rubyb-jjny/
+Author: RubyB
+
+--- Summary ---
+Hi everyone,I just wrapped up an intense 48-hour machine learning hackathon as part of my Level 7 (Master's) AI & Data Science programme, and I am officially hooked.Working in a randomised team of five from my cohort, we explored, tuned, and compared
+
+--- Reactions ---
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: OY7atgOU
+Title: what tech I can switch for.. after 5 yrs as php developer
+Slug: what-tech-i-can-switch-for-after-5-yrs-a-pojx
+Article Type: DISCUSSION
+Posted: 2026-11-19 23:40:02 IST
+Updated: 2026-11-19 23:40:02 IST
+URL: https://leetcode.com/discuss/post/8618329/what-tech-i-can-switch-for-after-5-yrs-a-pojx/
+Author: GGDOrEa0OR
+
+--- Summary ---
+anyone help me with this ??
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 4ZCfxkOB
+Title: Amazon SDE I Intern Assessment Experience | University Talent Acquisition
+Slug: amazon-sde-i-intern-assessment-experienc-aisk
+Article Type: DISCUSSION
+Posted: 2026-11-19 23:06:03 IST
+Updated: 2026-11-19 23:06:03 IST
+URL: https://leetcode.com/discuss/post/8618307/amazon-sde-i-intern-assessment-experienc-aisk/
+Author: Yugen_jr_847
+
+--- Summary ---
+Recently completed the online assessment for SDE I Intern at Amazon, under Amazon University Talent Acquisition.The assessment was structured into three rounds, covering different dimensions of software engineering, from coding fundamentals to real-w
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: AvUEfhqJ
+Title: Day 105 of My DSA Journey | Minimum Score by Changing Two Elements
+Slug: day-105-of-my-dsa-journey-minimum-score-bfzrx
+Article Type: DISCUSSION
+Posted: 2026-11-19 22:04:15 IST
+Updated: 2026-11-19 22:04:15 IST
+URL: https://leetcode.com/discuss/post/8618245/day-105-of-my-dsa-journey-minimum-score-bfzrx/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marks Day 105 of my DSA journey, and I solved Minimum Score by Changing Two Elements (LeetCode 2567).This problem focuses on minimizing the difference between the maximum and minimum elements of an array after changing at most two elements.The
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: V93lFkXE
+Title: Looking for Guidance to Improve My DSA & Problem-Solving Skills (Python)
+Slug: looking-for-guidance-to-improve-my-dsa-p-wn2k
+Article Type: DISCUSSION
+Posted: 2026-11-19 21:28:16 IST
+Updated: 2026-11-19 21:28:48 IST
+URL: https://leetcode.com/discuss/post/8618192/looking-for-guidance-to-improve-my-dsa-p-wn2k/
+Author: rohan-singh-yadav
+
+--- Summary ---
+Hello everyone!I'm a CSE student currently learning DSA using Python and preparing for software engineering interviews.I regularly practice problems on LeetCode, but sometimes I struggle to understand the problem, figure out the right approach, or ca
+
+--- Tags ---
+  - Python (python) [COMPANY]
+  - Python3 (python3) []
+  - DSA (dsa) []
+  - beginner (beginner) []
+  - beginner-dsa-preparation (beginner-dsa-preparation) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: sUTfEx6V
+Title: From LeetCode to Amazon: Putting Problem-Solving Skills to the Test
+Slug: from-leetcode-to-amazon-putting-problem-vpr14
+Article Type: DISCUSSION
+Posted: 2026-11-19 21:26:32 IST
+Updated: 2026-11-19 21:26:32 IST
+URL: https://leetcode.com/discuss/post/8618190/from-leetcode-to-amazon-putting-problem-vpr14/
+Author: sunil_snp
+
+--- Summary ---
+From solving LeetCode problems to applying those skills in an Amazon Online Assessment. 🚀Today, I completed the Amazon Online Assessment for a Software Engineering opportunity.As a second-year Computer Science Engineering student, this experience was
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: iqwZMWsJ
+Title: Accenture On Campus Drive Interview Experience
+Slug: accenture-on-campus-drive-interview-expe-f4d4
+Article Type: DISCUSSION
+Posted: 2026-11-19 20:36:01 IST
+Updated: 2026-11-19 20:36:01 IST
+URL: https://leetcode.com/discuss/post/8618154/accenture-on-campus-drive-interview-expe-f4d4/
+Author: 
+
+--- Summary ---
+I am writing this after giving the interview of interview. It was mainly focused on the HR based question rathen than project discussion and technical skills.
+Q. Introduce YourSelf
+-> After i intorduced my self he responded that he donot wanted to kn
+
+--- Tags ---
+  - Accenture (accenture) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: bC3b5tLl
+Title: Amazon SDE II Full Loop Interview Experience (Reject)
+Slug: amazon-sde-ii-full-loop-interview-experi-ma7g
+Article Type: DISCUSSION
+Posted: 2026-11-19 19:49:15 IST
+Updated: 2026-11-19 19:49:15 IST
+URL: https://leetcode.com/discuss/post/8618120/amazon-sde-ii-full-loop-interview-experi-ma7g/
+Author: sravya621
+
+--- Summary ---
+I recently gave a full interview loop with Amazon AWS for the role of SDE II , Seattle , USA. Wanted to give back to the community that was very helpful during my preparationScreening Round
+I was asked 2 LP questions, then I was asked a graph questio
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 15
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: mBuhsGwK
+Title: "Right Skills, Right Interview, Wrong Luck? Is Campus Placement a Game of Chance?"
+Slug: right-skills-right-interview-wrong-luck-me6n9
+Article Type: DISCUSSION
+Posted: 2026-11-19 19:38:29 IST
+Updated: 2026-11-19 19:38:29 IST
+URL: https://leetcode.com/discuss/post/8618106/right-skills-right-interview-wrong-luck-me6n9/
+Author: dhayaldhruv274
+
+--- Summary ---
+Cleared 4 Rounds, Got Closer to My Goal – Is Success Just a Matter of Skills, Timing, and Luck?I've been thinking about something that happened during my campus placement journey, and I genuinely want to understand whether others have experienced som
+
+--- Tags ---
+  - IBM (ibm) [COMPANY]
+  - Micron Technology (micron) [COMPANY]
+  - LeetCode (leetcode) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+  - DSA X LIFE (dsa-x-life) []
+  - DSA Resources (dsa-resources) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 5FicS8Rd
+Title: One Interview Can Change Everything – What Actually Matters in Final Selection?
+Slug: one-interview-can-change-everything-what-0zgc
+Article Type: DISCUSSION
+Posted: 2026-11-19 19:31:01 IST
+Updated: 2026-11-19 19:31:01 IST
+URL: https://leetcode.com/discuss/post/8618100/one-interview-can-change-everything-what-0zgc/
+Author: dhayaldhruv274
+
+--- Summary ---
+Cleared the Assessment, Reached the Direct Interview Round, But Didn't Make It – A Reality Check About Campus PlacementsRecently, I appeared for a Micron Cybersecurity role with a package of around 15 LPA through my university placement drive.The sel
+
+--- Tags ---
+  - Micron Technology (micron) [COMPANY]
+  - LeetCode (leetcode) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+  - DSA X LIFE (dsa-x-life) []
+  - DSA Resources (dsa-resources) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 52y8uuVF
+Title: In how many days salesforce reply after applying through referral?
+Slug: in-how-many-days-salesforce-reply-after-q7qjr
+Article Type: DISCUSSION
+Posted: 2026-11-19 19:30:28 IST
+Updated: 2026-11-19 19:30:28 IST
+URL: https://leetcode.com/discuss/post/8618099/in-how-many-days-salesforce-reply-after-q7qjr/
+Author: _avikal55
+
+--- Summary ---
+I applied for the AMTS role at Salesforce through a referral, but it's been over 12 days with no update. Is it true that they usually respond within a week if shortlisted? Is there still a chance of getting a callback? Has anyone received a shortlist
+
+--- Tags ---
+  - Salesforce (salesforce) [COMPANY]
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nCZXpgr0
+Title: Feeling stuck in my career as a Senior React developer, Need advice.
+Slug: feeling-stuck-in-my-career-as-a-senior-r-62hz
+Article Type: DISCUSSION
+Posted: 2026-11-19 19:27:03 IST
+Updated: 2026-11-19 19:27:03 IST
+URL: https://leetcode.com/discuss/post/8618095/feeling-stuck-in-my-career-as-a-senior-r-62hz/
+Author: 
+
+--- Summary ---
+6+ YOE, Front-end
+31 LPA (all fixed)
+Tier 2 college.Started with a Product Base MNC. It is a good company but I had to leave since the projects I worked on were constantly shut and I had three managers in a stint of 4 years. This team/product change
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: SR0B1umg
+Title: Is Merge Intervals a Greedy Algorithm or Just Smart Sorting?
+Slug: is-merge-intervals-a-greedy-algorithm-or-0tmb
+Article Type: DISCUSSION
+Posted: 2026-11-19 19:22:51 IST
+Updated: 2026-11-19 19:23:13 IST
+URL: https://leetcode.com/discuss/post/8618089/is-merge-intervals-a-greedy-algorithm-or-0tmb/
+Author: dhayaldhruv274
+
+--- Summary ---
+Is Merge Intervals really a Greedy algorithm, or is sorting doing all the heavy lifting?I initially thought Merge Intervals was just about comparing two ranges, but the more I explore it, the more I realize that sorting is what makes the entire appro
+
+--- Tags ---
+  - LeetCode (leetcode) [COMPANY]
+  - DSA (dsa) []
+  - DSA X LIFE (dsa-x-life) []
+  - DSA Resources (dsa-resources) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pbpkRMpa
+Title: Apple Upcoming Interview| Software Engineer : AI
+Slug: apple-upcoming-interview-software-engine-vt2a
+Article Type: DISCUSSION
+Posted: 2026-11-19 19:12:28 IST
+Updated: 2026-11-19 19:12:28 IST
+URL: https://leetcode.com/discuss/post/8618080/apple-upcoming-interview-software-engine-vt2a/
+Author: 
+
+--- Summary ---
+Hi all,I have an upcoming interview with Apple for experienced Software Engineer : AI role and would appreciate it if anyone could share tips or a set of resources/questions that have been helpful for their prep. I have not given any onsite with Appl
+
+--- Tags ---
+  - Apple (apple) [COMPANY]
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 06SPzcCV
+Title: My Job Switch Journey: Interviews, Rejections, and Finally Getting an Offer!
+Slug: my-job-switch-journey-interviews-rejecti-2hmw
+Article Type: DISCUSSION
+Posted: 2026-11-19 15:59:36 IST
+Updated: 2026-11-19 15:59:36 IST
+URL: https://leetcode.com/discuss/post/8617905/my-job-switch-journey-interviews-rejecti-2hmw/
+Author: 
+
+--- Summary ---
+Hey everyone,The last few months of my job switch were rough, and I picked up a lot along the way. I'm writing this down in the hope that it helps someone who's in the same spot right now.Background
+College: Tier 1 NIT, ECE
+Experience: 3.3 years
+Curr
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Microsoft (microsoft) [COMPANY]
+  - Amazon (amazon) [COMPANY]
+  - eBay (ebay) [COMPANY]
+  - DE Shaw (de-shaw) [COMPANY]
+  - Teradata (teradata) [COMPANY]
+  - Zomato (zomato) [COMPANY]
+  - Career (career) []
+  - Compensation (compensation) []
+  - Interview (interview) []
+  - observe.ai (observe-ai) []
+  - Forward Network (forward-network) []
+  - DigitalOcean (digitalocean-4) []
+
+--- Reactions ---
+  UPVOTE: 15
+
