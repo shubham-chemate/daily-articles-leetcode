@@ -1,0 +1,591 @@
+LeetCode Discuss - Latest 26 Articles
+Fetched on: 2026-11-21 15:35:47 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pWadH5sp
+Title: Day 107 of My DSA Journey | Find Subtree Sizes After Changes
+Slug: day-107-of-my-dsa-journey-find-subtree-s-id4g
+Article Type: DISCUSSION
+Posted: 2026-11-21 14:53:54 IST
+Updated: 2026-11-21 14:53:54 IST
+URL: https://leetcode.com/discuss/post/8619777/day-107-of-my-dsa-journey-find-subtree-s-id4g/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marks Day 107 of my DSA journey, and I solved Find Subtree Sizes After Changes (LeetCode 3331).This problem focuses on modifying a rooted tree based on character conditions and then calculating the size of every node's subtree in the modified t
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: dxJbtPvn
+Title: Study notes: Bitmask Pairing in C++: Max Product of Disjoint Words
+Slug: study-notes-bitmask-pairing-in-c-max-pro-u79j
+Article Type: DISCUSSION
+Posted: 2026-11-21 14:21:03 IST
+Updated: 2026-11-21 14:21:03 IST
+URL: https://leetcode.com/discuss/post/8619750/study-notes-bitmask-pairing-in-c-max-pro-u79j/
+Author: johanthegoat
+
+--- Summary ---
+Two words share no letters exactly when their letter sets have an empty intersection. Each word's letter set fits in a 26-bit integer, so the disjointness check becomes a single bitwise AND. Once the masks are built, we only need to compare pairs.App
+
+--- Tags ---
+  - study guide (study-guide) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: mEb13462
+Title: I built a platform which is helping 3700+ people across 18+ countries in getting hired 
+Slug: i-built-a-platform-which-is-helping-3700-3i60
+Article Type: DISCUSSION
+Posted: 2026-11-21 14:04:22 IST
+Updated: 2026-11-21 14:04:22 IST
+URL: https://leetcode.com/discuss/post/8619741/i-built-a-platform-which-is-helping-3700-3i60/
+Author: Naveenbeniwal00001
+
+--- Summary ---
+Hey LeetCode community,Like many of you, I spent months grinding 600+ DSA problems, optimizing resumes, and sending hundreds of applications into the ATS void.During my own placement journey (and helping juniors at my college), I realized a hard trut
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pdteC3Im
+Title: Study notes: Backtracking in C#: Well-Formed Parentheses via Open/Close Counts
+Slug: study-notes-backtracking-in-c-well-forme-l74w
+Article Type: DISCUSSION
+Posted: 2026-11-21 13:02:32 IST
+Updated: 2026-11-21 13:02:32 IST
+URL: https://leetcode.com/discuss/post/8619689/study-notes-backtracking-in-c-well-forme-l74w/
+Author: johanthegoat
+
+--- Summary ---
+We build each string one character at a time, so every prefix is a candidate. The counts of opening and closing brackets used so far are enough to decide what can come next. An opening bracket is allowed while we have fewer than n, and a closing brac
+
+--- Tags ---
+  - study guide (study-guide) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: SUYhBNkt
+Title: Study notes: Count Pairs and Add One Center: Hash Map Palindrome in TypeScript
+Slug: study-notes-count-pairs-and-add-one-cent-000x
+Article Type: DISCUSSION
+Posted: 2026-11-21 13:00:46 IST
+Updated: 2026-11-21 13:00:46 IST
+URL: https://leetcode.com/discuss/post/8619686/study-notes-count-pairs-and-add-one-cent-000x/
+Author: johanthegoat
+
+--- Summary ---
+A palindrome mirrors around its center, so every character that appears an even number of times can be fully used as mirrored pairs. Only characters with odd counts leave a leftover, and just one of them can sit in the middle. So the answer is all th
+
+--- Tags ---
+  - study guide (study-guide) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: uVGfm6Rv
+Title: Study notes: BFS with Key Bitmask State | C# | Clean and Fast
+Slug: study-notes-bfs-with-key-bitmask-state-c-wsrs
+Article Type: DISCUSSION
+Posted: 2026-11-21 12:51:18 IST
+Updated: 2026-11-21 12:51:18 IST
+URL: https://leetcode.com/discuss/post/8619677/study-notes-bfs-with-key-bitmask-state-c-wsrs/
+Author: johanthegoat
+
+--- Summary ---
+Standing on the same cell is not always the same situation, because the set of keys you hold decides which locks you can pass. So the real state is (row, col, keys collected), and since there are at most 6 keys, the key set fits in a 6-bit mask. Ever
+
+--- Tags ---
+  - study guide (study-guide) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: y3cTcJ7c
+Title: Splay Tree Part - 2
+Slug: splay-tree-part-2-by-pavanpadavala2005-ymja
+Article Type: DISCUSSION
+Posted: 2026-11-21 12:45:40 IST
+Updated: 2026-11-21 12:45:40 IST
+URL: https://leetcode.com/discuss/post/8619669/splay-tree-part-2-by-pavanpadavala2005-ymja/
+Author: pavanpadavala2005
+
+--- Summary ---
+👉🔗 Splay Tree Part - 1 🔗👈 ( Must Read This )👉🔗 AVL Rotations 🔗👈👉🔗RED-BLACK Tree Part - 1🔗👈 ( Must Read This )
+
+--- Tags ---
+  - Binary Search Tree (binary-search-tree) [TOPIC]
+  - Binary Tree (binary-tree) [TOPIC]
+  - Splay Tree (splay-tree) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Dc2tQa2y
+Title: Splay Tree Part - 1
+Slug: splay-tree-part-1-by-pavanpadavala2005-adtu
+Article Type: DISCUSSION
+Posted: 2026-11-21 12:40:38 IST
+Updated: 2026-11-21 12:40:38 IST
+URL: https://leetcode.com/discuss/post/8619662/splay-tree-part-1-by-pavanpadavala2005-adtu/
+Author: pavanpadavala2005
+
+--- Summary ---
+Splay TreeSelf-Adjusting Binary Search Tree (BST) that moves frequently accessed nodes to the root using rotations to improve access efficiency.Time ComplexityOperationOperationComplexitySearchDeletionO(log N)InsertionSplayO(log N)Splaying Cases
+Case
+
+--- Tags ---
+  - Binary Search Tree (binary-search-tree) [TOPIC]
+  - Binary Tree (binary-tree) [TOPIC]
+  - Splay Tree (splay-tree) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: f7ttGz3c
+Title: Java 8 Cheat Sheet: Loop vs Stream, Optional, groupingBy (Visual + Tips)
+Slug: java-8-cheat-sheet-loop-vs-stream-option-2be6
+Article Type: DISCUSSION
+Posted: 2026-11-21 10:38:36 IST
+Updated: 2026-11-21 10:38:36 IST
+URL: https://leetcode.com/discuss/post/8619585/java-8-cheat-sheet-loop-vs-stream-option-2be6/
+Author: gunjan07133
+
+--- Summary ---
+Java 8 came out in 2014, but it still runs most of the backends we work on. These 4 features remove a lot of boilerplate:1. Lambdas & method referencesUse User::getName instead of anonymous classes.2. Streams: loop vs pipeline3. Optional instead of n
+
+--- Tags ---
+  - Java (java) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: V1U9mr4G
+Title: Meta Staff Production Engineer Onsite
+Slug: meta-staff-production-engineer-onsite-by-88cs
+Article Type: DISCUSSION
+Posted: 2026-11-21 10:26:07 IST
+Updated: 2026-11-21 10:26:07 IST
+URL: https://leetcode.com/discuss/post/8619572/meta-staff-production-engineer-onsite-by-88cs/
+Author: 
+
+--- Summary ---
+Hi everyone,Looking to learn about recent Staff/Principal Engineer interview experiences, particularly around system design and AI-assisted coding rounds.Would appreciate insights into interview formats, expectations, evaluation criteria, and prepara
+
+--- Tags ---
+  - Meta (facebook) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: mEyiFSgi
+Title: 3 Consecutive Annual Badges 🏅
+Slug: 3-consecutive-annual-badges-by-nikhil-sa-n1j8
+Article Type: DISCUSSION
+Posted: 2026-11-21 09:39:11 IST
+Updated: 2026-11-21 09:39:29 IST
+URL: https://leetcode.com/discuss/post/8619540/3-consecutive-annual-badges-by-nikhil-sa-n1j8/
+Author: Nikhil-Sachan
+
+--- Summary ---
+3 consecutive years. 3 LeetCode Annual Badges. 🏅Over these 3 years, one thing I've learned is that:Consistency will take you places where motivation alone never can.You don't have to solve 5 problems every day.
+You don't have to be the smartest perso
+
+--- Tags ---
+  - DSA (dsa) []
+  - Object-Oriented Design (object-oriented-design) []
+  - InterviewPreparation (interviewpreparation-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: AXKV45Go
+Title: Bottom View of Binary Tree | Level Order Traversal + Map | O(N) 🥸
+Slug: bottom-view-of-binary-tree-level-order-t-po8c
+Article Type: DISCUSSION
+Posted: 2026-11-21 01:24:36 IST
+Updated: 2026-11-21 01:24:36 IST
+URL: https://leetcode.com/discuss/post/8619396/bottom-view-of-binary-tree-level-order-t-po8c/
+Author: devishigro13
+
+--- Summary ---
+Bottom View of Binary Tree | Level Order Traversal + Map | O(N)Approach: BFS (Level Order Traversal) + MapThe idea is to look at the binary tree from the bottom and return the nodes visible from left to right.We use:
+Queue: To perform Level Order Tra
+
+--- Tags ---
+  - Tree (tree) [TOPIC]
+  - Breadth-First Search (breadth-first-search) [TOPIC]
+  - Binary Tree (binary-tree) [TOPIC]
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: olIDW4F5
+Title: Should Companies Allow AI Tools During Technical Interviews?
+Slug: should-companies-allow-ai-tools-during-t-ewnq
+Article Type: DISCUSSION
+Posted: 2026-11-20 23:27:42 IST
+Updated: 2026-11-20 23:27:42 IST
+URL: https://leetcode.com/discuss/post/8619310/should-companies-allow-ai-tools-during-t-ewnq/
+Author: HeroHarshit
+
+--- Summary ---
+Artificial Intelligence is changing the way we write code, solve problems, and build software. Today, developers can use AI tools to understand errors, generate code, and find solutions much faster. But this raises an interesting question. Should com
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 1qiRjfl0
+Title: Referral related ques ?
+Slug: referral-related-ques-by-anonymous_user-nyzj
+Article Type: DISCUSSION
+Posted: 2026-11-20 23:22:57 IST
+Updated: 2026-11-20 23:37:15 IST
+URL: https://leetcode.com/discuss/post/8619306/referral-related-ques-by-anonymous_user-nyzj/
+Author: 
+
+--- Summary ---
+I have a small que from everyone , what happens when you gets referred for same job via 2-3 person at same time in a company. Will it leave bad impact for the candidate or it does not matter.
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6JqDdjbl
+Title:  🟢Intuit Co-Op Internship | Verdict: Selected | Interview Experience
+Slug: intuit-co-op-internship-verdict-selected-y31n
+Article Type: DISCUSSION
+Posted: 2026-11-20 22:48:20 IST
+Updated: 2026-11-20 22:50:09 IST
+URL: https://leetcode.com/discuss/post/8619266/intuit-co-op-internship-verdict-selected-y31n/
+Author: pranathi5555
+
+--- Summary ---
+Intuit Co-Op Internship | Verdict: Selected | Interview Experience 🎯I’m excited to share my Intuit Co-Op interview experience. I was selected for the Co-Op Intern role through an off-campus opportunity, and I’ll be joining Intuit in January 2027. 🎉I’
+
+--- Tags ---
+  - Intuit (intuit) [COMPANY]
+  - SDE (sde) []
+  - DSA (dsa) []
+  - Interview (interview) []
+  - SDE Intern (sde-intern-2) []
+  - internship advice (internship-advice) []
+  - co-op (co-op-2) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: DouK73NI
+Title: Pluang sde 1 hiring drive today
+Slug: pluang-sde-1-hiring-drive-today-by-anony-2jj6
+Article Type: DISCUSSION
+Posted: 2026-11-20 22:01:19 IST
+Updated: 2026-11-20 22:01:19 IST
+URL: https://leetcode.com/discuss/post/8619221/pluang-sde-1-hiring-drive-today-by-anony-2jj6/
+Author: 
+
+--- Summary ---
+did anyone got offer or had final round? i didnt get back any response back after round 2.
+
+--- Tags ---
+  - Pluang (pluang) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: WkOLXYWw
+Title: Day 106 of My DSA Journey | Maximize Consecutive Elements in an Array After Modification
+Slug: day-106-of-my-dsa-journey-maximize-conse-ofjy
+Article Type: DISCUSSION
+Posted: 2026-11-20 21:59:42 IST
+Updated: 2026-11-20 21:59:42 IST
+URL: https://leetcode.com/discuss/post/8619218/day-106-of-my-dsa-journey-maximize-conse-ofjy/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marks Day 106 of my DSA journey, and I solved Maximize Consecutive Elements in an Array After Modification (LeetCode 3041).This problem focuses on finding the maximum number of consecutive elements that can be formed by modifying each array ele
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: lsOI9Uei
+Title: Rippling Technical Interview (Coding) for Software Engineer - II position
+Slug: rippling-technical-interview-coding-for-vdrv9
+Article Type: DISCUSSION
+Posted: 2026-11-20 21:37:13 IST
+Updated: 2026-11-20 21:37:13 IST
+URL: https://leetcode.com/discuss/post/8619203/rippling-technical-interview-coding-for-vdrv9/
+Author: 
+
+--- Summary ---
+Can anyone provide insight on the Rippling Technical Interview (Coding) for Software Engineer - II position? I have interview in 2 days. I'm specifically trying to know the topics i should prioritise as not many past interview exp is avl online. Than
+
+--- Tags ---
+  - Rippling (rippling) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Puyud136
+Title: Anyone completed Google's GHA for Software Engineer III – Security/Privacy, gTech Risk (Hyderabad)?
+Slug: anyone-completed-googles-gha-for-softwar-7hg3
+Article Type: DISCUSSION
+Posted: 2026-11-20 20:10:42 IST
+Updated: 2026-11-20 20:10:42 IST
+URL: https://leetcode.com/discuss/post/8619117/anyone-completed-googles-gha-for-softwar-7hg3/
+Author: 
+
+--- Summary ---
+I recently completed the Google Hiring Assessment (GHA) and passed it.I'm curious about what comes next for this particular role.A few questions:
+Is there an additional technical assessment after the GHA?
+What does the subsequent interview process ty
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: bLWsEWKO
+Title: Amazon SDE-1 Interview Experience | 2 YOE | India | Selected
+Slug: amazon-sde-1-interview-experience-2-yoe-dgbdx
+Article Type: DISCUSSION
+Posted: 2026-11-20 19:40:25 IST
+Updated: 2026-11-20 19:40:59 IST
+URL: https://leetcode.com/discuss/post/8619095/amazon-sde-1-interview-experience-2-yoe-dgbdx/
+Author: 
+
+--- Summary ---
+Amazon SDE-1 Interview Experience | 2 YOE | India | Selected
+Role: SDE-1
+Experience: 2 Years
+Company: Amazon
+Location: India
+Result: SelectedI recently went through the Amazon SDE-1 interview process. The overall process tested my DSA fundamentals, p
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Compensation (compensation) []
+  - Interview (interview) []
+  - amazon_OA (amazon-oa-3) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: QkGsKMJX
+Title: Tesco Coding Round 1, what to prepare?
+Slug: tesco-coding-round-1-what-to-prepare-by-7cvfc
+Article Type: DISCUSSION
+Posted: 2026-11-20 18:59:43 IST
+Updated: 2026-11-20 18:59:43 IST
+URL: https://leetcode.com/discuss/post/8619055/tesco-coding-round-1-what-to-prepare-by-7cvfc/
+Author: 
+
+--- Summary ---
+How should I prepare for SDE 2 Round 1 for Tesco? It is a Coding Round. Have anyone gone through the rounds recently
+
+--- Tags ---
+  - Tesco (tesco) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: VuLRxJB9
+Title: Oracle OCI Interview Loop for Senior Platform Engineer 
+Slug: oracle-oci-interview-loop-for-senior-pla-bwdc
+Article Type: DISCUSSION
+Posted: 2026-11-20 18:42:48 IST
+Updated: 2026-11-20 18:43:59 IST
+URL: https://leetcode.com/discuss/post/8619040/oracle-oci-interview-loop-for-senior-pla-bwdc/
+Author: 
+
+--- Summary ---
+This was my first interview loop of the year. Did not go well but a good learning experience.Pre-Screening: HLD Questions covering all topicsRound 1: 2 DSA Questions
+Longest Subsequence with no duplicate characters
+A Greedy+Heap Problem (Hard)
+Round
+
+--- Tags ---
+  - Oracle (oracle) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: EdKntnWf
+Title: Advice from Senior Guys / Interviewers at Top Tech
+Slug: advice-from-senior-guys-interviewers-at-xwtgp
+Article Type: DISCUSSION
+Posted: 2026-11-20 18:35:01 IST
+Updated: 2026-11-20 18:39:12 IST
+URL: https://leetcode.com/discuss/post/8619034/advice-from-senior-guys-interviewers-at-xwtgp/
+Author: 
+
+--- Summary ---
+Guys I don't why but my resume does not get shortlisted for SDE-1 Positions at any of the top MNCs?Here is my resume : https://drive.google.com/file/d/1RC8uBQYoJ2upHoVbkRXVE1NFej1sMnEu/viewI had even worked at an HFT which pays more than Google etc.
+
+--- Tags ---
+  - Career (career) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Qn4wCrCH
+Title: Tool Tips & lessons learned migrating QlikView to Power BI?
+Slug: tool-tips-lessons-learned-migrating-qlik-eboc
+Article Type: DISCUSSION
+Posted: 2026-11-20 17:21:05 IST
+Updated: 2026-11-20 17:21:05 IST
+URL: https://leetcode.com/discuss/post/8618982/tool-tips-lessons-learned-migrating-qlik-eboc/
+Author: Msk9vqdNQr
+
+--- Summary ---
+We’re planning a move from QlikView to Power BI and want to avoid manually rebuilding years of .qvw apps, load scripts, and QVD layers from scratch.For anyone who has made this switch:*Did you use any parsers or accelerators to extract Qlik metadata
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: JaB4mlGH
+Title: ServiceNow | SSE (IC3) | Bengaluru | Accepted
+Slug: servicenow-sse-ic3-bengaluru-accepted-by-vuy2
+Article Type: DISCUSSION
+Posted: 2026-11-20 16:17:33 IST
+Updated: 2026-11-20 16:24:27 IST
+URL: https://leetcode.com/discuss/post/8618927/servicenow-sse-ic3-bengaluru-accepted-by-vuy2/
+Author: 
+
+--- Summary ---
+YOE: 6
+Applied through LinkedIn.Round 1 (DSA):Brief about my work experience and recent projects. DSA question -
+A varient of Max sum subarray https://leetcode.com/problems/maximum-subarray/description/ with a twist that we can remove any one element
+
+--- Tags ---
+  - ServiceNow (servicenow) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pX9ig2k4
+Title: SDE-2 Kotak hit or miss?
+Slug: sde-2-kotak-hit-or-miss-by-anonymous_use-kiif
+Article Type: DISCUSSION
+Posted: 2026-11-20 15:02:04 IST
+Updated: 2026-11-20 15:02:04 IST
+URL: https://leetcode.com/discuss/post/8618875/sde-2-kotak-hit-or-miss-by-anonymous_use-kiif/
+Author: 
+
+--- Summary ---
+Current TC:
+46 Base
+10-20 USD stocks3.4 YOEPrev Exp: Unicorm startupsGot offer from kotak:48 Base
+2L Joining bonus
+5L variableCurrently no other offers but actively looking because I am laid off. Would like to know how is work culture there at kotak.
+
+--- Tags ---
+  - Compensation (compensation) []
+  - Kotak Mahindra Bank (kotak-mahindra-bank) [COMPANY]
+
+--- Reactions ---
+  THUMBS_DOWN: 0
+  UPVOTE: 0
+
