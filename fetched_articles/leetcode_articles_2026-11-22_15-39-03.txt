@@ -1,0 +1,477 @@
+LeetCode Discuss - Latest 21 Articles
+Fetched on: 2026-11-22 15:39:03 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: RpjPO0QP
+Title: Day 108 of My DSA Journey | Check if All A's Appears Before All B's
+Slug: day-108-of-my-dsa-journey-check-if-all-a-dqwb
+Article Type: DISCUSSION
+Posted: 2026-11-22 15:34:05 IST
+Updated: 2026-11-22 15:34:05 IST
+URL: https://leetcode.com/discuss/post/8621097/day-108-of-my-dsa-journey-check-if-all-a-dqwb/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marks Day 108 of my DSA journey, and I solved Check if All A's Appears Before All B's (LeetCode 2124).This problem focuses on checking whether all occurrences of 'a' appear before any occurrence of 'b' in a given string.The key idea is to use S
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: yLpoq5c3
+Title: 10 AI & LLM System Design Questions Every SWE Should Know in 2026 (With Concise Answers)
+Slug: 10-ai-llm-system-design-questions-every-boww6
+Article Type: DISCUSSION
+Posted: 2026-11-22 14:29:47 IST
+Updated: 2026-11-22 14:29:47 IST
+URL: https://leetcode.com/discuss/post/8621034/10-ai-llm-system-design-questions-every-boww6/
+Author: BiplabDasMohapatra
+
+--- Summary ---
+With AI-assisted coding and LLM-powered features becoming standard in technical loops this year, interviewers are shifting away from pure theory toward how you actually architect, scale, and debug AI systems in production.Here is a quick-reference sh
+
+--- Tags ---
+  - System Design (system-design) []
+  - Interview (interview) []
+  - MachineLearning (machinelearning-2) []
+  - AI (ai-3) []
+
+--- Reactions ---
+  UPVOTE: 7
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: LqUnu1FS
+Title: Is DSA Still worth it or should I Switch to DEV?
+Slug: is-dsa-still-worth-it-or-should-i-switch-505a
+Article Type: DISCUSSION
+Posted: 2026-11-22 14:08:19 IST
+Updated: 2026-11-22 14:08:19 IST
+URL: https://leetcode.com/discuss/post/8621005/is-dsa-still-worth-it-or-should-i-switch-505a/
+Author: gurav_02am
+
+--- Summary ---
+Where I am right nowI've put in a good amount of time into DSA (arrays, strings, recursion, trees, graphs, DP, etc.) and I'm fairly comfortable solving medium-level problems.
+On the development side, I'm basically at zero. I have no real projects, no
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Ma1iEyoA
+Title: Got laid off 3 days back(SDE II). Need suggestions from people who went through this.
+Slug: got-laid-off-3-days-backsde-ii-need-sugg-9cm3
+Article Type: DISCUSSION
+Posted: 2026-11-22 13:33:22 IST
+Updated: 2026-11-22 14:44:51 IST
+URL: https://leetcode.com/discuss/post/8620976/got-laid-off-3-days-backsde-ii-need-sugg-9cm3/
+Author: kiraWatari
+
+--- Summary ---
+Hi guys, got "that call" from HR three days back asking me to submit my laptop.I've been working as Software Engineer since late 2020(so, that's 6 years of experience), Full Stack developer for the past 3.5 years(NodeJS, ReactJS).I understand I have
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Ocayxzip
+Title: Recently laid off (Software Developer) — tips from people who've been through it?
+Slug: recently-laid-off-software-developer-tip-gli2
+Article Type: DISCUSSION
+Posted: 2026-11-22 12:32:33 IST
+Updated: 2026-11-22 12:32:33 IST
+URL: https://leetcode.com/discuss/post/8620904/recently-laid-off-software-developer-tip-gli2/
+Author: F49MyYbkuX
+
+--- Summary ---
+Got laid off recently. I'd been grinding my ass off for the last month and probably worked harder than anyone on the team, so it still feels a bit unreal.Background: ~2 years in a data/analytics role, then 2+ years as a backend developer. Based in In
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kVisbw62
+Title: DSA Progress : Quality vs Quantity?
+Slug: dsa-progress-quality-vs-quantity-by-kuma-kk73
+Article Type: DISCUSSION
+Posted: 2026-11-22 10:49:17 IST
+Updated: 2026-11-22 10:49:17 IST
+URL: https://leetcode.com/discuss/post/8620749/dsa-progress-quality-vs-quantity-by-kuma-kk73/
+Author: kumar_shivam8868
+
+--- Summary ---
+I've solved around 137 problems so far, and one thing I've been thinking about is whether we're focusing too much on the solved count. Sometimes I see people solving questions without really taking the time to understand the logic behind them.I feel
+
+--- Tags ---
+  - DSA (dsa) []
+  - interview-prep (interview-prep-2) []
+  - study plan (study-plan-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 9c2DJ8QS
+Title: 🏆 Weekly Contest 529
+Slug: weekly-contest-529-by-leetcode-d1cq
+Article Type: DISCUSSION
+Posted: 2026-11-22 09:30:12 IST
+Updated: 2026-11-22 09:30:12 IST
+URL: https://leetcode.com/discuss/post/8620625/weekly-contest-529-by-leetcode-d1cq/
+Author: LeetCode
+
+--- Summary ---
+Welcome to Weekly Contest 529! Feel free to share and post your contest experience here! You can also view the rankings for the contest. Links to the individual
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kIC0KQyX
+Title: C++
+Slug: c-by-syebtzxk1n-yuuz
+Article Type: DISCUSSION
+Posted: 2026-11-22 08:18:09 IST
+Updated: 2026-11-22 08:18:09 IST
+URL: https://leetcode.com/discuss/post/8620568/c-by-syebtzxk1n-yuuz/
+Author: SyEBtZxK1N
+
+--- Summary ---
+I am a complete beginner and want to learn C++. Can someone guide me on where to start, how to learn, and what I should do first?
+
+--- Tags ---
+  - C++ (cpp) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vhdol6Fp
+Title: Bitwise - My sole enemy
+Slug: bitwise-my-sole-enemy-by-anonymous_user-7an3
+Article Type: DISCUSSION
+Posted: 2026-11-22 02:20:13 IST
+Updated: 2026-11-22 02:20:13 IST
+URL: https://leetcode.com/discuss/post/8620427/bitwise-my-sole-enemy-by-anonymous_user-7an3/
+Author: 
+
+--- Summary ---
+Guys. i found abslutely no place to learn bitwise from , i mean like there are some playlist that explain 6-8 ques but what i wanna learn is that thinking of knowing when bitwise comes and optimise the code and also how we even think of logic and syn
+
+--- Tags ---
+  - Bit Manipulation (bit-manipulation) [TOPIC]
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: KOB0598w
+Title: My Analysis of Biweekly Contest 196
+Slug: my-analysis-of-biweekly-contest-196-by-m-wmun
+Article Type: DISCUSSION
+Posted: 2026-11-21 21:54:34 IST
+Updated: 2026-11-21 21:54:34 IST
+URL: https://leetcode.com/discuss/post/8620141/my-analysis-of-biweekly-contest-196-by-m-wmun/
+Author: MOHD_SHAMOON_04
+
+--- Summary ---
+Biweekly Contest 196 Analysis:Number of users who solved Question-X:
+11,570 users solved Question 1
+9,352 users solved Question 2
+2,105 users solved Question 3
+1,054 users solved Question 4
+Number of users who solved 'X' amount of Question:
+7,329 use
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: T2wplo3V
+Title: 🏆 Biweekly Contest 196
+Slug: biweekly-contest-196-by-leetcode-qrbn
+Article Type: DISCUSSION
+Posted: 2026-11-21 21:30:10 IST
+Updated: 2026-11-21 21:30:10 IST
+URL: https://leetcode.com/discuss/post/8620075/biweekly-contest-196-by-leetcode-qrbn/
+Author: LeetCode
+
+--- Summary ---
+Welcome to Biweekly Contest 196! Feel free to share and post your contest experience here! You can also view the rankings for the contest. Links to the individu
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 4
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: eVGr1IKQ
+Title: BlackRock Onsite
+Slug: blackrock-onsite-by-anonymous_user-t8hu
+Article Type: DISCUSSION
+Posted: 2026-11-21 21:21:08 IST
+Updated: 2026-11-21 21:21:08 IST
+URL: https://leetcode.com/discuss/post/8620067/blackrock-onsite-by-anonymous_user-t8hu/
+Author: 
+
+--- Summary ---
+I have a final onsite round coming up with BlackRock for a mid level software engineer role. Does anyone have any pointers for this round? I am told that there will be three interviews - two behaivoral and one technical. Any help is appreciated, than
+
+--- Tags ---
+  - BlackRock (blackrock) [COMPANY]
+  - Onsite (onsite) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: brTgfta8
+Title: LTIMindtree Campus Trainee Placement Experience | OA + Technical Interview + HR (2026)
+Slug: ltimindtree-campus-trainee-placement-exp-pjqd
+Article Type: DISCUSSION
+Posted: 2026-11-21 21:16:18 IST
+Updated: 2026-11-21 21:16:18 IST
+URL: https://leetcode.com/discuss/post/8620063/ltimindtree-campus-trainee-placement-exp-pjqd/
+Author: KunalKushwaha1806
+
+--- Summary ---
+LTIMindtree Campus Trainee Placement Experience (2026)I recently appeared for the LTIMindtree Campus Trainee recruitment process. This was a non-campus opportunity, and the entire selection process was conducted online.Here is a detailed breakdown of
+
+--- Tags ---
+  - LTIMindtree (lti) [COMPANY]
+  - On campus (on-campus) []
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+  - LTM (ltm) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: s5qkfosv
+Title: IBM Associate System Engineer (ASE) On-Campus Placement Experience – 2026
+Slug: ibm-associate-system-engineer-asc-on-cam-jrly
+Article Type: DISCUSSION
+Posted: 2026-11-21 21:08:26 IST
+Updated: 2026-11-21 21:18:29 IST
+URL: https://leetcode.com/discuss/post/8620060/ibm-associate-system-engineer-asc-on-cam-jrly/
+Author: KunalKushwaha1806
+
+--- Summary ---
+IBM Associate System Engineer (ASE) On-Campus Placement Experience – 2026I recently appeared for the IBM on-campus placement drive for the Associate System Engineer (ASE) role. Here is a detailed breakdown of the selection process and my experience w
+
+--- Tags ---
+  - IBM (ibm) [COMPANY]
+  - On campus (on-campus) []
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: jkI1cI6i
+Title: 300+ Problems Solved, Yet I Still Struggle with DSA. Am I Learning the Right Way?
+Slug: 300-problems-solved-yet-i-still-struggle-pgne
+Article Type: DISCUSSION
+Posted: 2026-11-21 21:05:45 IST
+Updated: 2026-11-21 21:05:45 IST
+URL: https://leetcode.com/discuss/post/8620055/300-problems-solved-yet-i-still-struggle-pgne/
+Author: AdityaParagSingh
+
+--- Summary ---
+300+ Problems Solved, Yet I Still Struggle with DSA. Am I Learning the Right Way?I've solved 300+ problems on LeetCode so far. Sounds like a decent milestone, right? But honestly, there's something I've been struggling with, and I wonder if others ar
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vKHo9EZD
+Title: Career Advice Needed: Should I Stay or Switch at 3.5 YOE? Also, DE vs SDE?
+Slug: career-advice-needed-should-i-stay-or-sw-uskp
+Article Type: DISCUSSION
+Posted: 2026-11-21 19:27:33 IST
+Updated: 2026-11-21 19:27:33 IST
+URL: https://leetcode.com/discuss/post/8619974/career-advice-needed-should-i-stay-or-sw-uskp/
+Author: 
+
+--- Summary ---
+Hi everyone,I'm looking for some advice on career progression and my next potential job switch.I have 3.5 years of experience and currently work in a quasi ML/Data Engineering role in Product Based Company, earning 7.35 LPA after my second appraisal
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nu5zMx1I
+Title: I feel this is one of the most trickiest ques one can ask in an interview..? 🤯 
+Slug: i-feel-this-is-one-of-the-most-trickiest-sqoz
+Article Type: DISCUSSION
+Posted: 2026-11-21 18:31:30 IST
+Updated: 2026-11-21 18:31:30 IST
+URL: https://leetcode.com/discuss/post/8619928/i-feel-this-is-one-of-the-most-trickiest-sqoz/
+Author: devishigro13
+
+--- Summary ---
+Children Sum Property | O(N) Time | Recursive SolutionProblem StatementGiven the root of a binary tree, modify the tree to satisfy the Children Sum Property.The Children Sum Property states that the value of every non-leaf node must be equal to the s
+
+--- Tags ---
+  - Binary Tree (binary-tree) [TOPIC]
+  - C++ (cpp) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: gr4d9ST3
+Title: Need honest career advice: Switching from Associate Consultant to SDE with around 1–2 years
+Slug: need-honest-career-advice-switching-from-p14k
+Article Type: DISCUSSION
+Posted: 2026-11-21 18:03:12 IST
+Updated: 2026-11-21 21:12:54 IST
+URL: https://leetcode.com/discuss/post/8619914/need-honest-career-advice-switching-from-p14k/
+Author: 
+
+--- Summary ---
+Hi everyone!I’m looking for some genuine career guidance from people who have been in a similar situation or have experience in the industry.A little about my background:
+College: Tier 2, CSE
+Current company: Oracle
+Current role: Associate Consultant
+
+--- Tags ---
+  - Career (career) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: c3i4kCio
+Title: How many days does Barclays take for the Hacker Earth OA results to be out?
+Slug: how-many-days-does-barclays-take-for-the-u2py
+Article Type: DISCUSSION
+Posted: 2026-11-21 17:59:14 IST
+Updated: 2026-11-21 17:59:33 IST
+URL: https://leetcode.com/discuss/post/8619909/how-many-days-does-barclays-take-for-the-u2py/
+Author: 
+
+--- Summary ---
+I appeared for the OA on 16th of Nov and the time when I writing the post it is 21st of Nov, how many days does Barclays normally take to declare the result of OA?If anyone has given the Hacker Earth Test recently or anytime can help here?
+
+--- Tags ---
+  - Barclays (barclays) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ty7uwZqu
+Title: Walmart AI assisted OA - do we need to pass all the test cases in all 3 tasks?
+Slug: walmart-ai-assisted-oa-do-we-need-to-pas-h5qv
+Article Type: DISCUSSION
+Posted: 2026-11-21 17:39:00 IST
+Updated: 2026-11-21 17:39:00 IST
+URL: https://leetcode.com/discuss/post/8619895/walmart-ai-assisted-oa-do-we-need-to-pas-h5qv/
+Author: 
+
+--- Summary ---
+There were three tasks
+Medium DSA question on biary search
+AI assisted node js coding task - Not full project but single function
+Single Express + React project with multiple bugs
+I passed all cases in 1 and 2, but in task 3 could only get 4/6 test c
+
+--- Tags ---
+  - Walmart Labs (walmart-labs) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pWadH5sp
+Title: Day 107 of My DSA Journey | Find Subtree Sizes After Changes
+Slug: day-107-of-my-dsa-journey-find-subtree-s-id4g
+Article Type: DISCUSSION
+Posted: 2026-11-21 14:53:54 IST
+Updated: 2026-11-21 14:53:54 IST
+URL: https://leetcode.com/discuss/post/8619777/day-107-of-my-dsa-journey-find-subtree-s-id4g/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marks Day 107 of my DSA journey, and I solved Find Subtree Sizes After Changes (LeetCode 3331).This problem focuses on modifying a rooted tree based on character conditions and then calculating the size of every node's subtree in the modified t
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
