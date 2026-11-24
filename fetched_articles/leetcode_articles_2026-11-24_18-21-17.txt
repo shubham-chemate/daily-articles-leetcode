@@ -1,0 +1,680 @@
+LeetCode Discuss - Latest 31 Articles
+Fetched on: 2026-11-24 18:21:17 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 95XhMmyC
+Title: Segment Tree Part - 1
+Slug: segment-tree-part-1-by-pavanpadavala2005-y3up
+Article Type: DISCUSSION
+Posted: 2026-11-24 15:39:27 IST
+Updated: 2026-11-24 15:39:27 IST
+URL: https://leetcode.com/discuss/post/8623294/segment-tree-part-1-by-pavanpadavala2005-y3up/
+Author: pavanpadavala2005
+
+--- Summary ---
+Segment TreeA tree-based data structure used to efficiently perform range queries and point updates on an array.It recursively divides an array into smaller segments, where each node stores information about its corresponding segment, such as sum, mi
+
+--- Tags ---
+  - Segment Tree (segment-tree) [TOPIC]
+  - Binary Search Tree (binary-search-tree) [TOPIC]
+  - Binary Tree (binary-tree) [TOPIC]
+  - Search Intervals (search-intervals) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: uAZQPRwF
+Title: FAANG Interview Experince for Support Enginner
+Slug: faang-interview-experince-for-support-en-9ojj
+Article Type: DISCUSSION
+Posted: 2026-11-24 15:23:04 IST
+Updated: 2026-11-24 15:23:04 IST
+URL: https://leetcode.com/discuss/post/8623277/faang-interview-experince-for-support-en-9ojj/
+Author: 
+
+--- Summary ---
+Hi Everyone,I had the interview for SE role.My First Round:
+Questions were based on LP's no techincal questions.
+This one went very well.Second Round:
+Questions on LP's, devops - CICD - Many questions on LInux.
+In this round
+LP were good but devops -
+
+--- Tags ---
+  - Interview (interview) []
+  - #faang  (faang-3) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ylQuF8O0
+Title: is infosys making us Fool ! SP and DSE role experience
+Slug: is-infosys-making-us-fool-sp-and-dse-rol-2d9q
+Article Type: DISCUSSION
+Posted: 2026-11-24 14:34:27 IST
+Updated: 2026-11-24 14:34:27 IST
+URL: https://leetcode.com/discuss/post/8623225/is-infosys-making-us-fool-sp-and-dse-rol-2d9q/
+Author: 
+
+--- Summary ---
+Let me tell you what happened to me while attending the infosys interviews and i did attended the interviews 3 times at infosysJAN 25, 2026
+NOV 1, 2026
+NOV 22, 2026and we can go one by one :First interview at Jan 25, the question title was something
+
+--- Tags ---
+  - Infosys (infosys) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ulDu8Ns8
+Title: Oracle Health Senior Platform SWE (IC3) India interview experience(s)
+Slug: oracle-health-senior-platform-swe-ic3-in-yqdl
+Article Type: DISCUSSION
+Posted: 2026-11-24 14:10:49 IST
+Updated: 2026-11-24 14:16:13 IST
+URL: https://leetcode.com/discuss/post/8623201/oracle-health-senior-platform-swe-ic3-in-yqdl/
+Author: 
+
+--- Summary ---
+I have Oracle Health IC3 (Senior Platform SWE) loop coming up in India — 4 rounds total (2 Senior, 1 Principal, 1 Manager in panel).Online experiences seem all over the place with Core Java, Concurrency, LLD, HLD, and Behavioural sometimes getting mi
+
+--- Tags ---
+  - Oracle (oracle) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: kkQilhCf
+Title: SAS to Microsoft Fabric Migration — any suggestions/tool picks or tips?
+Slug: sas-to-microsoft-fabric-migration-any-su-ehti
+Article Type: DISCUSSION
+Posted: 2026-11-24 13:01:18 IST
+Updated: 2026-11-24 13:01:18 IST
+URL: https://leetcode.com/discuss/post/8623137/sas-to-microsoft-fabric-migration-any-su-ehti/
+Author: Msk9vqdNQr
+
+--- Summary ---
+We’re moving off a heavy SAS setup (.sas batch jobs, PROC SQL / Data Steps, and SAS datasets) onto Microsoft Fabric and trying not to rewrite everything by hand.Did you use any migration accelerators or code parsers to translate SAS scripts into PySp
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: mammiFol
+Title: Brute Force vs Optimal Solutions: Should Beginners Focus on Optimization Early?
+Slug: brute-force-vs-optimal-solutions-should-fn1xx
+Article Type: DISCUSSION
+Posted: 2026-11-24 12:27:53 IST
+Updated: 2026-11-24 12:27:53 IST
+URL: https://leetcode.com/discuss/post/8623095/brute-force-vs-optimal-solutions-should-fn1xx/
+Author: kumar_shivam8868
+
+--- Summary ---
+Should beginners focus on finding the optimal solution right away, or start by exploring brute-force approaches?I think both matter, but we shouldn't ignore optimization. Understanding brute force builds the logic, while finding the optimal approach
+
+--- Tags ---
+  - DSA (dsa) []
+  - Brute-Force Search (brute-force-search) []
+  - Optimization  (optimization-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: hrec4qgP
+Title: I want tips to crack the amazon oa sde 1 intern 
+Slug: i-want-tips-to-crack-the-amazon-oa-sde-1-8vr5
+Article Type: DISCUSSION
+Posted: 2026-11-24 12:10:50 IST
+Updated: 2026-11-24 12:10:50 IST
+URL: https://leetcode.com/discuss/post/8623079/i-want-tips-to-crack-the-amazon-oa-sde-1-8vr5/
+Author: 
+
+--- Summary ---
+i have my oa on next few days i want tips so that it will help me, thankyou.
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 6AAs41aV
+Title: 10th Interview Finally Got an Internship Kotak Mahindra 6m+ppo
+Slug: 10th-interview-finally-got-an-internship-38an
+Article Type: DISCUSSION
+Posted: 2026-11-24 11:21:35 IST
+Updated: 2026-11-24 11:21:35 IST
+URL: https://leetcode.com/discuss/post/8623043/10th-interview-finally-got-an-internship-38an/
+Author: Veratril
+
+--- Summary ---
+NA
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: R8abHbuE
+Title: 9th Interview Chaos Engine Labs 
+Slug: 9th-interview-chaos-engine-labs-by-verat-8ndm
+Article Type: DISCUSSION
+Posted: 2026-11-24 11:19:24 IST
+Updated: 2026-11-24 11:19:24 IST
+URL: https://leetcode.com/discuss/post/8623039/9th-interview-chaos-engine-labs-by-verat-8ndm/
+Author: Veratril
+
+--- Summary ---
+NA
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: MA0ldd8Y
+Title: 7th Interview colligence
+Slug: 7th-interview-colligence-by-veratril-6d1z
+Article Type: DISCUSSION
+Posted: 2026-11-24 11:14:59 IST
+Updated: 2026-11-24 11:14:59 IST
+URL: https://leetcode.com/discuss/post/8623031/7th-interview-colligence-by-veratril-6d1z/
+Author: Veratril
+
+--- Summary ---
+NA
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: bXA2lWnp
+Title: iOS Developer with 4 YOE – What salary should I ask at Angel One?
+Slug: ios-developer-with-4-yoe-what-salary-sho-oqk7
+Article Type: DISCUSSION
+Posted: 2026-11-24 10:59:22 IST
+Updated: 2026-11-24 10:59:40 IST
+URL: https://leetcode.com/discuss/post/8623020/ios-developer-with-4-yoe-what-salary-sho-oqk7/
+Author: 
+
+--- Summary ---
+Hi everyone, I'm an iOS Developer with around 4 years of experience, currently earning ₹6 LPA. I've recently cleared the interview process at Angel One for an SDE 1 – iOS Developer position. My technical experience includes: - Swift, UIKit and SwiftU
+
+--- Tags ---
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: theQ4sqs
+Title: Study notes: Circular House Robber DP: Pick n Non-Adjacent Slices (Python3)
+Slug: study-notes-circular-house-robber-dp-pic-r4ui
+Article Type: DISCUSSION
+Posted: 2026-11-24 09:36:37 IST
+Updated: 2026-11-24 09:36:37 IST
+URL: https://leetcode.com/discuss/post/8622967/study-notes-circular-house-robber-dp-pic-r4ui/
+Author: johanthegoat
+
+--- Summary ---
+Picking a slice removes its two neighbors, so the problem is the same as choosing exactly n slices from a circle with no two adjacent. This is a circular "House Robber" with a fixed count of picks. Since the circle breaks the adjacency between the fi
+
+--- Tags ---
+  - study guide (study-guide) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nEB0kQGS
+Title: B+ Tree Part - 1
+Slug: b-tree-part-1-by-pavanpadavala2005-8ui6
+Article Type: DISCUSSION
+Posted: 2026-11-24 09:07:56 IST
+Updated: 2026-11-24 09:10:09 IST
+URL: https://leetcode.com/discuss/post/8622945/b-tree-part-1-by-pavanpadavala2005-8ui6/
+Author: pavanpadavala2005
+
+--- Summary ---
+B+ TreeSelf-balancing multiway search tree in which all actual data records are stored in the leaf nodes, while internal nodes store only keys for indexing and navigation.Key Properties
+Internal nodes contain keys and child pointers.
+All actual data
+
+--- Tags ---
+  - Binary Search Tree (binary-search-tree) [TOPIC]
+  - Binary Tree (binary-tree) [TOPIC]
+  - M-way Trees (m-way-trees) []
+  - B+Tree (b-tree-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: JAk6JAun
+Title: DE Shaw SMTS
+Slug: de-shaw-smts-by-anonymous_user-pyr3
+Article Type: DISCUSSION
+Posted: 2026-11-24 09:04:44 IST
+Updated: 2026-11-24 09:04:44 IST
+URL: https://leetcode.com/discuss/post/8622942/de-shaw-smts-by-anonymous_user-pyr3/
+Author: 
+
+--- Summary ---
+Did anyone who had DE Shaw SMTS onsite interview between 16th-23rd November received the result (Accepted/Rejected)?
+
+--- Tags ---
+  - DE Shaw (de-shaw) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: AbrY8D6T
+Title: Study notes: BFS over (row, col, orientation) states | C#
+Slug: study-notes-bfs-over-row-col-orientation-ybbj
+Article Type: DISCUSSION
+Posted: 2026-11-24 08:43:43 IST
+Updated: 2026-11-24 08:43:43 IST
+URL: https://leetcode.com/discuss/post/8622927/study-notes-bfs-over-row-col-orientation-ybbj/
+Author: johanthegoat
+
+--- Summary ---
+Every snake position is fully described by its tail cell and whether it is horizontal or vertical, so the problem is a shortest path on a graph with 2·n² nodes. All moves cost 1, which makes plain BFS the right tool.Approach
+Encode a state as (r, c,
+
+--- Tags ---
+  - study guide (study-guide) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: TrMhSLAd
+Title: Study notes: Rolling DP with Keep/Swap States in O(1) Space | Go
+Slug: study-notes-rolling-dp-with-keepswap-sta-6dyy
+Article Type: DISCUSSION
+Posted: 2026-11-24 08:28:37 IST
+Updated: 2026-11-24 08:28:37 IST
+URL: https://leetcode.com/discuss/post/8622917/study-notes-rolling-dp-with-keepswap-sta-6dyy/
+Author: johanthegoat
+
+--- Summary ---
+At each index there are only two choices: keep the pair as is or swap it. Whether index i can be kept or swapped depends only on the choice made at index i-1, so a tiny two-state DP is enough.Approach
+Let keep be the min swaps so far if index i-1 is
+
+--- Tags ---
+  - study guide (study-guide) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: UM6uWZTb
+Title: Study notes: Two Pointers Carry Walk in Java: Add Binary Strings Right to Left
+Slug: study-notes-two-pointers-carry-walk-in-j-hubw
+Article Type: DISCUSSION
+Posted: 2026-11-24 06:53:35 IST
+Updated: 2026-11-24 06:53:35 IST
+URL: https://leetcode.com/discuss/post/8622872/study-notes-two-pointers-carry-walk-in-j-hubw/
+Author: johanthegoat
+
+--- Summary ---
+Binary addition works exactly like decimal addition: go column by column from the least significant bit and carry any overflow to the next column. Walking both strings from their ends with two pointers handles this without converting to integers.Appr
+
+--- Tags ---
+  - study guide (study-guide) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: CnqDBHJq
+Title: Study notes: Defang IP in One Pass with Rust's str::replace
+Slug: study-notes-defang-ip-in-one-pass-with-r-02q5
+Article Type: DISCUSSION
+Posted: 2026-11-24 06:30:33 IST
+Updated: 2026-11-24 06:30:33 IST
+URL: https://leetcode.com/discuss/post/8622868/study-notes-defang-ip-in-one-pass-with-r-02q5/
+Author: johanthegoat
+
+--- Summary ---
+Every period in the address needs to become "[.]", and that is a plain substring substitution. Rust's built-in replace does the scan and the rebuild in one call, so no manual loop or index handling is needed.ApproachCall address.replace(".", "[.]"),
+
+--- Tags ---
+  - study guide (study-guide) []
+
+--- Reactions ---
+  UPVOTE: 0
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: lGzbXaJN
+Title: AVL Tree Rotations (Easy to understand) [Pre-Req]
+Slug: avl-tree-rotations-easy-to-understand-pr-tmgr
+Article Type: DISCUSSION
+Posted: 2026-11-24 02:47:07 IST
+Updated: 2026-11-24 02:47:07 IST
+URL: https://leetcode.com/discuss/post/8622790/avl-tree-rotations-easy-to-understand-pr-tmgr/
+Author: devishigro13
+
+--- Tags ---
+  - Tree (tree) [TOPIC]
+  - AVL Tree (avl-tree) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 3atbWmjj
+Title: **Optum TDP Associate – Query Regarding Performance Bonus & Variable Pay**
+Slug: optum-tdp-associate-query-regarding-perf-ubu0
+Article Type: DISCUSSION
+Posted: 2026-11-24 01:38:49 IST
+Updated: 2026-11-24 01:38:49 IST
+URL: https://leetcode.com/discuss/post/8622765/optum-tdp-associate-query-regarding-perf-ubu0/
+Author: 
+
+--- Summary ---
+Hi everyone!I'll be joining Optum as a TDP Associate next year (2027 graduate).The compensation breakdown shared with us is:
+Total CTC: ₹18,86,400
+Fixed: ₹18,00,000
+Relocation Bonus: ₹50,000
+Graduation Bonus: ₹1,45,000
+Sign-on Bonus: ₹75,000
+I wanted
+
+--- Tags ---
+  - Optum (optum) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: sF1yk17K
+Title: TAT After HM Round at Docusign
+Slug: tat-after-hm-round-at-docusign-by-anonym-n7py
+Article Type: DISCUSSION
+Posted: 2026-11-24 01:29:52 IST
+Updated: 2026-11-24 01:29:52 IST
+URL: https://leetcode.com/discuss/post/8622762/tat-after-hm-round-at-docusign-by-anonym-n7py/
+Author: 
+
+--- Summary ---
+Hi,
+I had my last round(HM) at docusign around 2 weeks earlier, still havent heard back from them, no mail, nothing. What is the standard turn around time after the final round at Docusign
+Thanks
+
+--- Tags ---
+  - Docusign (docusign) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: rAsOeyGy
+Title: Two Pointers | Pattern based Notes and Template
+Slug: two-pointers-pattern-based-notes-and-tem-zrdc
+Article Type: DISCUSSION
+Posted: 2026-11-24 00:23:59 IST
+Updated: 2026-11-24 00:23:59 IST
+URL: https://leetcode.com/discuss/post/8622725/two-pointers-pattern-based-notes-and-tem-zrdc/
+Author: AdityaParagSingh
+
+--- Summary ---
+Two Pointers in DSA: The Ultimate LeetCode Guide1. Generalised Two Pointers TemplateTwo Pointers is a problem-solving technique where we use two indices to traverse an array, string, or linked list efficiently.A. Opposite DirectionUse when one pointe
+
+--- Tags ---
+  - Two Pointers (two-pointers) [TOPIC]
+  - Python3 (python3) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: SJbT6qzD
+Title: Leetcode tshirt guidence 
+Slug: leetcode-tshirt-guidence-by-vishal__parm-i8v3
+Article Type: DISCUSSION
+Posted: 2026-11-23 23:42:39 IST
+Updated: 2026-11-23 23:42:39 IST
+URL: https://leetcode.com/discuss/post/8622691/leetcode-tshirt-guidence-by-vishal__parm-i8v3/
+Author: vishal__parmar
+
+--- Summary ---
+hello guys, i have collected enough points to get a leetcode tshirt but i have no idea about ordering and shipment, so please guide me if anyone of you have ordered before or have any information/experience regarding this. Your information will be ve
+
+--- Tags ---
+  - t-shirt (t-shirt-2) []
+  - Guidance (guidance-2) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: YEWImUmh
+Title: Hallmark Global Technologies - Senior AI Engineer Interview
+Slug: hallmark-global-technologies-senior-ai-e-7xcz
+Article Type: DISCUSSION
+Posted: 2026-11-23 22:58:25 IST
+Updated: 2026-11-23 23:02:21 IST
+URL: https://leetcode.com/discuss/post/8622649/hallmark-global-technologies-senior-ai-e-7xcz/
+Author: 
+
+--- Summary ---
+I received a call from the recruiter, who asked about my current tech stack, overall experience, expected CTC, notice period, and a few other details. They subsequently scheduled my first technical interview for next week.Here are the questions asked
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 4
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: eAV3NyHL
+Title: Compass bearing between two coordinates in Python, with the atan2 trap
+Slug: compass-bearing-between-two-coordinates-lcsac
+Article Type: DISCUSSION
+Posted: 2026-11-23 22:02:01 IST
+Updated: 2026-11-23 22:02:01 IST
+URL: https://leetcode.com/discuss/post/8622576/compass-bearing-between-two-coordinates-lcsac/
+Author: hadi446
+
+--- Summary ---
+A small geometry problem with a real use: given your latitude and longitude, which compass direction is the shortest path to another point? Our example target is the Kaaba at 21.4225, 39.8262, because a qibla finder needs exactly this.Let p1 and p2 b
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: MivixzFV
+Title: Day 109 of My DSA Journey | Product of the Last K Numbers
+Slug: day-109-of-my-dsa-journey-product-of-the-zyb0
+Article Type: DISCUSSION
+Posted: 2026-11-23 22:01:13 IST
+Updated: 2026-11-23 22:01:13 IST
+URL: https://leetcode.com/discuss/post/8622574/day-109-of-my-dsa-journey-product-of-the-zyb0/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marks Day 109 of my DSA journey, and I solved Product of the Last K Numbers (LeetCode 1352).This problem involves designing a data structure that supports adding numbers to a stream and efficiently calculating the product of the last k numbers.
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: gXvR0jXn
+Title: Need some guidance on navigating off-campus opportunities as a fresher
+Slug: need-some-guidance-on-navigating-off-cam-l44g
+Article Type: DISCUSSION
+Posted: 2026-11-23 21:36:01 IST
+Updated: 2026-11-23 21:36:01 IST
+URL: https://leetcode.com/discuss/post/8622549/need-some-guidance-on-navigating-off-cam-l44g/
+Author: 
+
+--- Summary ---
+Hey everyone,I need some genuine advice from people who have been through the off-campus hiring process or are currently working in product-based companies.A little about me:
+Final-year B.Tech student (currently in 7th semester).
+1000+ LeetCode probl
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Wam1lvI7
+Title: How I Turned "I Have No Idea" Into a Working Solution: 5 Mental Models for Unseen Hard Problems
+Slug: how-i-turned-i-have-no-idea-into-a-worki-zmep
+Article Type: DISCUSSION
+Posted: 2026-11-23 20:18:41 IST
+Updated: 2026-11-23 20:18:41 IST
+URL: https://leetcode.com/discuss/post/8622485/how-i-turned-i-have-no-idea-into-a-worki-zmep/
+Author: BiplabDasMohapatra
+
+--- Summary ---
+Everyone hits that wall during a contest or live interview: you read a Hard problem, stare at the screen for five minutes, and realize none of your memorized templates fit.When pattern matching fails, you need a systematic way to generate intuition f
+
+--- Tags ---
+  - Dynamic Programming (dynamic-programming) [TOPIC]
+  - DSA (dsa) []
+  - Algorithm (algorithm) []
+
+--- Reactions ---
+  UPVOTE: 10
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: xfp49Ca8
+Title: Backend Engineers with 8+ Years of Experience: What Do Interviews Look Like in 2026? 🤔
+Slug: backend-engineers-with-8-years-of-experi-ek1n
+Article Type: DISCUSSION
+Posted: 2026-11-23 18:55:19 IST
+Updated: 2026-11-23 18:55:19 IST
+URL: https://leetcode.com/discuss/post/8622398/backend-engineers-with-8-years-of-experi-ek1n/
+Author: mblc351
+
+--- Summary ---
+My company is shutting down its Dubai and India verticals, and unfortunately, layoffs are expected over the next 15 days. So, it's time for me to get back into interview preparation.Before I dive into LeetCode and system design, I'd love to understan
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: l7LwO8eE
+Title: Amazon SDE Intern OA Experience 
+Slug: amazon-sde-intern-oa-experience-by-0hrtq-lrea
+Article Type: DISCUSSION
+Posted: 2026-11-23 18:26:36 IST
+Updated: 2026-11-23 18:26:36 IST
+URL: https://leetcode.com/discuss/post/8622371/amazon-sde-intern-oa-experience-by-0hrtq-lrea/
+Author: 0hrTq8zmwt
+
+--- Summary ---
+Amazon SDE Intern OA ExperienceRecently appeared for the Amazon SDE Intern Online Assessment, which consisted of two rounds:Round 1: DSA Coding Round
+One Easy–Medium level problem based on a conveyor belt and storage system.
+Used a Min Heap / Priorit
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: uLONBypc
+Title: Pendo | Sr. Software Engineer 
+Slug: pendo-sr-software-engineer-by-anonymous_-koxr
+Article Type: DISCUSSION
+Posted: 2026-11-23 15:46:03 IST
+Updated: 2026-11-23 15:46:03 IST
+URL: https://leetcode.com/discuss/post/8622241/pendo-sr-software-engineer-by-anonymous_-koxr/
+Author: 
+
+--- Summary ---
+Interview:
+
+--- Tags ---
+  - Interview (interview) []
+  - pendo.io (pendo-io) []
+
+--- Reactions ---
+  UPVOTE: 2
+
