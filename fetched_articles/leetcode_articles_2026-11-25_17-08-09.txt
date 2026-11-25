@@ -1,0 +1,719 @@
+LeetCode Discuss - Latest 31 Articles
+Fetched on: 2026-11-25 17:08:09 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: AC4YyJMa
+Title: AmberStudent Pune SWE Intership Exp
+Slug: amberstudent-pune-swe-intership-exp-by-x-3kav
+Article Type: DISCUSSION
+Posted: 2026-11-25 16:51:50 IST
+Updated: 2026-11-25 16:51:50 IST
+URL: https://leetcode.com/discuss/post/8624376/amberstudent-pune-swe-intership-exp-by-x-3kav/
+Author: that_girl_2004
+
+--- Summary ---
+Time Duration - 6 months
+Compensation around 25K
+Ended around 1 months backGot to work on all types of project and its expected for you to show more work then our designation. Had a excellenet performance but did not got a full time opportunity. Late
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: dOGoxf5b
+Title: Veeam Technical Assessment For SDET on Nov 25,2026
+Slug: veeam-technical-assessment-for-sdet-on-n-v3o5
+Article Type: DISCUSSION
+Posted: 2026-11-25 16:51:25 IST
+Updated: 2026-11-25 16:51:25 IST
+URL: https://leetcode.com/discuss/post/8624374/veeam-technical-assessment-for-sdet-on-n-v3o5/
+Author: Safdar_jan
+
+--- Summary ---
+Hello Sharing my First Techinal Assement Experiace with Veeam For SDETThe Test Consist of 10 questions (9 mcqs and 1 coding problem)
+overall the test is quite hard and required deep understanding of theses
+topics1.bash/shell scripting
+2.docker
+3.kube
+
+--- Tags ---
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+  - Veeam (veeam) [COMPANY]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vGzzR1XZ
+Title: Heap Part - 1
+Slug: heap-part-1-by-pavanpadavala2005-d5gw
+Article Type: DISCUSSION
+Posted: 2026-11-25 15:45:51 IST
+Updated: 2026-11-25 15:45:51 IST
+URL: https://leetcode.com/discuss/post/8624335/heap-part-1-by-pavanpadavala2005-d5gw/
+Author: pavanpadavala2005
+
+--- Summary ---
+Heap Data StructureA specialized Complete Binary Tree that follows the Heap Property. It is commonly implemented using an array and is used to efficiently retrieve the minimum or maximum element.Key Properties
+A Heap is a Complete Binary Tree.
+All le
+
+--- Tags ---
+  - Heap (Priority Queue) (heap-priority-queue) [TOPIC]
+  - Binary Tree (binary-tree) [TOPIC]
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: tyW3HbAi
+Title: Dijkstras
+Slug: dijkstras-by-prnv_reddy-isu6
+Article Type: DISCUSSION
+Posted: 2026-11-25 15:37:40 IST
+Updated: 2026-11-25 15:37:40 IST
+URL: https://leetcode.com/discuss/post/8624330/dijkstras-by-prnv_reddy-isu6/
+Author: prnv_reddy
+
+--- Summary ---
+Most Dijkstra problems in OAs are the same template with one small change. Here are the patterns, how to recognise each one, and what changes in the code.1. Plain shortest path
+Sign: "Minimum cost or time from A to B," with weighted edges.
+What chang
+
+--- Tags ---
+  - Shortest Path (shortest-path) [TOPIC]
+  - Dijkstra's Algorithm (dijkstra) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: g3nZgjSA
+Title: I Understand the Solution, but Cannot Solve It Again. How Do You Practise?
+Slug: i-understand-the-solution-but-cannot-sol-n1l8
+Article Type: DISCUSSION
+Posted: 2026-11-25 15:30:19 IST
+Updated: 2026-11-25 15:30:19 IST
+URL: https://leetcode.com/discuss/post/8624324/i-understand-the-solution-but-cannot-sol-n1l8/
+Author: AshfaqRiyaldeen
+
+--- Summary ---
+Have you ever read a solution, understood every line, and then struggled to solve the same problem a few days later?Understanding an explanation feels different from finding the approach independently. After seeing the answer, each step seems obvious
+
+--- Tags ---
+  - Algorithm (algorithm) []
+  - study guide (study-guide) []
+  - learning (learning-2) []
+  - Discussion (discussion-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vo5dd0SN
+Title: Multi-Source BFS — Pattern Recognition + Practice
+Slug: multi-source-bfs-pattern-recognition-pra-dqk9
+Article Type: DISCUSSION
+Posted: 2026-11-25 15:03:12 IST
+Updated: 2026-11-25 15:03:12 IST
+URL: https://leetcode.com/discuss/post/8624296/multi-source-bfs-pattern-recognition-pra-dqk9/
+Author: prnv_reddy
+
+--- Summary ---
+When to use Multi-Source BFS?Use multi-source BFS when you need each cell's distance to the nearest of several starting points.The question is about distance to the closest one of something, not distance from one fixed cell.Signs to look for in the p
+
+--- Tags ---
+  - Breadth-First Search (breadth-first-search) [TOPIC]
+  - multi-source BFS (multi-source-bfs-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ImvCcIgZ
+Title: Amazon SDE Intern 2027 Interview Experience | Selected! | Seeking Advice
+Slug: amazon-sde-intern-2027-interview-experie-yb5k
+Article Type: DISCUSSION
+Posted: 2026-11-25 14:36:52 IST
+Updated: 2026-11-25 14:36:52 IST
+URL: https://leetcode.com/discuss/post/8624274/amazon-sde-intern-2027-interview-experie-yb5k/
+Author: iampremkumarr
+
+--- Summary ---
+Happy to share that I've been selected for the Amazon Software Development Engineer Intern role in Bengaluru (BLR26), for January–June 2027! 🎉Sharing my experience to help others preparing for Amazon.1. Online Assessment (OA)The OA had three sections
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: pDIdfFqv
+Title: Athenahealth Interview Experience – MTS Role (2 YOE Required)
+Slug: athenahealth-interview-experience-mts-ro-dbk8
+Article Type: DISCUSSION
+Posted: 2026-11-25 14:29:29 IST
+Updated: 2026-11-25 14:29:29 IST
+URL: https://leetcode.com/discuss/post/8624268/athenahealth-interview-experience-mts-ro-dbk8/
+Author: 
+
+--- Summary ---
+Athenahealth Interview Experience | MTS | 2 YOERecently, I attended the interview process for the Member of Technical Staff (MTS) role at Athenahealth, which required around 2 years of experience.Here is my interview experience:Round 0: Initial Codin
+
+--- Tags ---
+  - athenahealth (athenahealth) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: hBh8H2cp
+Title: Amazon edinburgh !! tier 3 india 
+Slug: amazon-edinburgh-tier-3-india-by-anonymo-zlii
+Article Type: DISCUSSION
+Posted: 2026-11-25 14:27:24 IST
+Updated: 2026-11-25 14:27:24 IST
+URL: https://leetcode.com/discuss/post/8624263/amazon-edinburgh-tier-3-india-by-anonymo-zlii/
+Author: 
+
+--- Summary ---
+hello everyone !!
+i got the phone interview from amazon edinburgh new grad sde 1 role !
+had anyone gone through this round which type of dsa questions they ask ? what should i prepare ?
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: YoK1fjUj
+Title: JPMC Bangalore | SDE 3 | Interview Stalled Experience
+Slug: jpmc-bangalore-sde-3-interview-stalled-e-8t86
+Article Type: DISCUSSION
+Posted: 2026-11-25 13:02:52 IST
+Updated: 2026-11-25 13:02:52 IST
+URL: https://leetcode.com/discuss/post/8624205/jpmc-bangalore-sde-3-interview-stalled-e-8t86/
+Author: 
+
+--- Summary ---
+After 3 rounds of interviews cleared for SDE III position at JP Morgan & Chase (1 Telephonic and 2 Technical rounds), there was radio silence as per HR communication is concerned.
+I was asked to visit office for an in-person discussion, which was agr
+
+--- Tags ---
+  - JPMorgan Chase (jpmorgan) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nfZeC2qW
+Title: My Amazon SDE-2 Interview Experience | Hyderabad
+Slug: my-amazon-sde-2-interview-experience-hyd-9qxr
+Article Type: DISCUSSION
+Posted: 2026-11-25 11:54:15 IST
+Updated: 2026-11-25 11:54:15 IST
+URL: https://leetcode.com/discuss/post/8624146/my-amazon-sde-2-interview-experience-hyd-9qxr/
+Author: NikhilPandeyONS
+
+--- Summary ---
+I recently went through the Amazon SDE-2 interview process and wanted to share my experience, including the interview structure and areas covered. Hopefully, this helps people preparing for similar roles.The process consisted of four rounds:Round 1 –
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 9
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: I0WMmHuI
+Title: Senior Data Management (Data Engineer) Interview Questions
+Slug: senior-data-management-data-engineer-int-o7o5
+Article Type: DISCUSSION
+Posted: 2026-11-25 08:47:17 IST
+Updated: 2026-11-25 08:47:17 IST
+URL: https://leetcode.com/discuss/post/8624025/senior-data-management-data-engineer-int-o7o5/
+Author: hellocode4
+
+--- Summary ---
+Hello Everyone,I'm going to have a Senior Data management Professional Interview on next week. I'm from Data Engineer background. Could you share/suggest if you know the process where it's good to practice SQL/Python for to crack bloomberg interview.
+
+--- Tags ---
+  - Bloomberg (bloomberg) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: m0nDXqvC
+Title: AI in coding interviews (2026): which rounds allow it, and what to ask the recruiter first
+Slug: ai-in-coding-interviews-2026-which-round-w29b
+Article Type: DISCUSSION
+Posted: 2026-11-25 07:54:04 IST
+Updated: 2026-11-25 07:54:04 IST
+URL: https://leetcode.com/discuss/post/8623993/ai-in-coding-interviews-2026-which-round-w29b/
+Author: oXlYFoVrSG
+
+--- Summary ---
+Short version: in 2026 there is no single rule. AI-allowed and AI-prohibited rounds coexist, sometimes at the same company, so confirm the policy for each round instead of guessing from how much the company talks about AI.Two public examples show the
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  THUMBS_DOWN: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: n6a2H0EV
+Title: I am QA Engineer having 4 years of experience I want to switch into backend development and AI  
+Slug: i-am-qa-engineer-having-4-years-of-exper-5lzq
+Article Type: DISCUSSION
+Posted: 2026-11-25 07:40:18 IST
+Updated: 2026-11-25 07:40:18 IST
+URL: https://leetcode.com/discuss/post/8623988/i-am-qa-engineer-having-4-years-of-exper-5lzq/
+Author: amrendraa
+
+--- Summary ---
+I have total 4+ years of experience in Testing as of now
+looking forward to switch into the dev role backend python and AI engineer
+how should I modify my resume so that I can atleast get shortlisted for interviews and make transition
+
+--- Tags ---
+  - Career (career) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ciKC9ApQ
+Title: Can you beat me in Compeet?
+Slug: can-you-beat-me-in-compeet-by-carlygooge-vra1
+Article Type: DISCUSSION
+Posted: 2026-11-25 05:39:19 IST
+Updated: 2026-11-25 05:39:19 IST
+URL: https://leetcode.com/discuss/post/8623945/can-you-beat-me-in-compeet-by-carlygooge-vra1/
+Author: carlygoogel
+
+--- Summary ---
+Compeet #4 · look what I got 👀
+🟩🟩🟩🟥🟥
+940
+940 💡
+1000
+940 💥
+0 💥
+3,820 / 5,000 · 🐣 Hello World
+Can you beat me? https://compeeet.io/#c-d20261124-3820
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: bdiYtB2E
+Title: AWS Dublin | SDE 1 | Software Engineer | Dublin | Nov 2026 | Reject
+Slug: aws-dublin-sde-1-software-engineer-dubli-15my
+Article Type: DISCUSSION
+Posted: 2026-11-25 03:08:31 IST
+Updated: 2026-11-25 03:12:30 IST
+URL: https://leetcode.com/discuss/post/8623926/aws-dublin-sde-1-software-engineer-dubli-15my/
+Author: 
+
+--- Summary ---
+🚀 AWS Dublin SDE 1 Interview ExperienceExperience: 3 years 3 months
+Current Role: Software Engineer 2 and Prev, SDE 1, ~FAANG, India
+Education: B.Tech, CS, Tier 1, India
+Current Compensation: ₹50 LPA📝 Application
+I applied with 5 emails to Amazon and
+
+--- Tags ---
+  - Amazon (amazon) [COMPANY]
+  - Career (career) []
+  - Dublin (dublin) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 11
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: zUNF45yz
+Title: Bilt Rewards - Senior SWE Interview Experience | June 2026
+Slug: bilt-rewards-senior-swe-interview-experi-47ho
+Article Type: DISCUSSION
+Posted: 2026-11-25 02:43:42 IST
+Updated: 2026-11-25 02:43:42 IST
+URL: https://leetcode.com/discuss/post/8623917/bilt-rewards-senior-swe-interview-experi-47ho/
+Author: whartonite
+
+--- Summary ---
+I did not get an offer from Bilt but here was the complete interview loop.Technical ScreenThey gave me a Coderpad link with some starter code. The code would read a CSV file of transactions, parse each row of transaction data, calculate the rewards p
+
+--- Tags ---
+  - interview experience (interview-experience) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: VniRoHZg
+Title: Are We Training Software Engineers or Just Professional LeetCode Solvers?
+Slug: restored-from-draft-are-we-training-soft-tm5l
+Article Type: DISCUSSION
+Posted: 2026-11-25 00:37:06 IST
+Updated: 2026-11-25 00:37:44 IST
+URL: https://leetcode.com/discuss/post/8623846/restored-from-draft-are-we-training-soft-tm5l/
+Author: JDJ0Ofn5vY
+
+--- Summary ---
+Are We Training Software Engineers or Just Professional LeetCode Solvers?An unpopular question for the LeetCode community.I've been wondering about something lately.Many students spend months solving 300, 500, or even 1,000+ LeetCode problems to prep
+
+--- Tags ---
+  - LeetCode (leetcode) [COMPANY]
+  - Career (career) []
+  - AI Coding (ai-coding) []
+  - Leetcode Community (leetcode-community-2) []
+  - Engineering (engineering-2) []
+  - Software Development (software-development-2) []
+  - AI (ai-3) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: KMNNJPYL
+Title: Data Engineering Interview Experience - On Campus
+Slug: data-engineering-interview-experience-on-ol0h
+Article Type: DISCUSSION
+Posted: 2026-11-24 23:39:53 IST
+Updated: 2026-11-24 23:39:53 IST
+URL: https://leetcode.com/discuss/post/8623799/data-engineering-interview-experience-on-ol0h/
+Author: Yugen_jr_847
+
+--- Summary ---
+Every interview teaches you something. Not every interview ends with an offer, but every experience can make you better.Recently, I had the opportunity to participate in the campus recruitment process for a Data Engineering Internship at Tredence.The
+
+--- Tags ---
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #20
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: jmDWsRlb
+Title: Gusto - Senior Software Engineer Interview Experience | July 2026
+Slug: gusto-senior-software-engineer-interview-79g6
+Article Type: DISCUSSION
+Posted: 2026-11-24 23:14:33 IST
+Updated: 2026-11-24 23:14:33 IST
+URL: https://leetcode.com/discuss/post/8623775/gusto-senior-software-engineer-interview-79g6/
+Author: whartonite
+
+--- Summary ---
+Initial Recruiter ScreenPretty casual conversation with the recruiter about the interview process, the role, and the compensation. No behavioral questions.Technical ScreenThey gave me the same money distribution problem mentioned in Gusto SWE Tech Sc
+
+--- Tags ---
+  - Gusto (gusto) [COMPANY]
+  - interview experience (interview-experience) []
+  - Onsite (onsite) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #21
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: mqZra6Gg
+Title: How do you transition from understanding solutions to independently solving unfamiliar problems?
+Slug: how-do-you-transition-from-understanding-xqdd
+Article Type: DISCUSSION
+Posted: 2026-11-24 23:08:36 IST
+Updated: 2026-11-24 23:08:36 IST
+URL: https://leetcode.com/discuss/post/8623769/how-do-you-transition-from-understanding-xqdd/
+Author: shibi22
+
+--- Summary ---
+I'm looking for advice from experienced developers and competitive programmers who have gone through this phase of DSA preparation.I've been consistently practicing DSA and have solved around 156 LeetCode problems so far:I've covered several topics,
+
+--- Tags ---
+  - Dynamic Programming (dynamic-programming) [TOPIC]
+  - Backtracking (backtracking) [TOPIC]
+  - Recursion (recursion) [TOPIC]
+  - Problem Solving (problem-solving-2) []
+  - Leetcode Weekly Contest (leetcode-weekly-contest) []
+  - competitive programming (competitive-programming-3) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #22
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: j3tL7VLL
+Title: Title: How to Improve Independent Problem-Solving, Algorithm Derivation, and Retention?
+Slug: title-how-to-improve-independent-problem-645i
+Article Type: DISCUSSION
+Posted: 2026-11-24 23:06:19 IST
+Updated: 2026-11-24 23:06:19 IST
+URL: https://leetcode.com/discuss/post/8623765/title-how-to-improve-independent-problem-645i/
+Author: shibi22
+
+--- Summary ---
+Hi everyone!I've been practicing DSA on LeetCode, and I've identified a few weaknesses in my problem-solving process. I want to improve my ability to solve problems independently rather than just understand solutions after receiving hints or explanat
+
+--- Tags ---
+  - general-discussion (general-discussion) []
+  - General Discussion (general-discussion-2) [COMPANY]
+  - interview preparation help (interview-preparation-help) []
+  - interview-prep (interview-prep-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #23
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: vlIZmIyg
+Title: Honest question, should I solve problems with c++ or with python? 
+Slug: honest-question-should-i-solve-problems-kb024
+Article Type: DISCUSSION
+Posted: 2026-11-24 22:29:53 IST
+Updated: 2026-11-24 22:29:53 IST
+URL: https://leetcode.com/discuss/post/8623716/honest-question-should-i-solve-problems-kb024/
+Author: 
+
+--- Summary ---
+I can use both languages well, but honestly I feel like python is the easy choice. Do companies allow in general to take technical interviews in python3?
+
+--- Tags ---
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #24
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: c900GHpb
+Title: Day 110 of My DSA Journey | Maximum Subarray With Equal Products
+Slug: day-110-of-my-dsa-journey-maximum-subarr-ciqx
+Article Type: DISCUSSION
+Posted: 2026-11-24 22:04:36 IST
+Updated: 2026-11-24 22:04:36 IST
+URL: https://leetcode.com/discuss/post/8623676/day-110-of-my-dsa-journey-maximum-subarr-ciqx/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marks Day 110 of my DSA journey, and I solved Maximum Subarray With Equal Products (LeetCode 3411).This problem focuses on finding the maximum length of a subarray where the product of all elements is equal to the product of its GCD and LCM.The
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #25
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: J0iPr03U
+Title:  Full Stack Developer Assessment - Xneeti
+Slug: full-stack-developer-assessment-xneeti-b-x0k4
+Article Type: DISCUSSION
+Posted: 2026-11-24 21:54:57 IST
+Updated: 2026-11-24 21:54:57 IST
+URL: https://leetcode.com/discuss/post/8623659/full-stack-developer-assessment-xneeti-b-x0k4/
+Author: 
+
+--- Summary ---
+4 Questions were asked, answer subjectively and write psuedo code. Here are the questions:
+Q1. Database indexing (PostgreSQL)A video streaming service stores each viewing in Postgres:userId, videoId, watch_starttime, watch_duration
+The primary key an
+
+--- Tags ---
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #26
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: OgJ5YfgX
+Title: Seeking guidance: What is the most effective way to become placement-ready for 7th Sem Student?
+Slug: seeking-guidance-what-is-the-most-effect-nhyu
+Article Type: DISCUSSION
+Posted: 2026-11-24 21:02:21 IST
+Updated: 2026-11-24 21:02:21 IST
+URL: https://leetcode.com/discuss/post/8623620/seeking-guidance-what-is-the-most-effect-nhyu/
+Author: 
+
+--- Summary ---
+I'm currently pursuing an undergraduate degree in Computer Science and beginning my technical upskilling journey from the basics. My goal is to complete my core learning modules by March and become placement-ready for campus recruitment drives expect
+
+--- Tags ---
+  - Placement (placement) [COMPANY]
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #27
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: go5X5H8u
+Title: Laid Off in March, 1000+ Applications, Still No Job. Where Am I Going Wrong?
+Slug: laid-off-in-march-1000-applications-stil-7ygd
+Article Type: DISCUSSION
+Posted: 2026-11-24 19:53:21 IST
+Updated: 2026-11-24 19:53:57 IST
+URL: https://leetcode.com/discuss/post/8623558/laid-off-in-march-1000-applications-stil-7ygd/
+Author: 
+
+--- Summary ---
+Hi everyone,I am writing this post because I genuinely need some guidance from the developer community. I hope someone who has faced a similar situation or has experience in hiring can help me understand where I might be lacking.I have nearly 2 years
+
+--- Tags ---
+  - Career (career) []
+  - SDE1 (sde1-2) []
+  - DSA Java (dsa-java) []
+  - #layoff (layoff-2) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #28
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: QIdFlQLM
+Title: Google SWE OA | Please Help | ₹65Lakhs CTC
+Slug: google-swe-oa-please-help-rs65lakhs-ctc-1k13w
+Article Type: DISCUSSION
+Posted: 2026-11-24 19:30:57 IST
+Updated: 2026-11-24 19:30:57 IST
+URL: https://leetcode.com/discuss/post/8623524/google-swe-oa-please-help-rs65lakhs-ctc-1k13w/
+Author: 
+
+--- Tags ---
+  - Google (google) [COMPANY]
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 5
+
+════════════════════════════════════════════════════════════════════════════════
+Article #29
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: tPiOWArI
+Title: Your HashMap Contains the Entry, So Why Does get() Return null?
+Slug: your-hashmap-contains-the-entry-so-why-d-4o3o
+Article Type: DISCUSSION
+Posted: 2026-11-24 19:23:40 IST
+Updated: 2026-11-24 19:26:07 IST
+URL: https://leetcode.com/discuss/post/8623515/your-hashmap-contains-the-entry-so-why-d-4o3o/
+Author: AshfaqRiyaldeen
+
+--- Summary ---
+Consider this Java code:The entry still exists. We even use the same key object. What happened?A List calculates its hash code from its contents. Changing the list changes its hash code.When we insert the entry, HashMap stores it using the original h
+
+--- Tags ---
+  - Java (java) []
+  - HasMap (hasmap-2) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #30
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 9ibvgRRv
+Title: How do you recognize mathematical tricks in coding problems?
+Slug: how-do-you-recognize-mathematical-tricks-xsnp
+Article Type: DISCUSSION
+Posted: 2026-11-24 19:16:31 IST
+Updated: 2026-11-24 19:25:44 IST
+URL: https://leetcode.com/discuss/post/8623506/how-do-you-recognize-mathematical-tricks-xsnp/
+Author: AshfaqRiyaldeen
+
+--- Summary ---
+I recently solved 453. Minimum Moves to Equal Array Elements.Initially, I considered simulating each move by incrementing n - 1 elements. Then I learned that this has the same effect on relative differences as decrementing the remaining element.This
+
+--- Tags ---
+  - Math (math) [TOPIC]
+  - Java (java) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #31
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 95XhMmyC
+Title: Segment Tree Part - 1
+Slug: segment-tree-part-1-by-pavanpadavala2005-y3up
+Article Type: DISCUSSION
+Posted: 2026-11-24 15:39:27 IST
+Updated: 2026-11-24 21:04:19 IST
+URL: https://leetcode.com/discuss/post/8623294/segment-tree-part-1-by-pavanpadavala2005-y3up/
+Author: pavanpadavala2005
+
+--- Summary ---
+Segment TreeA tree-based data structure used to efficiently perform range queries and point updates on an array.It recursively divides an array into smaller segments, where each node stores information about its corresponding segment, such as sum, mi
+
+--- Tags ---
+  - Segment Tree (segment-tree) [TOPIC]
+  - Binary Search Tree (binary-search-tree) [TOPIC]
+  - Binary Tree (binary-tree) [TOPIC]
+  - Search Intervals (search-intervals) []
+
+--- Reactions ---
+  UPVOTE: 5
+
