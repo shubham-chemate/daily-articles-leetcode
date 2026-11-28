@@ -1,0 +1,449 @@
+LeetCode Discuss - Latest 19 Articles
+Fetched on: 2026-11-28 16:16:33 IST
+================================================================================
+
+════════════════════════════════════════════════════════════════════════════════
+Article #1
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: mTbm7ZAb
+Title: Stop Memorizing DSA Solutions. Start Understanding the Logic.
+Slug: stop-memorizing-dsa-solutions-start-unde-qxf1
+Article Type: DISCUSSION
+Posted: 2026-11-28 14:23:55 IST
+Updated: 2026-11-28 14:23:55 IST
+URL: https://leetcode.com/discuss/post/8627432/stop-memorizing-dsa-solutions-start-unde-qxf1/
+Author: Siddharthatiwari007
+
+--- Summary ---
+When I started learning DSA, I thought solving more problems meant getting better at programming.But I gradually realized something important:Understanding the logic is more important than memorizing code.Brute force is not always bad; it's often the
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #2
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: qHnA4av7
+Title: A DSA Mistake Many Developers Make: Sliding Window Doesn't Always Work!
+Slug: a-dsa-mistake-many-developers-make-slidi-im3d
+Article Type: DISCUSSION
+Posted: 2026-11-28 12:15:04 IST
+Updated: 2026-11-28 12:15:04 IST
+URL: https://leetcode.com/discuss/post/8627334/a-dsa-mistake-many-developers-make-slidi-im3d/
+Author: obhallojujohnson
+
+--- Summary ---
+A DSA Mistake Many Developers Make: Sliding Window Doesn't Always Work!One of the most common mistakes when solving array problems is applying Sliding Window everywhere.But here's something important:Sliding Window can fail when an array contains neg
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 2
+
+════════════════════════════════════════════════════════════════════════════════
+Article #3
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: GDbpfO1t
+Title: HackerRank | Forward Deployed Engineer (FDE) | Bengaluru
+Slug: hackerrank-forward-deployed-engineer-fde-08li
+Article Type: DISCUSSION
+Posted: 2026-11-28 11:28:54 IST
+Updated: 2026-11-28 11:28:54 IST
+URL: https://leetcode.com/discuss/post/8627292/hackerrank-forward-deployed-engineer-fde-08li/
+Author: 
+
+--- Summary ---
+Online Assessment
+Business logic - Determine whether a username is weak based on its length, character types, and whether it contains a common word. I used a hash set for word lookups and enumerated substrings of the username.
+REST API - Call a mock
+
+--- Tags ---
+  - Online Assessment (online-assessment) []
+  - Interview (interview) []
+  - HackerRank (hackerrank-3) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #4
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: iW7wXDTY
+Title: SMTS | ThoughtSpot | Offer Accepted
+Slug: smts-thoughtspot-offer-accepted-by-anony-kn8v
+Article Type: DISCUSSION
+Posted: 2026-11-28 10:55:34 IST
+Updated: 2026-11-28 10:55:34 IST
+URL: https://leetcode.com/discuss/post/8627271/smts-thoughtspot-offer-accepted-by-anony-kn8v/
+Author: 
+
+--- Summary ---
+YOE : 5.5
+Current Company : Big-Tech SaaS
+Current Comp : 75L
+TS Offered
+Base : 63L
+ESOPs : 20L/YrTC: 83L
+Perks: Standard TS PerksAccepted the offer.
+
+--- Tags ---
+  - thoughtspot (thoughtspot) [COMPANY]
+  - Compensation (compensation) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #5
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0c0MrTix
+Title: GFG Hard - Count Subarrays with Equal Occurrences of Two | Prefix-Index Algebraic Decoupling [C++]
+Slug: gfg-hard-count-subarrays-with-equal-occu-ja1i
+Article Type: DISCUSSION
+Posted: 2026-11-28 10:03:56 IST
+Updated: 2026-11-28 10:03:56 IST
+URL: https://leetcode.com/discuss/post/8627223/gfg-hard-count-subarrays-with-equal-occu-ja1i/
+Author: sauravsrivastava121
+
+--- Summary ---
+[Study Guide] Prefix-Index Algebraic Decoupling | Count Subarrays with Equal Occurrences of TwoProblem OverviewGiven an array arr[] of size n and two integers x and y, count the total number of subarrays in which the frequency of x equals the frequen
+
+--- Tags ---
+  - Array (array) [TOPIC]
+  - Hash Table (hash-table) [TOPIC]
+  - Math (math) [TOPIC]
+  - Prefix Sum (prefix-sum) [TOPIC]
+  - C++ (cpp) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #6
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 5x2ezzAE
+Title: FleetX | Offline | SDE 2
+Slug: fleetx-offline-sde-2-by-qvmyy28dte-kncd
+Article Type: DISCUSSION
+Posted: 2026-11-28 08:21:53 IST
+Updated: 2026-11-28 08:21:53 IST
+URL: https://leetcode.com/discuss/post/8627161/fleetx-offline-sde-2-by-qvmyy28dte-kncd/
+Author: qVMyy28DTE
+
+--- Summary ---
+Round 1Questions from resume
+Why JWT for authentication and how it increased security of your application.
+Difference between cursor based pagination and offset based pagination. What is the difference between SQL query of both.
+Database questions -
+
+--- Tags ---
+  - Fleetx (fleetx) [COMPANY]
+  - System Design (system-design) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #7
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: ZzeoQQEG
+Title: Paytm | Round 1 | Technical Round | Backend Software Engineer
+Slug: paytm-round-1-technical-round-backend-so-tttx
+Article Type: DISCUSSION
+Posted: 2026-11-28 07:07:50 IST
+Updated: 2026-11-28 07:07:50 IST
+URL: https://leetcode.com/discuss/post/8627141/paytm-round-1-technical-round-backend-so-tttx/
+Author: qVMyy28DTE
+
+--- Summary ---
+Interview got through a friend in HR who assisted me in arranging the interview.The design interview was based on creating a Job Scheduler.Key points to consider were:
+
+Run a job instantly.
+
+
+Schedule repetitive jobs.
+
+
+Keep and access the history of
+
+--- Tags ---
+  - Paytm (paytm) [COMPANY]
+  - System Design (system-design) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #8
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 02xf9l8d
+Title: How to Identify the Correct Approach for a Problem in Contests?
+Slug: how-to-identify-the-correct-approach-for-dtjz
+Article Type: DISCUSSION
+Posted: 2026-11-28 03:40:45 IST
+Updated: 2026-11-28 03:40:45 IST
+URL: https://leetcode.com/discuss/post/8627090/how-to-identify-the-correct-approach-for-dtjz/
+Author: AdityaParagSingh
+
+--- Summary ---
+How to Identify the Correct Approach for a Problem in Contests?One of the biggest challenges I face while solving competitive programming problems isn't necessarily coding the solution. It's figuring out WHICH approach to use in the first place.We al
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #9
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: a2gI5a9v
+Title: How to Design a Distributed Key-Value Store-System Design -Deep Dive
+Slug: how-to-design-a-distributed-key-value-st-uuwe
+Article Type: DISCUSSION
+Posted: 2026-11-28 02:30:09 IST
+Updated: 2026-11-28 02:30:09 IST
+URL: https://leetcode.com/discuss/post/8627067/how-to-design-a-distributed-key-value-st-uuwe/
+Author: Namankumar440
+
+--- Summary ---
+Designing a Distributed Key-Value Store: A Complete System Design GuideCovers requirements, storage engine, partitioning, replication, consistency, and failure handling, the way you'd present it in a senior-level interview.TL;DRConcernTechniqueFast,
+
+--- Tags ---
+  - System Design (system-design) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #10
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: nvLfa5uh
+Title: Can someone explain where I can learn Leetcode and algorithms?
+Slug: can-someone-explain-where-i-can-learn-le-e5rn
+Article Type: DISCUSSION
+Posted: 2026-11-28 02:05:57 IST
+Updated: 2026-11-28 02:05:57 IST
+URL: https://leetcode.com/discuss/post/8627061/can-someone-explain-where-i-can-learn-le-e5rn/
+Author: vbY43lm6OG
+
+--- Summary ---
+Can someone explain where I can learn Leetcode and algorithms?I want a website which can actually break it down for basic and advanced questions like two sum, etc.
+
+--- Tags ---
+  - DSA (dsa) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #11
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: gtjvYg5c
+Title: Heap+Greedy
+Slug: heapgreedy-by-prnv_reddy-t70z
+Article Type: DISCUSSION
+Posted: 2026-11-27 23:36:01 IST
+Updated: 2026-11-27 23:36:01 IST
+URL: https://leetcode.com/discuss/post/8626953/heapgreedy-by-prnv_reddy-t70z/
+Author: prnv_reddy
+
+--- Summary ---
+When to use it:
+you make choices as you go, and you might want to swap out an earlier choice for a better one. Keep your choices in a heap so you can replace the worst one.https://leetcode.com/problems/furthest-building-you-can-reach/description/http
+
+--- Tags ---
+  - Greedy (greedy) [TOPIC]
+  - Heap (Priority Queue) (heap-priority-queue) [TOPIC]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #12
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: CEblobcM
+Title: Day 113 of My DSA Journey | Maximum Number of Items From Sale I
+Slug: day-113-of-my-dsa-journey-maximum-number-72ni
+Article Type: DISCUSSION
+Posted: 2026-11-27 22:13:03 IST
+Updated: 2026-11-27 22:13:03 IST
+URL: https://leetcode.com/discuss/post/8626880/day-113-of-my-dsa-journey-maximum-number-72ni/
+Author: JayeshAmundkar
+
+--- Summary ---
+Today marks Day 113 of my DSA journey, and I solved Maximum Number of Items From Sale I (LeetCode 3946).This problem focuses on maximizing the total number of items obtained within a given budget. Buying the first copy of an item can unlock additiona
+
+--- Tags ---
+  - DSA (dsa) []
+
+--- Reactions ---
+  UPVOTE: 3
+
+════════════════════════════════════════════════════════════════════════════════
+Article #13
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 3WLCJ1nj
+Title: Which LeetCode Easy Problem Did You Find Surprisingly Difficult?
+Slug: which-leetcode-easy-problem-did-you-find-xvti
+Article Type: DISCUSSION
+Posted: 2026-11-27 22:11:02 IST
+Updated: 2026-11-27 22:11:02 IST
+URL: https://leetcode.com/discuss/post/8626878/which-leetcode-easy-problem-did-you-find-xvti/
+Author: AshfaqRiyaldeen
+
+--- Summary ---
+Sometimes, an Easy problem takes longer to solve than a Medium one. The difficulty label doesn't always reflect how challenging a problem feels, especially when it requires an unfamiliar technique or a tricky observation.I'm curious to hear about you
+
+--- Tags ---
+  - Problem Solving (problem-solving-2) []
+  - Discussion (discussion-2) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #14
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: sYZMDVSX
+Title: Bit masking Starting questions
+Slug: bit-masking-starting-questions-by-akshay-1u84
+Article Type: DISCUSSION
+Posted: 2026-11-27 21:07:50 IST
+Updated: 2026-11-27 21:07:50 IST
+URL: https://leetcode.com/discuss/post/8626837/bit-masking-starting-questions-by-akshay-1u84/
+Author: akshay_gupta_7
+
+--- Summary ---
+a. Number of 1 Bitsb. Add Binaryc. Reverse Bitsd. Counting Bitse. Hamming Distancef. Power of Four
+
+--- Tags ---
+  - Bit Manipulation (bit-manipulation) [TOPIC]
+
+════════════════════════════════════════════════════════════════════════════════
+Article #15
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: Y2vg72CO
+Title: eBay Interview Experience |  Software Engineer | Offer ✅
+Slug: ebay-interview-experience-software-engin-8mti
+Article Type: DISCUSSION
+Posted: 2026-11-27 21:06:59 IST
+Updated: 2026-11-27 21:06:59 IST
+URL: https://leetcode.com/discuss/post/8626836/ebay-interview-experience-software-engin-8mti/
+Author: 
+
+--- Summary ---
+I recently went through eBay's interview process (4 rounds) and got the offer. Sharing the questions so they help others preparing.Round 1: DSA
+Find the diameter of a binary tree.
+Given an array of integers, find the number of distinct pairs whose su
+
+--- Tags ---
+  - eBay (ebay) [COMPANY]
+  - Compensation (compensation) []
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 6
+
+════════════════════════════════════════════════════════════════════════════════
+Article #16
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: 0wFThbU8
+Title: Oracle | Senior Platform Software Engineer | Offer Evaluation
+Slug: oracle-senior-platform-software-engineer-5ux0
+Article Type: DISCUSSION
+Posted: 2026-11-27 20:53:52 IST
+Updated: 2026-11-27 22:49:56 IST
+URL: https://leetcode.com/discuss/post/8626811/oracle-senior-platform-software-engineer-5ux0/
+Author: 
+
+--- Summary ---
+Education: Tier 2
+Years of Experience: ~6 YOE
+Previous Company: EcommercePrevious Compensation:
+Base Salary - 29,00,000
+Variable - 2,90,000
+ESOPs - 8,40,000(per year)
+Total Comp - ~40 LPACompany: Oracle
+Location: WFH
+Title/Level: Senior Platform Soft
+
+--- Tags ---
+  - Oracle (oracle) [COMPANY]
+  - Compensation (compensation) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #17
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: XYGRG2zT
+Title: TCS Prime interview preparation strategy
+Slug: tcs-prime-interview-preparation-strategy-63mb
+Article Type: DISCUSSION
+Posted: 2026-11-27 17:58:50 IST
+Updated: 2026-11-27 17:58:50 IST
+URL: https://leetcode.com/discuss/post/8626680/tcs-prime-interview-preparation-strategy-63mb/
+Author: ShahilRaghuwanshi
+
+--- Summary ---
+Core Java + OOPCollections + MultithreadingSQL + DBMSDSA coding practiceSpring Boot + ProjectsOS + Computer NetworksManagerial + HR questions
+
+--- Tags ---
+  - tcs (tcs) [COMPANY]
+  - Interview (interview) []
+
+--- Reactions ---
+  UPVOTE: 1
+
+════════════════════════════════════════════════════════════════════════════════
+Article #18
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: OEotmJXp
+Title: Intuit Interview Round One
+Slug: intuit-interview-round-one-by-anonymous_-bkm6
+Article Type: DISCUSSION
+Posted: 2026-11-27 17:20:36 IST
+Updated: 2026-11-27 17:20:36 IST
+URL: https://leetcode.com/discuss/post/8626652/intuit-interview-round-one-by-anonymous_-bkm6/
+Author: 
+
+--- Summary ---
+So Intuit's interview process has changed and they are taking a 75 mins first round with 3 parts or sections: System Design and AI discussion, whiteboard planning, live coding.
+I couldn't find a single person telling what questions were they asked. I
+
+--- Tags ---
+  - Intuit (intuit) [COMPANY]
+  - Interview (interview) []
+
+════════════════════════════════════════════════════════════════════════════════
+Article #19
+════════════════════════════════════════════════════════════════════════════════
+
+UUID: iiBHVQHu
+Title: Leetcode weekly contest doubt 
+Slug: leetcode-weekly-contest-doubt-by-angadya-rh0l
+Article Type: DISCUSSION
+Posted: 2026-11-27 15:25:12 IST
+Updated: 2026-11-27 15:25:12 IST
+URL: https://leetcode.com/discuss/post/8626564/leetcode-weekly-contest-doubt-by-angadya-rh0l/
+Author: Angadyadav36
+
+--- Summary ---
+Hello coders im a beginner on leetcode and ive registered for upcoming leetcode weekly contest , can anyone of you please guide how it actually works and like what if i couldn't solve any of the problems
+its going to be my first contest
+
+--- Tags ---
+  - Contest (contest) [COMPANY]
+
+--- Reactions ---
+  UPVOTE: 3
+
